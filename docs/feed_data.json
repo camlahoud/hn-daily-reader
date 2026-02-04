@@ -199,7 +199,207 @@
       "created_at": 1770033149,
       "num_comments": 280,
       "hn_url": "https://news.ycombinator.com/item?id=46854951"
+    },
+    {
+      "id": "46873294",
+      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+      "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+      "points": 983,
+      "author": "AareyBaba",
+      "created_at": 1770136758,
+      "num_comments": 514,
+      "hn_url": "https://news.ycombinator.com/item?id=46873294"
+    },
+    {
+      "id": "46872706",
+      "title": "Qwen3-Coder-Next",
+      "url": "https://qwen.ai/blog?id=qwen3-coder-next",
+      "points": 667,
+      "author": "danielhanchen",
+      "created_at": 1770134510,
+      "num_comments": 389,
+      "hn_url": "https://news.ycombinator.com/item?id=46872706"
+    },
+    {
+      "id": "46876105",
+      "title": "Data centers in space makes no sense",
+      "url": "https://civai.org/blog/space-data-centers",
+      "points": 658,
+      "author": "ajyoon",
+      "created_at": 1770147450,
+      "num_comments": 760,
+      "hn_url": "https://news.ycombinator.com/item?id=46876105"
+    },
+    {
+      "id": "46868759",
+      "title": "What's up with all those equals signs anyway?",
+      "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+      "points": 631,
+      "author": "todsacerdoti",
+      "created_at": 1770111460,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=46868759"
+    },
+    {
+      "id": "46871173",
+      "title": "Agent Skills",
+      "url": "https://agentskills.io/home",
+      "points": 467,
+      "author": "mooreds",
+      "created_at": 1770127794,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=46871173"
+    },
+    {
+      "id": "46872540",
+      "title": "New York\u2019s budget bill would require \u201cblocking technology\u201d on all 3D printers",
+      "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+      "points": 454,
+      "author": "ptorrone",
+      "created_at": 1770133902,
+      "num_comments": 501,
+      "hn_url": "https://news.ycombinator.com/item?id=46872540"
+    },
+    {
+      "id": "46874097",
+      "title": "Deno Sandbox",
+      "url": "https://deno.com/blog/introducing-deno-sandbox",
+      "points": 454,
+      "author": "johnspurlock",
+      "created_at": 1770140000,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=46874097"
+    },
+    {
+      "id": "46868998",
+      "title": "X offices raided in France as UK opens fresh investigation into Grok",
+      "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+      "points": 389,
+      "author": "vikaveri",
+      "created_at": 1770113332,
+      "num_comments": 724,
+      "hn_url": "https://news.ycombinator.com/item?id=46868998"
+    },
+    {
+      "id": "46865275",
+      "title": "Banning lead in gas worked. The proof is in our hair",
+      "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+      "points": 340,
+      "author": "geox",
+      "created_at": 1770083541,
+      "num_comments": 272,
+      "hn_url": "https://news.ycombinator.com/item?id=46865275"
+    },
+    {
+      "id": "46874619",
+      "title": "Xcode 26.3 \u2013 Developers can leverage coding agents directly in Xcode",
+      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "points": 318,
+      "author": "davidbarker",
+      "created_at": 1770141848,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=46874619"
+    },
+    {
+      "id": "46878338",
+      "title": "Notepad++ supply chain attack breakdown",
+      "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
+      "points": 301,
+      "author": "natebc",
+      "created_at": 1770158127,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=46878338"
+    },
+    {
+      "id": "46870015",
+      "title": "Bunny Database",
+      "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
+      "points": 299,
+      "author": "dabinat",
+      "created_at": 1770120824,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=46870015"
+    },
+    {
+      "id": "46872894",
+      "title": "X offices raided in France",
+      "url": "https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc",
+      "points": 288,
+      "author": "labrador",
+      "created_at": 1770135257,
+      "num_comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=46872894"
+    },
+    {
+      "id": "46873574",
+      "title": "221 Cannon is Not For Sale",
+      "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+      "points": 258,
+      "author": "mecredis",
+      "created_at": 1770137766,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=46873574"
+    },
+    {
+      "id": "46873138",
+      "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+      "url": "https://github.com/j178/prek",
+      "points": 251,
+      "author": "fortuitous-frog",
+      "created_at": 1770136174,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=46873138"
+    },
+    {
+      "id": "46866544",
+      "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
+      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "points": 239,
+      "author": "GalaxySnail",
+      "created_at": 1770093205,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=46866544"
+    },
+    {
+      "id": "46864498",
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "points": 237,
+      "author": "salkahfi",
+      "created_at": 1770078486,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=46864498"
+    },
+    {
+      "id": "46875228",
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "url": "https://github.com/alibaba/AliSQL",
+      "points": 221,
+      "author": "baotiao",
+      "created_at": 1770144018,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=46875228"
+    },
+    {
+      "id": "46868479",
+      "title": "Show HN: Safe-now.live \u2013 Ultra-light emergency info site (<10KB)",
+      "url": "https://safe-now.live",
+      "points": 181,
+      "author": "tinuviel",
+      "created_at": 1770109564,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=46868479"
+    },
+    {
+      "id": "46866481",
+      "title": "Coding assistants are solving the wrong problem",
+      "url": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+      "points": 171,
+      "author": "jinhkuan",
+      "created_at": 1770092735,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=46866481"
     }
   ],
-  "last_updated": "2026-02-04T10:20:16.981911+00:00"
+  "last_updated": "2026-02-04T11:13:22.049877+00:00"
 }

@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 10:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 11:13:22 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[301 pts] Notepad++ supply chain attack breakdown</title>
+      <link>https://securelist.com/notepad-supply-chain-attack/118708/</link>
+      <description>&lt;p&gt;&lt;strong&gt;301 points&lt;/strong&gt; by natebc | &lt;strong&gt;139 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46878338&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46878338</guid>
+      <pubDate>Tue, 03 Feb 2026 22:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[658 pts] Data centers in space makes no sense</title>
+      <link>https://civai.org/blog/space-data-centers</link>
+      <description>&lt;p&gt;&lt;strong&gt;658 points&lt;/strong&gt; by ajyoon | &lt;strong&gt;760 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46876105&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46876105</guid>
+      <pubDate>Tue, 03 Feb 2026 19:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[221 pts] AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines</title>
+      <link>https://github.com/alibaba/AliSQL</link>
+      <description>&lt;p&gt;&lt;strong&gt;221 points&lt;/strong&gt; by baotiao | &lt;strong&gt;30 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46875228&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46875228</guid>
+      <pubDate>Tue, 03 Feb 2026 18:40:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[318 pts] Xcode 26.3 – Developers can leverage coding agents directly in Xcode</title>
+      <link>https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/</link>
+      <description>&lt;p&gt;&lt;strong&gt;318 points&lt;/strong&gt; by davidbarker | &lt;strong&gt;268 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46874619&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46874619</guid>
+      <pubDate>Tue, 03 Feb 2026 18:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[454 pts] Deno Sandbox</title>
+      <link>https://deno.com/blog/introducing-deno-sandbox</link>
+      <description>&lt;p&gt;&lt;strong&gt;454 points&lt;/strong&gt; by johnspurlock | &lt;strong&gt;146 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46874097&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46874097</guid>
+      <pubDate>Tue, 03 Feb 2026 17:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[258 pts] 221 Cannon is Not For Sale</title>
+      <link>https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/</link>
+      <description>&lt;p&gt;&lt;strong&gt;258 points&lt;/strong&gt; by mecredis | &lt;strong&gt;187 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46873574&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46873574</guid>
+      <pubDate>Tue, 03 Feb 2026 16:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[983 pts] France dumps Zoom and Teams as Europe seeks digital autonomy from the US</title>
+      <link>https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060</link>
+      <description>&lt;p&gt;&lt;strong&gt;983 points&lt;/strong&gt; by AareyBaba | &lt;strong&gt;514 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46873294&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46873294</guid>
+      <pubDate>Tue, 03 Feb 2026 16:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[251 pts] Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust</title>
+      <link>https://github.com/j178/prek</link>
+      <description>&lt;p&gt;&lt;strong&gt;251 points&lt;/strong&gt; by fortuitous-frog | &lt;strong&gt;103 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46873138&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46873138</guid>
+      <pubDate>Tue, 03 Feb 2026 16:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[288 pts] X offices raided in France</title>
+      <link>https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc</link>
+      <description>&lt;p&gt;&lt;strong&gt;288 points&lt;/strong&gt; by labrador | &lt;strong&gt;15 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46872894&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46872894</guid>
+      <pubDate>Tue, 03 Feb 2026 16:14:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[667 pts] Qwen3-Coder-Next</title>
+      <link>https://qwen.ai/blog?id=qwen3-coder-next</link>
+      <description>&lt;p&gt;&lt;strong&gt;667 points&lt;/strong&gt; by danielhanchen | &lt;strong&gt;389 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46872706&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46872706</guid>
+      <pubDate>Tue, 03 Feb 2026 16:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[454 pts] New York’s budget bill would require “blocking technology” on all 3D printers</title>
+      <link>https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/</link>
+      <description>&lt;p&gt;&lt;strong&gt;454 points&lt;/strong&gt; by ptorrone | &lt;strong&gt;501 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46872540&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46872540</guid>
+      <pubDate>Tue, 03 Feb 2026 15:51:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[467 pts] Agent Skills</title>
+      <link>https://agentskills.io/home</link>
+      <description>&lt;p&gt;&lt;strong&gt;467 points&lt;/strong&gt; by mooreds | &lt;strong&gt;229 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46871173&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46871173</guid>
+      <pubDate>Tue, 03 Feb 2026 14:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[299 pts] Bunny Database</title>
+      <link>https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/</link>
+      <description>&lt;p&gt;&lt;strong&gt;299 points&lt;/strong&gt; by dabinat | &lt;strong&gt;123 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46870015&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46870015</guid>
+      <pubDate>Tue, 03 Feb 2026 12:13:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[389 pts] X offices raided in France as UK opens fresh investigation into Grok</title>
+      <link>https://www.bbc.com/news/articles/ce3ex92557jo</link>
+      <description>&lt;p&gt;&lt;strong&gt;389 points&lt;/strong&gt; by vikaveri | &lt;strong&gt;724 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46868998&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46868998</guid>
+      <pubDate>Tue, 03 Feb 2026 10:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[631 pts] What's up with all those equals signs anyway?</title>
+      <link>https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/</link>
+      <description>&lt;p&gt;&lt;strong&gt;631 points&lt;/strong&gt; by todsacerdoti | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46868759&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46868759</guid>
+      <pubDate>Tue, 03 Feb 2026 09:37:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[181 pts] Show HN: Safe-now.live – Ultra-light emergency info site (&lt;10KB)</title>
+      <link>https://safe-now.live</link>
+      <description>&lt;p&gt;&lt;strong&gt;181 points&lt;/strong&gt; by tinuviel | &lt;strong&gt;90 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46868479&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46868479</guid>
+      <pubDate>Tue, 03 Feb 2026 09:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[239 pts] Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</title>
+      <link>https://krzysztofjankowski.com/floppinux/floppinux-2025.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;239 points&lt;/strong&gt; by GalaxySnail | &lt;strong&gt;170 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46866544&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46866544</guid>
+      <pubDate>Tue, 03 Feb 2026 04:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[171 pts] Coding assistants are solving the wrong problem</title>
+      <link>https://www.bicameral-ai.com/blog/introducing-bicameral</link>
+      <description>&lt;p&gt;&lt;strong&gt;171 points&lt;/strong&gt; by jinhkuan | &lt;strong&gt;136 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46866481&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46866481</guid>
+      <pubDate>Tue, 03 Feb 2026 04:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[340 pts] Banning lead in gas worked. The proof is in our hair</title>
+      <link>https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/</link>
+      <description>&lt;p&gt;&lt;strong&gt;340 points&lt;/strong&gt; by geox | &lt;strong&gt;272 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46865275&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46865275</guid>
+      <pubDate>Tue, 03 Feb 2026 01:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[237 pts] How does misalignment scale with model intelligence and task complexity?</title>
+      <link>https://alignment.anthropic.com/2026/hot-mess-of-ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;237 points&lt;/strong&gt; by salkahfi | &lt;strong&gt;78 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46864498&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46864498</guid>
+      <pubDate>Tue, 03 Feb 2026 00:28:06 +0000</pubDate>
+    </item>
     <item>
       <title>[207 pts] Firefox Getting New Controls to Turn Off AI Features</title>
       <link>https://www.macrumors.com/2026/02/02/firefox-ai-toggle/</link>
