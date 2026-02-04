@@ -4,11 +4,14 @@ Ad-hoc script to fetch HN posts from N days ago.
 Useful for backfilling the feed or working around RSS reader quirks.
 
 Usage:
-    python scripts/fetch_historical.py          # Defaults to 2 days ago
-    python scripts/fetch_historical.py 3        # Fetch from 3 days ago
-    python scripts/fetch_historical.py 2 5      # Fetch from 2 to 5 days ago (inclusive)
+    python scripts/fetch_historical.py              # Defaults to 2 days ago, appends
+    python scripts/fetch_historical.py 3            # Fetch from 3 days ago
+    python scripts/fetch_historical.py 2 5          # Fetch from 2 to 5 days ago (inclusive)
+    python scripts/fetch_historical.py --replace    # Replace feed with posts from 2 days ago
+    python scripts/fetch_historical.py --replace 3  # Replace feed with posts from 3 days ago
 """
 
+import argparse
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -34,29 +37,50 @@ def get_day_timestamps(days_ago):
 
 
 def main():
-    # Parse arguments
-    if len(sys.argv) == 1:
-        # Default: 2 days ago only
+    parser = argparse.ArgumentParser(
+        description="Fetch HN posts from N days ago for backfilling or replacing the feed."
+    )
+    parser.add_argument(
+        "days",
+        nargs="*",
+        type=int,
+        default=[2],
+        help="Days ago to fetch (default: 2). Can specify a range: START END"
+    )
+    parser.add_argument(
+        "--replace",
+        action="store_true",
+        help="Replace the entire feed instead of appending"
+    )
+    args = parser.parse_args()
+
+    # Parse days range
+    if len(args.days) == 0:
         start_days = end_days = 2
-    elif len(sys.argv) == 2:
-        # Single day
-        start_days = end_days = int(sys.argv[1])
+    elif len(args.days) == 1:
+        start_days = end_days = args.days[0]
     else:
-        # Range: from start_days to end_days ago
-        start_days = int(sys.argv[1])
-        end_days = int(sys.argv[2])
+        start_days, end_days = args.days[0], args.days[1]
 
     if start_days > end_days:
         start_days, end_days = end_days, start_days
 
     print("=" * 60)
-    print("HN Daily Reader - Fetching historical posts")
+    if args.replace:
+        print("HN Daily Reader - REPLACING feed with historical posts")
+    else:
+        print("HN Daily Reader - Fetching historical posts (append mode)")
     print("=" * 60)
 
-    # Load existing feed data
-    feed_data = load_feed_data(FEED_DATA_FILE)
-    existing_ids = {p["id"] for p in feed_data["posts"]}
-    print(f"Existing feed has {len(feed_data['posts'])} posts")
+    # Load existing feed data or start fresh if replacing
+    if args.replace:
+        feed_data = {"posts": [], "last_updated": None}
+        existing_ids = set()
+        print("Starting with empty feed (replace mode)")
+    else:
+        feed_data = load_feed_data(FEED_DATA_FILE)
+        existing_ids = {p["id"] for p in feed_data["posts"]}
+        print(f"Existing feed has {len(feed_data['posts'])} posts")
 
     total_added = 0
 
@@ -82,7 +106,7 @@ def main():
         print(f"Added {added} new posts from {target_date.strftime('%Y-%m-%d')}")
         total_added += added
 
-    # Prune old posts
+    # Prune old posts (only relevant in append mode, but harmless in replace mode)
     original_count = len(feed_data["posts"])
     feed_data["posts"] = prune_old_posts(feed_data["posts"])
     pruned = original_count - len(feed_data["posts"])
