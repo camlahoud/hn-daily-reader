@@ -1,0 +1,41 @@
+name: Replace Feed with Historical Posts
+
+on:
+  workflow_dispatch:  # Manual trigger only
+    inputs:
+      days_ago:
+        description: 'Days ago to fetch (default: 2)'
+        required: false
+        default: '2'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  replace-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Replace feed with historical posts
+        run: python scripts/fetch_historical.py --replace ${{ github.event.inputs.days_ago }}
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Replace feed with historical posts from ${{ github.event.inputs.days_ago }} days ago"
+            git push
+          fi
