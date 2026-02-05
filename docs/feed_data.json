@@ -399,7 +399,207 @@
       "created_at": 1770092735,
       "num_comments": 136,
       "hn_url": "https://news.ycombinator.com/item?id=46866481"
+    },
+    {
+      "id": "46881264",
+      "title": "I miss thinking hard",
+      "url": "https://www.jernesto.com/articles/thinking_hard",
+      "points": 1229,
+      "author": "jernestomg",
+      "created_at": 1770177251,
+      "num_comments": 675,
+      "hn_url": "https://news.ycombinator.com/item?id=46881264"
+    },
+    {
+      "id": "46886735",
+      "title": "Voxtral Transcribe 2",
+      "url": "https://mistral.ai/news/voxtral-transcribe-2",
+      "points": 838,
+      "author": "meetpateltech",
+      "created_at": 1770217697,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=46886735"
+    },
+    {
+      "id": "46886237",
+      "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
+      "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+      "points": 563,
+      "author": "robin_reala",
+      "created_at": 1770215492,
+      "num_comments": 490,
+      "hn_url": "https://news.ycombinator.com/item?id=46886237"
+    },
+    {
+      "id": "46884883",
+      "title": "Claude is a space to think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "points": 421,
+      "author": "meetpateltech",
+      "created_at": 1770206929,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=46884883"
+    },
+    {
+      "id": "46888441",
+      "title": "AI is killing B2B SaaS",
+      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+      "points": 309,
+      "author": "namanyayg",
+      "created_at": 1770224968,
+      "num_comments": 469,
+      "hn_url": "https://news.ycombinator.com/item?id=46888441"
+    },
+    {
+      "id": "46886191",
+      "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+      "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
+      "points": 280,
+      "author": "bookofjoe",
+      "created_at": 1770215225,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=46886191"
+    },
+    {
+      "id": "46882389",
+      "title": "Show HN: Ghidra MCP Server \u2013 110 tools for AI-assisted reverse engineering",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "points": 277,
+      "author": "xerzes",
+      "created_at": 1770187911,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=46882389"
+    },
+    {
+      "id": "46886440",
+      "title": "A case study in PDF forensics: The Epstein PDFs",
+      "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
+      "points": 274,
+      "author": "DuffJohnson",
+      "created_at": 1770216406,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=46886440"
+    },
+    {
+      "id": "46889008",
+      "title": "The Great Unwind",
+      "url": "https://occupywallst.com/yen",
+      "points": 238,
+      "author": "jart",
+      "created_at": 1770227366,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=46889008"
+    },
+    {
+      "id": "46890034",
+      "title": "How Jeff Bezos Brought Down the Washington Post",
+      "url": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post",
+      "points": 220,
+      "author": "thm",
+      "created_at": 1770231406,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=46890034"
+    },
+    {
+      "id": "46881568",
+      "title": "Petition for Recognition of Work on Open-Source as Volunteering in Germany",
+      "url": "https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany",
+      "points": 209,
+      "author": "numeri",
+      "created_at": 1770180375,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=46881568"
+    },
+    {
+      "id": "46888438",
+      "title": "French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel",
+      "url": "https://twitter.com/Ced_haurus/status/2018716889191498172",
+      "points": 205,
+      "author": "hocuspocus",
+      "created_at": 1770224950,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=46888438"
+    },
+    {
+      "id": "46889703",
+      "title": "Claude Code for Infrastructure",
+      "url": "https://www.fluid.sh/",
+      "points": 194,
+      "author": "aspectrr",
+      "created_at": 1770230048,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=46889703"
+    },
+    {
+      "id": "46887564",
+      "title": "Microsoft's Copilot chatbot is running into problems",
+      "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+      "points": 185,
+      "author": "fortran77",
+      "created_at": 1770221335,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=46887564"
+    },
+    {
+      "id": "46886265",
+      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+      "url": "https://arxiv.org/abs/2602.00294",
+      "points": 158,
+      "author": "fheinsen",
+      "created_at": 1770215613,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=46886265"
+    },
+    {
+      "id": "46888795",
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+      "points": 149,
+      "author": "evakhoury",
+      "created_at": 1770226505,
+      "num_comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=46888795"
+    },
+    {
+      "id": "46879447",
+      "title": "Illinois joins WHO global outbreak network after U.S. withdraws",
+      "url": "https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/",
+      "points": 134,
+      "author": "doener",
+      "created_at": 1770164152,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=46879447"
+    },
+    {
+      "id": "46891794",
+      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+      "url": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+      "points": 121,
+      "author": "mxfh",
+      "created_at": 1770239315,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=46891794"
+    },
+    {
+      "id": "46888824",
+      "title": "Steve Bannon Proposes Using ICE in Elections",
+      "url": "https://www.newsweek.com/steve-bannon-proposes-using-ice-in-elections-11462376",
+      "points": 115,
+      "author": "SilverElfin",
+      "created_at": 1770226600,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=46888824"
+    },
+    {
+      "id": "46888142",
+      "title": "RS-SDK: Drive RuneScape with Claude Code",
+      "url": "https://github.com/MaxBittker/rs-sdk",
+      "points": 108,
+      "author": "evakhoury",
+      "created_at": 1770223646,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=46888142"
     }
   ],
-  "last_updated": "2026-02-04T11:13:22.049877+00:00"
+  "last_updated": "2026-02-05T06:53:46.409235+00:00"
 }
