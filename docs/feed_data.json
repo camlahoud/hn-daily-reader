@@ -599,7 +599,207 @@
       "created_at": 1770223646,
       "num_comments": 41,
       "hn_url": "https://news.ycombinator.com/item?id=46888142"
+    },
+    {
+      "id": "46902223",
+      "title": "Claude Opus 4.6",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "points": 1819,
+      "author": "HellsMaddy",
+      "created_at": 1770313133,
+      "num_comments": 757,
+      "hn_url": "https://news.ycombinator.com/item?id=46902223"
+    },
+    {
+      "id": "46902638",
+      "title": "GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "points": 1219,
+      "author": "meetpateltech",
+      "created_at": 1770314888,
+      "num_comments": 465,
+      "hn_url": "https://news.ycombinator.com/item?id=46902638"
+    },
+    {
+      "id": "46896146",
+      "title": "Don't rent the cloud, own instead",
+      "url": "https://blog.comma.ai/datacenter/",
+      "points": 1122,
+      "author": "Torq_boi",
+      "created_at": 1770270601,
+      "num_comments": 462,
+      "hn_url": "https://news.ycombinator.com/item?id=46896146"
+    },
+    {
+      "id": "46903556",
+      "title": "Flock CEO calls Deflock a \u201cterrorist organization\u201d (2025) [video]",
+      "url": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
+      "points": 587,
+      "author": "cdrnsf",
+      "created_at": 1770318277,
+      "num_comments": 408,
+      "hn_url": "https://news.ycombinator.com/item?id=46903556"
+    },
+    {
+      "id": "46893970",
+      "title": "OpenClaw is what Apple intelligence should have been",
+      "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "points": 499,
+      "author": "jakequist",
+      "created_at": 1770251286,
+      "num_comments": 404,
+      "hn_url": "https://news.ycombinator.com/item?id=46893970"
+    },
+    {
+      "id": "46903558",
+      "title": "My AI Adoption Journey",
+      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "points": 496,
+      "author": "anurag",
+      "created_at": 1770318280,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=46903558"
+    },
+    {
+      "id": "46903616",
+      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+      "url": "https://www.anthropic.com/engineering/building-c-compiler",
+      "points": 483,
+      "author": "modeless",
+      "created_at": 1770318471,
+      "num_comments": 449,
+      "hn_url": "https://news.ycombinator.com/item?id=46903616"
+    },
+    {
+      "id": "46905555",
+      "title": "It's 2026, Just Use Postgres",
+      "url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
+      "points": 471,
+      "author": "turtles3",
+      "created_at": 1770326643,
+      "num_comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=46905555"
+    },
+    {
+      "id": "46895972",
+      "title": "When internal hostnames are leaked to the clown",
+      "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "points": 431,
+      "author": "zdw",
+      "created_at": 1770268956,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=46895972"
+    },
+    {
+      "id": "46904361",
+      "title": "LinkedIn checks for 2953 browser extensions",
+      "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
+      "points": 360,
+      "author": "mdp",
+      "created_at": 1770321639,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=46904361"
+    },
+    {
+      "id": "46899100",
+      "title": "CIA to Sunset the World Factbook",
+      "url": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724",
+      "points": 357,
+      "author": "kshahkshah",
+      "created_at": 1770295992,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=46899100"
+    },
+    {
+      "id": "46899808",
+      "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
+      "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
+      "points": 356,
+      "author": "ck2",
+      "created_at": 1770300673,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=46899808"
+    },
+    {
+      "id": "46902368",
+      "title": "Orchestrate teams of Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/agent-teams",
+      "points": 338,
+      "author": "davidbarker",
+      "created_at": 1770313794,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=46902368"
+    },
+    {
+      "id": "46901452",
+      "title": "European Commission Trials Matrix to Replace Teams",
+      "url": "https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/",
+      "points": 332,
+      "author": "Arathorn",
+      "created_at": 1770309236,
+      "num_comments": 166,
+      "hn_url": "https://news.ycombinator.com/item?id=46901452"
+    },
+    {
+      "id": "46898615",
+      "title": "Top downloaded skill in ClawHub contains malware",
+      "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
+      "points": 314,
+      "author": "pelario",
+      "created_at": 1770291903,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=46898615"
+    },
+    {
+      "id": "46895860",
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "points": 277,
+      "author": "WaitWaitWha",
+      "created_at": 1770267721,
+      "num_comments": 331,
+      "hn_url": "https://news.ycombinator.com/item?id=46895860"
+    },
+    {
+      "id": "46902512",
+      "title": "Unsealed court documents show teen addiction was big tech's \"top priority\"",
+      "url": "https://techoversight.org/2026/01/25/top-report-mdl-jan-25/",
+      "points": 265,
+      "author": "Shamar",
+      "created_at": 1770314407,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=46902512"
+    },
+    {
+      "id": "46903001",
+      "title": "Ardour 9.0",
+      "url": "https://ardour.org/whatsnew.html",
+      "points": 259,
+      "author": "PaulDavisThe1st",
+      "created_at": 1770316216,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=46903001"
+    },
+    {
+      "id": "46899132",
+      "title": "Company as Code",
+      "url": "https://blog.42futures.com/p/company-as-code",
+      "points": 235,
+      "author": "ahamez",
+      "created_at": 1770296188,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=46899132"
+    },
+    {
+      "id": "46897737",
+      "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
+      "url": "https://github.com/HKUDS/nanobot",
+      "points": 229,
+      "author": "ms7892",
+      "created_at": 1770284351,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=46897737"
     }
   ],
-  "last_updated": "2026-02-05T06:53:46.409235+00:00"
+  "last_updated": "2026-02-06T06:49:06.636553+00:00"
 }

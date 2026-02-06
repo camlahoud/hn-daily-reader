@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Feb 2026 06:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 06:49:06 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[471 pts] It's 2026, Just Use Postgres</title>
+      <link>https://www.tigerdata.com/blog/its-2026-just-use-postgres</link>
+      <description>&lt;p&gt;&lt;strong&gt;471 points&lt;/strong&gt; by turtles3 | &lt;strong&gt;287 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46905555&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46905555</guid>
+      <pubDate>Thu, 05 Feb 2026 21:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[360 pts] LinkedIn checks for 2953 browser extensions</title>
+      <link>https://github.com/mdp/linkedin-extension-fingerprinting</link>
+      <description>&lt;p&gt;&lt;strong&gt;360 points&lt;/strong&gt; by mdp | &lt;strong&gt;178 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46904361&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46904361</guid>
+      <pubDate>Thu, 05 Feb 2026 20:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[483 pts] We tasked Opus 4.6 using agent teams to build a C Compiler</title>
+      <link>https://www.anthropic.com/engineering/building-c-compiler</link>
+      <description>&lt;p&gt;&lt;strong&gt;483 points&lt;/strong&gt; by modeless | &lt;strong&gt;449 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46903616&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46903616</guid>
+      <pubDate>Thu, 05 Feb 2026 19:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[496 pts] My AI Adoption Journey</title>
+      <link>https://mitchellh.com/writing/my-ai-adoption-journey</link>
+      <description>&lt;p&gt;&lt;strong&gt;496 points&lt;/strong&gt; by anurag | &lt;strong&gt;155 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46903558&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46903558</guid>
+      <pubDate>Thu, 05 Feb 2026 19:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[587 pts] Flock CEO calls Deflock a “terrorist organization” (2025) [video]</title>
+      <link>https://www.youtube.com/watch?v=l-kZGrDz7PU</link>
+      <description>&lt;p&gt;&lt;strong&gt;587 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;408 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46903556&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46903556</guid>
+      <pubDate>Thu, 05 Feb 2026 19:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[259 pts] Ardour 9.0</title>
+      <link>https://ardour.org/whatsnew.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;259 points&lt;/strong&gt; by PaulDavisThe1st | &lt;strong&gt;61 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46903001&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46903001</guid>
+      <pubDate>Thu, 05 Feb 2026 18:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1219 pts] GPT-5.3-Codex</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1219 points&lt;/strong&gt; by meetpateltech | &lt;strong&gt;465 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46902638&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46902638</guid>
+      <pubDate>Thu, 05 Feb 2026 18:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[265 pts] Unsealed court documents show teen addiction was big tech's &quot;top priority&quot;</title>
+      <link>https://techoversight.org/2026/01/25/top-report-mdl-jan-25/</link>
+      <description>&lt;p&gt;&lt;strong&gt;265 points&lt;/strong&gt; by Shamar | &lt;strong&gt;153 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46902512&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46902512</guid>
+      <pubDate>Thu, 05 Feb 2026 18:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[338 pts] Orchestrate teams of Claude Code sessions</title>
+      <link>https://code.claude.com/docs/en/agent-teams</link>
+      <description>&lt;p&gt;&lt;strong&gt;338 points&lt;/strong&gt; by davidbarker | &lt;strong&gt;190 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46902368&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46902368</guid>
+      <pubDate>Thu, 05 Feb 2026 17:49:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1819 pts] Claude Opus 4.6</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-6</link>
+      <description>&lt;p&gt;&lt;strong&gt;1819 points&lt;/strong&gt; by HellsMaddy | &lt;strong&gt;757 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46902223&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46902223</guid>
+      <pubDate>Thu, 05 Feb 2026 17:38:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[332 pts] European Commission Trials Matrix to Replace Teams</title>
+      <link>https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/</link>
+      <description>&lt;p&gt;&lt;strong&gt;332 points&lt;/strong&gt; by Arathorn | &lt;strong&gt;166 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46901452&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46901452</guid>
+      <pubDate>Thu, 05 Feb 2026 16:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[356 pts] CIA suddenly stops publishing, removes archives of The World Factbook</title>
+      <link>https://simonwillison.net/2026/Feb/5/the-world-factbook/</link>
+      <description>&lt;p&gt;&lt;strong&gt;356 points&lt;/strong&gt; by ck2 | &lt;strong&gt;150 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46899808&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46899808</guid>
+      <pubDate>Thu, 05 Feb 2026 14:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[235 pts] Company as Code</title>
+      <link>https://blog.42futures.com/p/company-as-code</link>
+      <description>&lt;p&gt;&lt;strong&gt;235 points&lt;/strong&gt; by ahamez | &lt;strong&gt;117 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46899132&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46899132</guid>
+      <pubDate>Thu, 05 Feb 2026 12:56:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[357 pts] CIA to Sunset the World Factbook</title>
+      <link>https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724</link>
+      <description>&lt;p&gt;&lt;strong&gt;357 points&lt;/strong&gt; by kshahkshah | &lt;strong&gt;243 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46899100&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46899100</guid>
+      <pubDate>Thu, 05 Feb 2026 12:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[314 pts] Top downloaded skill in ClawHub contains malware</title>
+      <link>https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface</link>
+      <description>&lt;p&gt;&lt;strong&gt;314 points&lt;/strong&gt; by pelario | &lt;strong&gt;140 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46898615&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46898615</guid>
+      <pubDate>Thu, 05 Feb 2026 11:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[229 pts] Nanobot: Ultra-Lightweight Alternative to OpenClaw</title>
+      <link>https://github.com/HKUDS/nanobot</link>
+      <description>&lt;p&gt;&lt;strong&gt;229 points&lt;/strong&gt; by ms7892 | &lt;strong&gt;115 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46897737&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46897737</guid>
+      <pubDate>Thu, 05 Feb 2026 09:39:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1122 pts] Don't rent the cloud, own instead</title>
+      <link>https://blog.comma.ai/datacenter/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1122 points&lt;/strong&gt; by Torq_boi | &lt;strong&gt;462 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46896146&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46896146</guid>
+      <pubDate>Thu, 05 Feb 2026 05:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[431 pts] When internal hostnames are leaked to the clown</title>
+      <link>https://rachelbythebay.com/w/2026/02/03/badnas/</link>
+      <description>&lt;p&gt;&lt;strong&gt;431 points&lt;/strong&gt; by zdw | &lt;strong&gt;239 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46895972&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46895972</guid>
+      <pubDate>Thu, 05 Feb 2026 05:22:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[277 pts] ICE seeks industry input on ad tech location data for investigative use</title>
+      <link>https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use</link>
+      <description>&lt;p&gt;&lt;strong&gt;277 points&lt;/strong&gt; by WaitWaitWha | &lt;strong&gt;331 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46895860&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46895860</guid>
+      <pubDate>Thu, 05 Feb 2026 05:02:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[499 pts] OpenClaw is what Apple intelligence should have been</title>
+      <link>https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</link>
+      <description>&lt;p&gt;&lt;strong&gt;499 points&lt;/strong&gt; by jakequist | &lt;strong&gt;404 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46893970&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46893970</guid>
+      <pubDate>Thu, 05 Feb 2026 00:28:06 +0000</pubDate>
+    </item>
     <item>
       <title>[121 pts] Spotlighting the World Factbook as We Bid a Fond Farewell</title>
       <link>https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/</link>
