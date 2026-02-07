@@ -799,7 +799,207 @@
       "created_at": 1770284351,
       "num_comments": 115,
       "hn_url": "https://news.ycombinator.com/item?id=46897737"
+    },
+    {
+      "id": "46911901",
+      "title": "I now assume that all ads on Apple news are scams",
+      "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+      "points": 1022,
+      "author": "cdrnsf",
+      "created_at": 1770380203,
+      "num_comments": 425,
+      "hn_url": "https://news.ycombinator.com/item?id=46911901"
+    },
+    {
+      "id": "46914785",
+      "title": "The Waymo World Model",
+      "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+      "points": 847,
+      "author": "xnx",
+      "created_at": 1770394842,
+      "num_comments": 506,
+      "hn_url": "https://news.ycombinator.com/item?id=46914785"
+    },
+    {
+      "id": "46911869",
+      "title": "TikTok's 'addictive design' found to be illegal in Europe",
+      "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+      "points": 618,
+      "author": "thm",
+      "created_at": 1770379908,
+      "num_comments": 446,
+      "hn_url": "https://news.ycombinator.com/item?id=46911869"
+    },
+    {
+      "id": "46910963",
+      "title": "A new bill in New York would require disclaimers on AI-generated news content",
+      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+      "points": 530,
+      "author": "giuliomagnifico",
+      "created_at": 1770371815,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=46910963"
+    },
+    {
+      "id": "46918612",
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "url": "https://openciv3.org/",
+      "points": 510,
+      "author": "klaussilveira",
+      "created_at": 1770414683,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=46918612"
+    },
+    {
+      "id": "46912800",
+      "title": "Hackers (1995) Animated Experience",
+      "url": "https://hackers-1995.vercel.app/",
+      "points": 424,
+      "author": "todsacerdoti",
+      "created_at": 1770385795,
+      "num_comments": 221,
+      "hn_url": "https://news.ycombinator.com/item?id=46912800"
+    },
+    {
+      "id": "46908491",
+      "title": "GitHub Actions is slowly killing engineering teams",
+      "url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
+      "points": 365,
+      "author": "codesuki",
+      "created_at": 1770346711,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=46908491"
+    },
+    {
+      "id": "46913903",
+      "title": "An Update on Heroku",
+      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
+      "points": 364,
+      "author": "lstoll",
+      "created_at": 1770391223,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=46913903"
+    },
+    {
+      "id": "46913793",
+      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+      "url": "https://github.com/microsoft/litebox",
+      "points": 340,
+      "author": "aktau",
+      "created_at": 1770390784,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=46913793"
+    },
+    {
+      "id": "46914159",
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "url": "https://www.sheldonbrown.com/",
+      "points": 332,
+      "author": "ostacke",
+      "created_at": 1770392442,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=46914159"
+    },
+    {
+      "id": "46917033",
+      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "url": "https://vecti.com",
+      "points": 282,
+      "author": "vecti",
+      "created_at": 1770406057,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=46917033"
+    },
+    {
+      "id": "46909439",
+      "title": "Systems Thinking",
+      "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "points": 264,
+      "author": "r4um",
+      "created_at": 1770355476,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=46909439"
+    },
+    {
+      "id": "46909468",
+      "title": "Things Unix can do atomically (2010)",
+      "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "points": 246,
+      "author": "onurkanbkrc",
+      "created_at": 1770355795,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=46909468"
+    },
+    {
+      "id": "46916609",
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "url": "https://eljojo.github.io/rememory/",
+      "points": 228,
+      "author": "eljojo",
+      "created_at": 1770403918,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=46916609"
+    },
+    {
+      "id": "46916586",
+      "title": "How to effectively write quality code with AI",
+      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+      "points": 214,
+      "author": "i5heu",
+      "created_at": 1770403799,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=46916586"
+    },
+    {
+      "id": "46918254",
+      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "url": "https://github.com/pydantic/monty",
+      "points": 170,
+      "author": "dmpetrov",
+      "created_at": 1770412596,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=46918254"
+    },
+    {
+      "id": "46918429",
+      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "url": "https://github.com/valdanylchuk/breezydemo",
+      "points": 166,
+      "author": "isitcontent",
+      "created_at": 1770413591,
+      "num_comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=46918429"
+    },
+    {
+      "id": "46914094",
+      "title": "NIMBYs aren't just shutting down housing",
+      "url": "https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing",
+      "points": 156,
+      "author": "toomuchtodo",
+      "created_at": 1770392085,
+      "num_comments": 346,
+      "hn_url": "https://news.ycombinator.com/item?id=46914094"
+    },
+    {
+      "id": "46918727",
+      "title": "Early Christian Writings",
+      "url": "https://earlychristianwritings.com/",
+      "points": 153,
+      "author": "dsego",
+      "created_at": 1770415246,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=46918727"
+    },
+    {
+      "id": "46909037",
+      "title": "Show HN: Artifact Keeper \u2013 Open-Source Artifactory/Nexus Alternative in Rust",
+      "url": "https://github.com/artifact-keeper",
+      "points": 147,
+      "author": "bsgeraci",
+      "created_at": 1770351179,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=46909037"
     }
   ],
-  "last_updated": "2026-02-06T06:49:06.636553+00:00"
+  "last_updated": "2026-02-07T06:36:45.070261+00:00"
 }

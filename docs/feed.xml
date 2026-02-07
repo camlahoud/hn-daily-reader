@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Feb 2026 06:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 06:36:45 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[153 pts] Early Christian Writings</title>
+      <link>https://earlychristianwritings.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;153 points&lt;/strong&gt; by dsego | &lt;strong&gt;97 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46918727&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46918727</guid>
+      <pubDate>Fri, 06 Feb 2026 22:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[510 pts] OpenCiv3: Open-source, cross-platform reimagining of Civilization III</title>
+      <link>https://openciv3.org/</link>
+      <description>&lt;p&gt;&lt;strong&gt;510 points&lt;/strong&gt; by klaussilveira | &lt;strong&gt;141 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46918612&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46918612</guid>
+      <pubDate>Fri, 06 Feb 2026 21:51:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[166 pts] Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox</title>
+      <link>https://github.com/valdanylchuk/breezydemo</link>
+      <description>&lt;p&gt;&lt;strong&gt;166 points&lt;/strong&gt; by isitcontent | &lt;strong&gt;19 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46918429&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46918429</guid>
+      <pubDate>Fri, 06 Feb 2026 21:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[170 pts] Monty: A minimal, secure Python interpreter written in Rust for use by AI</title>
+      <link>https://github.com/pydantic/monty</link>
+      <description>&lt;p&gt;&lt;strong&gt;170 points&lt;/strong&gt; by dmpetrov | &lt;strong&gt;76 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46918254&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46918254</guid>
+      <pubDate>Fri, 06 Feb 2026 21:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[282 pts] Show HN: I spent 4 years building a UI design tool with only the features I use</title>
+      <link>https://vecti.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;282 points&lt;/strong&gt; by vecti | &lt;strong&gt;127 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46917033&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46917033</guid>
+      <pubDate>Fri, 06 Feb 2026 19:27:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[228 pts] Show HN: If you lose your memory, how to regain access to your computer?</title>
+      <link>https://eljojo.github.io/rememory/</link>
+      <description>&lt;p&gt;&lt;strong&gt;228 points&lt;/strong&gt; by eljojo | &lt;strong&gt;142 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46916609&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46916609</guid>
+      <pubDate>Fri, 06 Feb 2026 18:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[214 pts] How to effectively write quality code with AI</title>
+      <link>https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;214 points&lt;/strong&gt; by i5heu | &lt;strong&gt;159 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46916586&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46916586</guid>
+      <pubDate>Fri, 06 Feb 2026 18:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[847 pts] The Waymo World Model</title>
+      <link>https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation</link>
+      <description>&lt;p&gt;&lt;strong&gt;847 points&lt;/strong&gt; by xnx | &lt;strong&gt;506 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46914785&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46914785</guid>
+      <pubDate>Fri, 06 Feb 2026 16:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[332 pts] Sheldon Brown's Bicycle Technical Info</title>
+      <link>https://www.sheldonbrown.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;332 points&lt;/strong&gt; by ostacke | &lt;strong&gt;90 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46914159&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46914159</guid>
+      <pubDate>Fri, 06 Feb 2026 15:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[156 pts] NIMBYs aren't just shutting down housing</title>
+      <link>https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing</link>
+      <description>&lt;p&gt;&lt;strong&gt;156 points&lt;/strong&gt; by toomuchtodo | &lt;strong&gt;346 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46914094&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46914094</guid>
+      <pubDate>Fri, 06 Feb 2026 15:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[364 pts] An Update on Heroku</title>
+      <link>https://www.heroku.com/blog/an-update-on-heroku/</link>
+      <description>&lt;p&gt;&lt;strong&gt;364 points&lt;/strong&gt; by lstoll | &lt;strong&gt;253 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46913903&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46913903</guid>
+      <pubDate>Fri, 06 Feb 2026 15:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[340 pts] Microsoft open-sources LiteBox, a security-focused library OS</title>
+      <link>https://github.com/microsoft/litebox</link>
+      <description>&lt;p&gt;&lt;strong&gt;340 points&lt;/strong&gt; by aktau | &lt;strong&gt;164 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46913793&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46913793</guid>
+      <pubDate>Fri, 06 Feb 2026 15:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[424 pts] Hackers (1995) Animated Experience</title>
+      <link>https://hackers-1995.vercel.app/</link>
+      <description>&lt;p&gt;&lt;strong&gt;424 points&lt;/strong&gt; by todsacerdoti | &lt;strong&gt;221 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46912800&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46912800</guid>
+      <pubDate>Fri, 06 Feb 2026 13:49:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1022 pts] I now assume that all ads on Apple news are scams</title>
+      <link>https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1022 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;425 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46911901&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46911901</guid>
+      <pubDate>Fri, 06 Feb 2026 12:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[618 pts] TikTok's 'addictive design' found to be illegal in Europe</title>
+      <link>https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;618 points&lt;/strong&gt; by thm | &lt;strong&gt;446 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46911869&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46911869</guid>
+      <pubDate>Fri, 06 Feb 2026 12:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[530 pts] A new bill in New York would require disclaimers on AI-generated news content</title>
+      <link>https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/</link>
+      <description>&lt;p&gt;&lt;strong&gt;530 points&lt;/strong&gt; by giuliomagnifico | &lt;strong&gt;220 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46910963&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46910963</guid>
+      <pubDate>Fri, 06 Feb 2026 09:56:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[246 pts] Things Unix can do atomically (2010)</title>
+      <link>https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;246 points&lt;/strong&gt; by onurkanbkrc | &lt;strong&gt;90 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46909468&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46909468</guid>
+      <pubDate>Fri, 06 Feb 2026 05:29:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[264 pts] Systems Thinking</title>
+      <link>http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;264 points&lt;/strong&gt; by r4um | &lt;strong&gt;115 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46909439&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46909439</guid>
+      <pubDate>Fri, 06 Feb 2026 05:24:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[147 pts] Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust</title>
+      <link>https://github.com/artifact-keeper</link>
+      <description>&lt;p&gt;&lt;strong&gt;147 points&lt;/strong&gt; by bsgeraci | &lt;strong&gt;62 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46909037&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46909037</guid>
+      <pubDate>Fri, 06 Feb 2026 04:12:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[365 pts] GitHub Actions is slowly killing engineering teams</title>
+      <link>https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/</link>
+      <description>&lt;p&gt;&lt;strong&gt;365 points&lt;/strong&gt; by codesuki | &lt;strong&gt;196 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46908491&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46908491</guid>
+      <pubDate>Fri, 06 Feb 2026 02:58:31 +0000</pubDate>
+    </item>
     <item>
       <title>[471 pts] It's 2026, Just Use Postgres</title>
       <link>https://www.tigerdata.com/blog/its-2026-just-use-postgres</link>
