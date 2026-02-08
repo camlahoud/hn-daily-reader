@@ -999,7 +999,207 @@
       "created_at": 1770351179,
       "num_comments": 62,
       "hn_url": "https://news.ycombinator.com/item?id=46909037"
+    },
+    {
+      "id": "46923736",
+      "title": "France's homegrown open source online office suite",
+      "url": "https://github.com/suitenumerique",
+      "points": 714,
+      "author": "nar001",
+      "created_at": 1770471274,
+      "num_comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=46923736"
+    },
+    {
+      "id": "46926245",
+      "title": "We mourn our craft",
+      "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
+      "points": 406,
+      "author": "ColinWright",
+      "created_at": 1770489147,
+      "num_comments": 536,
+      "hn_url": "https://news.ycombinator.com/item?id=46926245"
+    },
+    {
+      "id": "46923543",
+      "title": "Coding agents have replaced every framework I used",
+      "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
+      "points": 325,
+      "author": "alainrk",
+      "created_at": 1770469629,
+      "num_comments": 520,
+      "hn_url": "https://news.ycombinator.com/item?id=46923543"
+    },
+    {
+      "id": "46922049",
+      "title": "Vocal Guide \u2013 belt sing without killing yourself",
+      "url": "https://jesperordrup.github.io/vocal-guide/",
+      "points": 325,
+      "author": "jesperordrup",
+      "created_at": 1770449823,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=46922049"
+    },
+    {
+      "id": "46922969",
+      "title": "The AI boom is causing shortages everywhere else",
+      "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+      "points": 311,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1770463289,
+      "num_comments": 494,
+      "hn_url": "https://news.ycombinator.com/item?id=46922969"
+    },
+    {
+      "id": "46925669",
+      "title": "U.S. jobs disappear at fastest January pace since great recession",
+      "url": "https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/",
+      "points": 307,
+      "author": "alephnerd",
+      "created_at": 1770485484,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=46925669"
+    },
+    {
+      "id": "46925741",
+      "title": "SectorC: A C Compiler in 512 bytes (2023)",
+      "url": "https://xorvoid.com/sectorc.html",
+      "points": 262,
+      "author": "valyala",
+      "created_at": 1770485993,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=46925741"
+    },
+    {
+      "id": "46924426",
+      "title": "Software factories and the agentic moment",
+      "url": "https://factory.strongdm.ai/",
+      "points": 206,
+      "author": "mellosouls",
+      "created_at": 1770476756,
+      "num_comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=46924426"
+    },
+    {
+      "id": "46920487",
+      "title": "Why I Joined OpenAI",
+      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+      "points": 202,
+      "author": "SerCe",
+      "created_at": 1770428704,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=46920487"
+    },
+    {
+      "id": "46924813",
+      "title": "British drivers over 70 to face eye tests every three years",
+      "url": "https://www.bbc.com/news/articles/c205nxy0p31o",
+      "points": 198,
+      "author": "bookofjoe",
+      "created_at": 1770479754,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=46924813"
+    },
+    {
+      "id": "46925808",
+      "title": "I write games in C (yes, C) (2016)",
+      "url": "https://jonathanwhiting.com/writing/blog/games_in_c/",
+      "points": 190,
+      "author": "valyala",
+      "created_at": 1770486325,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=46925808"
+    },
+    {
+      "id": "46923254",
+      "title": "Hoot: Scheme on WebAssembly",
+      "url": "https://www.spritely.institute/hoot/",
+      "points": 183,
+      "author": "AlexeyBrin",
+      "created_at": 1770466700,
+      "num_comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=46923254"
+    },
+    {
+      "id": "46924264",
+      "title": "Stories from 25 Years of Software Development",
+      "url": "https://susam.net/twenty-five-years-of-computing.html",
+      "points": 175,
+      "author": "vinhnx",
+      "created_at": 1770475336,
+      "num_comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=46924264"
+    },
+    {
+      "id": "46924544",
+      "title": "Google staff call for firm to cut ties with ICE",
+      "url": "https://www.bbc.com/news/articles/cvgjg98vmzjo",
+      "points": 172,
+      "author": "tartoran",
+      "created_at": 1770477597,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=46924544"
+    },
+    {
+      "id": "46926043",
+      "title": "Speed up responses with fast mode",
+      "url": "https://code.claude.com/docs/en/fast-mode",
+      "points": 170,
+      "author": "surprisetalk",
+      "created_at": 1770487703,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=46926043"
+    },
+    {
+      "id": "46928435",
+      "title": "Tiny C Compiler",
+      "url": "https://bellard.org/tcc/",
+      "points": 149,
+      "author": "guerrilla",
+      "created_at": 1770500754,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=46928435"
+    },
+    {
+      "id": "46927098",
+      "title": "Microsoft account bugs locked me out of Notepad \u2013 Are thin clients ruining PCs?",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs",
+      "points": 147,
+      "author": "josephcsible",
+      "created_at": 1770493916,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=46927098"
+    },
+    {
+      "id": "46920248",
+      "title": "I'm going to cure my girlfriend's brain tumor",
+      "url": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
+      "points": 146,
+      "author": "ray__",
+      "created_at": 1770426359,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=46920248"
+    },
+    {
+      "id": "46924591",
+      "title": "First Proof",
+      "url": "https://arxiv.org/abs/2602.05192",
+      "points": 136,
+      "author": "samasblack",
+      "created_at": 1770477949,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=46924591"
+    },
+    {
+      "id": "46923463",
+      "title": "Reinforcement Learning from Human Feedback",
+      "url": "https://rlhfbook.com/",
+      "points": 119,
+      "author": "onurkanbkrc",
+      "created_at": 1770468819,
+      "num_comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=46923463"
     }
   ],
-  "last_updated": "2026-02-07T06:36:45.070261+00:00"
+  "last_updated": "2026-02-08T06:43:49.932775+00:00"
 }
