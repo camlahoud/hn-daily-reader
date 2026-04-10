@@ -13049,7 +13049,207 @@
       "created_at": 1775676214,
       "num_comments": 31,
       "hn_url": "https://news.ycombinator.com/item?id=47695012"
+    },
+    {
+      "id": "47697870",
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "points": 1305,
+      "author": "pluc",
+      "created_at": 1775694368,
+      "num_comments": 418,
+      "hn_url": "https://news.ycombinator.com/item?id=47697870"
+    },
+    {
+      "id": "47706268",
+      "title": "EFF is leaving X",
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+      "points": 1290,
+      "author": "gregsadetsky",
+      "created_at": 1775754484,
+      "num_comments": 1097,
+      "hn_url": "https://news.ycombinator.com/item?id=47706268"
+    },
+    {
+      "id": "47703419",
+      "title": "Meta removes ads for social media addiction litigation",
+      "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
+      "points": 580,
+      "author": "giuliomagnifico",
+      "created_at": 1775741030,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=47703419"
+    },
+    {
+      "id": "47700388",
+      "title": "Help Keep Thunderbird Alive",
+      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+      "points": 539,
+      "author": "playfultones",
+      "created_at": 1775719645,
+      "num_comments": 370,
+      "hn_url": "https://news.ycombinator.com/item?id=47700388"
+    },
+    {
+      "id": "47708818",
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "points": 451,
+      "author": "PaulHoule",
+      "created_at": 1775764106,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=47708818"
+    },
+    {
+      "id": "47705952",
+      "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
+      "url": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
+      "points": 433,
+      "author": "frm88",
+      "created_at": 1775753171,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=47705952"
+    },
+    {
+      "id": "47701233",
+      "title": "Claude mixes up who said what",
+      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "points": 427,
+      "author": "sixhobbits",
+      "created_at": 1775726728,
+      "num_comments": 330,
+      "hn_url": "https://news.ycombinator.com/item?id=47701233"
+    },
+    {
+      "id": "47699181",
+      "title": "Open source security at Astral",
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "points": 356,
+      "author": "vinhnx",
+      "created_at": 1775707915,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=47699181"
+    },
+    {
+      "id": "47700972",
+      "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+      "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+      "points": 325,
+      "author": "kisamoto",
+      "created_at": 1775724918,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=47700972"
+    },
+    {
+      "id": "47710149",
+      "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
+      "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+      "points": 314,
+      "author": "jpmitchell",
+      "created_at": 1775768952,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=47710149"
+    },
+    {
+      "id": "47701148",
+      "title": "Top laptops to use with FreeBSD",
+      "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+      "points": 310,
+      "author": "fork-bomber",
+      "created_at": 1775726245,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=47701148"
+    },
+    {
+      "id": "47704804",
+      "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "points": 289,
+      "author": "speckx",
+      "created_at": 1775747560,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47704804"
+    },
+    {
+      "id": "47703123",
+      "title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
+      "url": "https://pizzalegacy.nl/blog/traffic-system.html",
+      "points": 279,
+      "author": "FinnKuhn",
+      "created_at": 1775739430,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=47703123"
+    },
+    {
+      "id": "47708817",
+      "title": "Maine is about to become the first state to ban major new data centers",
+      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+      "points": 278,
+      "author": "rmason",
+      "created_at": 1775764105,
+      "num_comments": 389,
+      "hn_url": "https://news.ycombinator.com/item?id=47708817"
+    },
+    {
+      "id": "47704881",
+      "title": "The Vercel plugin on Claude Code wants to read your prompts",
+      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+      "points": 263,
+      "author": "akshay2603",
+      "created_at": 1775747847,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47704881"
+    },
+    {
+      "id": "47703072",
+      "title": "Am I German or Autistic?",
+      "url": "https://german.millermanschool.com/",
+      "points": 248,
+      "author": "doener",
+      "created_at": 1775739132,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=47703072"
+    },
+    {
+      "id": "47707477",
+      "title": "Old laptops in a colo as low cost servers",
+      "url": "https://colaptop.pages.dev/",
+      "points": 231,
+      "author": "argentum47",
+      "created_at": 1775758959,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=47707477"
+    },
+    {
+      "id": "47698132",
+      "title": "Trump administration orders dismantling of the U.S. Forest Service",
+      "url": "https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263",
+      "points": 219,
+      "author": "dxs",
+      "created_at": 1775696523,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=47698132"
+    },
+    {
+      "id": "47706140",
+      "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
+      "url": "https://www.unfolder.app/",
+      "points": 205,
+      "author": "codazoda",
+      "created_at": 1775753926,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=47706140"
+    },
+    {
+      "id": "47707253",
+      "title": "ChatGPT Pro now starts at $100/month",
+      "url": "https://chatgpt.com/pricing/",
+      "points": 203,
+      "author": "strongpigeon",
+      "created_at": 1775758159,
+      "num_comments": 224,
+      "hn_url": "https://news.ycombinator.com/item?id=47707253"
     }
   ],
-  "last_updated": "2026-04-09T07:16:08.559766+00:00"
+  "last_updated": "2026-04-10T07:21:34.686896+00:00"
 }
