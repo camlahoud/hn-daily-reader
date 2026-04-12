@@ -5,8 +5,160 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 06:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:08:38 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[184 pts] Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)</title>
+      <link>https://khronokernel.com/macos/2023/08/08/AS-VM.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;184 points&lt;/strong&gt; by krackers | &lt;strong&gt;128 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47733971&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47733971</guid>
+      <pubDate>Sat, 11 Apr 2026 20:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[194 pts] 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane</title>
+      <link>https://zenodo.org/records/19513269</link>
+      <description>&lt;p&gt;&lt;strong&gt;194 points&lt;/strong&gt; by iliatoli | &lt;strong&gt;99 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47733561&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47733561</guid>
+      <pubDate>Sat, 11 Apr 2026 20:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[171 pts] Dark Castle</title>
+      <link>https://darkcastle.co.uk/</link>
+      <description>&lt;p&gt;&lt;strong&gt;171 points&lt;/strong&gt; by evo_9 | &lt;strong&gt;22 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47733521&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47733521</guid>
+      <pubDate>Sat, 11 Apr 2026 20:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[341 pts] How We Broke Top AI Agent Benchmarks: And What Comes Next</title>
+      <link>https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/</link>
+      <description>&lt;p&gt;&lt;strong&gt;341 points&lt;/strong&gt; by Anon84 | &lt;strong&gt;87 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47733217&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47733217</guid>
+      <pubDate>Sat, 11 Apr 2026 19:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[105 pts] How to build a `Git diff` driver</title>
+      <link>https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/</link>
+      <description>&lt;p&gt;&lt;strong&gt;105 points&lt;/strong&gt; by zdw | &lt;strong&gt;12 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47732697&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47732697</guid>
+      <pubDate>Sat, 11 Apr 2026 18:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[999 pts] Small models also found the vulnerabilities that Mythos found</title>
+      <link>https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier</link>
+      <description>&lt;p&gt;&lt;strong&gt;999 points&lt;/strong&gt; by dominicq | &lt;strong&gt;270 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47732020&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47732020</guid>
+      <pubDate>Sat, 11 Apr 2026 16:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[179 pts] The disturbing white paper Red Hat is trying to erase from the internet</title>
+      <link>https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/</link>
+      <description>&lt;p&gt;&lt;strong&gt;179 points&lt;/strong&gt; by choult | &lt;strong&gt;67 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47731960&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47731960</guid>
+      <pubDate>Sat, 11 Apr 2026 16:38:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[231 pts] Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS</title>
+      <link>https://www.v68k.org/advanced-mac-substitute/</link>
+      <description>&lt;p&gt;&lt;strong&gt;231 points&lt;/strong&gt; by zdw | &lt;strong&gt;60 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47731506&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47731506</guid>
+      <pubDate>Sat, 11 Apr 2026 15:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[252 pts] The future of everything is lies, I guess – Part 5: Annoyances</title>
+      <link>https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances</link>
+      <description>&lt;p&gt;&lt;strong&gt;252 points&lt;/strong&gt; by aphyr | &lt;strong&gt;145 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47730981&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47730981</guid>
+      <pubDate>Sat, 11 Apr 2026 14:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[120 pts] The Problem That Built an Industry</title>
+      <link>https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/</link>
+      <description>&lt;p&gt;&lt;strong&gt;120 points&lt;/strong&gt; by ShaggyHotDog | &lt;strong&gt;44 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47730712&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47730712</guid>
+      <pubDate>Sat, 11 Apr 2026 14:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[365 pts] South Korea introduces universal basic mobile data access</title>
+      <link>https://www.theregister.com/2026/04/10/south_korea_data_access_universal/</link>
+      <description>&lt;p&gt;&lt;strong&gt;365 points&lt;/strong&gt; by saikatsg | &lt;strong&gt;102 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47730407&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47730407</guid>
+      <pubDate>Sat, 11 Apr 2026 13:27:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[226 pts] Bitcoin miners are losing on every coin produced as difficulty drops</title>
+      <link>https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8</link>
+      <description>&lt;p&gt;&lt;strong&gt;226 points&lt;/strong&gt; by PaulHoule | &lt;strong&gt;208 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47730370&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47730370</guid>
+      <pubDate>Sat, 11 Apr 2026 13:22:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[256 pts] Cirrus Labs to join OpenAI</title>
+      <link>https://cirruslabs.org/</link>
+      <description>&lt;p&gt;&lt;strong&gt;256 points&lt;/strong&gt; by seekdeep | &lt;strong&gt;125 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47730194&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47730194</guid>
+      <pubDate>Sat, 11 Apr 2026 13:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[152 pts] Polymarket gamblers betting millions on war</title>
+      <link>https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth</link>
+      <description>&lt;p&gt;&lt;strong&gt;152 points&lt;/strong&gt; by sandebert | &lt;strong&gt;123 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47729994&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47729994</guid>
+      <pubDate>Sat, 11 Apr 2026 12:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[436 pts] France's government is ditching Windows for Linux, says US tech a strategic risk</title>
+      <link>https://www.xda-developers.com/frances-government-ditching-windows-for-linux/</link>
+      <description>&lt;p&gt;&lt;strong&gt;436 points&lt;/strong&gt; by pabs3 | &lt;strong&gt;246 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47728653&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47728653</guid>
+      <pubDate>Sat, 11 Apr 2026 08:25:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[417 pts] Show HN: Pardonned.com – A searchable database of US Pardons</title>
+      <link>https://news.ycombinator.com/item?id=47727960</link>
+      <description>&lt;p&gt;&lt;strong&gt;417 points&lt;/strong&gt; by vidluther | &lt;strong&gt;230 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47727960&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47727960</guid>
+      <pubDate>Sat, 11 Apr 2026 06:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[245 pts] 20 years on AWS and never not my job</title>
+      <link>https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;245 points&lt;/strong&gt; by cperciva | &lt;strong&gt;62 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47727711&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47727711</guid>
+      <pubDate>Sat, 11 Apr 2026 05:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[138 pts] Productive Procrastination</title>
+      <link>https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/</link>
+      <description>&lt;p&gt;&lt;strong&gt;138 points&lt;/strong&gt; by maxvij | &lt;strong&gt;45 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47727659&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47727659</guid>
+      <pubDate>Sat, 11 Apr 2026 05:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1248 pts] Artemis II safely splashes down</title>
+      <link>https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1248 points&lt;/strong&gt; by areoform | &lt;strong&gt;415 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47725583&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47725583</guid>
+      <pubDate>Sat, 11 Apr 2026 00:10:51 +0000</pubDate>
+    </item>
     <item>
       <title>[280 pts] Sam Altman's response to Molotov cocktail incident</title>
       <link>https://blog.samaltman.com/2279512</link>

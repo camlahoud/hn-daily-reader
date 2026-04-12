@@ -13449,7 +13449,197 @@
       "created_at": 1775849289,
       "num_comments": 52,
       "hn_url": "https://news.ycombinator.com/item?id=47722566"
+    },
+    {
+      "id": "47725583",
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "points": 1248,
+      "author": "areoform",
+      "created_at": 1775866251,
+      "num_comments": 415,
+      "hn_url": "https://news.ycombinator.com/item?id=47725583"
+    },
+    {
+      "id": "47732020",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "points": 999,
+      "author": "dominicq",
+      "created_at": 1775926048,
+      "num_comments": 270,
+      "hn_url": "https://news.ycombinator.com/item?id=47732020"
+    },
+    {
+      "id": "47728653",
+      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "points": 436,
+      "author": "pabs3",
+      "created_at": 1775895914,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=47728653"
+    },
+    {
+      "id": "47727960",
+      "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
+      "url": "https://news.ycombinator.com/item?id=47727960",
+      "points": 417,
+      "author": "vidluther",
+      "created_at": 1775888365,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=47727960"
+    },
+    {
+      "id": "47730407",
+      "title": "South Korea introduces universal basic mobile data access",
+      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+      "points": 365,
+      "author": "saikatsg",
+      "created_at": 1775914036,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=47730407"
+    },
+    {
+      "id": "47733217",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "points": 341,
+      "author": "Anon84",
+      "created_at": 1775934956,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=47733217"
+    },
+    {
+      "id": "47730194",
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "points": 256,
+      "author": "seekdeep",
+      "created_at": 1775912494,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=47730194"
+    },
+    {
+      "id": "47730981",
+      "title": "The future of everything is lies, I guess \u2013 Part 5: Annoyances",
+      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+      "points": 252,
+      "author": "aphyr",
+      "created_at": 1775917959,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=47730981"
+    },
+    {
+      "id": "47727711",
+      "title": "20 years on AWS and never not my job",
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "points": 245,
+      "author": "cperciva",
+      "created_at": 1775885470,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=47727711"
+    },
+    {
+      "id": "47731506",
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "points": 231,
+      "author": "zdw",
+      "created_at": 1775921959,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=47731506"
+    },
+    {
+      "id": "47730370",
+      "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
+      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
+      "points": 226,
+      "author": "PaulHoule",
+      "created_at": 1775913745,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=47730370"
+    },
+    {
+      "id": "47733561",
+      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "points": 194,
+      "author": "iliatoli",
+      "created_at": 1775938126,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=47733561"
+    },
+    {
+      "id": "47733971",
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "points": 184,
+      "author": "krackers",
+      "created_at": 1775941128,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=47733971"
+    },
+    {
+      "id": "47731960",
+      "title": "The disturbing white paper Red Hat is trying to erase from the internet",
+      "url": "https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/",
+      "points": 179,
+      "author": "choult",
+      "created_at": 1775925530,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=47731960"
+    },
+    {
+      "id": "47733521",
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "points": 171,
+      "author": "evo_9",
+      "created_at": 1775937719,
+      "num_comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=47733521"
+    },
+    {
+      "id": "47729994",
+      "title": "Polymarket gamblers betting millions on war",
+      "url": "https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
+      "points": 152,
+      "author": "sandebert",
+      "created_at": 1775910484,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=47729994"
+    },
+    {
+      "id": "47727659",
+      "title": "Productive Procrastination",
+      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+      "points": 138,
+      "author": "maxvij",
+      "created_at": 1775884881,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=47727659"
+    },
+    {
+      "id": "47730712",
+      "title": "The Problem That Built an Industry",
+      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+      "points": 120,
+      "author": "ShaggyHotDog",
+      "created_at": 1775916183,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=47730712"
+    },
+    {
+      "id": "47732697",
+      "title": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "points": 105,
+      "author": "zdw",
+      "created_at": 1775930869,
+      "num_comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=47732697"
     }
   ],
-  "last_updated": "2026-04-11T06:56:18.842875+00:00"
+  "last_updated": "2026-04-12T07:08:38.888943+00:00"
 }
