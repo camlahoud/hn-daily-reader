@@ -13639,7 +13639,207 @@
       "created_at": 1775930869,
       "num_comments": 12,
       "hn_url": "https://news.ycombinator.com/item?id=47732697"
+    },
+    {
+      "id": "47736555",
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "points": 874,
+      "author": "tradertef",
+      "created_at": 1775973600,
+      "num_comments": 478,
+      "hn_url": "https://news.ycombinator.com/item?id=47736555"
+    },
+    {
+      "id": "47738883",
+      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "points": 816,
+      "author": "littlecranky67",
+      "created_at": 1775996937,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=47738883"
+    },
+    {
+      "id": "47739260",
+      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+      "url": "https://github.com/anthropics/claude-code/issues/45756",
+      "points": 613,
+      "author": "cmaster11",
+      "created_at": 1775999731,
+      "num_comments": 545,
+      "hn_url": "https://news.ycombinator.com/item?id=47739260"
+    },
+    {
+      "id": "47739313",
+      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "points": 563,
+      "author": "mpweiher",
+      "created_at": 1776000099,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=47739313"
+    },
+    {
+      "id": "47738827",
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "points": 533,
+      "author": "phil294",
+      "created_at": 1775996486,
+      "num_comments": 290,
+      "hn_url": "https://news.ycombinator.com/item?id=47738827"
+    },
+    {
+      "id": "47736476",
+      "title": "Anthropic downgraded cache TTL on March 6th",
+      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "points": 508,
+      "author": "lsdmtme",
+      "created_at": 1775972752,
+      "num_comments": 393,
+      "hn_url": "https://news.ycombinator.com/item?id=47736476"
+    },
+    {
+      "id": "47743730",
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "points": 424,
+      "author": "super256",
+      "created_at": 1776023588,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=47743730"
+    },
+    {
+      "id": "47741701",
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "points": 391,
+      "author": "_Microft",
+      "created_at": 1776011923,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=47741701"
+    },
+    {
+      "id": "47743628",
+      "title": "The peril of laziness lost",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "points": 378,
+      "author": "gpm",
+      "created_at": 1776023080,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=47743628"
+    },
+    {
+      "id": "47742200",
+      "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
+      "points": 346,
+      "author": "a-ve",
+      "created_at": 1776014744,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=47742200"
+    },
+    {
+      "id": "47737563",
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "points": 333,
+      "author": "gHeadphone",
+      "created_at": 1775985395,
+      "num_comments": 595,
+      "hn_url": "https://news.ycombinator.com/item?id=47737563"
+    },
+    {
+      "id": "47737383",
+      "title": "Apple update looks like Czech mate for locked-out iPhone user",
+      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+      "points": 329,
+      "author": "OuterVale",
+      "created_at": 1775983136,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=47737383"
+    },
+    {
+      "id": "47742680",
+      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
+      "url": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
+      "points": 328,
+      "author": "thepasswordis",
+      "created_at": 1776017942,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=47742680"
+    },
+    {
+      "id": "47736298",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "points": 231,
+      "author": "Jimmc414",
+      "created_at": 1775970483,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=47736298"
+    },
+    {
+      "id": "47738978",
+      "title": "We have a 99% email reputation, but Gmail disagrees",
+      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "points": 231,
+      "author": "em-bee",
+      "created_at": 1775997745,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=47738978"
+    },
+    {
+      "id": "47743553",
+      "title": "Viktor Orb\u00e1n concedes defeat after 'painful' election result",
+      "url": "https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab",
+      "points": 226,
+      "author": "hackernj",
+      "created_at": 1776022635,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47743553"
+    },
+    {
+      "id": "47735535",
+      "title": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "points": 213,
+      "author": "ValentineC",
+      "created_at": 1775958948,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=47735535"
+    },
+    {
+      "id": "47737376",
+      "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
+      "url": "https://phyphox.org/",
+      "points": 210,
+      "author": "_Microft",
+      "created_at": 1775983091,
+      "num_comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=47737376"
+    },
+    {
+      "id": "47741527",
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "points": 202,
+      "author": "david927",
+      "created_at": 1776011083,
+      "num_comments": 621,
+      "hn_url": "https://news.ycombinator.com/item?id=47741527"
+    },
+    {
+      "id": "47738094",
+      "title": "JVM Options Explorer",
+      "url": "https://chriswhocodes.com/vm-options-explorer.html",
+      "points": 192,
+      "author": "0x54MUR41",
+      "created_at": 1775989766,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=47738094"
     }
   ],
-  "last_updated": "2026-04-12T07:08:38.888943+00:00"
+  "last_updated": "2026-04-13T07:56:36.804538+00:00"
 }
