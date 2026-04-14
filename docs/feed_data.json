@@ -13839,7 +13839,207 @@
       "created_at": 1775989766,
       "num_comments": 84,
       "hn_url": "https://news.ycombinator.com/item?id=47738094"
+    },
+    {
+      "id": "47755629",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "points": 880,
+      "author": "speckx",
+      "created_at": 1776102879,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=47755629"
+    },
+    {
+      "id": "47746610",
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "points": 814,
+      "author": "pizza",
+      "created_at": 1776044972,
+      "num_comments": 256,
+      "hn_url": "https://news.ycombinator.com/item?id=47746610"
+    },
+    {
+      "id": "47757495",
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "points": 652,
+      "author": "ezekg",
+      "created_at": 1776112609,
+      "num_comments": 352,
+      "hn_url": "https://news.ycombinator.com/item?id=47757495"
+    },
+    {
+      "id": "47750872",
+      "title": "Servo is now available on crates.io",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "points": 447,
+      "author": "ffin",
+      "created_at": 1776082342,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47750872"
+    },
+    {
+      "id": "47747017",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "points": 409,
+      "author": "walterbell",
+      "created_at": 1776048790,
+      "num_comments": 360,
+      "hn_url": "https://news.ycombinator.com/item?id=47747017"
+    },
+    {
+      "id": "47753472",
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "points": 405,
+      "author": "m-hodges",
+      "created_at": 1776094266,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=47753472"
+    },
+    {
+      "id": "47748064",
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "points": 396,
+      "author": "kiyanwang",
+      "created_at": 1776059132,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=47748064"
+    },
+    {
+      "id": "47751781",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "points": 373,
+      "author": "t-3",
+      "created_at": 1776087453,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=47751781"
+    },
+    {
+      "id": "47752819",
+      "title": "Make tmux pretty and usable (2024)",
+      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "points": 359,
+      "author": "speckx",
+      "created_at": 1776091735,
+      "num_comments": 224,
+      "hn_url": "https://news.ycombinator.com/item?id=47752819"
+    },
+    {
+      "id": "47750669",
+      "title": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "points": 349,
+      "author": "edent",
+      "created_at": 1776080895,
+      "num_comments": 295,
+      "hn_url": "https://news.ycombinator.com/item?id=47750669"
+    },
+    {
+      "id": "47751936",
+      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+      "points": 342,
+      "author": "bundie",
+      "created_at": 1776088104,
+      "num_comments": 259,
+      "hn_url": "https://news.ycombinator.com/item?id=47751936"
+    },
+    {
+      "id": "47752884",
+      "title": "This year\u2019s insane timeline of hacks",
+      "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+      "points": 300,
+      "author": "laurex",
+      "created_at": 1776091985,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=47752884"
+    },
+    {
+      "id": "47754379",
+      "title": "The Future of Everything Is Lies, I Guess: Safety",
+      "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+      "points": 294,
+      "author": "aphyr",
+      "created_at": 1776097389,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=47754379"
+    },
+    {
+      "id": "47753689",
+      "title": "Building a CLI for all of Cloudflare",
+      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "points": 293,
+      "author": "soheilpro",
+      "created_at": 1776095042,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47753689"
+    },
+    {
+      "id": "47758028",
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "points": 238,
+      "author": "ZeidJ",
+      "created_at": 1776115538,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=47758028"
+    },
+    {
+      "id": "47750821",
+      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+      "points": 214,
+      "author": "iamnothere",
+      "created_at": 1776081935,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=47750821"
+    },
+    {
+      "id": "47751029",
+      "title": "I went to America's worst national parks so you don't have to",
+      "url": "https://substack.com/home/post/p-193626949",
+      "points": 195,
+      "author": "surprisetalk",
+      "created_at": 1776083375,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47751029"
+    },
+    {
+      "id": "47751032",
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "points": 178,
+      "author": "surprisetalk",
+      "created_at": 1776083379,
+      "num_comments": 257,
+      "hn_url": "https://news.ycombinator.com/item?id=47751032"
+    },
+    {
+      "id": "47749674",
+      "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+      "url": "https://github.com/brightbeanxyz/brightbean-studio",
+      "points": 177,
+      "author": "JanSchu",
+      "created_at": 1776072416,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=47749674"
+    },
+    {
+      "id": "47756321",
+      "title": "How to make Firefox builds 17% faster",
+      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "points": 165,
+      "author": "mbitsnbites",
+      "created_at": 1776106208,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=47756321"
     }
   ],
-  "last_updated": "2026-04-13T07:56:36.804538+00:00"
+  "last_updated": "2026-04-14T07:24:46.392022+00:00"
 }
