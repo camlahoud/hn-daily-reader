@@ -14039,7 +14039,207 @@
       "created_at": 1776106208,
       "num_comments": 32,
       "hn_url": "https://news.ycombinator.com/item?id=47756321"
+    },
+    {
+      "id": "47760529",
+      "title": "DaVinci Resolve \u2013 Photo",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "points": 1093,
+      "author": "thebiblelover7",
+      "created_at": 1776133515,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=47760529"
+    },
+    {
+      "id": "47762864",
+      "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
+      "url": "https://rareese.com/posts/backblaze/",
+      "points": 1057,
+      "author": "rrreese",
+      "created_at": 1776155427,
+      "num_comments": 629,
+      "hn_url": "https://news.ycombinator.com/item?id=47762864"
+    },
+    {
+      "id": "47760764",
+      "title": "A new spam policy for \u201cback button hijacking\u201d",
+      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "points": 868,
+      "author": "zdw",
+      "created_at": 1776135987,
+      "num_comments": 489,
+      "hn_url": "https://news.ycombinator.com/item?id=47760764"
+    },
+    {
+      "id": "47765604",
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "points": 621,
+      "author": "jrm-veris",
+      "created_at": 1776174391,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=47765604"
+    },
+    {
+      "id": "47772012",
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
+      "points": 593,
+      "author": "cdrnsf",
+      "created_at": 1776203765,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=47772012"
+    },
+    {
+      "id": "47768813",
+      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+      "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+      "points": 583,
+      "author": "speckx",
+      "created_at": 1776188820,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=47768813"
+    },
+    {
+      "id": "47768133",
+      "title": "Claude Code Routines",
+      "url": "https://code.claude.com/docs/en/routines",
+      "points": 575,
+      "author": "matthieu_bl",
+      "created_at": 1776185673,
+      "num_comments": 339,
+      "hn_url": "https://news.ycombinator.com/item?id=47768133"
+    },
+    {
+      "id": "47769796",
+      "title": "Tell HN: Fiverr left customer files public and searchable",
+      "url": "https://news.ycombinator.com/item?id=47769796",
+      "points": 571,
+      "author": "morpheuskafka",
+      "created_at": 1776193000,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=47769796"
+    },
+    {
+      "id": "47763759",
+      "title": "jj \u2013 the CLI for Jujutsu",
+      "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "points": 518,
+      "author": "tigerlily",
+      "created_at": 1776162819,
+      "num_comments": 448,
+      "hn_url": "https://news.ycombinator.com/item?id=47763759"
+    },
+    {
+      "id": "47768195",
+      "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+      "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
+      "points": 409,
+      "author": "akyuu",
+      "created_at": 1776185949,
+      "num_comments": 416,
+      "hn_url": "https://news.ycombinator.com/item?id=47768195"
+    },
+    {
+      "id": "47759709",
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "points": 383,
+      "author": "bumbledraven",
+      "created_at": 1776126308,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=47759709"
+    },
+    {
+      "id": "47762641",
+      "title": "Introspective Diffusion Language Models",
+      "url": "https://introspective-diffusion.github.io/",
+      "points": 262,
+      "author": "zagwdt",
+      "created_at": 1776153453,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=47762641"
+    },
+    {
+      "id": "47760750",
+      "title": "Sometimes powerful people just do dumb shit",
+      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "points": 261,
+      "author": "zdw",
+      "created_at": 1776135860,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=47760750"
+    },
+    {
+      "id": "47766550",
+      "title": "The future of everything is lies, I guess: Work",
+      "url": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
+      "points": 258,
+      "author": "aphyr",
+      "created_at": 1776178845,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=47766550"
+    },
+    {
+      "id": "47768788",
+      "title": "OpenSSL 4.0.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0",
+      "points": 245,
+      "author": "petecooper",
+      "created_at": 1776188734,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=47768788"
+    },
+    {
+      "id": "47762901",
+      "title": "An AI Vibe Coding Horror Story",
+      "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+      "points": 206,
+      "author": "teichmann",
+      "created_at": 1776155745,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=47762901"
+    },
+    {
+      "id": "47767191",
+      "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out",
+      "url": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
+      "points": 179,
+      "author": "Cider9986",
+      "created_at": 1776181603,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=47767191"
+    },
+    {
+      "id": "47761997",
+      "title": "Distributed DuckDB Instance",
+      "url": "https://github.com/citguru/openduck",
+      "points": 172,
+      "author": "citguru",
+      "created_at": 1776148304,
+      "num_comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=47761997"
+    },
+    {
+      "id": "47760925",
+      "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+      "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+      "points": 164,
+      "author": "wibbily",
+      "created_at": 1776137536,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=47760925"
+    },
+    {
+      "id": "47769183",
+      "title": "40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal",
+      "url": "https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b",
+      "points": 159,
+      "author": "randycupertino",
+      "created_at": 1776190469,
+      "num_comments": 266,
+      "hn_url": "https://news.ycombinator.com/item?id=47769183"
     }
   ],
-  "last_updated": "2026-04-14T07:24:46.392022+00:00"
+  "last_updated": "2026-04-15T07:25:10.457249+00:00"
 }

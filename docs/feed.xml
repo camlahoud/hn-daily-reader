@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:25:10 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[593 pts] Stop Flock</title>
+      <link>https://stopflock.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;593 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47772012&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47772012</guid>
+      <pubDate>Tue, 14 Apr 2026 21:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[571 pts] Tell HN: Fiverr left customer files public and searchable</title>
+      <link>https://news.ycombinator.com/item?id=47769796</link>
+      <description>&lt;p&gt;&lt;strong&gt;571 points&lt;/strong&gt; by morpheuskafka | &lt;strong&gt;119 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47769796&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47769796</guid>
+      <pubDate>Tue, 14 Apr 2026 18:56:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[159 pts] 40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal</title>
+      <link>https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b</link>
+      <description>&lt;p&gt;&lt;strong&gt;159 points&lt;/strong&gt; by randycupertino | &lt;strong&gt;266 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47769183&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47769183</guid>
+      <pubDate>Tue, 14 Apr 2026 18:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[583 pts] I wrote to Flock's privacy contact to opt out of their domestic spying program</title>
+      <link>https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;583 points&lt;/strong&gt; by speckx | &lt;strong&gt;234 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47768813&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47768813</guid>
+      <pubDate>Tue, 14 Apr 2026 17:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[245 pts] OpenSSL 4.0.0</title>
+      <link>https://github.com/openssl/openssl/releases/tag/openssl-4.0.0</link>
+      <description>&lt;p&gt;&lt;strong&gt;245 points&lt;/strong&gt; by petecooper | &lt;strong&gt;81 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47768788&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47768788</guid>
+      <pubDate>Tue, 14 Apr 2026 17:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[409 pts] Spain to expand internet blocks to tennis, golf, movies broadcasting times</title>
+      <link>https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731</link>
+      <description>&lt;p&gt;&lt;strong&gt;409 points&lt;/strong&gt; by akyuu | &lt;strong&gt;416 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47768195&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47768195</guid>
+      <pubDate>Tue, 14 Apr 2026 16:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[575 pts] Claude Code Routines</title>
+      <link>https://code.claude.com/docs/en/routines</link>
+      <description>&lt;p&gt;&lt;strong&gt;575 points&lt;/strong&gt; by matthieu_bl | &lt;strong&gt;339 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47768133&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47768133</guid>
+      <pubDate>Tue, 14 Apr 2026 16:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[179 pts] Google, Microsoft, Meta All Tracking You Even When You Opt Out</title>
+      <link>https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;179 points&lt;/strong&gt; by Cider9986 | &lt;strong&gt;93 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47767191&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47767191</guid>
+      <pubDate>Tue, 14 Apr 2026 15:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[258 pts] The future of everything is lies, I guess: Work</title>
+      <link>https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work</link>
+      <description>&lt;p&gt;&lt;strong&gt;258 points&lt;/strong&gt; by aphyr | &lt;strong&gt;206 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47766550&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47766550</guid>
+      <pubDate>Tue, 14 Apr 2026 15:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[621 pts] Rare concert recordings are landing on the Internet Archive</title>
+      <link>https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/</link>
+      <description>&lt;p&gt;&lt;strong&gt;621 points&lt;/strong&gt; by jrm-veris | &lt;strong&gt;179 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47765604&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47765604</guid>
+      <pubDate>Tue, 14 Apr 2026 13:46:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[518 pts] jj – the CLI for Jujutsu</title>
+      <link>https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;518 points&lt;/strong&gt; by tigerlily | &lt;strong&gt;448 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47763759&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47763759</guid>
+      <pubDate>Tue, 14 Apr 2026 10:33:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[206 pts] An AI Vibe Coding Horror Story</title>
+      <link>https://www.tobru.ch/an-ai-vibe-coding-horror-story/</link>
+      <description>&lt;p&gt;&lt;strong&gt;206 points&lt;/strong&gt; by teichmann | &lt;strong&gt;202 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47762901&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47762901</guid>
+      <pubDate>Tue, 14 Apr 2026 08:35:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1057 pts] Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others</title>
+      <link>https://rareese.com/posts/backblaze/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1057 points&lt;/strong&gt; by rrreese | &lt;strong&gt;629 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47762864&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47762864</guid>
+      <pubDate>Tue, 14 Apr 2026 08:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[262 pts] Introspective Diffusion Language Models</title>
+      <link>https://introspective-diffusion.github.io/</link>
+      <description>&lt;p&gt;&lt;strong&gt;262 points&lt;/strong&gt; by zagwdt | &lt;strong&gt;45 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47762641&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47762641</guid>
+      <pubDate>Tue, 14 Apr 2026 07:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[172 pts] Distributed DuckDB Instance</title>
+      <link>https://github.com/citguru/openduck</link>
+      <description>&lt;p&gt;&lt;strong&gt;172 points&lt;/strong&gt; by citguru | &lt;strong&gt;33 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47761997&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47761997</guid>
+      <pubDate>Tue, 14 Apr 2026 06:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[164 pts] Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'</title>
+      <link>https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/</link>
+      <description>&lt;p&gt;&lt;strong&gt;164 points&lt;/strong&gt; by wibbily | &lt;strong&gt;46 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47760925&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47760925</guid>
+      <pubDate>Tue, 14 Apr 2026 03:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[868 pts] A new spam policy for “back button hijacking”</title>
+      <link>https://developers.google.com/search/blog/2026/04/back-button-hijacking</link>
+      <description>&lt;p&gt;&lt;strong&gt;868 points&lt;/strong&gt; by zdw | &lt;strong&gt;489 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47760764&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47760764</guid>
+      <pubDate>Tue, 14 Apr 2026 03:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[261 pts] Sometimes powerful people just do dumb shit</title>
+      <link>https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;261 points&lt;/strong&gt; by zdw | &lt;strong&gt;153 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47760750&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47760750</guid>
+      <pubDate>Tue, 14 Apr 2026 03:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1093 pts] DaVinci Resolve – Photo</title>
+      <link>https://www.blackmagicdesign.com/products/davinciresolve/photo</link>
+      <description>&lt;p&gt;&lt;strong&gt;1093 points&lt;/strong&gt; by thebiblelover7 | &lt;strong&gt;274 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47760529&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47760529</guid>
+      <pubDate>Tue, 14 Apr 2026 02:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[383 pts] Lean proved this program correct; then I found a bug</title>
+      <link>https://kirancodes.me/posts/log-who-watches-the-watchers.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;383 points&lt;/strong&gt; by bumbledraven | &lt;strong&gt;174 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47759709&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47759709</guid>
+      <pubDate>Tue, 14 Apr 2026 00:25:08 +0000</pubDate>
+    </item>
     <item>
       <title>[238 pts] Stanford report highlights growing disconnect between AI insiders and everyone</title>
       <link>https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/</link>
