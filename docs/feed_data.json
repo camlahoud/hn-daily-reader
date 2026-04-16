@@ -14239,7 +14239,207 @@
       "created_at": 1776190469,
       "num_comments": 266,
       "hn_url": "https://news.ycombinator.com/item?id=47769183"
+    },
+    {
+      "id": "47782570",
+      "title": "Google broke its promise to me \u2013 now ICE has my data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "points": 1370,
+      "author": "Brajeshwar",
+      "created_at": 1776275066,
+      "num_comments": 586,
+      "hn_url": "https://news.ycombinator.com/item?id=47782570"
+    },
+    {
+      "id": "47783713",
+      "title": "Live Nation illegally monopolized ticketing market, jury finds",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+      "points": 513,
+      "author": "Alex_Bond",
+      "created_at": 1776279999,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=47783713"
+    },
+    {
+      "id": "47778475",
+      "title": "God sleeps in the minerals",
+      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "points": 512,
+      "author": "speckx",
+      "created_at": 1776258490,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=47778475"
+    },
+    {
+      "id": "47776796",
+      "title": "Want to write a compiler? Just read these two papers (2008)",
+      "url": "https://prog21.dadgum.com/30.html",
+      "points": 480,
+      "author": "downbad_",
+      "created_at": 1776246079,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=47776796"
+    },
+    {
+      "id": "47777209",
+      "title": "Backpacks got worse on purpose",
+      "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
+      "points": 404,
+      "author": "113",
+      "created_at": 1776249748,
+      "num_comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=47777209"
+    },
+    {
+      "id": "47776035",
+      "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+      "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "points": 399,
+      "author": "askl",
+      "created_at": 1776240318,
+      "num_comments": 400,
+      "hn_url": "https://news.ycombinator.com/item?id=47776035"
+    },
+    {
+      "id": "47776557",
+      "title": "Good sleep, good learning, good life (2012)",
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "points": 388,
+      "author": "downbad_",
+      "created_at": 1776244278,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=47776557"
+    },
+    {
+      "id": "47785738",
+      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
+      "points": 372,
+      "author": "bckygldstn",
+      "created_at": 1776289698,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=47785738"
+    },
+    {
+      "id": "47780712",
+      "title": "Open Source Isn't Dead",
+      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+      "points": 323,
+      "author": "bearsyankees",
+      "created_at": 1776267817,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=47780712"
+    },
+    {
+      "id": "47780456",
+      "title": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "points": 285,
+      "author": "Benjamin_Dobell",
+      "created_at": 1776266806,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=47780456"
+    },
+    {
+      "id": "47774971",
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "points": 279,
+      "author": "takumi123",
+      "created_at": 1776230346,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=47774971"
+    },
+    {
+      "id": "47786791",
+      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
+      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "points": 274,
+      "author": "pentagrama",
+      "created_at": 1776296216,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=47786791"
+    },
+    {
+      "id": "47783940",
+      "title": "Ask HN: Who is using OpenClaw?",
+      "url": "https://news.ycombinator.com/item?id=47783940",
+      "points": 269,
+      "author": "misterchocolat",
+      "created_at": 1776280930,
+      "num_comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=47783940"
+    },
+    {
+      "id": "47774789",
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+      "points": 257,
+      "author": "snoofydude",
+      "created_at": 1776228420,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=47774789"
+    },
+    {
+      "id": "47778758",
+      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+      "url": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
+      "points": 255,
+      "author": "aphyr",
+      "created_at": 1776260051,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=47778758"
+    },
+    {
+      "id": "47779730",
+      "title": "Elevated errors on Claude.ai, API, Claude Code",
+      "url": "https://claudestatus.com/",
+      "points": 242,
+      "author": "redm",
+      "created_at": 1776264240,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=47779730"
+    },
+    {
+      "id": "47778086",
+      "title": "Do you even need a database?",
+      "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+      "points": 236,
+      "author": "upmostly",
+      "created_at": 1776255971,
+      "num_comments": 266,
+      "hn_url": "https://news.ycombinator.com/item?id=47778086"
+    },
+    {
+      "id": "47784045",
+      "title": "Why are Flock employees watching our children?",
+      "url": "https://substack.com/home/post/p-193593234",
+      "points": 235,
+      "author": "enaaem",
+      "created_at": 1776281452,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=47784045"
+    },
+    {
+      "id": "47775628",
+      "title": "Wacli \u2013 WhatsApp CLI",
+      "url": "https://github.com/steipete/wacli",
+      "points": 234,
+      "author": "dinakars777",
+      "created_at": 1776236685,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=47775628"
+    },
+    {
+      "id": "47785053",
+      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+      "url": "https://github.com/gastownhall/gastown/issues/3649",
+      "points": 230,
+      "author": "rektomatic",
+      "created_at": 1776286188,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=47785053"
     }
   ],
-  "last_updated": "2026-04-15T07:25:10.457249+00:00"
+  "last_updated": "2026-04-16T07:25:47.787309+00:00"
 }

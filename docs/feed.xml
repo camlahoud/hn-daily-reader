@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:25:47 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[274 pts] YouTube users get option to set their Shorts time limit to zero minutes</title>
+      <link>https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes</link>
+      <description>&lt;p&gt;&lt;strong&gt;274 points&lt;/strong&gt; by pentagrama | &lt;strong&gt;126 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47786791&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47786791</guid>
+      <pubDate>Wed, 15 Apr 2026 23:36:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[372 pts] The buns in McDonald's Japan's burger photos are all slightly askew</title>
+      <link>https://www.mcdonalds.co.jp/en/menu/burger/</link>
+      <description>&lt;p&gt;&lt;strong&gt;372 points&lt;/strong&gt; by bckygldstn | &lt;strong&gt;190 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47785738&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47785738</guid>
+      <pubDate>Wed, 15 Apr 2026 21:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[230 pts] Does Gas Town 'steal' usage from users' LLM credits to improve itself?</title>
+      <link>https://github.com/gastownhall/gastown/issues/3649</link>
+      <description>&lt;p&gt;&lt;strong&gt;230 points&lt;/strong&gt; by rektomatic | &lt;strong&gt;112 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47785053&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47785053</guid>
+      <pubDate>Wed, 15 Apr 2026 20:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[235 pts] Why are Flock employees watching our children?</title>
+      <link>https://substack.com/home/post/p-193593234</link>
+      <description>&lt;p&gt;&lt;strong&gt;235 points&lt;/strong&gt; by enaaem | &lt;strong&gt;44 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47784045&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47784045</guid>
+      <pubDate>Wed, 15 Apr 2026 19:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[269 pts] Ask HN: Who is using OpenClaw?</title>
+      <link>https://news.ycombinator.com/item?id=47783940</link>
+      <description>&lt;p&gt;&lt;strong&gt;269 points&lt;/strong&gt; by misterchocolat | &lt;strong&gt;322 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47783940&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47783940</guid>
+      <pubDate>Wed, 15 Apr 2026 19:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[513 pts] Live Nation illegally monopolized ticketing market, jury finds</title>
+      <link>https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds</link>
+      <description>&lt;p&gt;&lt;strong&gt;513 points&lt;/strong&gt; by Alex_Bond | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47783713&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47783713</guid>
+      <pubDate>Wed, 15 Apr 2026 19:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1370 pts] Google broke its promise to me – now ICE has my data</title>
+      <link>https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</link>
+      <description>&lt;p&gt;&lt;strong&gt;1370 points&lt;/strong&gt; by Brajeshwar | &lt;strong&gt;586 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47782570&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47782570</guid>
+      <pubDate>Wed, 15 Apr 2026 17:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[323 pts] Open Source Isn't Dead</title>
+      <link>https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</link>
+      <description>&lt;p&gt;&lt;strong&gt;323 points&lt;/strong&gt; by bearsyankees | &lt;strong&gt;170 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47780712&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47780712</guid>
+      <pubDate>Wed, 15 Apr 2026 15:43:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[285 pts] Cal.com is going closed source</title>
+      <link>https://cal.com/blog/cal-com-goes-closed-source-why</link>
+      <description>&lt;p&gt;&lt;strong&gt;285 points&lt;/strong&gt; by Benjamin_Dobell | &lt;strong&gt;204 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47780456&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47780456</guid>
+      <pubDate>Wed, 15 Apr 2026 15:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[242 pts] Elevated errors on Claude.ai, API, Claude Code</title>
+      <link>https://claudestatus.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;242 points&lt;/strong&gt; by redm | &lt;strong&gt;218 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47779730&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47779730</guid>
+      <pubDate>Wed, 15 Apr 2026 14:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[255 pts] The Future of Everything Is Lies, I Guess: New Jobs</title>
+      <link>https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs</link>
+      <description>&lt;p&gt;&lt;strong&gt;255 points&lt;/strong&gt; by aphyr | &lt;strong&gt;170 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47778758&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47778758</guid>
+      <pubDate>Wed, 15 Apr 2026 13:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[512 pts] God sleeps in the minerals</title>
+      <link>https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/</link>
+      <description>&lt;p&gt;&lt;strong&gt;512 points&lt;/strong&gt; by speckx | &lt;strong&gt;100 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47778475&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47778475</guid>
+      <pubDate>Wed, 15 Apr 2026 13:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[236 pts] Do you even need a database?</title>
+      <link>https://www.dbpro.app/blog/do-you-even-need-a-database</link>
+      <description>&lt;p&gt;&lt;strong&gt;236 points&lt;/strong&gt; by upmostly | &lt;strong&gt;266 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47778086&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47778086</guid>
+      <pubDate>Wed, 15 Apr 2026 12:26:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[404 pts] Backpacks got worse on purpose</title>
+      <link>https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose</link>
+      <description>&lt;p&gt;&lt;strong&gt;404 points&lt;/strong&gt; by 113 | &lt;strong&gt;369 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47777209&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47777209</guid>
+      <pubDate>Wed, 15 Apr 2026 10:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[480 pts] Want to write a compiler? Just read these two papers (2008)</title>
+      <link>https://prog21.dadgum.com/30.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;480 points&lt;/strong&gt; by downbad_ | &lt;strong&gt;144 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47776796&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47776796</guid>
+      <pubDate>Wed, 15 Apr 2026 09:41:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[388 pts] Good sleep, good learning, good life (2012)</title>
+      <link>https://super-memory.com/articles/sleep.htm</link>
+      <description>&lt;p&gt;&lt;strong&gt;388 points&lt;/strong&gt; by downbad_ | &lt;strong&gt;198 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47776557&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47776557</guid>
+      <pubDate>Wed, 15 Apr 2026 09:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[399 pts] Anna's Archive loses $322M Spotify piracy case without a fight</title>
+      <link>https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/</link>
+      <description>&lt;p&gt;&lt;strong&gt;399 points&lt;/strong&gt; by askl | &lt;strong&gt;400 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47776035&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47776035</guid>
+      <pubDate>Wed, 15 Apr 2026 08:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[234 pts] Wacli – WhatsApp CLI</title>
+      <link>https://github.com/steipete/wacli</link>
+      <description>&lt;p&gt;&lt;strong&gt;234 points&lt;/strong&gt; by dinakars777 | &lt;strong&gt;150 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47775628&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47775628</guid>
+      <pubDate>Wed, 15 Apr 2026 07:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[279 pts] Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference</title>
+      <link>https://www.gizmoweek.com/gemma-4-runs-iphone/</link>
+      <description>&lt;p&gt;&lt;strong&gt;279 points&lt;/strong&gt; by takumi123 | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47774971&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47774971</guid>
+      <pubDate>Wed, 15 Apr 2026 05:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[257 pts] Fixing a 20-year-old bug in Enlightenment E16</title>
+      <link>https://iczelia.net/posts/e16-20-year-old-bug/</link>
+      <description>&lt;p&gt;&lt;strong&gt;257 points&lt;/strong&gt; by snoofydude | &lt;strong&gt;157 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47774789&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47774789</guid>
+      <pubDate>Wed, 15 Apr 2026 04:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>[593 pts] Stop Flock</title>
       <link>https://stopflock.com</link>
