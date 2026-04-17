@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 07:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:26:31 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[228 pts] Everything we like is a psyop?</title>
+      <link>https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/</link>
+      <description>&lt;p&gt;&lt;strong&gt;228 points&lt;/strong&gt; by evo_9 | &lt;strong&gt;140 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47800738&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47800738</guid>
+      <pubDate>Thu, 16 Apr 2026 23:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[197 pts] New unsealed records reveal Amazon's price-fixing tactics, California AG claims</title>
+      <link>https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit</link>
+      <description>&lt;p&gt;&lt;strong&gt;197 points&lt;/strong&gt; by kmfrk | &lt;strong&gt;45 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47800166&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47800166</guid>
+      <pubDate>Thu, 16 Apr 2026 22:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[282 pts] The &quot;Passive Income&quot; trap ate a generation of entrepreneurs</title>
+      <link>https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;282 points&lt;/strong&gt; by devonnull | &lt;strong&gt;193 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47799120&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47799120</guid>
+      <pubDate>Thu, 16 Apr 2026 20:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[206 pts] Android CLI: Build Android apps 3x faster using any agent</title>
+      <link>https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;206 points&lt;/strong&gt; by ingve | &lt;strong&gt;73 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47797665&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47797665</guid>
+      <pubDate>Thu, 16 Apr 2026 18:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[381 pts] Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7</title>
+      <link>https://simonwillison.net/2026/Apr/16/qwen-beats-opus/</link>
+      <description>&lt;p&gt;&lt;strong&gt;381 points&lt;/strong&gt; by simonw | &lt;strong&gt;83 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47796830&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47796830</guid>
+      <pubDate>Thu, 16 Apr 2026 17:37:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[818 pts] Codex for almost everything</title>
+      <link>https://openai.com/index/codex-for-almost-everything/</link>
+      <description>&lt;p&gt;&lt;strong&gt;818 points&lt;/strong&gt; by mikeevans | &lt;strong&gt;413 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47796469&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47796469</guid>
+      <pubDate>Thu, 16 Apr 2026 17:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[193 pts] We gave an AI a 3 year retail lease and asked it to make a profit</title>
+      <link>https://andonlabs.com/blog/andon-market-launch</link>
+      <description>&lt;p&gt;&lt;strong&gt;193 points&lt;/strong&gt; by lukaspetersson | &lt;strong&gt;262 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47794391&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47794391</guid>
+      <pubDate>Thu, 16 Apr 2026 15:13:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[191 pts] Laravel raised money and now injects ads directly into your agent</title>
+      <link>https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/</link>
+      <description>&lt;p&gt;&lt;strong&gt;191 points&lt;/strong&gt; by mooreds | &lt;strong&gt;112 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47793926&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47793926</guid>
+      <pubDate>Thu, 16 Apr 2026 14:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1670 pts] Claude Opus 4.7</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-7</link>
+      <description>&lt;p&gt;&lt;strong&gt;1670 points&lt;/strong&gt; by meetpateltech | &lt;strong&gt;1186 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47793411&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47793411</guid>
+      <pubDate>Thu, 16 Apr 2026 14:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1030 pts] Qwen3.6-35B-A3B: Agentic coding power, now open to all</title>
+      <link>https://qwen.ai/blog?id=qwen3.6-35b-a3b</link>
+      <description>&lt;p&gt;&lt;strong&gt;1030 points&lt;/strong&gt; by cmitsakis | &lt;strong&gt;454 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47792764&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47792764</guid>
+      <pubDate>Thu, 16 Apr 2026 13:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[591 pts] The future of everything is lies, I guess: Where do we go from here?</title>
+      <link>https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</link>
+      <description>&lt;p&gt;&lt;strong&gt;591 points&lt;/strong&gt; by aphyr | &lt;strong&gt;619 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47792718&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47792718</guid>
+      <pubDate>Thu, 16 Apr 2026 13:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[437 pts] Cloudflare Email Service</title>
+      <link>https://blog.cloudflare.com/email-for-agents/</link>
+      <description>&lt;p&gt;&lt;strong&gt;437 points&lt;/strong&gt; by jilles | &lt;strong&gt;198 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47792593&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47792593</guid>
+      <pubDate>Thu, 16 Apr 2026 13:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[270 pts] Cloudflare's AI Platform: an inference layer designed for agents</title>
+      <link>https://blog.cloudflare.com/ai-platform/</link>
+      <description>&lt;p&gt;&lt;strong&gt;270 points&lt;/strong&gt; by nikitoci | &lt;strong&gt;61 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47792538&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47792538</guid>
+      <pubDate>Thu, 16 Apr 2026 13:17:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[345 pts] Mozilla Thunderbolt</title>
+      <link>https://www.thunderbolt.io/</link>
+      <description>&lt;p&gt;&lt;strong&gt;345 points&lt;/strong&gt; by dabinat | &lt;strong&gt;307 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47792368&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47792368</guid>
+      <pubDate>Thu, 16 Apr 2026 13:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[383 pts] €54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs</title>
+      <link>https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262</link>
+      <description>&lt;p&gt;&lt;strong&gt;383 points&lt;/strong&gt; by zanbezi | &lt;strong&gt;278 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47791871&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47791871</guid>
+      <pubDate>Thu, 16 Apr 2026 12:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[219 pts] AI cybersecurity is not proof of work</title>
+      <link>https://antirez.com/news/163</link>
+      <description>&lt;p&gt;&lt;strong&gt;219 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;84 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47791236&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47791236</guid>
+      <pubDate>Thu, 16 Apr 2026 10:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[235 pts] Codex Hacked a Samsung TV</title>
+      <link>https://blog.calif.io/p/codex-hacked-a-samsung-tv</link>
+      <description>&lt;p&gt;&lt;strong&gt;235 points&lt;/strong&gt; by campuscodi | &lt;strong&gt;127 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47791212&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47791212</guid>
+      <pubDate>Thu, 16 Apr 2026 10:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[479 pts] Darkbloom – Private inference on idle Macs</title>
+      <link>https://darkbloom.dev</link>
+      <description>&lt;p&gt;&lt;strong&gt;479 points&lt;/strong&gt; by twapi | &lt;strong&gt;237 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47788542&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47788542</guid>
+      <pubDate>Thu, 16 Apr 2026 04:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[375 pts] FSF trying to contact Google about spammer sending 10k+ mails from Gmail account</title>
+      <link>https://daedal.io/@thomzane/116410863009847575</link>
+      <description>&lt;p&gt;&lt;strong&gt;375 points&lt;/strong&gt; by pabs3 | &lt;strong&gt;216 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47788424&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47788424</guid>
+      <pubDate>Thu, 16 Apr 2026 03:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[618 pts] The local LLM ecosystem doesn’t need Ollama</title>
+      <link>https://sleepingrobots.com/dreams/stop-using-ollama/</link>
+      <description>&lt;p&gt;&lt;strong&gt;618 points&lt;/strong&gt; by Zetaphor | &lt;strong&gt;203 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47788385&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47788385</guid>
+      <pubDate>Thu, 16 Apr 2026 03:35:11 +0000</pubDate>
+    </item>
     <item>
       <title>[274 pts] YouTube users get option to set their Shorts time limit to zero minutes</title>
       <link>https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes</link>
