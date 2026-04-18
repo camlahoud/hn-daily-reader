@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:01:37 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[195 pts] Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD</title>
+      <link>https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/</link>
+      <description>&lt;p&gt;&lt;strong&gt;195 points&lt;/strong&gt; by breve | &lt;strong&gt;151 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47809347&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47809347</guid>
+      <pubDate>Fri, 17 Apr 2026 19:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[303 pts] All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder (2018)</title>
+      <link>https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon</link>
+      <description>&lt;p&gt;&lt;strong&gt;303 points&lt;/strong&gt; by cybermango | &lt;strong&gt;180 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47808913&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47808913</guid>
+      <pubDate>Fri, 17 Apr 2026 18:17:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[308 pts] Show HN: Smol machines – subsecond coldstart, portable virtual machines</title>
+      <link>https://github.com/smol-machines/smolvm</link>
+      <description>&lt;p&gt;&lt;strong&gt;308 points&lt;/strong&gt; by binsquare | &lt;strong&gt;93 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47808268&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47808268</guid>
+      <pubDate>Fri, 17 Apr 2026 17:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[177 pts] Show HN: PanicLock – Close your MacBook lid disable TouchID –&gt; password unlock</title>
+      <link>https://github.com/paniclock/paniclock/</link>
+      <description>&lt;p&gt;&lt;strong&gt;177 points&lt;/strong&gt; by seanieb | &lt;strong&gt;71 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47807809&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47807809</guid>
+      <pubDate>Fri, 17 Apr 2026 16:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[176 pts] Hyperscalers have already outspent most famous US megaprojects</title>
+      <link>https://twitter.com/finmoorhouse/status/2044933442236776794</link>
+      <description>&lt;p&gt;&lt;strong&gt;176 points&lt;/strong&gt; by nowflux | &lt;strong&gt;139 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47807619&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47807619</guid>
+      <pubDate>Fri, 17 Apr 2026 16:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[183 pts] Spending 3 months coding by hand</title>
+      <link>https://miguelconner.substack.com/p/im-coding-by-hand</link>
+      <description>&lt;p&gt;&lt;strong&gt;183 points&lt;/strong&gt; by evakhoury | &lt;strong&gt;188 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47807583&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47807583</guid>
+      <pubDate>Fri, 17 Apr 2026 16:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[260 pts] NASA Force</title>
+      <link>https://nasaforce.gov/</link>
+      <description>&lt;p&gt;&lt;strong&gt;260 points&lt;/strong&gt; by LorenDB | &lt;strong&gt;261 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47807209&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47807209</guid>
+      <pubDate>Fri, 17 Apr 2026 15:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[590 pts] Measuring Claude 4.7's tokenizer costs</title>
+      <link>https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you</link>
+      <description>&lt;p&gt;&lt;strong&gt;590 points&lt;/strong&gt; by aray07 | &lt;strong&gt;411 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47807006&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47807006</guid>
+      <pubDate>Fri, 17 Apr 2026 15:29:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[193 pts] NIST gives up enriching most CVEs</title>
+      <link>https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/</link>
+      <description>&lt;p&gt;&lt;strong&gt;193 points&lt;/strong&gt; by mooreds | &lt;strong&gt;46 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47806777&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47806777</guid>
+      <pubDate>Fri, 17 Apr 2026 15:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[986 pts] Claude Design</title>
+      <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
+      <description>&lt;p&gt;&lt;strong&gt;986 points&lt;/strong&gt; by meetpateltech | &lt;strong&gt;648 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47806725&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47806725</guid>
+      <pubDate>Fri, 17 Apr 2026 15:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[199 pts] Israel escalates attacks on medics in Lebanon with deadly 'quadruple tap'</title>
+      <link>https://www.theguardian.com/world/2026/apr/16/israel-escalates-attacks-on-medics-in-lebanon-with-deadly-quadruple-tap</link>
+      <description>&lt;p&gt;&lt;strong&gt;199 points&lt;/strong&gt; by tcp_handshaker | &lt;strong&gt;124 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47806596&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47806596</guid>
+      <pubDate>Fri, 17 Apr 2026 14:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[221 pts] Middle schooler finds coin from Troy in Berlin</title>
+      <link>https://www.thehistoryblog.com/archives/75848</link>
+      <description>&lt;p&gt;&lt;strong&gt;221 points&lt;/strong&gt; by speckx | &lt;strong&gt;100 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47806484&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47806484</guid>
+      <pubDate>Fri, 17 Apr 2026 14:41:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[164 pts] Healthchecks.io now uses self-hosted object storage</title>
+      <link>https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/</link>
+      <description>&lt;p&gt;&lt;strong&gt;164 points&lt;/strong&gt; by zdw | &lt;strong&gt;67 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47806348&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47806348</guid>
+      <pubDate>Fri, 17 Apr 2026 14:29:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[679 pts] Ban the sale of precise geolocation</title>
+      <link>https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation</link>
+      <description>&lt;p&gt;&lt;strong&gt;679 points&lt;/strong&gt; by hn_acker | &lt;strong&gt;173 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47806304&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47806304</guid>
+      <pubDate>Fri, 17 Apr 2026 14:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[697 pts] Isaac Asimov: The Last Question (1956)</title>
+      <link>https://hex.ooo/library/last_question.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;697 points&lt;/strong&gt; by ColinWright | &lt;strong&gt;277 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47804965&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47804965</guid>
+      <pubDate>Fri, 17 Apr 2026 12:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[261 pts] Ada, its design, and the language that built the languages</title>
+      <link>https://www.iqiipi.com/the-quiet-colossus.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;261 points&lt;/strong&gt; by mpweiher | &lt;strong&gt;181 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47803844&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47803844</guid>
+      <pubDate>Fri, 17 Apr 2026 08:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[180 pts] How Big Tech wrote secrecy into EU law to hide data centres' environmental toll</title>
+      <link>https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint</link>
+      <description>&lt;p&gt;&lt;strong&gt;180 points&lt;/strong&gt; by cyberlimerence | &lt;strong&gt;63 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47803745&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47803745</guid>
+      <pubDate>Fri, 17 Apr 2026 08:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[162 pts] Bluesky has been dealing with a DDoS attack for nearly a full day</title>
+      <link>https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day</link>
+      <description>&lt;p&gt;&lt;strong&gt;162 points&lt;/strong&gt; by dotmanish | &lt;strong&gt;86 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47802330&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47802330</guid>
+      <pubDate>Fri, 17 Apr 2026 03:59:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[210 pts] Discourse Is Not Going Closed Source</title>
+      <link>https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/</link>
+      <description>&lt;p&gt;&lt;strong&gt;210 points&lt;/strong&gt; by sams99 | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47802233&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47802233</guid>
+      <pubDate>Fri, 17 Apr 2026 03:36:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[385 pts] US Bill Mandates On-Device Age Verification</title>
+      <link>https://reclaimthenet.org/us-bill-mandates-on-device-age-verification</link>
+      <description>&lt;p&gt;&lt;strong&gt;385 points&lt;/strong&gt; by ronsor | &lt;strong&gt;315 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47801991&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47801991</guid>
+      <pubDate>Fri, 17 Apr 2026 02:50:02 +0000</pubDate>
+    </item>
     <item>
       <title>[228 pts] Everything we like is a psyop?</title>
       <link>https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/</link>

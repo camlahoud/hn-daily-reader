@@ -14639,7 +14639,207 @@
       "created_at": 1776351073,
       "num_comments": 112,
       "hn_url": "https://news.ycombinator.com/item?id=47793926"
+    },
+    {
+      "id": "47806725",
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "points": 986,
+      "author": "meetpateltech",
+      "created_at": 1776438249,
+      "num_comments": 648,
+      "hn_url": "https://news.ycombinator.com/item?id=47806725"
+    },
+    {
+      "id": "47804965",
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "url": "https://hex.ooo/library/last_question.html",
+      "points": 697,
+      "author": "ColinWright",
+      "created_at": 1776427279,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=47804965"
+    },
+    {
+      "id": "47806304",
+      "title": "Ban the sale of precise geolocation",
+      "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+      "points": 679,
+      "author": "hn_acker",
+      "created_at": 1776435946,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=47806304"
+    },
+    {
+      "id": "47807006",
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "points": 590,
+      "author": "aray07",
+      "created_at": 1776439776,
+      "num_comments": 411,
+      "hn_url": "https://news.ycombinator.com/item?id=47807006"
+    },
+    {
+      "id": "47801991",
+      "title": "US Bill Mandates On-Device Age Verification",
+      "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+      "points": 385,
+      "author": "ronsor",
+      "created_at": 1776394202,
+      "num_comments": 315,
+      "hn_url": "https://news.ycombinator.com/item?id=47801991"
+    },
+    {
+      "id": "47808268",
+      "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
+      "url": "https://github.com/smol-machines/smolvm",
+      "points": 308,
+      "author": "binsquare",
+      "created_at": 1776446338,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=47808268"
+    },
+    {
+      "id": "47808913",
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "points": 303,
+      "author": "cybermango",
+      "created_at": 1776449821,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=47808913"
+    },
+    {
+      "id": "47803844",
+      "title": "Ada, its design, and the language that built the languages",
+      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
+      "points": 261,
+      "author": "mpweiher",
+      "created_at": 1776415898,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=47803844"
+    },
+    {
+      "id": "47807209",
+      "title": "NASA Force",
+      "url": "https://nasaforce.gov/",
+      "points": 260,
+      "author": "LorenDB",
+      "created_at": 1776440861,
+      "num_comments": 261,
+      "hn_url": "https://news.ycombinator.com/item?id=47807209"
+    },
+    {
+      "id": "47806484",
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "points": 221,
+      "author": "speckx",
+      "created_at": 1776436909,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=47806484"
+    },
+    {
+      "id": "47802233",
+      "title": "Discourse Is Not Going Closed Source",
+      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "points": 210,
+      "author": "sams99",
+      "created_at": 1776396986,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47802233"
+    },
+    {
+      "id": "47806596",
+      "title": "Israel escalates attacks on medics in Lebanon with deadly 'quadruple tap'",
+      "url": "https://www.theguardian.com/world/2026/apr/16/israel-escalates-attacks-on-medics-in-lebanon-with-deadly-quadruple-tap",
+      "points": 199,
+      "author": "tcp_handshaker",
+      "created_at": 1776437591,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=47806596"
+    },
+    {
+      "id": "47809347",
+      "title": "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
+      "url": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
+      "points": 195,
+      "author": "breve",
+      "created_at": 1776452407,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=47809347"
+    },
+    {
+      "id": "47806777",
+      "title": "NIST gives up enriching most CVEs",
+      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "points": 193,
+      "author": "mooreds",
+      "created_at": 1776438554,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=47806777"
+    },
+    {
+      "id": "47807583",
+      "title": "Spending 3 months coding by hand",
+      "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "points": 183,
+      "author": "evakhoury",
+      "created_at": 1776442793,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=47807583"
+    },
+    {
+      "id": "47803745",
+      "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+      "url": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+      "points": 180,
+      "author": "cyberlimerence",
+      "created_at": 1776414774,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=47803745"
+    },
+    {
+      "id": "47807809",
+      "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
+      "url": "https://github.com/paniclock/paniclock/",
+      "points": 177,
+      "author": "seanieb",
+      "created_at": 1776443924,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=47807809"
+    },
+    {
+      "id": "47807619",
+      "title": "Hyperscalers have already outspent most famous US megaprojects",
+      "url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
+      "points": 176,
+      "author": "nowflux",
+      "created_at": 1776443002,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=47807619"
+    },
+    {
+      "id": "47806348",
+      "title": "Healthchecks.io now uses self-hosted object storage",
+      "url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
+      "points": 164,
+      "author": "zdw",
+      "created_at": 1776436151,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=47806348"
+    },
+    {
+      "id": "47802330",
+      "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+      "url": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+      "points": 162,
+      "author": "dotmanish",
+      "created_at": 1776398362,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47802330"
     }
   ],
-  "last_updated": "2026-04-17T07:26:31.508295+00:00"
+  "last_updated": "2026-04-18T07:01:37.705797+00:00"
 }
