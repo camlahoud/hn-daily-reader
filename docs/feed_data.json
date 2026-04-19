@@ -14839,7 +14839,187 @@
       "created_at": 1776398362,
       "num_comments": 86,
       "hn_url": "https://news.ycombinator.com/item?id=47802330"
+    },
+    {
+      "id": "47815774",
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "points": 742,
+      "author": "yusufusta",
+      "created_at": 1776518944,
+      "num_comments": 375,
+      "hn_url": "https://news.ycombinator.com/item?id=47815774"
+    },
+    {
+      "id": "47816960",
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "url": "https://tokens.billchambers.me/leaderboard",
+      "points": 492,
+      "author": "anabranch",
+      "created_at": 1776528343,
+      "num_comments": 490,
+      "hn_url": "https://news.ycombinator.com/item?id=47816960"
+    },
+    {
+      "id": "47815395",
+      "title": "Why Japan has such good railways",
+      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+      "points": 373,
+      "author": "RickJWagner",
+      "created_at": 1776515346,
+      "num_comments": 358,
+      "hn_url": "https://news.ycombinator.com/item?id=47815395"
+    },
+    {
+      "id": "47815118",
+      "title": "State of Kdenlive",
+      "url": "https://kdenlive.org/news/2026/state-2026/",
+      "points": 372,
+      "author": "f_r_d",
+      "created_at": 1776512557,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=47815118"
+    },
+    {
+      "id": "47817132",
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "points": 312,
+      "author": "NelsonMinar",
+      "created_at": 1776529607,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=47817132"
+    },
+    {
+      "id": "47812341",
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "url": "https://victorpoughon.github.io/interval-calculator/",
+      "points": 298,
+      "author": "fouronnes3",
+      "created_at": 1776474943,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47812341"
+    },
+    {
+      "id": "47818305",
+      "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
+      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+      "points": 290,
+      "author": "trocado",
+      "created_at": 1776537367,
+      "num_comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=47818305"
+    },
+    {
+      "id": "47818700",
+      "title": "Thoughts and feelings around Claude Design",
+      "url": "https://samhenri.gold/blog/20260418-claude-design/",
+      "points": 283,
+      "author": "cdrnsf",
+      "created_at": 1776539964,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=47818700"
+    },
+    {
+      "id": "47819453",
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "points": 273,
+      "author": "rbanffy",
+      "created_at": 1776545657,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=47819453"
+    },
+    {
+      "id": "47813566",
+      "title": "Amiga Graphics Archive",
+      "url": "https://amiga.lychesis.net/",
+      "points": 246,
+      "author": "sph",
+      "created_at": 1776493204,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=47813566"
+    },
+    {
+      "id": "47818485",
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "points": 242,
+      "author": "gnabgib",
+      "created_at": 1776538800,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=47818485"
+    },
+    {
+      "id": "47813668",
+      "title": "Category Theory Illustrated \u2013 Orders",
+      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+      "points": 238,
+      "author": "boris_m",
+      "created_at": 1776494447,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=47813668"
+    },
+    {
+      "id": "47815127",
+      "title": "The quiet disappearance of the free-range childhood",
+      "url": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
+      "points": 212,
+      "author": "sylvainkalache",
+      "created_at": 1776512637,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=47815127"
+    },
+    {
+      "id": "47820531",
+      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+      "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+      "points": 145,
+      "author": "sohkamyung",
+      "created_at": 1776556065,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=47820531"
+    },
+    {
+      "id": "47816878",
+      "title": "Amazon is discontinuing Kindle for PC on June 30th",
+      "url": "https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th",
+      "points": 139,
+      "author": "tech234a",
+      "created_at": 1776527677,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=47816878"
+    },
+    {
+      "id": "47820046",
+      "title": "Dad brains: How fatherhood rewires the male mind",
+      "url": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
+      "points": 126,
+      "author": "tchalla",
+      "created_at": 1776551087,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47820046"
+    },
+    {
+      "id": "47817349",
+      "title": "PgQue: Zero-Bloat Postgres Queue",
+      "url": "https://github.com/NikolayS/pgque",
+      "points": 109,
+      "author": "gmcabrita",
+      "created_at": 1776531046,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=47817349"
+    },
+    {
+      "id": "47816629",
+      "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
+      "url": "https://github.com/drasimwagan/mdv",
+      "points": 108,
+      "author": "drasim",
+      "created_at": 1776525879,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=47816629"
     }
   ],
-  "last_updated": "2026-04-18T07:01:37.705797+00:00"
+  "last_updated": "2026-04-19T07:13:17.164157+00:00"
 }

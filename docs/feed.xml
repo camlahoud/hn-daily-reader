@@ -5,8 +5,152 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:13:17 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[145 pts] NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating</title>
+      <link>https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/</link>
+      <description>&lt;p&gt;&lt;strong&gt;145 points&lt;/strong&gt; by sohkamyung | &lt;strong&gt;66 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47820531&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47820531</guid>
+      <pubDate>Sat, 18 Apr 2026 23:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[126 pts] Dad brains: How fatherhood rewires the male mind</title>
+      <link>https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare</link>
+      <description>&lt;p&gt;&lt;strong&gt;126 points&lt;/strong&gt; by tchalla | &lt;strong&gt;97 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47820046&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47820046</guid>
+      <pubDate>Sat, 18 Apr 2026 22:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[273 pts] NIST scientists create 'any wavelength' lasers</title>
+      <link>https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits</link>
+      <description>&lt;p&gt;&lt;strong&gt;273 points&lt;/strong&gt; by rbanffy | &lt;strong&gt;119 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47819453&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47819453</guid>
+      <pubDate>Sat, 18 Apr 2026 20:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[283 pts] Thoughts and feelings around Claude Design</title>
+      <link>https://samhenri.gold/blog/20260418-claude-design/</link>
+      <description>&lt;p&gt;&lt;strong&gt;283 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;185 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47818700&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47818700</guid>
+      <pubDate>Sat, 18 Apr 2026 19:19:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[242 pts] College instructor turns to typewriters to curb AI-written work</title>
+      <link>https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/</link>
+      <description>&lt;p&gt;&lt;strong&gt;242 points&lt;/strong&gt; by gnabgib | &lt;strong&gt;212 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47818485&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47818485</guid>
+      <pubDate>Sat, 18 Apr 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[290 pts] Traders placed over $1B in perfectly timed bets on the Iran war</title>
+      <link>https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns</link>
+      <description>&lt;p&gt;&lt;strong&gt;290 points&lt;/strong&gt; by trocado | &lt;strong&gt;201 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47818305&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47818305</guid>
+      <pubDate>Sat, 18 Apr 2026 18:36:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[109 pts] PgQue: Zero-Bloat Postgres Queue</title>
+      <link>https://github.com/NikolayS/pgque</link>
+      <description>&lt;p&gt;&lt;strong&gt;109 points&lt;/strong&gt; by gmcabrita | &lt;strong&gt;30 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47817349&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47817349</guid>
+      <pubDate>Sat, 18 Apr 2026 16:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[312 pts] The electromechanical angle computer inside the B-52 bomber's star tracker</title>
+      <link>https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;312 points&lt;/strong&gt; by NelsonMinar | &lt;strong&gt;88 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47817132&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47817132</guid>
+      <pubDate>Sat, 18 Apr 2026 16:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[492 pts] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7</title>
+      <link>https://tokens.billchambers.me/leaderboard</link>
+      <description>&lt;p&gt;&lt;strong&gt;492 points&lt;/strong&gt; by anabranch | &lt;strong&gt;490 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47816960&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47816960</guid>
+      <pubDate>Sat, 18 Apr 2026 16:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[139 pts] Amazon is discontinuing Kindle for PC on June 30th</title>
+      <link>https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th</link>
+      <description>&lt;p&gt;&lt;strong&gt;139 points&lt;/strong&gt; by tech234a | &lt;strong&gt;120 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47816878&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47816878</guid>
+      <pubDate>Sat, 18 Apr 2026 15:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[108 pts] Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data</title>
+      <link>https://github.com/drasimwagan/mdv</link>
+      <description>&lt;p&gt;&lt;strong&gt;108 points&lt;/strong&gt; by drasim | &lt;strong&gt;41 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47816629&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47816629</guid>
+      <pubDate>Sat, 18 Apr 2026 15:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[742 pts] Migrating from DigitalOcean to Hetzner</title>
+      <link>https://isayeter.com/posts/digitalocean-to-hetzner-migration/</link>
+      <description>&lt;p&gt;&lt;strong&gt;742 points&lt;/strong&gt; by yusufusta | &lt;strong&gt;375 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47815774&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47815774</guid>
+      <pubDate>Sat, 18 Apr 2026 13:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[373 pts] Why Japan has such good railways</title>
+      <link>https://worksinprogress.co/issue/why-japan-has-such-good-railways/</link>
+      <description>&lt;p&gt;&lt;strong&gt;373 points&lt;/strong&gt; by RickJWagner | &lt;strong&gt;358 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47815395&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47815395</guid>
+      <pubDate>Sat, 18 Apr 2026 12:29:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[212 pts] The quiet disappearance of the free-range childhood</title>
+      <link>https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/</link>
+      <description>&lt;p&gt;&lt;strong&gt;212 points&lt;/strong&gt; by sylvainkalache | &lt;strong&gt;228 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47815127&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47815127</guid>
+      <pubDate>Sat, 18 Apr 2026 11:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[372 pts] State of Kdenlive</title>
+      <link>https://kdenlive.org/news/2026/state-2026/</link>
+      <description>&lt;p&gt;&lt;strong&gt;372 points&lt;/strong&gt; by f_r_d | &lt;strong&gt;119 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47815118&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47815118</guid>
+      <pubDate>Sat, 18 Apr 2026 11:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[238 pts] Category Theory Illustrated – Orders</title>
+      <link>https://abuseofnotation.github.io/category-theory-illustrated/04_order/</link>
+      <description>&lt;p&gt;&lt;strong&gt;238 points&lt;/strong&gt; by boris_m | &lt;strong&gt;61 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47813668&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47813668</guid>
+      <pubDate>Sat, 18 Apr 2026 06:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[246 pts] Amiga Graphics Archive</title>
+      <link>https://amiga.lychesis.net/</link>
+      <description>&lt;p&gt;&lt;strong&gt;246 points&lt;/strong&gt; by sph | &lt;strong&gt;77 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47813566&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47813566</guid>
+      <pubDate>Sat, 18 Apr 2026 06:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[298 pts] Show HN: I made a calculator that works over disjoint sets of intervals</title>
+      <link>https://victorpoughon.github.io/interval-calculator/</link>
+      <description>&lt;p&gt;&lt;strong&gt;298 points&lt;/strong&gt; by fouronnes3 | &lt;strong&gt;50 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47812341&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47812341</guid>
+      <pubDate>Sat, 18 Apr 2026 01:15:43 +0000</pubDate>
+    </item>
     <item>
       <title>[195 pts] Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD</title>
       <link>https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/</link>
