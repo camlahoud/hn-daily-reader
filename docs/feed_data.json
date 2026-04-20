@@ -15019,7 +15019,207 @@
       "created_at": 1776525879,
       "num_comments": 41,
       "hn_url": "https://news.ycombinator.com/item?id=47816629"
+    },
+    {
+      "id": "47824463",
+      "title": "Vercel April 2026 security incident",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "points": 716,
+      "author": "colesantiago",
+      "created_at": 1776608078,
+      "num_comments": 406,
+      "hn_url": "https://news.ycombinator.com/item?id=47824463"
+    },
+    {
+      "id": "47824976",
+      "title": "Vercel says internal systems hit in breach",
+      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+      "points": 377,
+      "author": "whiteyford",
+      "created_at": 1776612219,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47824976"
+    },
+    {
+      "id": "47824945",
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "points": 366,
+      "author": "Tiberium",
+      "created_at": 1776612001,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47824945"
+    },
+    {
+      "id": "47822486",
+      "title": "The seven programming ur-languages (2022)",
+      "url": "https://madhadron.com/programming/seven_ur_languages.html",
+      "points": 327,
+      "author": "helloplanets",
+      "created_at": 1776584288,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=47822486"
+    },
+    {
+      "id": "47823270",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "points": 304,
+      "author": "pretext",
+      "created_at": 1776594989,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=47823270"
+    },
+    {
+      "id": "47822414",
+      "title": "The RAM shortage could last years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "points": 276,
+      "author": "omer_k",
+      "created_at": 1776583124,
+      "num_comments": 307,
+      "hn_url": "https://news.ycombinator.com/item?id=47822414"
+    },
+    {
+      "id": "47824068",
+      "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+      "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+      "points": 268,
+      "author": "aa_is_op",
+      "created_at": 1776604389,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=47824068"
+    },
+    {
+      "id": "47822940",
+      "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+      "url": "https://news.ycombinator.com/item?id=47822940",
+      "points": 258,
+      "author": "modelcroissant",
+      "created_at": 1776590232,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=47822940"
+    },
+    {
+      "id": "47821429",
+      "title": "The world in which IPv6 was a good design (2017)",
+      "url": "https://apenwarr.ca/log/20170810",
+      "points": 219,
+      "author": "signa11",
+      "created_at": 1776567043,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=47821429"
+    },
+    {
+      "id": "47824403",
+      "title": "The creative software industry has declared war on Adobe",
+      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "points": 210,
+      "author": "tambourine_man",
+      "created_at": 1776607549,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=47824403"
+    },
+    {
+      "id": "47827383",
+      "title": "Swiss authorities want to reduce dependency on Microsoft",
+      "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+      "points": 210,
+      "author": "doener",
+      "created_at": 1776630329,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47827383"
+    },
+    {
+      "id": "47825160",
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "points": 209,
+      "author": "Brajeshwar",
+      "created_at": 1776613720,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47825160"
+    },
+    {
+      "id": "47826100",
+      "title": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "points": 196,
+      "author": "crescit_eundo",
+      "created_at": 1776620643,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47826100"
+    },
+    {
+      "id": "47827259",
+      "title": "Stop trying to engineer your way out of listening to people",
+      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "points": 185,
+      "author": "walterbell",
+      "created_at": 1776629349,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=47827259"
+    },
+    {
+      "id": "47822356",
+      "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+      "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+      "points": 179,
+      "author": "nobody9999",
+      "created_at": 1776582317,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=47822356"
+    },
+    {
+      "id": "47822805",
+      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+      "points": 176,
+      "author": "Eridanus2",
+      "created_at": 1776588348,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=47822805"
+    },
+    {
+      "id": "47822734",
+      "title": "A Brief History of Fish Sauce",
+      "url": "https://www.legalnomads.com/fish-sauce/",
+      "points": 169,
+      "author": "vinhnx",
+      "created_at": 1776587573,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=47822734"
+    },
+    {
+      "id": "47828420",
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "url": "https://mxmap.ch/",
+      "points": 162,
+      "author": "doener",
+      "created_at": 1776639347,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=47828420"
+    },
+    {
+      "id": "47828225",
+      "title": "Ex-CEO, ex-CFO of iLearningEngines charged with fraud",
+      "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+      "points": 153,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1776637819,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=47828225"
+    },
+    {
+      "id": "47824681",
+      "title": "Notes from the SF peptide scene",
+      "url": "https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene",
+      "points": 130,
+      "author": "theahura",
+      "created_at": 1776609787,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=47824681"
     }
   ],
-  "last_updated": "2026-04-19T07:13:17.164157+00:00"
+  "last_updated": "2026-04-20T08:00:02.480644+00:00"
 }
