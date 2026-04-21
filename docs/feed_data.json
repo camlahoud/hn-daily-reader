@@ -15219,7 +15219,207 @@
       "created_at": 1776609787,
       "num_comments": 134,
       "hn_url": "https://news.ycombinator.com/item?id=47824681"
+    },
+    {
+      "id": "47840219",
+      "title": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "points": 1646,
+      "author": "schappim",
+      "created_at": 1776717572,
+      "num_comments": 811,
+      "hn_url": "https://news.ycombinator.com/item?id=47840219"
+    },
+    {
+      "id": "47834195",
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "points": 1171,
+      "author": "ramonga",
+      "created_at": 1776692485,
+      "num_comments": 977,
+      "hn_url": "https://news.ycombinator.com/item?id=47834195"
+    },
+    {
+      "id": "47831621",
+      "title": "GitHub's fake star economy",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "points": 766,
+      "author": "Liriel",
+      "created_at": 1776673612,
+      "num_comments": 360,
+      "hn_url": "https://news.ycombinator.com/item?id=47831621"
+    },
+    {
+      "id": "47835735",
+      "title": "Kimi K2.6: Advancing open-source coding",
+      "url": "https://www.kimi.com/blog/kimi-k2-6",
+      "points": 638,
+      "author": "meetpateltech",
+      "created_at": 1776698893,
+      "num_comments": 331,
+      "hn_url": "https://news.ycombinator.com/item?id=47835735"
+    },
+    {
+      "id": "47834565",
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "points": 607,
+      "author": "mfiguiere",
+      "created_at": 1776693934,
+      "num_comments": 320,
+      "hn_url": "https://news.ycombinator.com/item?id=47834565"
+    },
+    {
+      "id": "47837611",
+      "title": "At long last, InfoWars is ours",
+      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "points": 574,
+      "author": "HotGarbage",
+      "created_at": 1776705838,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=47837611"
+    },
+    {
+      "id": "47833247",
+      "title": "Atlassian enables default data collection to train AI",
+      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "points": 561,
+      "author": "kevcampb",
+      "created_at": 1776687819,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=47833247"
+    },
+    {
+      "id": "47832222",
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+      "points": 457,
+      "author": "Palmik",
+      "created_at": 1776679235,
+      "num_comments": 319,
+      "hn_url": "https://news.ycombinator.com/item?id=47832222"
+    },
+    {
+      "id": "47834184",
+      "title": "Sauna effect on heart rate",
+      "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+      "points": 411,
+      "author": "kyriakosel",
+      "created_at": 1776692428,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=47834184"
+    },
+    {
+      "id": "47833558",
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "points": 400,
+      "author": "thomasp85",
+      "created_at": 1776689480,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=47833558"
+    },
+    {
+      "id": "47839951",
+      "title": "AI Resistance: some recent anti-AI stuff that\u2019s worth discussing",
+      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "points": 351,
+      "author": "speckx",
+      "created_at": 1776716353,
+      "num_comments": 341,
+      "hn_url": "https://news.ycombinator.com/item?id=47839951"
+    },
+    {
+      "id": "47835928",
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "points": 337,
+      "author": "FiddlerClamp",
+      "created_at": 1776699662,
+      "num_comments": 338,
+      "hn_url": "https://news.ycombinator.com/item?id=47835928"
+    },
+    {
+      "id": "47833156",
+      "title": "Tesla concealed fatal accidents to continue testing autonomous driving",
+      "url": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
+      "points": 314,
+      "author": "doener",
+      "created_at": 1776687139,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=47833156"
+    },
+    {
+      "id": "47835775",
+      "title": "Not buying another Kindle",
+      "url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
+      "points": 304,
+      "author": "mikhael",
+      "created_at": 1776699017,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=47835775"
+    },
+    {
+      "id": "47836730",
+      "title": "We accepted surveillance as default",
+      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+      "points": 302,
+      "author": "speckx",
+      "created_at": 1776702865,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47836730"
+    },
+    {
+      "id": "47829486",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po",
+      "points": 297,
+      "author": "blondie9x",
+      "created_at": 1776649835,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=47829486"
+    },
+    {
+      "id": "47831437",
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "points": 285,
+      "author": "feigewalnuss",
+      "created_at": 1776671388,
+      "num_comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=47831437"
+    },
+    {
+      "id": "47832248",
+      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+      "points": 278,
+      "author": "Someone",
+      "created_at": 1776679480,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=47832248"
+    },
+    {
+      "id": "47840980",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \u201cprompt relevance\u201d",
+      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "points": 262,
+      "author": "jlark77777",
+      "created_at": 1776720052,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=47840980"
+    },
+    {
+      "id": "47839835",
+      "title": "F-35 is built for the wrong war",
+      "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+      "points": 254,
+      "author": "anjel",
+      "created_at": 1776715655,
+      "num_comments": 521,
+      "hn_url": "https://news.ycombinator.com/item?id=47839835"
     }
   ],
-  "last_updated": "2026-04-20T08:00:02.480644+00:00"
+  "last_updated": "2026-04-21T07:28:58.439536+00:00"
 }
