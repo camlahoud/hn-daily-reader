@@ -15419,7 +15419,207 @@
       "created_at": 1776715655,
       "num_comments": 521,
       "hn_url": "https://news.ycombinator.com/item?id=47839835"
+    },
+    {
+      "id": "47852177",
+      "title": "Framework Laptop 13 Pro",
+      "url": "https://frame.work/laptop13pro",
+      "points": 1176,
+      "author": "Trollmann",
+      "created_at": 1776794434,
+      "num_comments": 593,
+      "hn_url": "https://news.ycombinator.com/item?id=47852177"
+    },
+    {
+      "id": "47847179",
+      "title": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "points": 945,
+      "author": "milanm081",
+      "created_at": 1776769496,
+      "num_comments": 452,
+      "hn_url": "https://news.ycombinator.com/item?id=47847179"
+    },
+    {
+      "id": "47852835",
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "points": 732,
+      "author": "wahnfrieden",
+      "created_at": 1776797400,
+      "num_comments": 560,
+      "hn_url": "https://news.ycombinator.com/item?id=47852835"
+    },
+    {
+      "id": "47855293",
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "points": 523,
+      "author": "dmarcos",
+      "created_at": 1776809598,
+      "num_comments": 640,
+      "hn_url": "https://news.ycombinator.com/item?id=47855293"
+    },
+    {
+      "id": "47854477",
+      "title": "Claude Code to be removed from Anthropic's Pro plan?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "points": 515,
+      "author": "JamesMcMinn",
+      "created_at": 1776805384,
+      "num_comments": 498,
+      "hn_url": "https://news.ycombinator.com/item?id=47854477"
+    },
+    {
+      "id": "47851948",
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "points": 490,
+      "author": "dlx",
+      "created_at": 1776793239,
+      "num_comments": 366,
+      "hn_url": "https://news.ycombinator.com/item?id=47851948"
+    },
+    {
+      "id": "47844269",
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "points": 487,
+      "author": "jmsflknr",
+      "created_at": 1776742983,
+      "num_comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=47844269"
+    },
+    {
+      "id": "47847324",
+      "title": "Tim Cook's Impeccable Timing",
+      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "points": 326,
+      "author": "hasheddan",
+      "created_at": 1776771003,
+      "num_comments": 392,
+      "hn_url": "https://news.ycombinator.com/item?id=47847324"
+    },
+    {
+      "id": "47851634",
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "points": 304,
+      "author": "queenelvis",
+      "created_at": 1776791675,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=47851634"
+    },
+    {
+      "id": "47844431",
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "points": 279,
+      "author": "bishwasbh",
+      "created_at": 1776744732,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=47844431"
+    },
+    {
+      "id": "47851885",
+      "title": "Britannica11.org \u2013 a structured edition of the 1911 Encyclop\u00e6dia Britannica",
+      "url": "https://britannica11.org/",
+      "points": 271,
+      "author": "ahaspel",
+      "created_at": 1776792830,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47851885"
+    },
+    {
+      "id": "47848276",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "points": 270,
+      "author": "Brajeshwar",
+      "created_at": 1776776905,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=47848276"
+    },
+    {
+      "id": "47847558",
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "url": "https://vidstudio.app/video-editor",
+      "points": 269,
+      "author": "kolx",
+      "created_at": 1776772696,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47847558"
+    },
+    {
+      "id": "47855565",
+      "title": "Claude Code to be removed from Pro Tier?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "points": 263,
+      "author": "johnduhart",
+      "created_at": 1776810984,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47855565"
+    },
+    {
+      "id": "47849854",
+      "title": "Original GrapheneOS responses to WIRED fact checker",
+      "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
+      "points": 252,
+      "author": "ChrisArchitect",
+      "created_at": 1776783864,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=47849854"
+    },
+    {
+      "id": "47843194",
+      "title": "How to make a fast dynamic language interpreter",
+      "url": "https://zef-lang.dev/implementation",
+      "points": 244,
+      "author": "pizlonator",
+      "created_at": 1776732487,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=47843194"
+    },
+    {
+      "id": "47847124",
+      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+      "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+      "points": 226,
+      "author": "kirschner",
+      "created_at": 1776769073,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=47847124"
+    },
+    {
+      "id": "47854051",
+      "title": "I don't want your PRs anymore",
+      "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+      "points": 218,
+      "author": "speckx",
+      "created_at": 1776802900,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=47854051"
+    },
+    {
+      "id": "47844797",
+      "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
+      "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
+      "points": 218,
+      "author": "hebelehubele",
+      "created_at": 1776748523,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=47844797"
+    },
+    {
+      "id": "47849221",
+      "title": "Brands got worse on purpose",
+      "url": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
+      "points": 214,
+      "author": "neon_electro",
+      "created_at": 1776781189,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=47849221"
     }
   ],
-  "last_updated": "2026-04-21T07:28:58.439536+00:00"
+  "last_updated": "2026-04-22T07:26:38.711559+00:00"
 }
