@@ -15619,7 +15619,207 @@
       "created_at": 1776781189,
       "num_comments": 164,
       "hn_url": "https://news.ycombinator.com/item?id=47849221"
+    },
+    {
+      "id": "47865868",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "points": 1678,
+      "author": "Kaibeezy",
+      "created_at": 1776875365,
+      "num_comments": 534,
+      "hn_url": "https://news.ycombinator.com/item?id=47865868"
+    },
+    {
+      "id": "47861270",
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "points": 941,
+      "author": "sohkamyung",
+      "created_at": 1776851572,
+      "num_comments": 221,
+      "hn_url": "https://news.ycombinator.com/item?id=47861270"
+    },
+    {
+      "id": "47863217",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "points": 816,
+      "author": "mfiguiere",
+      "created_at": 1776863998,
+      "num_comments": 382,
+      "hn_url": "https://news.ycombinator.com/item?id=47863217"
+    },
+    {
+      "id": "47866697",
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "points": 647,
+      "author": "danpinto",
+      "created_at": 1776879303,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=47866697"
+    },
+    {
+      "id": "47868867",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "points": 545,
+      "author": "cdrnsf",
+      "created_at": 1776889651,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=47868867"
+    },
+    {
+      "id": "47862331",
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "url": "https://cli.github.com/telemetry",
+      "points": 437,
+      "author": "ingve",
+      "created_at": 1776859138,
+      "num_comments": 321,
+      "hn_url": "https://news.ycombinator.com/item?id=47862331"
+    },
+    {
+      "id": "47862497",
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "points": 430,
+      "author": "xnx",
+      "created_at": 1776860129,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=47862497"
+    },
+    {
+      "id": "47866913",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "points": 351,
+      "author": "pella",
+      "created_at": 1776880277,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=47866913"
+    },
+    {
+      "id": "47857461",
+      "title": "Tell HN: I'm sick of AI everything",
+      "url": "https://news.ycombinator.com/item?id=47857461",
+      "points": 327,
+      "author": "jonthepirate",
+      "created_at": 1776820770,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=47857461"
+    },
+    {
+      "id": "47862386",
+      "title": "3.4M Solar Panels",
+      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "points": 306,
+      "author": "marklit",
+      "created_at": 1776859470,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=47862386"
+    },
+    {
+      "id": "47864393",
+      "title": "Scoring Show HN submissions for AI design patterns",
+      "url": "https://www.adriankrebs.ch/blog/design-slop/",
+      "points": 304,
+      "author": "hubraumhugo",
+      "created_at": 1776869072,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=47864393"
+    },
+    {
+      "id": "47865661",
+      "title": "Technical, cognitive, and intent debt",
+      "url": "https://martinfowler.com/fragments/2026-04-02.html",
+      "points": 255,
+      "author": "theorchid",
+      "created_at": 1776874283,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=47865661"
+    },
+    {
+      "id": "47867048",
+      "title": "Website streamed live directly from a model",
+      "url": "https://flipbook.page/",
+      "points": 249,
+      "author": "sethbannon",
+      "created_at": 1776880878,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=47867048"
+    },
+    {
+      "id": "47861087",
+      "title": "How does GPS work?",
+      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "points": 232,
+      "author": "alfanick",
+      "created_at": 1776849725,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=47861087"
+    },
+    {
+      "id": "47863324",
+      "title": "Ultraviolet corona discharges on treetops during storms",
+      "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+      "points": 228,
+      "author": "t-3",
+      "created_at": 1776864520,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=47863324"
+    },
+    {
+      "id": "47858246",
+      "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
+      "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+      "points": 223,
+      "author": "ineedasername",
+      "created_at": 1776826180,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=47858246"
+    },
+    {
+      "id": "47860742",
+      "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
+      "url": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+      "points": 222,
+      "author": "jjgreen",
+      "created_at": 1776846797,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=47860742"
+    },
+    {
+      "id": "47857477",
+      "title": "San Diego rents declined following surge in supply",
+      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
+      "points": 217,
+      "author": "littlexsparkee",
+      "created_at": 1776820869,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=47857477"
+    },
+    {
+      "id": "47866750",
+      "title": "Parallel agents in Zed",
+      "url": "https://zed.dev/blog/parallel-agents",
+      "points": 216,
+      "author": "ajeetdsouza",
+      "created_at": 1776879537,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=47866750"
+    },
+    {
+      "id": "47865622",
+      "title": "Youth Suicides Declined After Creation of National Hotline",
+      "url": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+      "points": 214,
+      "author": "marojejian",
+      "created_at": 1776874076,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=47865622"
     }
   ],
-  "last_updated": "2026-04-22T07:26:38.711559+00:00"
+  "last_updated": "2026-04-23T07:44:53.590107+00:00"
 }

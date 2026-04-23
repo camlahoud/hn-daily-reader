@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:44:53 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[545 pts] Apple fixes bug that cops used to extract deleted chat messages from iPhones</title>
+      <link>https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/</link>
+      <description>&lt;p&gt;&lt;strong&gt;545 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;134 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47868867&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47868867</guid>
+      <pubDate>Wed, 22 Apr 2026 20:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[249 pts] Website streamed live directly from a model</title>
+      <link>https://flipbook.page/</link>
+      <description>&lt;p&gt;&lt;strong&gt;249 points&lt;/strong&gt; by sethbannon | &lt;strong&gt;72 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47867048&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47867048</guid>
+      <pubDate>Wed, 22 Apr 2026 18:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[351 pts] Over-editing refers to a model modifying code beyond what is necessary</title>
+      <link>https://nrehiew.github.io/blog/minimal_editing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;351 points&lt;/strong&gt; by pella | &lt;strong&gt;197 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47866913&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47866913</guid>
+      <pubDate>Wed, 22 Apr 2026 17:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[216 pts] Parallel agents in Zed</title>
+      <link>https://zed.dev/blog/parallel-agents</link>
+      <description>&lt;p&gt;&lt;strong&gt;216 points&lt;/strong&gt; by ajeetdsouza | &lt;strong&gt;120 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47866750&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47866750</guid>
+      <pubDate>Wed, 22 Apr 2026 17:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[647 pts] We found a stable Firefox identifier linking all your private Tor identities</title>
+      <link>https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/</link>
+      <description>&lt;p&gt;&lt;strong&gt;647 points&lt;/strong&gt; by danpinto | &lt;strong&gt;176 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47866697&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47866697</guid>
+      <pubDate>Wed, 22 Apr 2026 17:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1678 pts] Alberta startup sells no-tech tractors for half price</title>
+      <link>https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1678 points&lt;/strong&gt; by Kaibeezy | &lt;strong&gt;534 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47865868&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47865868</guid>
+      <pubDate>Wed, 22 Apr 2026 16:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[255 pts] Technical, cognitive, and intent debt</title>
+      <link>https://martinfowler.com/fragments/2026-04-02.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;255 points&lt;/strong&gt; by theorchid | &lt;strong&gt;64 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47865661&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47865661</guid>
+      <pubDate>Wed, 22 Apr 2026 16:11:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[214 pts] Youth Suicides Declined After Creation of National Hotline</title>
+      <link>https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;214 points&lt;/strong&gt; by marojejian | &lt;strong&gt;137 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47865622&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47865622</guid>
+      <pubDate>Wed, 22 Apr 2026 16:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[304 pts] Scoring Show HN submissions for AI design patterns</title>
+      <link>https://www.adriankrebs.ch/blog/design-slop/</link>
+      <description>&lt;p&gt;&lt;strong&gt;304 points&lt;/strong&gt; by hubraumhugo | &lt;strong&gt;215 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47864393&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47864393</guid>
+      <pubDate>Wed, 22 Apr 2026 14:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[228 pts] Ultraviolet corona discharges on treetops during storms</title>
+      <link>https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time</link>
+      <description>&lt;p&gt;&lt;strong&gt;228 points&lt;/strong&gt; by t-3 | &lt;strong&gt;64 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47863324&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47863324</guid>
+      <pubDate>Wed, 22 Apr 2026 13:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[816 pts] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</title>
+      <link>https://qwen.ai/blog?id=qwen3.6-27b</link>
+      <description>&lt;p&gt;&lt;strong&gt;816 points&lt;/strong&gt; by mfiguiere | &lt;strong&gt;382 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47863217&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47863217</guid>
+      <pubDate>Wed, 22 Apr 2026 13:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[430 pts] Our eighth generation TPUs: two chips for the agentic era</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/</link>
+      <description>&lt;p&gt;&lt;strong&gt;430 points&lt;/strong&gt; by xnx | &lt;strong&gt;211 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47862497&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47862497</guid>
+      <pubDate>Wed, 22 Apr 2026 12:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[306 pts] 3.4M Solar Panels</title>
+      <link>https://tech.marksblogg.com/american-solar-farms-v2.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;306 points&lt;/strong&gt; by marklit | &lt;strong&gt;234 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47862386&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47862386</guid>
+      <pubDate>Wed, 22 Apr 2026 12:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[437 pts] GitHub CLI now collects pseudoanonymous telemetry</title>
+      <link>https://cli.github.com/telemetry</link>
+      <description>&lt;p&gt;&lt;strong&gt;437 points&lt;/strong&gt; by ingve | &lt;strong&gt;321 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47862331&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47862331</guid>
+      <pubDate>Wed, 22 Apr 2026 11:58:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[941 pts] Windows 9x Subsystem for Linux</title>
+      <link>https://social.hails.org/@hailey/116446826733136456</link>
+      <description>&lt;p&gt;&lt;strong&gt;941 points&lt;/strong&gt; by sohkamyung | &lt;strong&gt;221 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47861270&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47861270</guid>
+      <pubDate>Wed, 22 Apr 2026 09:52:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[232 pts] How does GPS work?</title>
+      <link>https://perthirtysix.com/how-the-heck-does-gps-work</link>
+      <description>&lt;p&gt;&lt;strong&gt;232 points&lt;/strong&gt; by alfanick | &lt;strong&gt;49 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47861087&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47861087</guid>
+      <pubDate>Wed, 22 Apr 2026 09:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[222 pts] Irony as Meta staff unhappy about running surveillance software on work PCs</title>
+      <link>https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/</link>
+      <description>&lt;p&gt;&lt;strong&gt;222 points&lt;/strong&gt; by jjgreen | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47860742&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47860742</guid>
+      <pubDate>Wed, 22 Apr 2026 08:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[223 pts] FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX</title>
+      <link>https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/</link>
+      <description>&lt;p&gt;&lt;strong&gt;223 points&lt;/strong&gt; by ineedasername | &lt;strong&gt;153 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47858246&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47858246</guid>
+      <pubDate>Wed, 22 Apr 2026 02:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[217 pts] San Diego rents declined following surge in supply</title>
+      <link>https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply</link>
+      <description>&lt;p&gt;&lt;strong&gt;217 points&lt;/strong&gt; by littlexsparkee | &lt;strong&gt;228 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47857477&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47857477</guid>
+      <pubDate>Wed, 22 Apr 2026 01:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[327 pts] Tell HN: I'm sick of AI everything</title>
+      <link>https://news.ycombinator.com/item?id=47857461</link>
+      <description>&lt;p&gt;&lt;strong&gt;327 points&lt;/strong&gt; by jonthepirate | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47857461&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47857461</guid>
+      <pubDate>Wed, 22 Apr 2026 01:19:30 +0000</pubDate>
+    </item>
     <item>
       <title>[263 pts] Claude Code to be removed from Pro Tier?</title>
       <link>https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a</link>
