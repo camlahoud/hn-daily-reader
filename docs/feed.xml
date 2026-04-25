@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:08:47 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[207 pts] Google to invest up to $40B in Anthropic in cash and compute</title>
+      <link>https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/</link>
+      <description>&lt;p&gt;&lt;strong&gt;207 points&lt;/strong&gt; by elpakal | &lt;strong&gt;7 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47895080&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47895080</guid>
+      <pubDate>Fri, 24 Apr 2026 20:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[217 pts] My audio interface has SSH enabled by default</title>
+      <link>https://hhh.hn/rodecaster-duo-fw/</link>
+      <description>&lt;p&gt;&lt;strong&gt;217 points&lt;/strong&gt; by hhh | &lt;strong&gt;72 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47894747&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47894747</guid>
+      <pubDate>Fri, 24 Apr 2026 19:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[202 pts] The Classic American Diner</title>
+      <link>https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/</link>
+      <description>&lt;p&gt;&lt;strong&gt;202 points&lt;/strong&gt; by NaOH | &lt;strong&gt;122 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47894435&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47894435</guid>
+      <pubDate>Fri, 24 Apr 2026 19:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[232 pts] OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API</title>
+      <link>https://developers.openai.com/api/docs/changelog</link>
+      <description>&lt;p&gt;&lt;strong&gt;232 points&lt;/strong&gt; by arabicalories | &lt;strong&gt;126 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47894000&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47894000</guid>
+      <pubDate>Fri, 24 Apr 2026 18:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[204 pts] There Will Be a Scientific Theory of Deep Learning</title>
+      <link>https://arxiv.org/abs/2604.21691</link>
+      <description>&lt;p&gt;&lt;strong&gt;204 points&lt;/strong&gt; by jamie-simon | &lt;strong&gt;79 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47893779&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47893779</guid>
+      <pubDate>Fri, 24 Apr 2026 18:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[247 pts] SDL Now Supports DOS</title>
+      <link>https://github.com/libsdl-org/SDL/pull/15377</link>
+      <description>&lt;p&gt;&lt;strong&gt;247 points&lt;/strong&gt; by Jayschwa | &lt;strong&gt;100 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47892291&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47892291</guid>
+      <pubDate>Fri, 24 Apr 2026 16:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[518 pts] Google plans to invest up to $40B in Anthropic</title>
+      <link>https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic</link>
+      <description>&lt;p&gt;&lt;strong&gt;518 points&lt;/strong&gt; by elffjs | &lt;strong&gt;507 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47892074&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47892074</guid>
+      <pubDate>Fri, 24 Apr 2026 16:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[858 pts] I cancelled Claude: Token issues, declining quality, and poor support</title>
+      <link>https://nickyreinert.de/en/2026/2026-04-24-claude-critics/</link>
+      <description>&lt;p&gt;&lt;strong&gt;858 points&lt;/strong&gt; by y42 | &lt;strong&gt;503 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47892019&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47892019</guid>
+      <pubDate>Fri, 24 Apr 2026 15:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[385 pts] Norway set to become latest country to ban social media for under 16s</title>
+      <link>https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s</link>
+      <description>&lt;p&gt;&lt;strong&gt;385 points&lt;/strong&gt; by 1vuio0pswjnm7 | &lt;strong&gt;444 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47891019&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47891019</guid>
+      <pubDate>Fri, 24 Apr 2026 14:45:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[409 pts] Sabotaging projects by overthinking, scope creep, and structural diffing</title>
+      <link>https://kevinlynagh.com/newsletter/2026_04_overthinking/</link>
+      <description>&lt;p&gt;&lt;strong&gt;409 points&lt;/strong&gt; by alcazar | &lt;strong&gt;105 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47890799&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47890799</guid>
+      <pubDate>Fri, 24 Apr 2026 14:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[186 pts] UK Biobank leak: Health details of 500k people offered for sale on Alibaba</title>
+      <link>https://www.bmj.com/content/393/bmj.s781</link>
+      <description>&lt;p&gt;&lt;strong&gt;186 points&lt;/strong&gt; by dberhane | &lt;strong&gt;79 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47888557&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47888557</guid>
+      <pubDate>Fri, 24 Apr 2026 11:09:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[186 pts] Hear your agent suffer through your code</title>
+      <link>https://github.com/AndrewVos/endless-toil</link>
+      <description>&lt;p&gt;&lt;strong&gt;186 points&lt;/strong&gt; by AndrewVos | &lt;strong&gt;84 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47888465&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47888465</guid>
+      <pubDate>Fri, 24 Apr 2026 10:58:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[341 pts] How to be anti-social – a guide to incoherent and isolating social experiences</title>
+      <link>https://nate.leaflet.pub/3mk4xkaxobc2p</link>
+      <description>&lt;p&gt;&lt;strong&gt;341 points&lt;/strong&gt; by calcifer | &lt;strong&gt;314 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47888372&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47888372</guid>
+      <pubDate>Fri, 24 Apr 2026 10:48:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[223 pts] South Korea police arrest man for posting AI photo of runaway wolf</title>
+      <link>https://www.bbc.com/news/articles/c4gx1n0dl9no</link>
+      <description>&lt;p&gt;&lt;strong&gt;223 points&lt;/strong&gt; by giuliomagnifico | &lt;strong&gt;149 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47887683&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47887683</guid>
+      <pubDate>Fri, 24 Apr 2026 09:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[321 pts] Spinel: Ruby AOT Native Compiler</title>
+      <link>https://github.com/matz/spinel</link>
+      <description>&lt;p&gt;&lt;strong&gt;321 points&lt;/strong&gt; by dluan | &lt;strong&gt;86 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47887334&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47887334</guid>
+      <pubDate>Fri, 24 Apr 2026 08:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[235 pts] Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture</title>
+      <link>https://ynarwal.github.io/how-llms-work/</link>
+      <description>&lt;p&gt;&lt;strong&gt;235 points&lt;/strong&gt; by ynarwal__ | &lt;strong&gt;53 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47886517&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47886517</guid>
+      <pubDate>Fri, 24 Apr 2026 06:48:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[312 pts] Ubuntu 26.04</title>
+      <link>https://lwn.net/Articles/1069399/</link>
+      <description>&lt;p&gt;&lt;strong&gt;312 points&lt;/strong&gt; by lxst | &lt;strong&gt;244 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47885596&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47885596</guid>
+      <pubDate>Fri, 24 Apr 2026 04:38:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[254 pts] Habitual coffee intake shapes the microbiome, modifies physiology and cognition</title>
+      <link>https://www.nature.com/articles/s41467-026-71264-8</link>
+      <description>&lt;p&gt;&lt;strong&gt;254 points&lt;/strong&gt; by scubakid | &lt;strong&gt;244 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47885377&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47885377</guid>
+      <pubDate>Fri, 24 Apr 2026 04:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1878 pts] DeepSeek v4</title>
+      <link>https://api-docs.deepseek.com/news/news260424</link>
+      <description>&lt;p&gt;&lt;strong&gt;1878 points&lt;/strong&gt; by impact_sy | &lt;strong&gt;1463 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47884971&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47884971</guid>
+      <pubDate>Fri, 24 Apr 2026 03:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[277 pts] Why I Write (1946)</title>
+      <link>https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/</link>
+      <description>&lt;p&gt;&lt;strong&gt;277 points&lt;/strong&gt; by RyanShook | &lt;strong&gt;76 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47884768&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47884768</guid>
+      <pubDate>Fri, 24 Apr 2026 02:26:23 +0000</pubDate>
+    </item>
     <item>
       <title>[250 pts] U.S. soldier charged with using classified info to profit from prediction market</title>
       <link>https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0</link>

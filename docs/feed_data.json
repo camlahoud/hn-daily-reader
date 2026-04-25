@@ -16019,7 +16019,207 @@
       "created_at": 1776921245,
       "num_comments": 127,
       "hn_url": "https://news.ycombinator.com/item?id=47872452"
+    },
+    {
+      "id": "47884971",
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/news/news260424",
+      "points": 1878,
+      "author": "impact_sy",
+      "created_at": 1776999681,
+      "num_comments": 1463,
+      "hn_url": "https://news.ycombinator.com/item?id=47884971"
+    },
+    {
+      "id": "47892019",
+      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "points": 858,
+      "author": "y42",
+      "created_at": 1777046359,
+      "num_comments": 503,
+      "hn_url": "https://news.ycombinator.com/item?id=47892019"
+    },
+    {
+      "id": "47892074",
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "points": 518,
+      "author": "elffjs",
+      "created_at": 1777046681,
+      "num_comments": 507,
+      "hn_url": "https://news.ycombinator.com/item?id=47892074"
+    },
+    {
+      "id": "47890799",
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "points": 409,
+      "author": "alcazar",
+      "created_at": 1777040932,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=47890799"
+    },
+    {
+      "id": "47891019",
+      "title": "Norway set to become latest country to ban social media for under 16s",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
+      "points": 385,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1777041910,
+      "num_comments": 444,
+      "hn_url": "https://news.ycombinator.com/item?id=47891019"
+    },
+    {
+      "id": "47888372",
+      "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
+      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+      "points": 341,
+      "author": "calcifer",
+      "created_at": 1777027694,
+      "num_comments": 314,
+      "hn_url": "https://news.ycombinator.com/item?id=47888372"
+    },
+    {
+      "id": "47887334",
+      "title": "Spinel: Ruby AOT Native Compiler",
+      "url": "https://github.com/matz/spinel",
+      "points": 321,
+      "author": "dluan",
+      "created_at": 1777019327,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47887334"
+    },
+    {
+      "id": "47885596",
+      "title": "Ubuntu 26.04",
+      "url": "https://lwn.net/Articles/1069399/",
+      "points": 312,
+      "author": "lxst",
+      "created_at": 1777005517,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=47885596"
+    },
+    {
+      "id": "47884768",
+      "title": "Why I Write (1946)",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "points": 277,
+      "author": "RyanShook",
+      "created_at": 1776997583,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=47884768"
+    },
+    {
+      "id": "47885377",
+      "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+      "url": "https://www.nature.com/articles/s41467-026-71264-8",
+      "points": 254,
+      "author": "scubakid",
+      "created_at": 1777003482,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=47885377"
+    },
+    {
+      "id": "47892291",
+      "title": "SDL Now Supports DOS",
+      "url": "https://github.com/libsdl-org/SDL/pull/15377",
+      "points": 247,
+      "author": "Jayschwa",
+      "created_at": 1777047615,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=47892291"
+    },
+    {
+      "id": "47886517",
+      "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
+      "url": "https://ynarwal.github.io/how-llms-work/",
+      "points": 235,
+      "author": "ynarwal__",
+      "created_at": 1777013333,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=47886517"
+    },
+    {
+      "id": "47894000",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "points": 232,
+      "author": "arabicalories",
+      "created_at": 1777055012,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=47894000"
+    },
+    {
+      "id": "47887683",
+      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "points": 223,
+      "author": "giuliomagnifico",
+      "created_at": 1777022277,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=47887683"
+    },
+    {
+      "id": "47894747",
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "points": 217,
+      "author": "hhh",
+      "created_at": 1777059046,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=47894747"
+    },
+    {
+      "id": "47895080",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "points": 207,
+      "author": "elpakal",
+      "created_at": 1777060830,
+      "num_comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=47895080"
+    },
+    {
+      "id": "47893779",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "url": "https://arxiv.org/abs/2604.21691",
+      "points": 204,
+      "author": "jamie-simon",
+      "created_at": 1777053965,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=47893779"
+    },
+    {
+      "id": "47894435",
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "points": 202,
+      "author": "NaOH",
+      "created_at": 1777057269,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=47894435"
+    },
+    {
+      "id": "47888465",
+      "title": "Hear your agent suffer through your code",
+      "url": "https://github.com/AndrewVos/endless-toil",
+      "points": 186,
+      "author": "AndrewVos",
+      "created_at": 1777028325,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=47888465"
+    },
+    {
+      "id": "47888557",
+      "title": "UK Biobank leak: Health details of 500k people offered for sale on Alibaba",
+      "url": "https://www.bmj.com/content/393/bmj.s781",
+      "points": 186,
+      "author": "dberhane",
+      "created_at": 1777028976,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=47888557"
     }
   ],
-  "last_updated": "2026-04-24T07:56:34.320608+00:00"
+  "last_updated": "2026-04-25T07:08:47.841327+00:00"
 }
