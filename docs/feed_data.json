@@ -16219,7 +16219,207 @@
       "created_at": 1777028976,
       "num_comments": 79,
       "hn_url": "https://news.ycombinator.com/item?id=47888557"
+    },
+    {
+      "id": "47899053",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "points": 574,
+      "author": "calcifer",
+      "created_at": 1777096572,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=47899053"
+    },
+    {
+      "id": "47905283",
+      "title": "Trump fires NSF's oversight board",
+      "url": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
+      "points": 436,
+      "author": "skullone",
+      "created_at": 1777156773,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=47905283"
+    },
+    {
+      "id": "47897891",
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "points": 388,
+      "author": "nreece",
+      "created_at": 1777081653,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=47897891"
+    },
+    {
+      "id": "47897647",
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "points": 354,
+      "author": "pigeons",
+      "created_at": 1777078718,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=47897647"
+    },
+    {
+      "id": "47903126",
+      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "points": 301,
+      "author": "pr337h4m",
+      "created_at": 1777138838,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=47903126"
+    },
+    {
+      "id": "47897681",
+      "title": "Plain text has been around for decades and it\u2019s here to stay",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "points": 293,
+      "author": "rbanffy",
+      "created_at": 1777078989,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=47897681"
+    },
+    {
+      "id": "47904876",
+      "title": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "points": 265,
+      "author": "gwerbret",
+      "created_at": 1777153878,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=47904876"
+    },
+    {
+      "id": "47902525",
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "points": 252,
+      "author": "speckx",
+      "created_at": 1777133510,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=47902525"
+    },
+    {
+      "id": "47904568",
+      "title": "The AI industry is discovering that the public hates it",
+      "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+      "points": 233,
+      "author": "chirau",
+      "created_at": 1777151471,
+      "num_comments": 311,
+      "hn_url": "https://news.ycombinator.com/item?id=47904568"
+    },
+    {
+      "id": "47899844",
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "points": 230,
+      "author": "najmuzzaman",
+      "created_at": 1777107233,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=47899844"
+    },
+    {
+      "id": "47902416",
+      "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
+      "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+      "points": 230,
+      "author": "nickjj",
+      "created_at": 1777132755,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=47902416"
+    },
+    {
+      "id": "47898597",
+      "title": "Turbo Vision 2.0 \u2013 a modern port",
+      "url": "https://github.com/magiblot/tvision",
+      "points": 194,
+      "author": "andsoitis",
+      "created_at": 1777090681,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=47898597"
+    },
+    {
+      "id": "47900398",
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "url": "https://github.com/MartinGalway/C64_music",
+      "points": 172,
+      "author": "ingve",
+      "created_at": 1777113974,
+      "num_comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=47900398"
+    },
+    {
+      "id": "47897790",
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "points": 169,
+      "author": "alash3al",
+      "created_at": 1777080280,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=47897790"
+    },
+    {
+      "id": "47900478",
+      "title": "Discret 11, the French TV encryption of the 80s (2020)",
+      "url": "https://fabiensanglard.net/discret11/",
+      "points": 158,
+      "author": "adunk",
+      "created_at": 1777115441,
+      "num_comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=47900478"
+    },
+    {
+      "id": "47902816",
+      "title": "Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
+      "url": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
+      "points": 149,
+      "author": "ekianjo",
+      "created_at": 1777136068,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=47902816"
+    },
+    {
+      "id": "47901734",
+      "title": "GPT\u20115.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "points": 143,
+      "author": "Murfalo",
+      "created_at": 1777126651,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=47901734"
+    },
+    {
+      "id": "47897349",
+      "title": "Education must go beyond the mere production of words",
+      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+      "points": 140,
+      "author": "signor_bosco",
+      "created_at": 1777075903,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47897349"
+    },
+    {
+      "id": "47902987",
+      "title": "Simulacrum of Knowledge Work",
+      "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "points": 139,
+      "author": "thehappyfellow",
+      "created_at": 1777137634,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=47902987"
+    },
+    {
+      "id": "47904224",
+      "title": "Can you stop beans from making you gassy?",
+      "url": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
+      "points": 137,
+      "author": "jstrieb",
+      "created_at": 1777148261,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=47904224"
     }
   ],
-  "last_updated": "2026-04-25T07:08:47.841327+00:00"
+  "last_updated": "2026-04-26T07:23:01.621867+00:00"
 }
