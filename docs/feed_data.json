@@ -16419,7 +16419,207 @@
       "created_at": 1777148261,
       "num_comments": 116,
       "hn_url": "https://news.ycombinator.com/item?id=47904224"
+    },
+    {
+      "id": "47907879",
+      "title": "The West forgot how to make things, now it\u2019s forgetting how to code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "points": 1124,
+      "author": "milkglass",
+      "created_at": 1777184682,
+      "num_comments": 803,
+      "hn_url": "https://news.ycombinator.com/item?id=47907879"
+    },
+    {
+      "id": "47914165",
+      "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "points": 743,
+      "author": "ca98am79",
+      "created_at": 1777236066,
+      "num_comments": 385,
+      "hn_url": "https://news.ycombinator.com/item?id=47914165"
+    },
+    {
+      "id": "47911524",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "points": 644,
+      "author": "jeremyccrane",
+      "created_at": 1777220849,
+      "num_comments": 795,
+      "hn_url": "https://news.ycombinator.com/item?id=47911524"
+    },
+    {
+      "id": "47909226",
+      "title": "Asahi Linux Progress Linux 7.0",
+      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "points": 617,
+      "author": "elisaado",
+      "created_at": 1777200632,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=47909226"
+    },
+    {
+      "id": "47911780",
+      "title": "GoDaddy gave a domain to a stranger without any documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "points": 595,
+      "author": "jamesponddotco",
+      "created_at": 1777222676,
+      "num_comments": 231,
+      "hn_url": "https://news.ycombinator.com/item?id=47911780"
+    },
+    {
+      "id": "47906253",
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "url": "https://news.ycombinator.com/item?id=47906253",
+      "points": 543,
+      "author": "_-x-_",
+      "created_at": 1777164656,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=47906253"
+    },
+    {
+      "id": "47913650",
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "points": 458,
+      "author": "koshyjohn",
+      "created_at": 1777233792,
+      "num_comments": 332,
+      "hn_url": "https://news.ycombinator.com/item?id=47913650"
+    },
+    {
+      "id": "47905984",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "points": 412,
+      "author": "chiefalchemist",
+      "created_at": 1777162367,
+      "num_comments": 297,
+      "hn_url": "https://news.ycombinator.com/item?id=47905984"
+    },
+    {
+      "id": "47914350",
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "points": 368,
+      "author": "berkeleyjunk",
+      "created_at": 1777236990,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=47914350"
+    },
+    {
+      "id": "47907130",
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "points": 340,
+      "author": "gasull",
+      "created_at": 1777175068,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=47907130"
+    },
+    {
+      "id": "47908833",
+      "title": "Statecharts: hierarchical state machines",
+      "url": "https://statecharts.dev/",
+      "points": 297,
+      "author": "sph",
+      "created_at": 1777195942,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=47908833"
+    },
+    {
+      "id": "47910388",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "points": 295,
+      "author": "kmdupree",
+      "created_at": 1777211893,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=47910388"
+    },
+    {
+      "id": "47908051",
+      "title": "Self-updating screenshots",
+      "url": "https://interblah.net/self-updating-screenshots",
+      "points": 261,
+      "author": "bjhess",
+      "created_at": 1777186839,
+      "num_comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=47908051"
+    },
+    {
+      "id": "47910546",
+      "title": "Issue links now open in a popup",
+      "url": "https://github.com/orgs/community/discussions/192666",
+      "points": 234,
+      "author": "luckman212",
+      "created_at": 1777213118,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=47910546"
+    },
+    {
+      "id": "47913855",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "points": 233,
+      "author": "dd23",
+      "created_at": 1777234717,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=47913855"
+    },
+    {
+      "id": "47912645",
+      "title": "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
+      "url": "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo",
+      "points": 223,
+      "author": "randycupertino",
+      "created_at": 1777228471,
+      "num_comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=47912645"
+    },
+    {
+      "id": "47911350",
+      "title": "Clay PCB Tutorial",
+      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "points": 220,
+      "author": "j0r0b0",
+      "created_at": 1777219334,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=47911350"
+    },
+    {
+      "id": "47914677",
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "points": 199,
+      "author": "1659447091",
+      "created_at": 1777238600,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=47914677"
+    },
+    {
+      "id": "47911977",
+      "title": "Dillo Browser Release 3.3.0",
+      "url": "https://dillo-browser.org/release/3.3.0/",
+      "points": 172,
+      "author": "rodarima",
+      "created_at": 1777223894,
+      "num_comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=47911977"
+    },
+    {
+      "id": "47907018",
+      "title": "GnuPG \u2013 post-quantum crypto landing in mainline",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "points": 168,
+      "author": "zdkaster",
+      "created_at": 1777173902,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47907018"
     }
   ],
-  "last_updated": "2026-04-26T07:23:01.621867+00:00"
+  "last_updated": "2026-04-27T08:15:17.578297+00:00"
 }
