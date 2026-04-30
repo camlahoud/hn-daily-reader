@@ -17019,7 +17019,207 @@
       "created_at": 1777392478,
       "num_comments": 198,
       "hn_url": "https://news.ycombinator.com/item?id=47936370"
+    },
+    {
+      "id": "47949027",
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "points": 1799,
+      "author": "salkahfi",
+      "created_at": 1777473259,
+      "num_comments": 580,
+      "hn_url": "https://news.ycombinator.com/item?id=47949027"
+    },
+    {
+      "id": "47952722",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "points": 1103,
+      "author": "homebrewer",
+      "created_at": 1777488871,
+      "num_comments": 469,
+      "hn_url": "https://news.ycombinator.com/item?id=47952722"
+    },
+    {
+      "id": "47952181",
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
+      "points": 895,
+      "author": "unsnap_biceps",
+      "created_at": 1777486433,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=47952181"
+    },
+    {
+      "id": "47949939",
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "points": 887,
+      "author": "bpierre",
+      "created_at": 1777477183,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=47949939"
+    },
+    {
+      "id": "47950091",
+      "title": "Online age verification is the hill to die on",
+      "url": "https://x.com/GlennMeder/status/2049088498163216560",
+      "points": 879,
+      "author": "Cider9986",
+      "created_at": 1777477797,
+      "num_comments": 588,
+      "hn_url": "https://news.ycombinator.com/item?id=47950091"
+    },
+    {
+      "id": "47943499",
+      "title": "Bugs Rust won't catch",
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "points": 645,
+      "author": "lwhsiao",
+      "created_at": 1777429151,
+      "num_comments": 352,
+      "hn_url": "https://news.ycombinator.com/item?id=47943499"
+    },
+    {
+      "id": "47948603",
+      "title": "We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/",
+      "points": 563,
+      "author": "icy",
+      "created_at": 1777471259,
+      "num_comments": 353,
+      "hn_url": "https://news.ycombinator.com/item?id=47948603"
+    },
+    {
+      "id": "47945918",
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "points": 538,
+      "author": "e12e",
+      "created_at": 1777454077,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=47945918"
+    },
+    {
+      "id": "47949642",
+      "title": "Mistral Medium 3.5",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "points": 458,
+      "author": "meetpateltech",
+      "created_at": 1777475866,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=47949642"
+    },
+    {
+      "id": "47946958",
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "points": 400,
+      "author": "terminalbraid",
+      "created_at": 1777462966,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=47946958"
+    },
+    {
+      "id": "47950510",
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "points": 330,
+      "author": "agwa",
+      "created_at": 1777479399,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=47950510"
+    },
+    {
+      "id": "47953275",
+      "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+      "url": "https://jivx.com/kyoto-bloom",
+      "points": 321,
+      "author": "momentmaker",
+      "created_at": 1777491156,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=47953275"
+    },
+    {
+      "id": "47951007",
+      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+      "points": 294,
+      "author": "01-_-",
+      "created_at": 1777481401,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=47951007"
+    },
+    {
+      "id": "47949750",
+      "title": "Why AI companies want you to be afraid of them",
+      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "points": 276,
+      "author": "rolph",
+      "created_at": 1777476361,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=47949750"
+    },
+    {
+      "id": "47951137",
+      "title": "Laws of UX",
+      "url": "https://lawsofux.com/",
+      "points": 257,
+      "author": "bobbiechen",
+      "created_at": 1777481893,
+      "num_comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=47951137"
+    },
+    {
+      "id": "47950022",
+      "title": "Third editor fired in Elsevier\u2019s citation cartel crackdown",
+      "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
+      "points": 251,
+      "author": "RigbyTaro",
+      "created_at": 1777477525,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=47950022"
+    },
+    {
+      "id": "47949204",
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "url": "https://github.com/GliaX/Stethoscope",
+      "points": 244,
+      "author": "0x54MUR41",
+      "created_at": 1777474051,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=47949204"
+    },
+    {
+      "id": "47953541",
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "points": 239,
+      "author": "moooo99",
+      "created_at": 1777492170,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=47953541"
+    },
+    {
+      "id": "47947490",
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "points": 237,
+      "author": "sarusso",
+      "created_at": 1777466330,
+      "num_comments": 296,
+      "hn_url": "https://news.ycombinator.com/item?id=47947490"
+    },
+    {
+      "id": "47945707",
+      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
+      "points": 217,
+      "author": "jjba23",
+      "created_at": 1777452197,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=47945707"
     }
   ],
-  "last_updated": "2026-04-29T08:09:23.450080+00:00"
+  "last_updated": "2026-04-30T08:13:32.134940+00:00"
 }
