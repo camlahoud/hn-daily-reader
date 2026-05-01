@@ -17219,7 +17219,207 @@
       "created_at": 1777452197,
       "num_comments": 108,
       "hn_url": "https://news.ycombinator.com/item?id=47945707"
+    },
+    {
+      "id": "47963204",
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "points": 1122,
+      "author": "elmean",
+      "created_at": 1777559818,
+      "num_comments": 611,
+      "hn_url": "https://news.ycombinator.com/item?id=47963204"
+    },
+    {
+      "id": "47957688",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "points": 1030,
+      "author": "ilreb",
+      "created_at": 1777519264,
+      "num_comments": 631,
+      "hn_url": "https://news.ycombinator.com/item?id=47957688"
+    },
+    {
+      "id": "47961319",
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "points": 802,
+      "author": "mpweiher",
+      "created_at": 1777551434,
+      "num_comments": 805,
+      "hn_url": "https://news.ycombinator.com/item?id=47961319"
+    },
+    {
+      "id": "47957294",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "points": 652,
+      "author": "lumpa",
+      "created_at": 1777515347,
+      "num_comments": 433,
+      "hn_url": "https://news.ycombinator.com/item?id=47957294"
+    },
+    {
+      "id": "47959463",
+      "title": "Mozilla's opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+      "points": 614,
+      "author": "jaffathecake",
+      "created_at": 1777535035,
+      "num_comments": 221,
+      "hn_url": "https://news.ycombinator.com/item?id=47959463"
+    },
+    {
+      "id": "47967786",
+      "title": "Can I disable all data collection from my vehicle?",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "points": 611,
+      "author": "Cider9986",
+      "created_at": 1777580842,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=47967786"
+    },
+    {
+      "id": "47965060",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "points": 569,
+      "author": "the-mitr",
+      "created_at": 1777567260,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=47965060"
+    },
+    {
+      "id": "47961838",
+      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+      "points": 494,
+      "author": "gorbachev",
+      "created_at": 1777554462,
+      "num_comments": 397,
+      "hn_url": "https://news.ycombinator.com/item?id=47961838"
+    },
+    {
+      "id": "47964034",
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "points": 477,
+      "author": "akyuu",
+      "created_at": 1777563100,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=47964034"
+    },
+    {
+      "id": "47965108",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "points": 472,
+      "author": "ori_b",
+      "created_at": 1777567427,
+      "num_comments": 361,
+      "hn_url": "https://news.ycombinator.com/item?id=47965108"
+    },
+    {
+      "id": "47967262",
+      "title": "LinkedIn is scanning browser extensions",
+      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+      "points": 420,
+      "author": "un-nf",
+      "created_at": 1777578020,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=47967262"
+    },
+    {
+      "id": "47962548",
+      "title": "How an oil refinery works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "points": 407,
+      "author": "chmaynard",
+      "created_at": 1777557260,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=47962548"
+    },
+    {
+      "id": "47964617",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "points": 387,
+      "author": "j12y",
+      "created_at": 1777565366,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=47964617"
+    },
+    {
+      "id": "47957101",
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "points": 331,
+      "author": "rdl",
+      "created_at": 1777513496,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=47957101"
+    },
+    {
+      "id": "47967289",
+      "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+      "url": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+      "points": 295,
+      "author": "kamaraju",
+      "created_at": 1777578153,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47967289"
+    },
+    {
+      "id": "47961004",
+      "title": "GCC 16 has been released",
+      "url": "https://gcc.gnu.org/gcc-16/changes.html",
+      "points": 292,
+      "author": "HeliumHydride",
+      "created_at": 1777549213,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=47961004"
+    },
+    {
+      "id": "47960507",
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "points": 288,
+      "author": "steveharing1",
+      "created_at": 1777545077,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47960507"
+    },
+    {
+      "id": "47961378",
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "url": "https://bidprowl.com",
+      "points": 275,
+      "author": "scarsam",
+      "created_at": 1777551893,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=47961378"
+    },
+    {
+      "id": "47965503",
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "points": 267,
+      "author": "elvis70",
+      "created_at": 1777569261,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=47965503"
+    },
+    {
+      "id": "47963316",
+      "title": "Honker \u2013 Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
+      "url": "https://honker.dev/",
+      "points": 212,
+      "author": "ferriswil",
+      "created_at": 1777560182,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=47963316"
     }
   ],
-  "last_updated": "2026-04-30T08:13:32.134940+00:00"
+  "last_updated": "2026-05-01T08:06:50.278460+00:00"
 }

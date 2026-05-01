@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:06:50 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[611 pts] Can I disable all data collection from my vehicle?</title>
+      <link>https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</link>
+      <description>&lt;p&gt;&lt;strong&gt;611 points&lt;/strong&gt; by Cider9986 | &lt;strong&gt;246 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47967786&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47967786</guid>
+      <pubDate>Thu, 30 Apr 2026 20:27:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[295 pts] U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets</title>
+      <link>https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd</link>
+      <description>&lt;p&gt;&lt;strong&gt;295 points&lt;/strong&gt; by kamaraju | &lt;strong&gt;97 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47967289&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47967289</guid>
+      <pubDate>Thu, 30 Apr 2026 19:42:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[420 pts] LinkedIn is scanning browser extensions</title>
+      <link>https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/</link>
+      <description>&lt;p&gt;&lt;strong&gt;420 points&lt;/strong&gt; by un-nf | &lt;strong&gt;189 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47967262&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47967262</guid>
+      <pubDate>Thu, 30 Apr 2026 19:40:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[267 pts] I built a Game Boy emulator in F#</title>
+      <link>https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/</link>
+      <description>&lt;p&gt;&lt;strong&gt;267 points&lt;/strong&gt; by elvis70 | &lt;strong&gt;60 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47965503&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47965503</guid>
+      <pubDate>Thu, 30 Apr 2026 17:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[472 pts] For Linux kernel vulnerabilities, there is no heads-up to distributions</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/04/30/10</link>
+      <description>&lt;p&gt;&lt;strong&gt;472 points&lt;/strong&gt; by ori_b | &lt;strong&gt;361 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47965108&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47965108</guid>
+      <pubDate>Thu, 30 Apr 2026 16:43:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[569 pts] How Mark Klein told the EFF about Room 641A [book excerpt]</title>
+      <link>https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</link>
+      <description>&lt;p&gt;&lt;strong&gt;569 points&lt;/strong&gt; by the-mitr | &lt;strong&gt;187 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47965060&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47965060</guid>
+      <pubDate>Thu, 30 Apr 2026 16:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[387 pts] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</title>
+      <link>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</link>
+      <description>&lt;p&gt;&lt;strong&gt;387 points&lt;/strong&gt; by j12y | &lt;strong&gt;133 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47964617&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47964617</guid>
+      <pubDate>Thu, 30 Apr 2026 16:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[477 pts] Spain's parliament will act against massive IP blockages by LaLiga</title>
+      <link>https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/</link>
+      <description>&lt;p&gt;&lt;strong&gt;477 points&lt;/strong&gt; by akyuu | &lt;strong&gt;187 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47964034&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47964034</guid>
+      <pubDate>Thu, 30 Apr 2026 15:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[212 pts] Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file</title>
+      <link>https://honker.dev/</link>
+      <description>&lt;p&gt;&lt;strong&gt;212 points&lt;/strong&gt; by ferriswil | &lt;strong&gt;53 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47963316&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47963316</guid>
+      <pubDate>Thu, 30 Apr 2026 14:43:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1122 pts] Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;</title>
+      <link>https://twitter.com/theo/status/2049645973350363168</link>
+      <description>&lt;p&gt;&lt;strong&gt;1122 points&lt;/strong&gt; by elmean | &lt;strong&gt;611 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47963204&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47963204</guid>
+      <pubDate>Thu, 30 Apr 2026 14:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[407 pts] How an oil refinery works</title>
+      <link>https://www.construction-physics.com/p/how-an-oil-refinery-works</link>
+      <description>&lt;p&gt;&lt;strong&gt;407 points&lt;/strong&gt; by chmaynard | &lt;strong&gt;124 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47962548&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47962548</guid>
+      <pubDate>Thu, 30 Apr 2026 13:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[494 pts] Meta in row after workers who saw smart glasses users having sex lose jobs</title>
+      <link>https://www.bbc.com/news/articles/c5y7yvgy0w6o</link>
+      <description>&lt;p&gt;&lt;strong&gt;494 points&lt;/strong&gt; by gorbachev | &lt;strong&gt;397 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47961838&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47961838</guid>
+      <pubDate>Thu, 30 Apr 2026 13:07:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[275 pts] I aggregated 28 US Government auction sites into one search</title>
+      <link>https://bidprowl.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;275 points&lt;/strong&gt; by scarsam | &lt;strong&gt;77 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47961378&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47961378</guid>
+      <pubDate>Thu, 30 Apr 2026 12:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[802 pts] Belgium stops decommissioning nuclear power plants</title>
+      <link>https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/</link>
+      <description>&lt;p&gt;&lt;strong&gt;802 points&lt;/strong&gt; by mpweiher | &lt;strong&gt;805 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47961319&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47961319</guid>
+      <pubDate>Thu, 30 Apr 2026 12:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[292 pts] GCC 16 has been released</title>
+      <link>https://gcc.gnu.org/gcc-16/changes.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;292 points&lt;/strong&gt; by HeliumHydride | &lt;strong&gt;51 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47961004&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47961004</guid>
+      <pubDate>Thu, 30 Apr 2026 11:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[288 pts] Granite 4.1: IBM's 8B Model Matching 32B MoE</title>
+      <link>https://firethering.com/granite-4-1-ibm-open-source-model-family/</link>
+      <description>&lt;p&gt;&lt;strong&gt;288 points&lt;/strong&gt; by steveharing1 | &lt;strong&gt;182 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47960507&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47960507</guid>
+      <pubDate>Thu, 30 Apr 2026 10:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[614 pts] Mozilla's opposition to Chrome's Prompt API</title>
+      <link>https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313</link>
+      <description>&lt;p&gt;&lt;strong&gt;614 points&lt;/strong&gt; by jaffathecake | &lt;strong&gt;221 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47959463&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47959463</guid>
+      <pubDate>Thu, 30 Apr 2026 07:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1030 pts] Where the goblins came from</title>
+      <link>https://openai.com/index/where-the-goblins-came-from/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1030 points&lt;/strong&gt; by ilreb | &lt;strong&gt;631 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47957688&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47957688</guid>
+      <pubDate>Thu, 30 Apr 2026 03:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[652 pts] The Zig project's rationale for their anti-AI contribution policy</title>
+      <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;652 points&lt;/strong&gt; by lumpa | &lt;strong&gt;433 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47957294&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47957294</guid>
+      <pubDate>Thu, 30 Apr 2026 02:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[331 pts] Craig Venter has died</title>
+      <link>https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</link>
+      <description>&lt;p&gt;&lt;strong&gt;331 points&lt;/strong&gt; by rdl | &lt;strong&gt;81 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47957101&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47957101</guid>
+      <pubDate>Thu, 30 Apr 2026 01:44:56 +0000</pubDate>
+    </item>
     <item>
       <title>[239 pts] OpenTrafficMap</title>
       <link>https://opentrafficmap.org/</link>
