@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "id": "46851548",
-      "title": "Notepad++ hijacked by state-sponsored actors",
-      "url": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
-      "points": 905,
-      "author": "mysterydip",
-      "created_at": 1769997596,
-      "num_comments": 506,
-      "hn_url": "https://news.ycombinator.com/item?id=46851548"
-    },
-    {
       "id": "46862170",
       "title": "xAI joins SpaceX",
       "url": "https://www.spacex.com/updates#xai-joins-spacex",
@@ -71,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46863112"
     },
     {
-      "id": "46850803",
-      "title": "Show HN: Wikipedia as a doomscrollable social media feed",
-      "url": "https://xikipedia.org",
-      "points": 434,
-      "author": "rebane2001",
-      "created_at": 1769991139,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=46850803"
-    },
-    {
       "id": "46854999",
       "title": "Claude Code is suddenly everywhere inside Microsoft",
       "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
@@ -129,16 +109,6 @@
       "created_at": 1770048090,
       "num_comments": 427,
       "hn_url": "https://news.ycombinator.com/item?id=46857488"
-    },
-    {
-      "id": "46852660",
-      "title": "Leaked chats expose the daily life of a scam compound's enslaved workforce",
-      "url": "https://www.wired.com/story/the-red-bull-leaks/",
-      "points": 281,
-      "author": "smurda",
-      "created_at": 1770009059,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=46852660"
     },
     {
       "id": "46855447",
@@ -17619,7 +17589,207 @@
       "created_at": 1777652483,
       "num_comments": 88,
       "hn_url": "https://news.ycombinator.com/item?id=47976566"
+    },
+    {
+      "id": "47989883",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "points": 1105,
+      "author": "indrora",
+      "created_at": 1777751846,
+      "num_comments": 524,
+      "hn_url": "https://news.ycombinator.com/item?id=47989883"
+    },
+    {
+      "id": "47983352",
+      "title": "Why does it take so long to release black fan versions?",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "points": 720,
+      "author": "buildbot",
+      "created_at": 1777696684,
+      "num_comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=47983352"
+    },
+    {
+      "id": "47988504",
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "points": 451,
+      "author": "dabinat",
+      "created_at": 1777743149,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=47988504"
+    },
+    {
+      "id": "47983226",
+      "title": "Ask.com has closed",
+      "url": "https://www.ask.com/",
+      "points": 450,
+      "author": "supermdguy",
+      "created_at": 1777695155,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=47983226"
+    },
+    {
+      "id": "47988776",
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "points": 437,
+      "author": "rsaarelm",
+      "created_at": 1777745022,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=47988776"
+    },
+    {
+      "id": "47987256",
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "points": 323,
+      "author": "laurex",
+      "created_at": 1777735693,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=47987256"
+    },
+    {
+      "id": "47988742",
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "points": 293,
+      "author": "geox",
+      "created_at": 1777744758,
+      "num_comments": 299,
+      "hn_url": "https://news.ycombinator.com/item?id=47988742"
+    },
+    {
+      "id": "47988592",
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "points": 291,
+      "author": "RubyGuy",
+      "created_at": 1777743655,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=47988592"
+    },
+    {
+      "id": "47990318",
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "points": 284,
+      "author": "richardboegli",
+      "created_at": 1777754790,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47990318"
+    },
+    {
+      "id": "47990606",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "points": 266,
+      "author": "valzevul",
+      "created_at": 1777756469,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=47990606"
+    },
+    {
+      "id": "47986083",
+      "title": "Russia Poisons Wikipedia",
+      "url": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+      "points": 248,
+      "author": "exceptione",
+      "created_at": 1777727270,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=47986083"
+    },
+    {
+      "id": "47984852",
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "points": 243,
+      "author": "moosia",
+      "created_at": 1777714249,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47984852"
+    },
+    {
+      "id": "47987006",
+      "title": "America's Expanding Domestic Surveillance",
+      "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+      "points": 242,
+      "author": "Brajeshwar",
+      "created_at": 1777734133,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=47987006"
+    },
+    {
+      "id": "47988261",
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "points": 229,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1777741818,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=47988261"
+    },
+    {
+      "id": "47982512",
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "points": 226,
+      "author": "delichon",
+      "created_at": 1777686384,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=47982512"
+    },
+    {
+      "id": "47991350",
+      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "points": 221,
+      "author": "breve",
+      "created_at": 1777761923,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47991350"
+    },
+    {
+      "id": "47984522",
+      "title": "Why are there both TMP and TEMP environment variables? (2015)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+      "points": 199,
+      "author": "ankitg12",
+      "created_at": 1777710203,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=47984522"
+    },
+    {
+      "id": "47985750",
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "url": "https://github.com/nexu-io/open-design",
+      "points": 198,
+      "author": "steveharing1",
+      "created_at": 1777724176,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=47985750"
+    },
+    {
+      "id": "47990284",
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "points": 173,
+      "author": "andsoitis",
+      "created_at": 1777754540,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=47990284"
+    },
+    {
+      "id": "47987333",
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "points": 132,
+      "author": "nickvec",
+      "created_at": 1777736297,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=47987333"
     }
   ],
-  "last_updated": "2026-05-02T07:26:24.449890+00:00"
+  "last_updated": "2026-05-03T07:56:18.258747+00:00"
 }

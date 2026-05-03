@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 07:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:56:18 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[221 pts] Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him</title>
+      <link>https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/</link>
+      <description>&lt;p&gt;&lt;strong&gt;221 points&lt;/strong&gt; by breve | &lt;strong&gt;98 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47991350&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47991350</guid>
+      <pubDate>Sat, 02 May 2026 22:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[266 pts] Six Years Perfecting Maps on WatchOS</title>
+      <link>https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</link>
+      <description>&lt;p&gt;&lt;strong&gt;266 points&lt;/strong&gt; by valzevul | &lt;strong&gt;59 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47990606&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47990606</guid>
+      <pubDate>Sat, 02 May 2026 21:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[284 pts] This Month in Ladybird - April 2026</title>
+      <link>https://ladybird.org/newsletter/2026-04-30/</link>
+      <description>&lt;p&gt;&lt;strong&gt;284 points&lt;/strong&gt; by richardboegli | &lt;strong&gt;50 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47990318&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47990318</guid>
+      <pubDate>Sat, 02 May 2026 20:46:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[173 pts] Neanderthals ran 'fat factories' 125,000 years ago (2025)</title>
+      <link>https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago</link>
+      <description>&lt;p&gt;&lt;strong&gt;173 points&lt;/strong&gt; by andsoitis | &lt;strong&gt;65 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47990284&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47990284</guid>
+      <pubDate>Sat, 02 May 2026 20:42:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1105 pts] VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage</title>
+      <link>https://github.com/microsoft/vscode/pull/310226</link>
+      <description>&lt;p&gt;&lt;strong&gt;1105 points&lt;/strong&gt; by indrora | &lt;strong&gt;524 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47989883&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47989883</guid>
+      <pubDate>Sat, 02 May 2026 19:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[437 pts] NetHack 5.0.0</title>
+      <link>https://nethack.org/v500/release.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;437 points&lt;/strong&gt; by rsaarelm | &lt;strong&gt;133 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47988776&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47988776</guid>
+      <pubDate>Sat, 02 May 2026 18:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[293 pts] California to begin ticketing driverless cars that violate traffic laws</title>
+      <link>https://www.bbc.com/news/articles/clypjx3rg2go</link>
+      <description>&lt;p&gt;&lt;strong&gt;293 points&lt;/strong&gt; by geox | &lt;strong&gt;299 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47988742&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47988742</guid>
+      <pubDate>Sat, 02 May 2026 17:59:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[291 pts] Do_not_track</title>
+      <link>https://donottrack.sh/</link>
+      <description>&lt;p&gt;&lt;strong&gt;291 points&lt;/strong&gt; by RubyGuy | &lt;strong&gt;95 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47988592&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47988592</guid>
+      <pubDate>Sat, 02 May 2026 17:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[451 pts] Dav2d</title>
+      <link>https://code.videolan.org/videolan/dav2d</link>
+      <description>&lt;p&gt;&lt;strong&gt;451 points&lt;/strong&gt; by dabinat | &lt;strong&gt;122 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47988504&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47988504</guid>
+      <pubDate>Sat, 02 May 2026 17:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[229 pts] Roblox shares plummet 18% as child safety measures weigh on bookings</title>
+      <link>https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;229 points&lt;/strong&gt; by 1vuio0pswjnm7 | &lt;strong&gt;136 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47988261&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47988261</guid>
+      <pubDate>Sat, 02 May 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[132 pts] Uber wants to turn its drivers into a sensor grid for self-driving companies</title>
+      <link>https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/</link>
+      <description>&lt;p&gt;&lt;strong&gt;132 points&lt;/strong&gt; by nickvec | &lt;strong&gt;139 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47987333&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47987333</guid>
+      <pubDate>Sat, 02 May 2026 15:38:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[323 pts] AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights</title>
+      <link>https://arxiv.org/abs/2509.00462</link>
+      <description>&lt;p&gt;&lt;strong&gt;323 points&lt;/strong&gt; by laurex | &lt;strong&gt;171 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47987256&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47987256</guid>
+      <pubDate>Sat, 02 May 2026 15:28:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[242 pts] America's Expanding Domestic Surveillance</title>
+      <link>https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187</link>
+      <description>&lt;p&gt;&lt;strong&gt;242 points&lt;/strong&gt; by Brajeshwar | &lt;strong&gt;134 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47987006&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47987006</guid>
+      <pubDate>Sat, 02 May 2026 15:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[248 pts] Russia Poisons Wikipedia</title>
+      <link>https://www.bettedangerous.com/p/russia-poisons-wikipedia</link>
+      <description>&lt;p&gt;&lt;strong&gt;248 points&lt;/strong&gt; by exceptione | &lt;strong&gt;193 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47986083&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47986083</guid>
+      <pubDate>Sat, 02 May 2026 13:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[198 pts] Open Design: Use Your Coding Agent as a Design Engine</title>
+      <link>https://github.com/nexu-io/open-design</link>
+      <description>&lt;p&gt;&lt;strong&gt;198 points&lt;/strong&gt; by steveharing1 | &lt;strong&gt;88 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47985750&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47985750</guid>
+      <pubDate>Sat, 02 May 2026 12:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[243 pts] How fast is a macOS VM, and how small could it be?</title>
+      <link>https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/</link>
+      <description>&lt;p&gt;&lt;strong&gt;243 points&lt;/strong&gt; by moosia | &lt;strong&gt;86 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47984852&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47984852</guid>
+      <pubDate>Sat, 02 May 2026 09:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[199 pts] Why are there both TMP and TEMP environment variables? (2015)</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213</link>
+      <description>&lt;p&gt;&lt;strong&gt;199 points&lt;/strong&gt; by ankitg12 | &lt;strong&gt;91 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47984522&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47984522</guid>
+      <pubDate>Sat, 02 May 2026 08:23:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[720 pts] Why does it take so long to release black fan versions?</title>
+      <link>https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</link>
+      <description>&lt;p&gt;&lt;strong&gt;720 points&lt;/strong&gt; by buildbot | &lt;strong&gt;292 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47983352&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47983352</guid>
+      <pubDate>Sat, 02 May 2026 04:38:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[450 pts] Ask.com has closed</title>
+      <link>https://www.ask.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;450 points&lt;/strong&gt; by supermdguy | &lt;strong&gt;222 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47983226&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47983226</guid>
+      <pubDate>Sat, 02 May 2026 04:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[226 pts] Job Postings for Software Engineers Are Rapidly Rising</title>
+      <link>https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/</link>
+      <description>&lt;p&gt;&lt;strong&gt;226 points&lt;/strong&gt; by delichon | &lt;strong&gt;142 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47982512&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47982512</guid>
+      <pubDate>Sat, 02 May 2026 01:46:24 +0000</pubDate>
+    </item>
     <item>
       <title>[215 pts] Credit cards are vulnerable to brute force kind attacks</title>
       <link>https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html</link>
@@ -14078,30 +14238,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46854642&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=46854642</guid>
       <pubDate>Mon, 02 Feb 2026 11:03:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[281 pts] Leaked chats expose the daily life of a scam compound's enslaved workforce</title>
-      <link>https://www.wired.com/story/the-red-bull-leaks/</link>
-      <description>&lt;p&gt;&lt;strong&gt;281 points&lt;/strong&gt; by smurda | &lt;strong&gt;156 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46852660&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46852660</guid>
-      <pubDate>Mon, 02 Feb 2026 05:10:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[905 pts] Notepad++ hijacked by state-sponsored actors</title>
-      <link>https://notepad-plus-plus.org/news/hijacked-incident-info-update/</link>
-      <description>&lt;p&gt;&lt;strong&gt;905 points&lt;/strong&gt; by mysterydip | &lt;strong&gt;506 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46851548&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46851548</guid>
-      <pubDate>Mon, 02 Feb 2026 01:59:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[434 pts] Show HN: Wikipedia as a doomscrollable social media feed</title>
-      <link>https://xikipedia.org</link>
-      <description>&lt;p&gt;&lt;strong&gt;434 points&lt;/strong&gt; by rebane2001 | &lt;strong&gt;141 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46850803&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46850803</guid>
-      <pubDate>Mon, 02 Feb 2026 00:12:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
