@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "46862170",
-      "title": "xAI joins SpaceX",
-      "url": "https://www.spacex.com/updates#xai-joins-spacex",
-      "points": 884,
-      "author": "g-mork",
-      "created_at": 1770069082,
-      "num_comments": 2020,
-      "hn_url": "https://news.ycombinator.com/item?id=46862170"
-    },
-    {
-      "id": "46859054",
-      "title": "The Codex App",
-      "url": "https://openai.com/index/introducing-the-codex-app/",
-      "points": 788,
-      "author": "meetpateltech",
-      "created_at": 1770055368,
-      "num_comments": 621,
-      "hn_url": "https://news.ycombinator.com/item?id=46859054"
-    },
-    {
-      "id": "46863162",
-      "title": "The TSA's New $45 Fee to Fly Without ID Is Illegal",
-      "url": "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/",
-      "points": 604,
-      "author": "donohoe",
-      "created_at": 1770072490,
-      "num_comments": 719,
-      "hn_url": "https://news.ycombinator.com/item?id=46863162"
-    },
-    {
-      "id": "46858577",
-      "title": "Todd C. Miller \u2013 Sudo maintainer for over 30 years",
-      "url": "https://www.millert.dev/",
-      "points": 586,
-      "author": "wodniok",
-      "created_at": 1770053126,
-      "num_comments": 315,
-      "hn_url": "https://news.ycombinator.com/item?id=46858577"
-    },
-    {
-      "id": "46861313",
-      "title": "Anki ownership transferred to AnkiHub",
-      "url": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-      "points": 552,
-      "author": "trms",
-      "created_at": 1770065335,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=46861313"
-    },
-    {
-      "id": "46863112",
-      "title": "Court orders restart of all US offshore wind power construction",
-      "url": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
-      "points": 489,
-      "author": "ck2",
-      "created_at": 1770072304,
-      "num_comments": 391,
-      "hn_url": "https://news.ycombinator.com/item?id=46863112"
-    },
-    {
-      "id": "46854999",
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "points": 396,
-      "author": "Anon84",
-      "created_at": 1770033538,
-      "num_comments": 515,
-      "hn_url": "https://news.ycombinator.com/item?id=46854999"
-    },
-    {
-      "id": "46857615",
-      "title": "Hacking Moltbook",
-      "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-      "points": 389,
-      "author": "galnagli",
-      "created_at": 1770048516,
-      "num_comments": 241,
-      "hn_url": "https://news.ycombinator.com/item?id=46857615"
-    },
-    {
-      "id": "46854642",
-      "title": "Termux",
-      "url": "https://github.com/termux/termux-app",
-      "points": 354,
-      "author": "tosh",
-      "created_at": 1770030224,
-      "num_comments": 180,
-      "hn_url": "https://news.ycombinator.com/item?id=46854642"
-    },
-    {
-      "id": "46858622",
-      "title": "Zig Libc",
-      "url": "https://ziglang.org/devlog/2026/#2026-01-31",
-      "points": 350,
-      "author": "ingve",
-      "created_at": 1770053299,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=46858622"
-    },
-    {
-      "id": "46857488",
-      "title": "Ask HN: Who is hiring? (February 2026)",
-      "url": "https://news.ycombinator.com/item?id=46857488",
-      "points": 301,
-      "author": "whoishiring",
-      "created_at": 1770048090,
-      "num_comments": 427,
-      "hn_url": "https://news.ycombinator.com/item?id=46857488"
-    },
-    {
-      "id": "46855447",
-      "title": "Nano-vLLM: How a vLLM-style inference engine works",
-      "url": "https://neutree.ai/blog/nano-vllm-part-1",
-      "points": 269,
-      "author": "yz-yu",
-      "created_at": 1770036755,
-      "num_comments": 28,
-      "hn_url": "https://news.ycombinator.com/item?id=46855447"
-    },
-    {
-      "id": "46861842",
-      "title": "GitHub experience various partial-outages/degradations",
-      "url": "https://www.githubstatus.com?todayis=2026-02-02",
-      "points": 260,
-      "author": "bhouston",
-      "created_at": 1770067696,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=46861842"
-    },
-    {
-      "id": "46858829",
-      "title": "Linux From Scratch ends SysVinit support",
-      "url": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
-      "points": 218,
-      "author": "cf100clunk",
-      "created_at": 1770054327,
-      "num_comments": 387,
-      "hn_url": "https://news.ycombinator.com/item?id=46858829"
-    },
-    {
-      "id": "46856854",
-      "title": "Waymo seeking about $16B near $110B valuation",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation",
-      "points": 213,
-      "author": "JumpCrisscross",
-      "created_at": 1770044932,
-      "num_comments": 327,
-      "hn_url": "https://news.ycombinator.com/item?id=46856854"
-    },
-    {
-      "id": "46864120",
-      "title": "Firefox Getting New Controls to Turn Off AI Features",
-      "url": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
-      "points": 207,
-      "author": "stalfosknight",
-      "created_at": 1770076442,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=46864120"
-    },
-    {
-      "id": "46854951",
-      "title": "Microsoft is walking back Windows 11's AI overload",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "points": 206,
-      "author": "jsheard",
-      "created_at": 1770033149,
-      "num_comments": 280,
-      "hn_url": "https://news.ycombinator.com/item?id=46854951"
-    },
-    {
       "id": "46873294",
       "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
       "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
@@ -251,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46868998"
     },
     {
-      "id": "46865275",
-      "title": "Banning lead in gas worked. The proof is in our hair",
-      "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
-      "points": 340,
-      "author": "geox",
-      "created_at": 1770083541,
-      "num_comments": 272,
-      "hn_url": "https://news.ycombinator.com/item?id=46865275"
-    },
-    {
       "id": "46874619",
       "title": "Xcode 26.3 \u2013 Developers can leverage coding agents directly in Xcode",
       "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
@@ -321,26 +141,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46873138"
     },
     {
-      "id": "46866544",
-      "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
-      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "points": 239,
-      "author": "GalaxySnail",
-      "created_at": 1770093205,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=46866544"
-    },
-    {
-      "id": "46864498",
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "points": 237,
-      "author": "salkahfi",
-      "created_at": 1770078486,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=46864498"
-    },
-    {
       "id": "46875228",
       "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
       "url": "https://github.com/alibaba/AliSQL",
@@ -359,16 +159,6 @@
       "created_at": 1770109564,
       "num_comments": 90,
       "hn_url": "https://news.ycombinator.com/item?id=46868479"
-    },
-    {
-      "id": "46866481",
-      "title": "Coding assistants are solving the wrong problem",
-      "url": "https://www.bicameral-ai.com/blog/introducing-bicameral",
-      "points": 171,
-      "author": "jinhkuan",
-      "created_at": 1770092735,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=46866481"
     },
     {
       "id": "46881264",
@@ -17789,7 +17579,207 @@
       "created_at": 1777736297,
       "num_comments": 139,
       "hn_url": "https://news.ycombinator.com/item?id=47987333"
+    },
+    {
+      "id": "47997418",
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "points": 686,
+      "author": "teleforce",
+      "created_at": 1777819407,
+      "num_comments": 388,
+      "hn_url": "https://news.ycombinator.com/item?id=47997418"
+    },
+    {
+      "id": "48002136",
+      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "points": 416,
+      "author": "alattaran",
+      "created_at": 1777846400,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=48002136"
+    },
+    {
+      "id": "47991802",
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "points": 410,
+      "author": "unignorant",
+      "created_at": 1777766474,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=47991802"
+    },
+    {
+      "id": "47991981",
+      "title": "OpenAI\u2019s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "points": 384,
+      "author": "donsupreme",
+      "created_at": 1777768250,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=47991981"
+    },
+    {
+      "id": "48000152",
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "points": 374,
+      "author": "dryadin",
+      "created_at": 1777834468,
+      "num_comments": 326,
+      "hn_url": "https://news.ycombinator.com/item?id=48000152"
+    },
+    {
+      "id": "47993235",
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "points": 361,
+      "author": "bazlightyear",
+      "created_at": 1777781128,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=47993235"
+    },
+    {
+      "id": "47999636",
+      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "points": 354,
+      "author": "nullagent",
+      "created_at": 1777831394,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=47999636"
+    },
+    {
+      "id": "48002442",
+      "title": "Agentic Coding Is a Trap",
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "points": 345,
+      "author": "ayoisaiah",
+      "created_at": 1777848727,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=48002442"
+    },
+    {
+      "id": "47997947",
+      "title": "A desktop made for one",
+      "url": "https://isene.org/2026/05/Audience-of-One.html",
+      "points": 330,
+      "author": "xngbuilds",
+      "created_at": 1777822325,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=47997947"
+    },
+    {
+      "id": "48000028",
+      "title": "Why TUIs are back",
+      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+      "points": 323,
+      "author": "rickcarlino",
+      "created_at": 1777833748,
+      "num_comments": 336,
+      "hn_url": "https://news.ycombinator.com/item?id=48000028"
+    },
+    {
+      "id": "48002777",
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "points": 316,
+      "author": "bjhess",
+      "created_at": 1777851371,
+      "num_comments": 300,
+      "hn_url": "https://news.ycombinator.com/item?id=48002777"
+    },
+    {
+      "id": "47994012",
+      "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "points": 266,
+      "author": "brendanmc6",
+      "created_at": 1777790018,
+      "num_comments": 279,
+      "hn_url": "https://news.ycombinator.com/item?id=47994012"
+    },
+    {
+      "id": "47998790",
+      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
+      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+      "points": 263,
+      "author": "rishabhd",
+      "created_at": 1777826891,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=47998790"
+    },
+    {
+      "id": "47998946",
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "points": 242,
+      "author": "KatiMichel",
+      "created_at": 1777827733,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47998946"
+    },
+    {
+      "id": "47992349",
+      "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+      "points": 223,
+      "author": "doener",
+      "created_at": 1777771449,
+      "num_comments": 237,
+      "hn_url": "https://news.ycombinator.com/item?id=47992349"
+    },
+    {
+      "id": "47998225",
+      "title": "For thirty years I programmed with Phish on, every day",
+      "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
+      "points": 217,
+      "author": "azhenley",
+      "created_at": 1777823759,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=47998225"
+    },
+    {
+      "id": "47997358",
+      "title": "Utah to hold websites liable for users who mask their location with VPNs",
+      "url": "https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law",
+      "points": 216,
+      "author": "GavinAnderegg",
+      "created_at": 1777818974,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=47997358"
+    },
+    {
+      "id": "48002938",
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "points": 207,
+      "author": "SpyCoder77",
+      "created_at": 1777852742,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=48002938"
+    },
+    {
+      "id": "47992772",
+      "title": "Open source does not imply open community",
+      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+      "points": 185,
+      "author": "RohanAdwankar",
+      "created_at": 1777775769,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=47992772"
+    },
+    {
+      "id": "47992338",
+      "title": "A network smuggling Starlink tech into Iran to beat internet blackout",
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+      "points": 181,
+      "author": "1659447091",
+      "created_at": 1777771361,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47992338"
     }
   ],
-  "last_updated": "2026-05-03T07:56:18.258747+00:00"
+  "last_updated": "2026-05-04T08:24:08.160826+00:00"
 }
