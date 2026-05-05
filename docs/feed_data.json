@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "46873294",
-      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
-      "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
-      "points": 983,
-      "author": "AareyBaba",
-      "created_at": 1770136758,
-      "num_comments": 514,
-      "hn_url": "https://news.ycombinator.com/item?id=46873294"
-    },
-    {
-      "id": "46872706",
-      "title": "Qwen3-Coder-Next",
-      "url": "https://qwen.ai/blog?id=qwen3-coder-next",
-      "points": 667,
-      "author": "danielhanchen",
-      "created_at": 1770134510,
-      "num_comments": 389,
-      "hn_url": "https://news.ycombinator.com/item?id=46872706"
-    },
-    {
-      "id": "46876105",
-      "title": "Data centers in space makes no sense",
-      "url": "https://civai.org/blog/space-data-centers",
-      "points": 658,
-      "author": "ajyoon",
-      "created_at": 1770147450,
-      "num_comments": 760,
-      "hn_url": "https://news.ycombinator.com/item?id=46876105"
-    },
-    {
-      "id": "46868759",
-      "title": "What's up with all those equals signs anyway?",
-      "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
-      "points": 631,
-      "author": "todsacerdoti",
-      "created_at": 1770111460,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=46868759"
-    },
-    {
-      "id": "46871173",
-      "title": "Agent Skills",
-      "url": "https://agentskills.io/home",
-      "points": 467,
-      "author": "mooreds",
-      "created_at": 1770127794,
-      "num_comments": 229,
-      "hn_url": "https://news.ycombinator.com/item?id=46871173"
-    },
-    {
-      "id": "46872540",
-      "title": "New York\u2019s budget bill would require \u201cblocking technology\u201d on all 3D printers",
-      "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
-      "points": 454,
-      "author": "ptorrone",
-      "created_at": 1770133902,
-      "num_comments": 501,
-      "hn_url": "https://news.ycombinator.com/item?id=46872540"
-    },
-    {
-      "id": "46874097",
-      "title": "Deno Sandbox",
-      "url": "https://deno.com/blog/introducing-deno-sandbox",
-      "points": 454,
-      "author": "johnspurlock",
-      "created_at": 1770140000,
-      "num_comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=46874097"
-    },
-    {
-      "id": "46868998",
-      "title": "X offices raided in France as UK opens fresh investigation into Grok",
-      "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
-      "points": 389,
-      "author": "vikaveri",
-      "created_at": 1770113332,
-      "num_comments": 724,
-      "hn_url": "https://news.ycombinator.com/item?id=46868998"
-    },
-    {
-      "id": "46874619",
-      "title": "Xcode 26.3 \u2013 Developers can leverage coding agents directly in Xcode",
-      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-      "points": 318,
-      "author": "davidbarker",
-      "created_at": 1770141848,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=46874619"
-    },
-    {
-      "id": "46878338",
-      "title": "Notepad++ supply chain attack breakdown",
-      "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
-      "points": 301,
-      "author": "natebc",
-      "created_at": 1770158127,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=46878338"
-    },
-    {
-      "id": "46870015",
-      "title": "Bunny Database",
-      "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
-      "points": 299,
-      "author": "dabinat",
-      "created_at": 1770120824,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=46870015"
-    },
-    {
-      "id": "46872894",
-      "title": "X offices raided in France",
-      "url": "https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc",
-      "points": 288,
-      "author": "labrador",
-      "created_at": 1770135257,
-      "num_comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=46872894"
-    },
-    {
-      "id": "46873574",
-      "title": "221 Cannon is Not For Sale",
-      "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
-      "points": 258,
-      "author": "mecredis",
-      "created_at": 1770137766,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=46873574"
-    },
-    {
-      "id": "46873138",
-      "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
-      "url": "https://github.com/j178/prek",
-      "points": 251,
-      "author": "fortuitous-frog",
-      "created_at": 1770136174,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=46873138"
-    },
-    {
-      "id": "46875228",
-      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
-      "url": "https://github.com/alibaba/AliSQL",
-      "points": 221,
-      "author": "baotiao",
-      "created_at": 1770144018,
-      "num_comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=46875228"
-    },
-    {
-      "id": "46868479",
-      "title": "Show HN: Safe-now.live \u2013 Ultra-light emergency info site (<10KB)",
-      "url": "https://safe-now.live",
-      "points": 181,
-      "author": "tinuviel",
-      "created_at": 1770109564,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=46868479"
-    },
-    {
-      "id": "46881264",
-      "title": "I miss thinking hard",
-      "url": "https://www.jernesto.com/articles/thinking_hard",
-      "points": 1229,
-      "author": "jernestomg",
-      "created_at": 1770177251,
-      "num_comments": 675,
-      "hn_url": "https://news.ycombinator.com/item?id=46881264"
-    },
-    {
       "id": "46886735",
       "title": "Voxtral Transcribe 2",
       "url": "https://mistral.ai/news/voxtral-transcribe-2",
@@ -221,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46886191"
     },
     {
-      "id": "46882389",
-      "title": "Show HN: Ghidra MCP Server \u2013 110 tools for AI-assisted reverse engineering",
-      "url": "https://github.com/bethington/ghidra-mcp",
-      "points": 277,
-      "author": "xerzes",
-      "created_at": 1770187911,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=46882389"
-    },
-    {
       "id": "46886440",
       "title": "A case study in PDF forensics: The Epstein PDFs",
       "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
@@ -259,16 +79,6 @@
       "created_at": 1770231406,
       "num_comments": 241,
       "hn_url": "https://news.ycombinator.com/item?id=46890034"
-    },
-    {
-      "id": "46881568",
-      "title": "Petition for Recognition of Work on Open-Source as Volunteering in Germany",
-      "url": "https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany",
-      "points": 209,
-      "author": "numeri",
-      "created_at": 1770180375,
-      "num_comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=46881568"
     },
     {
       "id": "46888438",
@@ -319,16 +129,6 @@
       "created_at": 1770226505,
       "num_comments": 42,
       "hn_url": "https://news.ycombinator.com/item?id=46888795"
-    },
-    {
-      "id": "46879447",
-      "title": "Illinois joins WHO global outbreak network after U.S. withdraws",
-      "url": "https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/",
-      "points": 134,
-      "author": "doener",
-      "created_at": 1770164152,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=46879447"
     },
     {
       "id": "46891794",
@@ -17779,7 +17579,207 @@
       "created_at": 1777771361,
       "num_comments": 143,
       "hn_url": "https://news.ycombinator.com/item?id=47992338"
+    },
+    {
+      "id": "48007438",
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "points": 1319,
+      "author": "thitran",
+      "created_at": 1777894862,
+      "num_comments": 627,
+      "hn_url": "https://news.ycombinator.com/item?id=48007438"
+    },
+    {
+      "id": "48006402",
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "points": 672,
+      "author": "n1b0m",
+      "created_at": 1777887072,
+      "num_comments": 643,
+      "hn_url": "https://news.ycombinator.com/item?id=48006402"
+    },
+    {
+      "id": "48006445",
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "points": 605,
+      "author": "maxloh",
+      "created_at": 1777887606,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=48006445"
+    },
+    {
+      "id": "48009697",
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "points": 555,
+      "author": "rdeboo",
+      "created_at": 1777907441,
+      "num_comments": 503,
+      "hn_url": "https://news.ycombinator.com/item?id=48009697"
+    },
+    {
+      "id": "48012735",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "points": 518,
+      "author": "cft",
+      "created_at": 1777918962,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=48012735"
+    },
+    {
+      "id": "48011689",
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "points": 478,
+      "author": "ZeidJ",
+      "created_at": 1777914996,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=48011689"
+    },
+    {
+      "id": "48011184",
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "points": 477,
+      "author": "remote-dev",
+      "created_at": 1777913100,
+      "num_comments": 314,
+      "hn_url": "https://news.ycombinator.com/item?id=48011184"
+    },
+    {
+      "id": "48010301",
+      "title": "Incident with Issues and Webhooks \u2013 Resolved",
+      "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+      "points": 421,
+      "author": "gen220",
+      "created_at": 1777910001,
+      "num_comments": 259,
+      "hn_url": "https://news.ycombinator.com/item?id=48010301"
+    },
+    {
+      "id": "48013919",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "points": 388,
+      "author": "Sean-Der",
+      "created_at": 1777923767,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=48013919"
+    },
+    {
+      "id": "48012022",
+      "title": "Days without GitHub incidents",
+      "url": "https://www.dayswithoutgithubincident.com/",
+      "points": 371,
+      "author": "goalieca",
+      "created_at": 1777916192,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=48012022"
+    },
+    {
+      "id": "48009020",
+      "title": "How Monero\u2019s proof of work works",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "points": 279,
+      "author": "alcazar",
+      "created_at": 1777903850,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=48009020"
+    },
+    {
+      "id": "48009983",
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "points": 274,
+      "author": "littlexsparkee",
+      "created_at": 1777908766,
+      "num_comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=48009983"
+    },
+    {
+      "id": "48009172",
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "points": 274,
+      "author": "antirez",
+      "created_at": 1777904587,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48009172"
+    },
+    {
+      "id": "48008083",
+      "title": "PyInfra 3.8.0",
+      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "points": 266,
+      "author": "wowi42",
+      "created_at": 1777899226,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48008083"
+    },
+    {
+      "id": "48011603",
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "points": 265,
+      "author": "andsoitis",
+      "created_at": 1777914657,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=48011603"
+    },
+    {
+      "id": "48012003",
+      "title": "Heat pump sales rise across Europe",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "points": 244,
+      "author": "doener",
+      "created_at": 1777916115,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=48012003"
+    },
+    {
+      "id": "48015397",
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "points": 232,
+      "author": "BOOSTERHIDROGEN",
+      "created_at": 1777930842,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=48015397"
+    },
+    {
+      "id": "48012162",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "points": 194,
+      "author": "bearsyankees",
+      "created_at": 1777916792,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=48012162"
+    },
+    {
+      "id": "48009747",
+      "title": "UK Fuel Price Intelligence \u2013 Market analytics from reporting stations",
+      "url": "https://www.fuelinsight.co.uk",
+      "points": 174,
+      "author": "theazureguy",
+      "created_at": 1777907721,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=48009747"
+    },
+    {
+      "id": "48004380",
+      "title": "Humanoid Robot Actuators",
+      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+      "points": 167,
+      "author": "ofrzeta",
+      "created_at": 1777866129,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=48004380"
     }
   ],
-  "last_updated": "2026-05-04T08:24:08.160826+00:00"
+  "last_updated": "2026-05-05T08:03:05.706528+00:00"
 }
