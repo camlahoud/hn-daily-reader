@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "46886735",
-      "title": "Voxtral Transcribe 2",
-      "url": "https://mistral.ai/news/voxtral-transcribe-2",
-      "points": 838,
-      "author": "meetpateltech",
-      "created_at": 1770217697,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=46886735"
-    },
-    {
-      "id": "46886237",
-      "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
-      "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
-      "points": 563,
-      "author": "robin_reala",
-      "created_at": 1770215492,
-      "num_comments": 490,
-      "hn_url": "https://news.ycombinator.com/item?id=46886237"
-    },
-    {
-      "id": "46884883",
-      "title": "Claude is a space to think",
-      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "points": 421,
-      "author": "meetpateltech",
-      "created_at": 1770206929,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=46884883"
-    },
-    {
-      "id": "46888441",
-      "title": "AI is killing B2B SaaS",
-      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "points": 309,
-      "author": "namanyayg",
-      "created_at": 1770224968,
-      "num_comments": 469,
-      "hn_url": "https://news.ycombinator.com/item?id=46888441"
-    },
-    {
-      "id": "46886191",
-      "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
-      "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-      "points": 280,
-      "author": "bookofjoe",
-      "created_at": 1770215225,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=46886191"
-    },
-    {
-      "id": "46886440",
-      "title": "A case study in PDF forensics: The Epstein PDFs",
-      "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
-      "points": 274,
-      "author": "DuffJohnson",
-      "created_at": 1770216406,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=46886440"
-    },
-    {
-      "id": "46889008",
-      "title": "The Great Unwind",
-      "url": "https://occupywallst.com/yen",
-      "points": 238,
-      "author": "jart",
-      "created_at": 1770227366,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=46889008"
-    },
-    {
-      "id": "46890034",
-      "title": "How Jeff Bezos Brought Down the Washington Post",
-      "url": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post",
-      "points": 220,
-      "author": "thm",
-      "created_at": 1770231406,
-      "num_comments": 241,
-      "hn_url": "https://news.ycombinator.com/item?id=46890034"
-    },
-    {
-      "id": "46888438",
-      "title": "French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel",
-      "url": "https://twitter.com/Ced_haurus/status/2018716889191498172",
-      "points": 205,
-      "author": "hocuspocus",
-      "created_at": 1770224950,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=46888438"
-    },
-    {
-      "id": "46889703",
-      "title": "Claude Code for Infrastructure",
-      "url": "https://www.fluid.sh/",
-      "points": 194,
-      "author": "aspectrr",
-      "created_at": 1770230048,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=46889703"
-    },
-    {
-      "id": "46887564",
-      "title": "Microsoft's Copilot chatbot is running into problems",
-      "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-      "points": 185,
-      "author": "fortran77",
-      "created_at": 1770221335,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=46887564"
-    },
-    {
-      "id": "46886265",
-      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
-      "url": "https://arxiv.org/abs/2602.00294",
-      "points": 158,
-      "author": "fheinsen",
-      "created_at": 1770215613,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=46886265"
-    },
-    {
-      "id": "46888795",
-      "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-      "points": 149,
-      "author": "evakhoury",
-      "created_at": 1770226505,
-      "num_comments": 42,
-      "hn_url": "https://news.ycombinator.com/item?id=46888795"
-    },
-    {
-      "id": "46891794",
-      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
-      "url": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
-      "points": 121,
-      "author": "mxfh",
-      "created_at": 1770239315,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=46891794"
-    },
-    {
-      "id": "46888824",
-      "title": "Steve Bannon Proposes Using ICE in Elections",
-      "url": "https://www.newsweek.com/steve-bannon-proposes-using-ice-in-elections-11462376",
-      "points": 115,
-      "author": "SilverElfin",
-      "created_at": 1770226600,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=46888824"
-    },
-    {
-      "id": "46888142",
-      "title": "RS-SDK: Drive RuneScape with Claude Code",
-      "url": "https://github.com/MaxBittker/rs-sdk",
-      "points": 108,
-      "author": "evakhoury",
-      "created_at": 1770223646,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=46888142"
-    },
-    {
       "id": "46902223",
       "title": "Claude Opus 4.6",
       "url": "https://www.anthropic.com/news/claude-opus-4-6",
@@ -181,16 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46902638"
     },
     {
-      "id": "46896146",
-      "title": "Don't rent the cloud, own instead",
-      "url": "https://blog.comma.ai/datacenter/",
-      "points": 1122,
-      "author": "Torq_boi",
-      "created_at": 1770270601,
-      "num_comments": 462,
-      "hn_url": "https://news.ycombinator.com/item?id=46896146"
-    },
-    {
       "id": "46903556",
       "title": "Flock CEO calls Deflock a \u201cterrorist organization\u201d (2025) [video]",
       "url": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
@@ -199,16 +29,6 @@
       "created_at": 1770318277,
       "num_comments": 408,
       "hn_url": "https://news.ycombinator.com/item?id=46903556"
-    },
-    {
-      "id": "46893970",
-      "title": "OpenClaw is what Apple intelligence should have been",
-      "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "points": 499,
-      "author": "jakequist",
-      "created_at": 1770251286,
-      "num_comments": 404,
-      "hn_url": "https://news.ycombinator.com/item?id=46893970"
     },
     {
       "id": "46903558",
@@ -239,16 +59,6 @@
       "created_at": 1770326643,
       "num_comments": 287,
       "hn_url": "https://news.ycombinator.com/item?id=46905555"
-    },
-    {
-      "id": "46895972",
-      "title": "When internal hostnames are leaked to the clown",
-      "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
-      "points": 431,
-      "author": "zdw",
-      "created_at": 1770268956,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=46895972"
     },
     {
       "id": "46904361",
@@ -309,16 +119,6 @@
       "created_at": 1770291903,
       "num_comments": 140,
       "hn_url": "https://news.ycombinator.com/item?id=46898615"
-    },
-    {
-      "id": "46895860",
-      "title": "ICE seeks industry input on ad tech location data for investigative use",
-      "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
-      "points": 277,
-      "author": "WaitWaitWha",
-      "created_at": 1770267721,
-      "num_comments": 331,
-      "hn_url": "https://news.ycombinator.com/item?id=46895860"
     },
     {
       "id": "46902512",
@@ -17779,7 +17579,207 @@
       "created_at": 1777866129,
       "num_comments": 78,
       "hn_url": "https://news.ycombinator.com/item?id=48004380"
+    },
+    {
+      "id": "48019219",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "points": 1439,
+      "author": "john-doe",
+      "created_at": 1777966495,
+      "num_comments": 948,
+      "hn_url": "https://news.ycombinator.com/item?id=48019219"
+    },
+    {
+      "id": "48016880",
+      "title": "Zig \u2192 Rust porting guide",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "points": 701,
+      "author": "SergeAx",
+      "created_at": 1777943297,
+      "num_comments": 525,
+      "hn_url": "https://news.ycombinator.com/item?id=48016880"
+    },
+    {
+      "id": "48027897",
+      "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "points": 662,
+      "author": "warpspin",
+      "created_at": 1778012195,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=48027897"
+    },
+    {
+      "id": "48024540",
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "points": 561,
+      "author": "amrrs",
+      "created_at": 1777997657,
+      "num_comments": 267,
+      "hn_url": "https://news.ycombinator.com/item?id=48024540"
+    },
+    {
+      "id": "48022742",
+      "title": "AI didn't delete your database, you did",
+      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+      "points": 522,
+      "author": "Brajeshwar",
+      "created_at": 1777990070,
+      "num_comments": 290,
+      "hn_url": "https://news.ycombinator.com/item?id=48022742"
+    },
+    {
+      "id": "48017948",
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "points": 446,
+      "author": "kristianpaul",
+      "created_at": 1777954157,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=48017948"
+    },
+    {
+      "id": "48023861",
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "points": 441,
+      "author": "blenderob",
+      "created_at": 1777994838,
+      "num_comments": 307,
+      "hn_url": "https://news.ycombinator.com/item?id=48023861"
+    },
+    {
+      "id": "48019163",
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "points": 434,
+      "author": "pjmlp",
+      "created_at": 1777965963,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=48019163"
+    },
+    {
+      "id": "48021561",
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "points": 405,
+      "author": "alentodorov",
+      "created_at": 1777984108,
+      "num_comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=48021561"
+    },
+    {
+      "id": "48024859",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "points": 391,
+      "author": "palashawas",
+      "created_at": 1777998888,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=48024859"
+    },
+    {
+      "id": "48026207",
+      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+      "points": 383,
+      "author": "spankibalt",
+      "created_at": 1778004265,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=48026207"
+    },
+    {
+      "id": "48016534",
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "points": 375,
+      "author": "gyomu",
+      "created_at": 1777939741,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=48016534"
+    },
+    {
+      "id": "48020063",
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "points": 361,
+      "author": "youngbrioche",
+      "created_at": 1777973422,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=48020063"
+    },
+    {
+      "id": "48021368",
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "points": 360,
+      "author": "adrianmsmith",
+      "created_at": 1777983024,
+      "num_comments": 557,
+      "hn_url": "https://news.ycombinator.com/item?id=48021368"
+    },
+    {
+      "id": "48025687",
+      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "points": 341,
+      "author": "SeenNotHeard",
+      "created_at": 1778002098,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=48025687"
+    },
+    {
+      "id": "48026349",
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "points": 333,
+      "author": "littlexsparkee",
+      "created_at": 1778004827,
+      "num_comments": 389,
+      "hn_url": "https://news.ycombinator.com/item?id=48026349"
+    },
+    {
+      "id": "48018066",
+      "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+      "url": "https://walzr.com/empty-screenings",
+      "points": 319,
+      "author": "MrBuddyCasino",
+      "created_at": 1777955602,
+      "num_comments": 262,
+      "hn_url": "https://news.ycombinator.com/item?id=48018066"
+    },
+    {
+      "id": "48022992",
+      "title": "The fun has been optimized out of the Internet",
+      "url": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
+      "points": 305,
+      "author": "jprs",
+      "created_at": 1777991364,
+      "num_comments": 269,
+      "hn_url": "https://news.ycombinator.com/item?id=48022992"
+    },
+    {
+      "id": "48024129",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "points": 287,
+      "author": "brudgers",
+      "created_at": 1777996038,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48024129"
+    },
+    {
+      "id": "48028842",
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "points": 258,
+      "author": "nohell",
+      "created_at": 1778016410,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=48028842"
     }
   ],
-  "last_updated": "2026-05-05T08:03:05.706528+00:00"
+  "last_updated": "2026-05-06T09:11:50.249477+00:00"
 }
