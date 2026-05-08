@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "46911901",
-      "title": "I now assume that all ads on Apple news are scams",
-      "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "points": 1022,
-      "author": "cdrnsf",
-      "created_at": 1770380203,
-      "num_comments": 425,
-      "hn_url": "https://news.ycombinator.com/item?id=46911901"
-    },
-    {
-      "id": "46914785",
-      "title": "The Waymo World Model",
-      "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "points": 847,
-      "author": "xnx",
-      "created_at": 1770394842,
-      "num_comments": 506,
-      "hn_url": "https://news.ycombinator.com/item?id=46914785"
-    },
-    {
-      "id": "46911869",
-      "title": "TikTok's 'addictive design' found to be illegal in Europe",
-      "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-      "points": 618,
-      "author": "thm",
-      "created_at": 1770379908,
-      "num_comments": 446,
-      "hn_url": "https://news.ycombinator.com/item?id=46911869"
-    },
-    {
-      "id": "46910963",
-      "title": "A new bill in New York would require disclaimers on AI-generated news content",
-      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-      "points": 530,
-      "author": "giuliomagnifico",
-      "created_at": 1770371815,
-      "num_comments": 220,
-      "hn_url": "https://news.ycombinator.com/item?id=46910963"
-    },
-    {
-      "id": "46918612",
-      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-      "url": "https://openciv3.org/",
-      "points": 510,
-      "author": "klaussilveira",
-      "created_at": 1770414683,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=46918612"
-    },
-    {
-      "id": "46912800",
-      "title": "Hackers (1995) Animated Experience",
-      "url": "https://hackers-1995.vercel.app/",
-      "points": 424,
-      "author": "todsacerdoti",
-      "created_at": 1770385795,
-      "num_comments": 221,
-      "hn_url": "https://news.ycombinator.com/item?id=46912800"
-    },
-    {
-      "id": "46913903",
-      "title": "An Update on Heroku",
-      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "points": 364,
-      "author": "lstoll",
-      "created_at": 1770391223,
-      "num_comments": 253,
-      "hn_url": "https://news.ycombinator.com/item?id=46913903"
-    },
-    {
-      "id": "46913793",
-      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
-      "url": "https://github.com/microsoft/litebox",
-      "points": 340,
-      "author": "aktau",
-      "created_at": 1770390784,
-      "num_comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=46913793"
-    },
-    {
-      "id": "46914159",
-      "title": "Sheldon Brown's Bicycle Technical Info",
-      "url": "https://www.sheldonbrown.com/",
-      "points": 332,
-      "author": "ostacke",
-      "created_at": 1770392442,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=46914159"
-    },
-    {
-      "id": "46917033",
-      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "url": "https://vecti.com",
-      "points": 282,
-      "author": "vecti",
-      "created_at": 1770406057,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=46917033"
-    },
-    {
-      "id": "46916609",
-      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-      "url": "https://eljojo.github.io/rememory/",
-      "points": 228,
-      "author": "eljojo",
-      "created_at": 1770403918,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=46916609"
-    },
-    {
-      "id": "46916586",
-      "title": "How to effectively write quality code with AI",
-      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-      "points": 214,
-      "author": "i5heu",
-      "created_at": 1770403799,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=46916586"
-    },
-    {
-      "id": "46918254",
-      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-      "url": "https://github.com/pydantic/monty",
-      "points": 170,
-      "author": "dmpetrov",
-      "created_at": 1770412596,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=46918254"
-    },
-    {
-      "id": "46918429",
-      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-      "url": "https://github.com/valdanylchuk/breezydemo",
-      "points": 166,
-      "author": "isitcontent",
-      "created_at": 1770413591,
-      "num_comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=46918429"
-    },
-    {
-      "id": "46914094",
-      "title": "NIMBYs aren't just shutting down housing",
-      "url": "https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing",
-      "points": 156,
-      "author": "toomuchtodo",
-      "created_at": 1770392085,
-      "num_comments": 346,
-      "hn_url": "https://news.ycombinator.com/item?id=46914094"
-    },
-    {
-      "id": "46918727",
-      "title": "Early Christian Writings",
-      "url": "https://earlychristianwritings.com/",
-      "points": 153,
-      "author": "dsego",
-      "created_at": 1770415246,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=46918727"
-    },
-    {
       "id": "46923736",
       "title": "France's homegrown open source online office suite",
       "url": "https://github.com/suitenumerique",
@@ -241,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46924426"
     },
     {
-      "id": "46920487",
-      "title": "Why I Joined OpenAI",
-      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
-      "points": 202,
-      "author": "SerCe",
-      "created_at": 1770428704,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=46920487"
-    },
-    {
       "id": "46924813",
       "title": "British drivers over 70 to face eye tests every three years",
       "url": "https://www.bbc.com/news/articles/c205nxy0p31o",
@@ -329,16 +159,6 @@
       "created_at": 1770493916,
       "num_comments": 186,
       "hn_url": "https://news.ycombinator.com/item?id=46927098"
-    },
-    {
-      "id": "46920248",
-      "title": "I'm going to cure my girlfriend's brain tumor",
-      "url": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
-      "points": 146,
-      "author": "ray__",
-      "created_at": 1770426359,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=46920248"
     },
     {
       "id": "46924591",
@@ -17779,7 +17599,207 @@
       "created_at": 1778031524,
       "num_comments": 209,
       "hn_url": "https://news.ycombinator.com/item?id=48031109"
+    },
+    {
+      "id": "48049653",
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "points": 622,
+      "author": "speckx",
+      "created_at": 1778162770,
+      "num_comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=48049653"
+    },
+    {
+      "id": "48054423",
+      "title": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "points": 609,
+      "author": "PriorityLeft",
+      "created_at": 1778185417,
+      "num_comments": 364,
+      "hn_url": "https://news.ycombinator.com/item?id=48054423"
+    },
+    {
+      "id": "48053203",
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "points": 602,
+      "author": "thm",
+      "created_at": 1778179585,
+      "num_comments": 536,
+      "hn_url": "https://news.ycombinator.com/item?id=48053203"
+    },
+    {
+      "id": "48053623",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "points": 586,
+      "author": "flipped",
+      "created_at": 1778181692,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=48053623"
+    },
+    {
+      "id": "48055913",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "points": 558,
+      "author": "stefanpie",
+      "created_at": 1778192541,
+      "num_comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=48055913"
+    },
+    {
+      "id": "48050964",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "points": 542,
+      "author": "newsoftheday",
+      "created_at": 1778169393,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=48050964"
+    },
+    {
+      "id": "48047981",
+      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+      "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
+      "points": 493,
+      "author": "Qem",
+      "created_at": 1778152224,
+      "num_comments": 314,
+      "hn_url": "https://news.ycombinator.com/item?id=48047981"
+    },
+    {
+      "id": "48051562",
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "points": 438,
+      "author": "bsuh",
+      "created_at": 1778172215,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=48051562"
+    },
+    {
+      "id": "48056227",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "points": 422,
+      "author": "psxuaw",
+      "created_at": 1778194931,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=48056227"
+    },
+    {
+      "id": "48050751",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "points": 361,
+      "author": "tamnd",
+      "created_at": 1778168424,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=48050751"
+    },
+    {
+      "id": "48049208",
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "url": "https://www.nature.com/articles/d41586-026-00720-8",
+      "points": 353,
+      "author": "surprisetalk",
+      "created_at": 1778160604,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=48049208"
+    },
+    {
+      "id": "48050278",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "points": 284,
+      "author": "berlianta",
+      "created_at": 1778166140,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=48050278"
+    },
+    {
+      "id": "48050499",
+      "title": "I want to live like Costco people",
+      "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+      "points": 283,
+      "author": "speckx",
+      "created_at": 1778167167,
+      "num_comments": 589,
+      "hn_url": "https://news.ycombinator.com/item?id=48050499"
+    },
+    {
+      "id": "48050540",
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "points": 269,
+      "author": "speckx",
+      "created_at": 1778167403,
+      "num_comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=48050540"
+    },
+    {
+      "id": "48043964",
+      "title": "RSS feeds send me more traffic than Google",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+      "points": 262,
+      "author": "SpyCoder77",
+      "created_at": 1778114406,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=48043964"
+    },
+    {
+      "id": "48044638",
+      "title": "Permacomputing Principles",
+      "url": "https://permacomputing.net/principles/",
+      "points": 257,
+      "author": "andsoitis",
+      "created_at": 1778120303,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=48044638"
+    },
+    {
+      "id": "48052537",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "points": 256,
+      "author": "instagraham",
+      "created_at": 1778176442,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=48052537"
+    },
+    {
+      "id": "48047970",
+      "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
+      "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+      "points": 214,
+      "author": "robin_reala",
+      "created_at": 1778152123,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=48047970"
+    },
+    {
+      "id": "48045012",
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "url": "https://aniket.foo/posts/20260505-netboot/",
+      "points": 193,
+      "author": "stereo-highway",
+      "created_at": 1778123604,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=48045012"
+    },
+    {
+      "id": "48044311",
+      "title": "The Vatican's Website in Latin",
+      "url": "https://www.vatican.va/latin/latin_index.html",
+      "points": 184,
+      "author": "ks2048",
+      "created_at": 1778117163,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=48044311"
     }
   ],
-  "last_updated": "2026-05-07T08:27:49.584362+00:00"
+  "last_updated": "2026-05-08T07:23:44.357160+00:00"
 }
