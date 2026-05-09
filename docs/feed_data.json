@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "46923736",
-      "title": "France's homegrown open source online office suite",
-      "url": "https://github.com/suitenumerique",
-      "points": 714,
-      "author": "nar001",
-      "created_at": 1770471274,
-      "num_comments": 301,
-      "hn_url": "https://news.ycombinator.com/item?id=46923736"
-    },
-    {
-      "id": "46926245",
-      "title": "We mourn our craft",
-      "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "points": 406,
-      "author": "ColinWright",
-      "created_at": 1770489147,
-      "num_comments": 536,
-      "hn_url": "https://news.ycombinator.com/item?id=46926245"
-    },
-    {
-      "id": "46923543",
-      "title": "Coding agents have replaced every framework I used",
-      "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-      "points": 325,
-      "author": "alainrk",
-      "created_at": 1770469629,
-      "num_comments": 520,
-      "hn_url": "https://news.ycombinator.com/item?id=46923543"
-    },
-    {
-      "id": "46922049",
-      "title": "Vocal Guide \u2013 belt sing without killing yourself",
-      "url": "https://jesperordrup.github.io/vocal-guide/",
-      "points": 325,
-      "author": "jesperordrup",
-      "created_at": 1770449823,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=46922049"
-    },
-    {
-      "id": "46922969",
-      "title": "The AI boom is causing shortages everywhere else",
-      "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "points": 311,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1770463289,
-      "num_comments": 494,
-      "hn_url": "https://news.ycombinator.com/item?id=46922969"
-    },
-    {
-      "id": "46925669",
-      "title": "U.S. jobs disappear at fastest January pace since great recession",
-      "url": "https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/",
-      "points": 307,
-      "author": "alephnerd",
-      "created_at": 1770485484,
-      "num_comments": 249,
-      "hn_url": "https://news.ycombinator.com/item?id=46925669"
-    },
-    {
-      "id": "46925741",
-      "title": "SectorC: A C Compiler in 512 bytes (2023)",
-      "url": "https://xorvoid.com/sectorc.html",
-      "points": 262,
-      "author": "valyala",
-      "created_at": 1770485993,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=46925741"
-    },
-    {
-      "id": "46924426",
-      "title": "Software factories and the agentic moment",
-      "url": "https://factory.strongdm.ai/",
-      "points": 206,
-      "author": "mellosouls",
-      "created_at": 1770476756,
-      "num_comments": 355,
-      "hn_url": "https://news.ycombinator.com/item?id=46924426"
-    },
-    {
-      "id": "46924813",
-      "title": "British drivers over 70 to face eye tests every three years",
-      "url": "https://www.bbc.com/news/articles/c205nxy0p31o",
-      "points": 198,
-      "author": "bookofjoe",
-      "created_at": 1770479754,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=46924813"
-    },
-    {
-      "id": "46925808",
-      "title": "I write games in C (yes, C) (2016)",
-      "url": "https://jonathanwhiting.com/writing/blog/games_in_c/",
-      "points": 190,
-      "author": "valyala",
-      "created_at": 1770486325,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=46925808"
-    },
-    {
-      "id": "46923254",
-      "title": "Hoot: Scheme on WebAssembly",
-      "url": "https://www.spritely.institute/hoot/",
-      "points": 183,
-      "author": "AlexeyBrin",
-      "created_at": 1770466700,
-      "num_comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=46923254"
-    },
-    {
-      "id": "46924264",
-      "title": "Stories from 25 Years of Software Development",
-      "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "points": 175,
-      "author": "vinhnx",
-      "created_at": 1770475336,
-      "num_comments": 17,
-      "hn_url": "https://news.ycombinator.com/item?id=46924264"
-    },
-    {
-      "id": "46924544",
-      "title": "Google staff call for firm to cut ties with ICE",
-      "url": "https://www.bbc.com/news/articles/cvgjg98vmzjo",
-      "points": 172,
-      "author": "tartoran",
-      "created_at": 1770477597,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=46924544"
-    },
-    {
-      "id": "46926043",
-      "title": "Speed up responses with fast mode",
-      "url": "https://code.claude.com/docs/en/fast-mode",
-      "points": 170,
-      "author": "surprisetalk",
-      "created_at": 1770487703,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=46926043"
-    },
-    {
-      "id": "46928435",
-      "title": "Tiny C Compiler",
-      "url": "https://bellard.org/tcc/",
-      "points": 149,
-      "author": "guerrilla",
-      "created_at": 1770500754,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=46928435"
-    },
-    {
-      "id": "46927098",
-      "title": "Microsoft account bugs locked me out of Notepad \u2013 Are thin clients ruining PCs?",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs",
-      "points": 147,
-      "author": "josephcsible",
-      "created_at": 1770493916,
-      "num_comments": 186,
-      "hn_url": "https://news.ycombinator.com/item?id=46927098"
-    },
-    {
-      "id": "46924591",
-      "title": "First Proof",
-      "url": "https://arxiv.org/abs/2602.05192",
-      "points": 136,
-      "author": "samasblack",
-      "created_at": 1770477949,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=46924591"
-    },
-    {
-      "id": "46923463",
-      "title": "Reinforcement Learning from Human Feedback",
-      "url": "https://rlhfbook.com/",
-      "points": 119,
-      "author": "onurkanbkrc",
-      "created_at": 1770468819,
-      "num_comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=46923463"
-    },
-    {
-      "id": "46930961",
-      "title": "Vouch",
-      "url": "https://github.com/mitchellh/vouch",
-      "points": 756,
-      "author": "chwtutha",
-      "created_at": 1770520168,
-      "num_comments": 345,
-      "hn_url": "https://news.ycombinator.com/item?id=46930961"
-    },
-    {
       "id": "46934404",
       "title": "AI fatigue is real and nobody talks about it",
       "url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
@@ -199,16 +9,6 @@
       "created_at": 1770560372,
       "num_comments": 287,
       "hn_url": "https://news.ycombinator.com/item?id=46934404"
-    },
-    {
-      "id": "46932192",
-      "title": "DoNotNotify is now Open Source",
-      "url": "https://donotnotify.com/opensource.html",
-      "points": 383,
-      "author": "awaaz",
-      "created_at": 1770536389,
-      "num_comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=46932192"
     },
     {
       "id": "46934344",
@@ -231,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46933067"
     },
     {
-      "id": "46930391",
-      "title": "Show HN: LocalGPT \u2013 A local-first AI assistant in Rust with persistent memory",
-      "url": "https://github.com/localgpt-app/localgpt",
-      "points": 319,
-      "author": "yi_wang",
-      "created_at": 1770513998,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=46930391"
-    },
-    {
       "id": "46935791",
       "title": "I put a real-time 3D shader on the Game Boy Color",
       "url": "https://blog.otterstack.com/posts/202512-gbshader/",
@@ -251,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46935791"
     },
     {
-      "id": "46931805",
-      "title": "OpenClaw is changing my life",
-      "url": "https://reorx.com/blog/openclaw-is-changing-my-life/",
-      "points": 279,
-      "author": "novoreorx",
-      "created_at": 1770531687,
-      "num_comments": 439,
-      "hn_url": "https://news.ycombinator.com/item?id=46931805"
-    },
-    {
       "id": "46935991",
       "title": "Omega-3 is inversely related to risk of early-onset dementia",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41506004/",
@@ -269,26 +49,6 @@
       "created_at": 1770569228,
       "num_comments": 155,
       "hn_url": "https://news.ycombinator.com/item?id=46935991"
-    },
-    {
-      "id": "46931948",
-      "title": "The world heard JD Vance being booed at the Olympics. Except for viewers in USA",
-      "url": "https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics",
-      "points": 256,
-      "author": "treetalker",
-      "created_at": 1770534040,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=46931948"
-    },
-    {
-      "id": "46930565",
-      "title": "Beyond agentic coding",
-      "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "points": 253,
-      "author": "RebelPotato",
-      "created_at": 1770515709,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=46930565"
     },
     {
       "id": "46933365",
@@ -17799,7 +17559,207 @@
       "created_at": 1778117163,
       "num_comments": 135,
       "hn_url": "https://news.ycombinator.com/item?id=48044311"
+    },
+    {
+      "id": "48062117",
+      "title": "Poland is now among the 20 largest economies",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "points": 962,
+      "author": "surprisetalk",
+      "created_at": 1778243405,
+      "num_comments": 760,
+      "hn_url": "https://news.ycombinator.com/item?id=48062117"
+    },
+    {
+      "id": "48067119",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "points": 925,
+      "author": "anonymousiam",
+      "created_at": 1778265958,
+      "num_comments": 305,
+      "hn_url": "https://news.ycombinator.com/item?id=48067119"
+    },
+    {
+      "id": "48063199",
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "points": 668,
+      "author": "ribtoks",
+      "created_at": 1778248570,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=48063199"
+    },
+    {
+      "id": "48061884",
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "points": 588,
+      "author": "defrost",
+      "created_at": 1778241806,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=48061884"
+    },
+    {
+      "id": "48062178",
+      "title": "A web page that shows you everything the browser told it without asking",
+      "url": "https://sinceyouarrived.world/taken",
+      "points": 563,
+      "author": "mwheelz",
+      "created_at": 1778243825,
+      "num_comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=48062178"
+    },
+    {
+      "id": "48061566",
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "points": 430,
+      "author": "ColinWright",
+      "created_at": 1778239331,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=48061566"
+    },
+    {
+      "id": "48060054",
+      "title": "Ask HN: We just had an actual UUID v4 collision...",
+      "url": "https://news.ycombinator.com/item?id=48060054",
+      "points": 355,
+      "author": "mittermayr",
+      "created_at": 1778227034,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=48060054"
+    },
+    {
+      "id": "48057901",
+      "title": "Mojo 1.0 Beta",
+      "url": "https://mojolang.org/",
+      "points": 337,
+      "author": "sbt567",
+      "created_at": 1778208541,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=48057901"
+    },
+    {
+      "id": "48065360",
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "points": 330,
+      "author": "willmeyers",
+      "created_at": 1778257792,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=48065360"
+    },
+    {
+      "id": "48066524",
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "points": 315,
+      "author": "speckx",
+      "created_at": 1778262908,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48066524"
+    },
+    {
+      "id": "48061938",
+      "title": "US Government releases first batch of UAP documents and videos",
+      "url": "https://www.war.gov/UFO/",
+      "points": 283,
+      "author": "david-gpu",
+      "created_at": 1778242225,
+      "num_comments": 423,
+      "hn_url": "https://news.ycombinator.com/item?id=48061938"
+    },
+    {
+      "id": "48059662",
+      "title": "ClojureScript Gets Async/Await",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "points": 267,
+      "author": "Borkdude",
+      "created_at": 1778223864,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=48059662"
+    },
+    {
+      "id": "48069192",
+      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+      "points": 246,
+      "author": "tcp_handshaker",
+      "created_at": 1778276867,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48069192"
+    },
+    {
+      "id": "48059606",
+      "title": "Nintendo announces price increases for Nintendo Switch 2",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+      "points": 230,
+      "author": "razorbeamz",
+      "created_at": 1778223373,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=48059606"
+    },
+    {
+      "id": "48064312",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "points": 215,
+      "author": "xngbuilds",
+      "created_at": 1778253035,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48064312"
+    },
+    {
+      "id": "48066169",
+      "title": "Apple, Intel have reached preliminary chip-making deal",
+      "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+      "points": 210,
+      "author": "scrlk",
+      "created_at": 1778261121,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=48066169"
+    },
+    {
+      "id": "48057209",
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "points": 206,
+      "author": "gmays",
+      "created_at": 1778202148,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=48057209"
+    },
+    {
+      "id": "48063240",
+      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+      "points": 205,
+      "author": "droidjj",
+      "created_at": 1778248712,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=48063240"
+    },
+    {
+      "id": "48058197",
+      "title": "AWS North Virginia data center outage \u2013 recovery to take hours",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "points": 204,
+      "author": "christhecaribou",
+      "created_at": 1778211118,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=48058197"
+    },
+    {
+      "id": "48062997",
+      "title": "Just Use Go",
+      "url": "https://blainsmith.com/articles/just-fucking-use-go/",
+      "points": 194,
+      "author": "xngbuilds",
+      "created_at": 1778247622,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=48062997"
     }
   ],
-  "last_updated": "2026-05-08T07:23:44.357160+00:00"
+  "last_updated": "2026-05-09T07:50:55.889220+00:00"
 }
