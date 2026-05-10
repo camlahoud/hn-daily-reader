@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "46934404",
-      "title": "AI fatigue is real and nobody talks about it",
-      "url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-      "points": 414,
-      "author": "sidk24",
-      "created_at": 1770560372,
-      "num_comments": 287,
-      "hn_url": "https://news.ycombinator.com/item?id=46934404"
-    },
-    {
-      "id": "46934344",
-      "title": "I am happier writing code by hand",
-      "url": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-      "points": 363,
-      "author": "lazyfolder",
-      "created_at": 1770559938,
-      "num_comments": 296,
-      "hn_url": "https://news.ycombinator.com/item?id=46934344"
-    },
-    {
-      "id": "46933067",
-      "title": "Slop Terrifies Me",
-      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "points": 350,
-      "author": "Ezhik",
-      "created_at": 1770546695,
-      "num_comments": 304,
-      "hn_url": "https://news.ycombinator.com/item?id=46933067"
-    },
-    {
-      "id": "46935791",
-      "title": "I put a real-time 3D shader on the Game Boy Color",
-      "url": "https://blog.otterstack.com/posts/202512-gbshader/",
-      "points": 290,
-      "author": "adunk",
-      "created_at": 1770568131,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=46935791"
-    },
-    {
-      "id": "46935991",
-      "title": "Omega-3 is inversely related to risk of early-onset dementia",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41506004/",
-      "points": 264,
-      "author": "brandonb",
-      "created_at": 1770569228,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=46935991"
-    },
-    {
-      "id": "46933365",
-      "title": "Why E cores make Apple silicon fast",
-      "url": "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/",
-      "points": 251,
-      "author": "ingve",
-      "created_at": 1770550309,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=46933365"
-    },
-    {
-      "id": "46939593",
-      "title": "AI makes the easy part easier and the hard part harder",
-      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "points": 242,
-      "author": "weaksauce",
-      "created_at": 1770592414,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=46939593"
-    },
-    {
-      "id": "46934107",
-      "title": "GitHub Agentic Workflows",
-      "url": "https://github.github.io/gh-aw/",
-      "points": 238,
-      "author": "mooreds",
-      "created_at": 1770558056,
-      "num_comments": 117,
-      "hn_url": "https://news.ycombinator.com/item?id=46934107"
-    },
-    {
-      "id": "46933401",
-      "title": "Dave Farber has died",
-      "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
-      "points": 236,
-      "author": "vitplister",
-      "created_at": 1770550737,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=46933401"
-    },
-    {
-      "id": "46936105",
-      "title": "Billing can be bypassed using a combo of subagents with an agent definition",
-      "url": "https://github.com/microsoft/vscode/issues/292452",
-      "points": 200,
-      "author": "napolux",
-      "created_at": 1770569768,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=46936105"
-    },
-    {
-      "id": "46938511",
-      "title": "Art of Roads in Games",
-      "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-      "points": 186,
-      "author": "linolevan",
-      "created_at": 1770584724,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=46938511"
-    },
-    {
-      "id": "46935980",
-      "title": "Vouch",
-      "url": "https://github.com/mitchellh/vouch",
-      "points": 181,
-      "author": "dboon",
-      "created_at": 1770569149,
-      "num_comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=46935980"
-    },
-    {
-      "id": "46936237",
-      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson\u2019s Mars books",
-      "url": "https://underhillgame.com/",
-      "points": 179,
-      "author": "ariaalam",
-      "created_at": 1770570510,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=46936237"
-    },
-    {
-      "id": "46932985",
-      "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
-      "url": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
-      "points": 174,
-      "author": "bryanrasmussen",
-      "created_at": 1770545580,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=46932985"
-    },
-    {
       "id": "46945663",
       "title": "Discord will require a face scan or ID for full access next month",
       "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
@@ -191,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46943568"
     },
     {
-      "id": "46941603",
-      "title": "Claude\u2019s C Compiler vs. GCC",
-      "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
-      "points": 341,
-      "author": "unchar1",
-      "created_at": 1770611438,
-      "num_comments": 344,
-      "hn_url": "https://news.ycombinator.com/item?id=46941603"
-    },
-    {
       "id": "46949452",
       "title": "Another GitHub outage in the same day",
       "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
@@ -209,16 +59,6 @@
       "created_at": 1770664045,
       "num_comments": 223,
       "hn_url": "https://news.ycombinator.com/item?id=46949452"
-    },
-    {
-      "id": "46941882",
-      "title": "Nobody knows how the whole system works",
-      "url": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
-      "points": 306,
-      "author": "azhenley",
-      "created_at": 1770614895,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=46941882"
     },
     {
       "id": "46945497",
@@ -269,16 +109,6 @@
       "created_at": 1770651069,
       "num_comments": 30,
       "hn_url": "https://news.ycombinator.com/item?id=46946308"
-    },
-    {
-      "id": "46941640",
-      "title": "TSMC to make advanced AI semiconductors in Japan",
-      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
-      "points": 237,
-      "author": "dev_tty01",
-      "created_at": 1770611894,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=46941640"
     },
     {
       "id": "46949401",
@@ -17759,7 +17589,207 @@
       "created_at": 1778247622,
       "num_comments": 169,
       "hn_url": "https://news.ycombinator.com/item?id=48062997"
+    },
+    {
+      "id": "48071262",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "points": 627,
+      "author": "_alternator_",
+      "created_at": 1778294502,
+      "num_comments": 458,
+      "hn_url": "https://news.ycombinator.com/item?id=48071262"
+    },
+    {
+      "id": "48074265",
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "points": 597,
+      "author": "hggh",
+      "created_at": 1778328030,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=48074265"
+    },
+    {
+      "id": "48073680",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "points": 530,
+      "author": "heldrida",
+      "created_at": 1778321575,
+      "num_comments": 493,
+      "hn_url": "https://news.ycombinator.com/item?id=48073680"
+    },
+    {
+      "id": "48072190",
+      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "points": 516,
+      "author": "muse900",
+      "created_at": 1778305932,
+      "num_comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=48072190"
+    },
+    {
+      "id": "48071940",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "points": 451,
+      "author": "pretext",
+      "created_at": 1778302432,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=48071940"
+    },
+    {
+      "id": "48073246",
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "points": 397,
+      "author": "rbanffy",
+      "created_at": 1778316274,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=48073246"
+    },
+    {
+      "id": "48077126",
+      "title": "Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "points": 383,
+      "author": "JumpCrisscross",
+      "created_at": 1778351616,
+      "num_comments": 412,
+      "hn_url": "https://news.ycombinator.com/item?id=48077126"
+    },
+    {
+      "id": "48076173",
+      "title": "I\u2019ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "points": 375,
+      "author": "susam",
+      "created_at": 1778344116,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=48076173"
+    },
+    {
+      "id": "48074952",
+      "title": "The hypocrisy of cyberlibertarianism",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "points": 318,
+      "author": "ColinWright",
+      "created_at": 1778334512,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=48074952"
+    },
+    {
+      "id": "48075144",
+      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+      "points": 285,
+      "author": "Georgelemental",
+      "created_at": 1778335870,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=48075144"
+    },
+    {
+      "id": "48075366",
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "points": 277,
+      "author": "LorenDB",
+      "created_at": 1778337658,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=48075366"
+    },
+    {
+      "id": "48076651",
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "points": 203,
+      "author": "cuechan",
+      "created_at": 1778347839,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=48076651"
+    },
+    {
+      "id": "48078647",
+      "title": "Getting arrested in Japan",
+      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "points": 196,
+      "author": "bane",
+      "created_at": 1778363779,
+      "num_comments": 237,
+      "hn_url": "https://news.ycombinator.com/item?id=48078647"
+    },
+    {
+      "id": "48072720",
+      "title": "All my clients wanted a carousel, now it's an AI chatbot",
+      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+      "points": 181,
+      "author": "edent",
+      "created_at": 1778311420,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=48072720"
+    },
+    {
+      "id": "48078811",
+      "title": "France moves to break encrypted messaging",
+      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "points": 180,
+      "author": "Cider9986",
+      "created_at": 1778364875,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=48078811"
+    },
+    {
+      "id": "48071496",
+      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+      "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+      "points": 163,
+      "author": "esaym",
+      "created_at": 1778296866,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=48071496"
+    },
+    {
+      "id": "48076815",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "points": 152,
+      "author": "marcingas",
+      "created_at": 1778349133,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=48076815"
+    },
+    {
+      "id": "48070548",
+      "title": "People Hate AI Art",
+      "url": "https://mccue.dev/pages/5-8-26-ai-art",
+      "points": 140,
+      "author": "3dedb728-3f77",
+      "created_at": 1778287198,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=48070548"
+    },
+    {
+      "id": "48077971",
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "points": 137,
+      "author": "Deeg9rie9usi",
+      "created_at": 1778358681,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=48077971"
+    },
+    {
+      "id": "48074087",
+      "title": "Forking the Web",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "points": 126,
+      "author": "wrxd",
+      "created_at": 1778326387,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=48074087"
     }
   ],
-  "last_updated": "2026-05-09T07:50:55.889220+00:00"
+  "last_updated": "2026-05-10T08:03:11.691148+00:00"
 }
