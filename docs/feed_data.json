@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "46962996",
-      "title": "The Singularity will occur on a Tuesday",
-      "url": "https://campedersen.com/singularity",
-      "points": 972,
-      "author": "ecto",
-      "created_at": 1770743071,
-      "num_comments": 554,
-      "hn_url": "https://news.ycombinator.com/item?id=46962996"
-    },
-    {
-      "id": "46958399",
-      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-      "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-      "points": 800,
-      "author": "NewCzech",
-      "created_at": 1770723734,
-      "num_comments": 643,
-      "hn_url": "https://news.ycombinator.com/item?id=46958399"
-    },
-    {
-      "id": "46963804",
-      "title": "Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number",
-      "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
-      "points": 734,
-      "author": "lehi",
-      "created_at": 1770745685,
-      "num_comments": 298,
-      "hn_url": "https://news.ycombinator.com/item?id=46963804"
-    },
-    {
-      "id": "46960675",
-      "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
-      "url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
-      "points": 711,
-      "author": "jamesrandall",
-      "created_at": 1770736116,
-      "num_comments": 561,
-      "hn_url": "https://news.ycombinator.com/item?id=46960675"
-    },
-    {
-      "id": "46960036",
-      "title": "Oxide raises $200M Series C",
-      "url": "https://oxide.computer/blog/our-200m-series-c",
-      "points": 561,
-      "author": "igrunert",
-      "created_at": 1770733249,
-      "num_comments": 297,
-      "hn_url": "https://news.ycombinator.com/item?id=46960036"
-    },
-    {
-      "id": "46959832",
-      "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
-      "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
-      "points": 466,
-      "author": "geox",
-      "created_at": 1770732130,
-      "num_comments": 354,
-      "hn_url": "https://news.ycombinator.com/item?id=46959832"
-    },
-    {
-      "id": "46961345",
-      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-      "url": "https://entire.io/blog/hello-entire-world/",
-      "points": 442,
-      "author": "meetpateltech",
-      "created_at": 1770738287,
-      "num_comments": 393,
-      "hn_url": "https://news.ycombinator.com/item?id=46961345"
-    },
-    {
-      "id": "46958231",
-      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-      "url": "https://code.idtech.space/fn/hl2",
-      "points": 365,
-      "author": "klaussilveira",
-      "created_at": 1770722516,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=46958231"
-    },
-    {
-      "id": "46967772",
-      "title": "The Day the Telnet Died",
-      "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-      "points": 294,
-      "author": "pjf",
-      "created_at": 1770762040,
-      "num_comments": 200,
-      "hn_url": "https://news.ycombinator.com/item?id=46967772"
-    },
-    {
-      "id": "46960624",
-      "title": "The US is flirting with its first-ever population decline",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time",
-      "points": 283,
-      "author": "alephnerd",
-      "created_at": 1770735924,
-      "num_comments": 877,
-      "hn_url": "https://news.ycombinator.com/item?id=46960624"
-    },
-    {
-      "id": "46960517",
-      "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
-      "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
-      "points": 274,
-      "author": "vinnyglennon",
-      "created_at": 1770735515,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=46960517"
-    },
-    {
-      "id": "46958345",
-      "title": "The Feynman Lectures on Physics (1961-1964)",
-      "url": "https://www.feynmanlectures.caltech.edu/",
-      "points": 252,
-      "author": "rramadass",
-      "created_at": 1770723374,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=46958345"
-    },
-    {
-      "id": "46959418",
-      "title": "Simplifying Vulkan one subsystem at a time",
-      "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
-      "points": 236,
-      "author": "amazari",
-      "created_at": 1770729974,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=46959418"
-    },
-    {
-      "id": "46960392",
-      "title": "Parse, Don't Validate (2019)",
-      "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
-      "points": 228,
-      "author": "shirian",
-      "created_at": 1770734969,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=46960392"
-    },
-    {
       "id": "46978710",
       "title": "Claude Code is being dumbed down?",
       "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
@@ -149,16 +9,6 @@
       "created_at": 1770834219,
       "num_comments": 565,
       "hn_url": "https://news.ycombinator.com/item?id=46978710"
-    },
-    {
-      "id": "46971516",
-      "title": "Windows Notepad App Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "points": 768,
-      "author": "riffraff",
-      "created_at": 1770790533,
-      "num_comments": 476,
-      "hn_url": "https://news.ycombinator.com/item?id=46971516"
     },
     {
       "id": "46982421",
@@ -271,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46978490"
     },
     {
-      "id": "46969751",
-      "title": "End of an era for me: no more self-hosted git",
-      "url": "https://www.kraxel.org/blog/2026/01/thank-you-ai/",
-      "points": 261,
-      "author": "dzulp0d",
-      "created_at": 1770774644,
-      "num_comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=46969751"
-    },
-    {
       "id": "46980591",
       "title": "Y Combinator CEO Garry Tan launches dark-money group to influence CA politics",
       "url": "https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/",
@@ -309,16 +149,6 @@
       "created_at": 1770827951,
       "num_comments": 230,
       "hn_url": "https://news.ycombinator.com/item?id=46977175"
-    },
-    {
-      "id": "46972056",
-      "title": "Communities are not fungible",
-      "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
-      "points": 220,
-      "author": "tardibear",
-      "created_at": 1770795777,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=46972056"
     },
     {
       "id": "46973355",
@@ -17759,7 +17589,207 @@
       "created_at": 1778412410,
       "num_comments": 79,
       "hn_url": "https://news.ycombinator.com/item?id=48083007"
+    },
+    {
+      "id": "48090029",
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "points": 947,
+      "author": "dropbox_miner",
+      "created_at": 1778462631,
+      "num_comments": 577,
+      "hn_url": "https://news.ycombinator.com/item?id=48090029"
+    },
+    {
+      "id": "48100706",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "points": 805,
+      "author": "varunsharma07",
+      "created_at": 1778533705,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=48100706"
+    },
+    {
+      "id": "48091737",
+      "title": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "points": 644,
+      "author": "TangerineDream",
+      "created_at": 1778481548,
+      "num_comments": 264,
+      "hn_url": "https://news.ycombinator.com/item?id=48091737"
+    },
+    {
+      "id": "48093100",
+      "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
+      "url": "https://ratty-term.org/",
+      "points": 638,
+      "author": "orhunp_",
+      "created_at": 1778494384,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=48093100"
+    },
+    {
+      "id": "48092028",
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "points": 594,
+      "author": "negura",
+      "created_at": 1778484414,
+      "num_comments": 451,
+      "hn_url": "https://news.ycombinator.com/item?id=48092028"
+    },
+    {
+      "id": "48100500",
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "points": 485,
+      "author": "AnonGitLabEmpl",
+      "created_at": 1778532717,
+      "num_comments": 482,
+      "hn_url": "https://news.ycombinator.com/item?id=48100500"
+    },
+    {
+      "id": "48100433",
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "points": 450,
+      "author": "indigodaddy",
+      "created_at": 1778532355,
+      "num_comments": 487,
+      "hn_url": "https://news.ycombinator.com/item?id=48100433"
+    },
+    {
+      "id": "48095550",
+      "title": "Software engineering may no longer be a lifetime career",
+      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "points": 426,
+      "author": "movis",
+      "created_at": 1778510048,
+      "num_comments": 668,
+      "hn_url": "https://news.ycombinator.com/item?id=48095550"
+    },
+    {
+      "id": "48096692",
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "points": 401,
+      "author": "adamnemecek",
+      "created_at": 1778514907,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=48096692"
+    },
+    {
+      "id": "48090521",
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "points": 354,
+      "author": "susam",
+      "created_at": 1778467414,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=48090521"
+    },
+    {
+      "id": "48098261",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "points": 321,
+      "author": "bookofjoe",
+      "created_at": 1778521988,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=48098261"
+    },
+    {
+      "id": "48098537",
+      "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
+      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+      "points": 260,
+      "author": "speckx",
+      "created_at": 1778523158,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=48098537"
+    },
+    {
+      "id": "48093043",
+      "title": "A.I. note takers are making lawyers nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "points": 242,
+      "author": "JumpCrisscross",
+      "created_at": 1778493887,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=48093043"
+    },
+    {
+      "id": "48100524",
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "points": 205,
+      "author": "smhx",
+      "created_at": 1778532817,
+      "num_comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=48100524"
+    },
+    {
+      "id": "48097796",
+      "title": "Microsoft Israel chief leaves amid ethical controversy",
+      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
+      "points": 182,
+      "author": "bhouston",
+      "created_at": 1778519891,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=48097796"
+    },
+    {
+      "id": "48094641",
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "points": 175,
+      "author": "donohoe",
+      "created_at": 1778505614,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=48094641"
+    },
+    {
+      "id": "48100662",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "points": 167,
+      "author": "showmypost",
+      "created_at": 1778533450,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=48100662"
+    },
+    {
+      "id": "48096674",
+      "title": "Students boo commencement speaker after she calls AI next industrial revolution",
+      "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+      "points": 159,
+      "author": "cdrnsf",
+      "created_at": 1778514803,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=48096674"
+    },
+    {
+      "id": "48097078",
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "points": 139,
+      "author": "yoeven",
+      "created_at": 1778516551,
+      "num_comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=48097078"
+    },
+    {
+      "id": "48099616",
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "points": 138,
+      "author": "joe_mwangi",
+      "created_at": 1778528011,
+      "num_comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=48099616"
     }
   ],
-  "last_updated": "2026-05-11T09:32:30.702293+00:00"
+  "last_updated": "2026-05-12T08:33:44.382116+00:00"
 }
