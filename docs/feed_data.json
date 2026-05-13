@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "46978710",
-      "title": "Claude Code is being dumbed down?",
-      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-      "points": 863,
-      "author": "WXLCKNO",
-      "created_at": 1770834219,
-      "num_comments": 565,
-      "hn_url": "https://news.ycombinator.com/item?id=46978710"
-    },
-    {
-      "id": "46982421",
-      "title": "Discord/Twitch/Snapchat age verification bypass",
-      "url": "https://age-verifier.kibty.town/",
-      "points": 604,
-      "author": "JustSkyfall",
-      "created_at": 1770850601,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=46982421"
-    },
-    {
-      "id": "46978966",
-      "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
-      "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-      "points": 528,
-      "author": "jedberg",
-      "created_at": 1770835381,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=46978966"
-    },
-    {
-      "id": "46976911",
-      "title": "Fluorite \u2013 A console-grade game engine fully integrated with Flutter",
-      "url": "https://fluorite.game/",
-      "points": 451,
-      "author": "bsimpson",
-      "created_at": 1770826870,
-      "num_comments": 256,
-      "hn_url": "https://news.ycombinator.com/item?id=46976911"
-    },
-    {
-      "id": "46973083",
-      "title": "Chrome extensions spying on users' browsing data",
-      "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
-      "points": 448,
-      "author": "qcontinuum1",
-      "created_at": 1770804056,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=46973083"
-    },
-    {
-      "id": "46977210",
-      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "url": "https://z.ai/blog/glm-5",
-      "points": 372,
-      "author": "meetpateltech",
-      "created_at": 1770828093,
-      "num_comments": 8,
-      "hn_url": "https://news.ycombinator.com/item?id=46977210"
-    },
-    {
-      "id": "46976443",
-      "title": "Why vampires live forever",
-      "url": "https://machielreyneke.com/blog/vampires-longevity/",
-      "points": 363,
-      "author": "machielrey",
-      "created_at": 1770825004,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=46976443"
-    },
-    {
-      "id": "46972610",
-      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
-      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-      "points": 352,
-      "author": "edward",
-      "created_at": 1770800640,
-      "num_comments": 551,
-      "hn_url": "https://news.ycombinator.com/item?id=46972610"
-    },
-    {
-      "id": "46974853",
-      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-      "url": "https://z.ai/blog/glm-5",
-      "points": 335,
-      "author": "CuriouslyC",
-      "created_at": 1770817336,
-      "num_comments": 423,
-      "hn_url": "https://news.ycombinator.com/item?id=46974853"
-    },
-    {
-      "id": "46973647",
-      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
-      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
-      "points": 332,
-      "author": "EwanG",
-      "created_at": 1770809258,
-      "num_comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=46973647"
-    },
-    {
-      "id": "46979562",
-      "title": "The risk of a hothouse Earth trajectory",
-      "url": "https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4",
-      "points": 321,
-      "author": "Archelaos",
-      "created_at": 1770837918,
-      "num_comments": 356,
-      "hn_url": "https://news.ycombinator.com/item?id=46979562"
-    },
-    {
-      "id": "46978490",
-      "title": "NetNewsWire Turns 23",
-      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-      "points": 270,
-      "author": "robin_reala",
-      "created_at": 1770833171,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=46978490"
-    },
-    {
-      "id": "46980591",
-      "title": "Y Combinator CEO Garry Tan launches dark-money group to influence CA politics",
-      "url": "https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/",
-      "points": 260,
-      "author": "computerliker",
-      "created_at": 1770842402,
-      "num_comments": 278,
-      "hn_url": "https://news.ycombinator.com/item?id=46980591"
-    },
-    {
-      "id": "46982792",
-      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "points": 233,
-      "author": "droidjj",
-      "created_at": 1770853031,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=46982792"
-    },
-    {
-      "id": "46977175",
-      "title": "Ireland rolls out basic income scheme for artists",
-      "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
-      "points": 228,
-      "author": "abe94",
-      "created_at": 1770827951,
-      "num_comments": 230,
-      "hn_url": "https://news.ycombinator.com/item?id=46977175"
-    },
-    {
-      "id": "46973355",
-      "title": "Do not apologize for replying late to my email",
-      "url": "https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html",
-      "points": 208,
-      "author": "validatori",
-      "created_at": 1770806335,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=46973355"
-    },
-    {
-      "id": "46976751",
-      "title": "U.S. had almost no job growth in 2025",
-      "url": "https://www.nbcnews.com/business/economy/january-jobs-revisions-trump-rcna258398",
-      "points": 186,
-      "author": "ceejayoz",
-      "created_at": 1770826279,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=46976751"
-    },
-    {
       "id": "46990729",
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
@@ -179,16 +9,6 @@
       "created_at": 1770913404,
       "num_comments": 693,
       "hn_url": "https://news.ycombinator.com/item?id=46990729"
-    },
-    {
-      "id": "46985151",
-      "title": "Warcraft III Peon Voice Notifications for Claude Code",
-      "url": "https://github.com/tonyyont/peon-ping",
-      "points": 949,
-      "author": "doppp",
-      "created_at": 1770873529,
-      "num_comments": 289,
-      "hn_url": "https://news.ycombinator.com/item?id=46985151"
     },
     {
       "id": "46987559",
@@ -311,16 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=46989107"
     },
     {
-      "id": "46984735",
-      "title": "How to make a living as an artist",
-      "url": "https://essays.fnnch.com/make-a-living",
-      "points": 250,
-      "author": "gwintrob",
-      "created_at": 1770868586,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=46984735"
-    },
-    {
       "id": "46992815",
       "title": "Polis: Open-source platform for large-scale civic deliberation",
       "url": "https://pol.is/home2",
@@ -339,16 +149,6 @@
       "created_at": 1770902010,
       "num_comments": 58,
       "hn_url": "https://news.ycombinator.com/item?id=46988438"
-    },
-    {
-      "id": "46985609",
-      "title": "Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)",
-      "url": "https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html",
-      "points": 198,
-      "author": "nobody9999",
-      "created_at": 1770879279,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=46985609"
     },
     {
       "id": "46990578",
@@ -17789,7 +17589,207 @@
       "created_at": 1778528011,
       "num_comments": 33,
       "hn_url": "https://news.ycombinator.com/item?id=48099616"
+    },
+    {
+      "id": "48109224",
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "points": 1242,
+      "author": "rubenbe",
+      "created_at": 1778597681,
+      "num_comments": 393,
+      "hn_url": "https://news.ycombinator.com/item?id=48109224"
+    },
+    {
+      "id": "48111545",
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "points": 757,
+      "author": "tambourine_man",
+      "created_at": 1778607456,
+      "num_comments": 1269,
+      "hn_url": "https://news.ycombinator.com/item?id=48111545"
+    },
+    {
+      "id": "48104428",
+      "title": "Screenshots of Old Desktop OSes",
+      "url": "http://www.typewritten.org/Media/",
+      "points": 666,
+      "author": "adunk",
+      "created_at": 1778562684,
+      "num_comments": 347,
+      "hn_url": "https://news.ycombinator.com/item?id=48104428"
+    },
+    {
+      "id": "48106024",
+      "title": "Learning Software Architecture",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "points": 553,
+      "author": "surprisetalk",
+      "created_at": 1778578221,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=48106024"
+    },
+    {
+      "id": "48102700",
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "points": 552,
+      "author": "tokenburner",
+      "created_at": 1778546274,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=48102700"
+    },
+    {
+      "id": "48109460",
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "points": 545,
+      "author": "nilirl",
+      "created_at": 1778598520,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=48109460"
+    },
+    {
+      "id": "48106534",
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+      "points": 494,
+      "author": "thm",
+      "created_at": 1778583607,
+      "num_comments": 432,
+      "hn_url": "https://news.ycombinator.com/item?id=48106534"
+    },
+    {
+      "id": "48107997",
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "points": 470,
+      "author": "ibobev",
+      "created_at": 1778592406,
+      "num_comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=48107997"
+    },
+    {
+      "id": "48111896",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "points": 437,
+      "author": "HenryNdubuaku",
+      "created_at": 1778608991,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48111896"
+    },
+    {
+      "id": "48115127",
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "points": 402,
+      "author": "Murfalo",
+      "created_at": 1778622921,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=48115127"
+    },
+    {
+      "id": "48109970",
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "points": 369,
+      "author": "xz18r",
+      "created_at": 1778600754,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=48109970"
+    },
+    {
+      "id": "48109519",
+      "title": "Operation: Epic Furious",
+      "url": "https://www.epicfurious.com/",
+      "points": 354,
+      "author": "dmschulman",
+      "created_at": 1778598781,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=48109519"
+    },
+    {
+      "id": "48111531",
+      "title": "Canada\u2019s Bill C-22 Is a Repackaged Version of Last Year\u2019s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "points": 331,
+      "author": "Brajeshwar",
+      "created_at": 1778607358,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=48111531"
+    },
+    {
+      "id": "48113895",
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "points": 326,
+      "author": "_vaporwave_",
+      "created_at": 1778616986,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=48113895"
+    },
+    {
+      "id": "48115807",
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "points": 320,
+      "author": "doener",
+      "created_at": 1778627500,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=48115807"
+    },
+    {
+      "id": "48112042",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "points": 309,
+      "author": "chizhik-pyzhik",
+      "created_at": 1778609548,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48112042"
+    },
+    {
+      "id": "48111765",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "points": 274,
+      "author": "aduffy",
+      "created_at": 1778608452,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=48111765"
+    },
+    {
+      "id": "48103668",
+      "title": "Instructure pays ransom to Canvas hackers",
+      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+      "points": 255,
+      "author": "Cider9986",
+      "created_at": 1778554591,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=48103668"
+    },
+    {
+      "id": "48108313",
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
+      "points": 249,
+      "author": "tartoran",
+      "created_at": 1778593896,
+      "num_comments": 417,
+      "hn_url": "https://news.ycombinator.com/item?id=48108313"
+    },
+    {
+      "id": "48110021",
+      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
+      "points": 230,
+      "author": "voisin",
+      "created_at": 1778600987,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=48110021"
     }
   ],
-  "last_updated": "2026-05-12T08:33:44.382116+00:00"
+  "last_updated": "2026-05-13T08:39:02.931089+00:00"
 }

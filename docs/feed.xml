@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 08:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:39:02 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[320 pts] Tell NYT, Atlantic, USA Today to keep Wayback Machine</title>
+      <link>https://www.savethearchive.com/newsleaders/</link>
+      <description>&lt;p&gt;&lt;strong&gt;320 points&lt;/strong&gt; by doener | &lt;strong&gt;88 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48115807&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48115807</guid>
+      <pubDate>Tue, 12 May 2026 23:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[402 pts] Restore full BambuNetwork support for Bambu Lab printers</title>
+      <link>https://github.com/FULU-Foundation/OrcaSlicer-bambulab</link>
+      <description>&lt;p&gt;&lt;strong&gt;402 points&lt;/strong&gt; by Murfalo | &lt;strong&gt;174 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48115127&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48115127</guid>
+      <pubDate>Tue, 12 May 2026 21:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[326 pts] How to make your text look futuristic (2016)</title>
+      <link>https://typesetinthefuture.com/2016/02/18/futuristic/</link>
+      <description>&lt;p&gt;&lt;strong&gt;326 points&lt;/strong&gt; by _vaporwave_ | &lt;strong&gt;37 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48113895&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48113895</guid>
+      <pubDate>Tue, 12 May 2026 20:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[309 pts] CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq</title>
+      <link>https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;309 points&lt;/strong&gt; by chizhik-pyzhik | &lt;strong&gt;145 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48112042&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48112042</guid>
+      <pubDate>Tue, 12 May 2026 18:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[437 pts] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</title>
+      <link>https://github.com/cactus-compute/needle</link>
+      <description>&lt;p&gt;&lt;strong&gt;437 points&lt;/strong&gt; by HenryNdubuaku | &lt;strong&gt;149 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48111896&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48111896</guid>
+      <pubDate>Tue, 12 May 2026 18:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[274 pts] Quack: The DuckDB Client-Server Protocol</title>
+      <link>https://duckdb.org/2026/05/12/quack-remote-protocol</link>
+      <description>&lt;p&gt;&lt;strong&gt;274 points&lt;/strong&gt; by aduffy | &lt;strong&gt;56 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48111765&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48111765</guid>
+      <pubDate>Tue, 12 May 2026 17:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[757 pts] Googlebook</title>
+      <link>https://googlebook.google/</link>
+      <description>&lt;p&gt;&lt;strong&gt;757 points&lt;/strong&gt; by tambourine_man | &lt;strong&gt;1269 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48111545&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48111545</guid>
+      <pubDate>Tue, 12 May 2026 17:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[331 pts] Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare</title>
+      <link>https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare</link>
+      <description>&lt;p&gt;&lt;strong&gt;331 points&lt;/strong&gt; by Brajeshwar | &lt;strong&gt;105 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48111531&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48111531</guid>
+      <pubDate>Tue, 12 May 2026 17:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[230 pts] eBay Rejects GameStop's $56B Takeover as Not Credible</title>
+      <link>https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible</link>
+      <description>&lt;p&gt;&lt;strong&gt;230 points&lt;/strong&gt; by voisin | &lt;strong&gt;225 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48110021&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48110021</guid>
+      <pubDate>Tue, 12 May 2026 15:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[369 pts] The Future of Obsidian Plugins</title>
+      <link>https://obsidian.md/blog/future-of-plugins/</link>
+      <description>&lt;p&gt;&lt;strong&gt;369 points&lt;/strong&gt; by xz18r | &lt;strong&gt;138 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48109970&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109970</guid>
+      <pubDate>Tue, 12 May 2026 15:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[354 pts] Operation: Epic Furious</title>
+      <link>https://www.epicfurious.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;354 points&lt;/strong&gt; by dmschulman | &lt;strong&gt;116 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48109519&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109519</guid>
+      <pubDate>Tue, 12 May 2026 15:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[545 pts] Why senior developers fail to communicate their expertise</title>
+      <link>https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise</link>
+      <description>&lt;p&gt;&lt;strong&gt;545 points&lt;/strong&gt; by nilirl | &lt;strong&gt;234 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48109460&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109460</guid>
+      <pubDate>Tue, 12 May 2026 15:08:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1242 pts] Bambu Lab is abusing the open source social contract</title>
+      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1242 points&lt;/strong&gt; by rubenbe | &lt;strong&gt;393 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48109224&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109224</guid>
+      <pubDate>Tue, 12 May 2026 14:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[249 pts] US inflation jumps to 3.8% as energy costs surge from Iran war</title>
+      <link>https://www.bbc.com/news/articles/c202pgxx89lo</link>
+      <description>&lt;p&gt;&lt;strong&gt;249 points&lt;/strong&gt; by tartoran | &lt;strong&gt;417 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48108313&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48108313</guid>
+      <pubDate>Tue, 12 May 2026 13:51:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[470 pts] Rendering the Sky, Sunsets, and Planets</title>
+      <link>https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/</link>
+      <description>&lt;p&gt;&lt;strong&gt;470 points&lt;/strong&gt; by ibobev | &lt;strong&gt;38 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48107997&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48107997</guid>
+      <pubDate>Tue, 12 May 2026 13:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[494 pts] EU to crack down on TikTok, Instagram's 'addictive design' targeting kids</title>
+      <link>https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;494 points&lt;/strong&gt; by thm | &lt;strong&gt;432 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48106534&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48106534</guid>
+      <pubDate>Tue, 12 May 2026 11:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[553 pts] Learning Software Architecture</title>
+      <link>https://matklad.github.io/2026/05/12/software-architecture.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;553 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;109 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48106024&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48106024</guid>
+      <pubDate>Tue, 12 May 2026 09:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[666 pts] Screenshots of Old Desktop OSes</title>
+      <link>http://www.typewritten.org/Media/</link>
+      <description>&lt;p&gt;&lt;strong&gt;666 points&lt;/strong&gt; by adunk | &lt;strong&gt;347 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48104428&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48104428</guid>
+      <pubDate>Tue, 12 May 2026 05:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[255 pts] Instructure pays ransom to Canvas hackers</title>
+      <link>https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers</link>
+      <description>&lt;p&gt;&lt;strong&gt;255 points&lt;/strong&gt; by Cider9986 | &lt;strong&gt;236 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48103668&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48103668</guid>
+      <pubDate>Tue, 12 May 2026 02:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[552 pts] They Live (1988) inspired Adblocker</title>
+      <link>https://github.com/davmlaw/they_live_adblocker</link>
+      <description>&lt;p&gt;&lt;strong&gt;552 points&lt;/strong&gt; by tokenburner | &lt;strong&gt;185 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48102700&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48102700</guid>
+      <pubDate>Tue, 12 May 2026 00:37:54 +0000</pubDate>
+    </item>
     <item>
       <title>[805 pts] Postmortem: TanStack NPM supply-chain compromise</title>
       <link>https://tanstack.com/blog/npm-supply-chain-compromise-postmortem</link>
@@ -14078,166 +14238,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46987559&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=46987559</guid>
       <pubDate>Thu, 12 Feb 2026 11:46:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[198 pts] Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)</title>
-      <link>https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;198 points&lt;/strong&gt; by nobody9999 | &lt;strong&gt;105 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46985609&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46985609</guid>
-      <pubDate>Thu, 12 Feb 2026 06:54:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[949 pts] Warcraft III Peon Voice Notifications for Claude Code</title>
-      <link>https://github.com/tonyyont/peon-ping</link>
-      <description>&lt;p&gt;&lt;strong&gt;949 points&lt;/strong&gt; by doppp | &lt;strong&gt;289 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46985151&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46985151</guid>
-      <pubDate>Thu, 12 Feb 2026 05:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[250 pts] How to make a living as an artist</title>
-      <link>https://essays.fnnch.com/make-a-living</link>
-      <description>&lt;p&gt;&lt;strong&gt;250 points&lt;/strong&gt; by gwintrob | &lt;strong&gt;122 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46984735&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46984735</guid>
-      <pubDate>Thu, 12 Feb 2026 03:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[233 pts] GPT-5 outperforms federal judges in legal reasoning experiment</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012</link>
-      <description>&lt;p&gt;&lt;strong&gt;233 points&lt;/strong&gt; by droidjj | &lt;strong&gt;159 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46982792&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46982792</guid>
-      <pubDate>Wed, 11 Feb 2026 23:37:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[604 pts] Discord/Twitch/Snapchat age verification bypass</title>
-      <link>https://age-verifier.kibty.town/</link>
-      <description>&lt;p&gt;&lt;strong&gt;604 points&lt;/strong&gt; by JustSkyfall | &lt;strong&gt;239 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46982421&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46982421</guid>
-      <pubDate>Wed, 11 Feb 2026 22:56:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[260 pts] Y Combinator CEO Garry Tan launches dark-money group to influence CA politics</title>
-      <link>https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/</link>
-      <description>&lt;p&gt;&lt;strong&gt;260 points&lt;/strong&gt; by computerliker | &lt;strong&gt;278 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46980591&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46980591</guid>
-      <pubDate>Wed, 11 Feb 2026 20:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[321 pts] The risk of a hothouse Earth trajectory</title>
-      <link>https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4</link>
-      <description>&lt;p&gt;&lt;strong&gt;321 points&lt;/strong&gt; by Archelaos | &lt;strong&gt;356 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46979562&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46979562</guid>
-      <pubDate>Wed, 11 Feb 2026 19:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[528 pts] Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance</title>
-      <link>https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash</link>
-      <description>&lt;p&gt;&lt;strong&gt;528 points&lt;/strong&gt; by jedberg | &lt;strong&gt;274 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46978966&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46978966</guid>
-      <pubDate>Wed, 11 Feb 2026 18:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[863 pts] Claude Code is being dumbed down?</title>
-      <link>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</link>
-      <description>&lt;p&gt;&lt;strong&gt;863 points&lt;/strong&gt; by WXLCKNO | &lt;strong&gt;565 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46978710&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46978710</guid>
-      <pubDate>Wed, 11 Feb 2026 18:23:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[270 pts] NetNewsWire Turns 23</title>
-      <link>https://netnewswire.blog/2026/02/11/netnewswire-turns.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;270 points&lt;/strong&gt; by robin_reala | &lt;strong&gt;60 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46978490&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46978490</guid>
-      <pubDate>Wed, 11 Feb 2026 18:06:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[372 pts] GLM-5: From Vibe Coding to Agentic Engineering</title>
-      <link>https://z.ai/blog/glm-5</link>
-      <description>&lt;p&gt;&lt;strong&gt;372 points&lt;/strong&gt; by meetpateltech | &lt;strong&gt;8 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46977210&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46977210</guid>
-      <pubDate>Wed, 11 Feb 2026 16:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[228 pts] Ireland rolls out basic income scheme for artists</title>
-      <link>https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/</link>
-      <description>&lt;p&gt;&lt;strong&gt;228 points&lt;/strong&gt; by abe94 | &lt;strong&gt;230 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46977175&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46977175</guid>
-      <pubDate>Wed, 11 Feb 2026 16:39:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[451 pts] Fluorite – A console-grade game engine fully integrated with Flutter</title>
-      <link>https://fluorite.game/</link>
-      <description>&lt;p&gt;&lt;strong&gt;451 points&lt;/strong&gt; by bsimpson | &lt;strong&gt;256 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46976911&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46976911</guid>
-      <pubDate>Wed, 11 Feb 2026 16:21:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[186 pts] U.S. had almost no job growth in 2025</title>
-      <link>https://www.nbcnews.com/business/economy/january-jobs-revisions-trump-rcna258398</link>
-      <description>&lt;p&gt;&lt;strong&gt;186 points&lt;/strong&gt; by ceejayoz | &lt;strong&gt;182 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46976751&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46976751</guid>
-      <pubDate>Wed, 11 Feb 2026 16:11:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[363 pts] Why vampires live forever</title>
-      <link>https://machielreyneke.com/blog/vampires-longevity/</link>
-      <description>&lt;p&gt;&lt;strong&gt;363 points&lt;/strong&gt; by machielrey | &lt;strong&gt;170 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46976443&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46976443</guid>
-      <pubDate>Wed, 11 Feb 2026 15:50:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[335 pts] GLM-5: Targeting complex systems engineering and long-horizon agentic tasks</title>
-      <link>https://z.ai/blog/glm-5</link>
-      <description>&lt;p&gt;&lt;strong&gt;335 points&lt;/strong&gt; by CuriouslyC | &lt;strong&gt;423 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46974853&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46974853</guid>
-      <pubDate>Wed, 11 Feb 2026 13:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[332 pts] FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights</title>
-      <link>https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa</link>
-      <description>&lt;p&gt;&lt;strong&gt;332 points&lt;/strong&gt; by EwanG | &lt;strong&gt;6 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46973647&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46973647</guid>
-      <pubDate>Wed, 11 Feb 2026 11:27:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[208 pts] Do not apologize for replying late to my email</title>
-      <link>https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;208 points&lt;/strong&gt; by validatori | &lt;strong&gt;178 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46973355&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46973355</guid>
-      <pubDate>Wed, 11 Feb 2026 10:38:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[448 pts] Chrome extensions spying on users' browsing data</title>
-      <link>https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495</link>
-      <description>&lt;p&gt;&lt;strong&gt;448 points&lt;/strong&gt; by qcontinuum1 | &lt;strong&gt;193 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46973083&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46973083</guid>
-      <pubDate>Wed, 11 Feb 2026 10:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[352 pts] Officials Claim Drone Incursion Led to Shutdown of El Paso Airport</title>
-      <link>https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;352 points&lt;/strong&gt; by edward | &lt;strong&gt;551 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46972610&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46972610</guid>
-      <pubDate>Wed, 11 Feb 2026 09:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
