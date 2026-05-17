@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47025378",
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "points": 876,
-      "author": "giuliomagnifico",
-      "created_at": 1771175418,
-      "num_comments": 612,
-      "hn_url": "https://news.ycombinator.com/item?id=47025378"
-    },
-    {
-      "id": "47028013",
-      "title": "I\u2019m joining OpenAI",
-      "url": "https://steipete.me/posts/2026/openclaw",
-      "points": 862,
-      "author": "mfiguiere",
-      "created_at": 1771192455,
-      "num_comments": 590,
-      "hn_url": "https://news.ycombinator.com/item?id=47028013"
-    },
-    {
-      "id": "47023238",
-      "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
-      "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-      "points": 784,
-      "author": "mikece",
-      "created_at": 1771159337,
-      "num_comments": 568,
-      "hn_url": "https://news.ycombinator.com/item?id=47023238"
-    },
-    {
-      "id": "47022891",
-      "title": "I fixed Windows native development",
-      "url": "https://marler8997.github.io/blog/fixed-windows/",
-      "points": 716,
-      "author": "deevus",
-      "created_at": 1771154726,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=47022891"
-    },
-    {
-      "id": "47021980",
-      "title": "Oat \u2013\u00a0Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
-      "url": "https://oat.ink/",
-      "points": 491,
-      "author": "twapi",
-      "created_at": 1771143425,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=47021980"
-    },
-    {
-      "id": "47024907",
-      "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "points": 389,
-      "author": "magoghm",
-      "created_at": 1771172391,
-      "num_comments": 38,
-      "hn_url": "https://news.ycombinator.com/item?id=47024907"
-    },
-    {
-      "id": "47025851",
-      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-      "url": "https://modern-css.com",
-      "points": 354,
-      "author": "eustoria",
-      "created_at": 1771178650,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47025851"
-    },
-    {
-      "id": "47025399",
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "url": "https://github.com/TechPaula/LT6502",
-      "points": 337,
-      "author": "classichasclass",
-      "created_at": 1771175555,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=47025399"
-    },
-    {
-      "id": "47025624",
-      "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
-      "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
-      "points": 274,
-      "author": "cdrnsf",
-      "created_at": 1771177030,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=47025624"
-    },
-    {
-      "id": "47028227",
-      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-      "points": 230,
-      "author": "prophylaxis",
-      "created_at": 1771193830,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=47028227"
-    },
-    {
-      "id": "47025188",
-      "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
-      "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
-      "points": 219,
-      "author": "cdrnsf",
-      "created_at": 1771174277,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=47025188"
-    },
-    {
-      "id": "47026071",
-      "title": "Editor's Note: Retraction of article containing fabricated quotations",
-      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
-      "points": 216,
-      "author": "bikenaga",
-      "created_at": 1771180194,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=47026071"
-    },
-    {
-      "id": "47024506",
-      "title": "Gwtar: A static efficient single-file HTML format",
-      "url": "https://gwern.net/gwtar",
-      "points": 213,
-      "author": "theblazehen",
-      "created_at": 1771169826,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=47024506"
-    },
-    {
-      "id": "47022329",
-      "title": "Two different tricks for fast LLM inference",
-      "url": "https://www.seangoedecke.com/fast-llm-inference/",
-      "points": 184,
-      "author": "swah",
-      "created_at": 1771147653,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=47022329"
-    },
-    {
-      "id": "47026186",
-      "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
-      "url": "https://microgpt.boratto.ca",
-      "points": 160,
-      "author": "b44",
-      "created_at": 1771180835,
-      "num_comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=47026186"
-    },
-    {
-      "id": "47025864",
-      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
-      "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
-      "points": 143,
-      "author": "mikhael",
-      "created_at": 1771178724,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=47025864"
-    },
-    {
-      "id": "47031580",
-      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "url": "https://mastodon.world/@knowmadd/116072773118828295",
-      "points": 1420,
-      "author": "novemp",
-      "created_at": 1771223508,
-      "num_comments": 890,
-      "hn_url": "https://news.ycombinator.com/item?id=47031580"
-    },
-    {
       "id": "47038546",
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
       "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
@@ -241,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47035679"
     },
     {
-      "id": "47031334",
-      "title": "Show HN: Jemini \u2013 Gemini for the Epstein Files",
-      "url": "https://jmail.world/jemini",
-      "points": 327,
-      "author": "dvrp",
-      "created_at": 1771221183,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=47031334"
-    },
-    {
       "id": "47040430",
       "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
       "url": "https://arxiv.org/abs/2602.12670",
@@ -309,16 +129,6 @@
       "created_at": 1771277044,
       "num_comments": 20,
       "hn_url": "https://news.ycombinator.com/item?id=47040524"
-    },
-    {
-      "id": "47029339",
-      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
-      "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
-      "points": 164,
-      "author": "luu",
-      "created_at": 1771201583,
-      "num_comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=47029339"
     },
     {
       "id": "47040375",
@@ -17779,7 +17589,207 @@
       "created_at": 1778841298,
       "num_comments": 172,
       "hn_url": "https://news.ycombinator.com/item?id=48146908"
+    },
+    {
+      "id": "48158400",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "points": 520,
+      "author": "mpweiher",
+      "created_at": 1778922866,
+      "num_comments": 311,
+      "hn_url": "https://news.ycombinator.com/item?id=48158400"
+    },
+    {
+      "id": "48155690",
+      "title": "'No way to prevent this,' says only package manager where this regularly happens",
+      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "points": 425,
+      "author": "alligatorplum",
+      "created_at": 1778891762,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=48155690"
+    },
+    {
+      "id": "48157559",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "points": 372,
+      "author": "frays",
+      "created_at": 1778914915,
+      "num_comments": 370,
+      "hn_url": "https://news.ycombinator.com/item?id=48157559"
+    },
+    {
+      "id": "48164287",
+      "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "points": 353,
+      "author": "gidellav",
+      "created_at": 1778970230,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=48164287"
+    },
+    {
+      "id": "48159445",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "points": 331,
+      "author": "mjgil",
+      "created_at": 1778933181,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=48159445"
+    },
+    {
+      "id": "48161861",
+      "title": "HTML Lists",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "points": 318,
+      "author": "speckx",
+      "created_at": 1778950706,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=48161861"
+    },
+    {
+      "id": "48158494",
+      "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
+      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+      "points": 300,
+      "author": "breve",
+      "created_at": 1778923679,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=48158494"
+    },
+    {
+      "id": "48158065",
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "points": 281,
+      "author": "James72689",
+      "created_at": 1778919917,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=48158065"
+    },
+    {
+      "id": "48159241",
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "points": 279,
+      "author": "eamag",
+      "created_at": 1778931392,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48159241"
+    },
+    {
+      "id": "48158130",
+      "title": "Where to buy a non-Apple, non-Google smartphone",
+      "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
+      "points": 249,
+      "author": "_____k",
+      "created_at": 1778920468,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=48158130"
+    },
+    {
+      "id": "48160807",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "points": 233,
+      "author": "Brajeshwar",
+      "created_at": 1778943496,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=48160807"
+    },
+    {
+      "id": "48158506",
+      "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "points": 210,
+      "author": "44za12",
+      "created_at": 1778923806,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=48158506"
+    },
+    {
+      "id": "48163392",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "points": 162,
+      "author": "bookofjoe",
+      "created_at": 1778962446,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=48163392"
+    },
+    {
+      "id": "48164432",
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "points": 158,
+      "author": "surprisetalk",
+      "created_at": 1778971516,
+      "num_comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=48164432"
+    },
+    {
+      "id": "48162354",
+      "title": "US is starting to see heavy job losses in roles exposed to AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+      "points": 154,
+      "author": "elsewhen",
+      "created_at": 1778954385,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=48162354"
+    },
+    {
+      "id": "48159227",
+      "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+      "url": "https://twitter.com/steipete/status/2055346265869721905",
+      "points": 150,
+      "author": "eamag",
+      "created_at": 1778931244,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=48159227"
+    },
+    {
+      "id": "48161974",
+      "title": "Technofascism",
+      "url": "https://third-bit.com/2026/05/15/technofascism/",
+      "points": 137,
+      "author": "speckx",
+      "created_at": 1778951456,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=48161974"
+    },
+    {
+      "id": "48162468",
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "points": 126,
+      "author": "ScottWRobinson",
+      "created_at": 1778955389,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=48162468"
+    },
+    {
+      "id": "48161997",
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "points": 125,
+      "author": "rbanffy",
+      "created_at": 1778951578,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=48161997"
+    },
+    {
+      "id": "48164891",
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "points": 125,
+      "author": "breve",
+      "created_at": 1778975987,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=48164891"
     }
   ],
-  "last_updated": "2026-05-16T07:58:07.561365+00:00"
+  "last_updated": "2026-05-17T08:15:17.515241+00:00"
 }
