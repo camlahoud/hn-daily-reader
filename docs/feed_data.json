@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47038546",
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "points": 564,
-      "author": "bookofjoe",
-      "created_at": 1771267310,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=47038546"
-    },
-    {
-      "id": "47034713",
-      "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
-      "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
-      "points": 492,
-      "author": "harel",
-      "created_at": 1771248607,
-      "num_comments": 337,
-      "hn_url": "https://news.ycombinator.com/item?id=47034713"
-    },
-    {
-      "id": "47032876",
-      "title": "Qwen3.5: Towards Native Multimodal Agents",
-      "url": "https://qwen.ai/blog?id=qwen3.5",
-      "points": 407,
-      "author": "danielhanchen",
-      "created_at": 1771234341,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=47032876"
-    },
-    {
-      "id": "47035560",
-      "title": "What your Bluetooth devices reveal",
-      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "points": 377,
-      "author": "ssgodderidge",
-      "created_at": 1771252772,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=47035560"
-    },
-    {
-      "id": "47033622",
-      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
-      "points": 372,
-      "author": "beardyw",
-      "created_at": 1771239988,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=47033622"
-    },
-    {
-      "id": "47034192",
-      "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
-      "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
-      "points": 350,
-      "author": "dClauzel",
-      "created_at": 1771244911,
-      "num_comments": 289,
-      "hn_url": "https://news.ycombinator.com/item?id=47034192"
-    },
-    {
-      "id": "47035679",
-      "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
-      "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
-      "points": 344,
-      "author": "righthand",
-      "created_at": 1771253305,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=47035679"
-    },
-    {
-      "id": "47040430",
-      "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
-      "url": "https://arxiv.org/abs/2602.12670",
-      "points": 325,
-      "author": "mustaphah",
-      "created_at": 1771276556,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47040430"
-    },
-    {
-      "id": "47038588",
-      "title": "Use protocols, not services",
-      "url": "https://notnotp.com/notes/use-protocols-not-services/",
-      "points": 282,
-      "author": "enz",
-      "created_at": 1771267498,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47038588"
-    },
-    {
-      "id": "47038125",
-      "title": "Privilege is bad grammar",
-      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
-      "points": 270,
-      "author": "surprisetalk",
-      "created_at": 1771265132,
-      "num_comments": 251,
-      "hn_url": "https://news.ycombinator.com/item?id=47038125"
-    },
-    {
-      "id": "47033976",
-      "title": "The Israeli spyware firm that accidentally just exposed itself",
-      "url": "https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally",
-      "points": 253,
-      "author": "0x54MUR41",
-      "created_at": 1771243242,
-      "num_comments": 259,
-      "hn_url": "https://news.ycombinator.com/item?id=47033976"
-    },
-    {
-      "id": "47034801",
-      "title": "Running My Own XMPP Server",
-      "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
-      "points": 218,
-      "author": "speckx",
-      "created_at": 1771249185,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=47034801"
-    },
-    {
-      "id": "47040524",
-      "title": "Rise of the Triforce",
-      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "points": 204,
-      "author": "max-m",
-      "created_at": 1771277044,
-      "num_comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=47040524"
-    },
-    {
-      "id": "47040375",
-      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
-      "url": "https://github.com/zachlatta/freeflow",
-      "points": 158,
-      "author": "zachlatta",
-      "created_at": 1771276244,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=47040375"
-    },
-    {
-      "id": "47035371",
-      "title": "The Sideprocalypse",
-      "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
-      "points": 152,
-      "author": "headalgorithm",
-      "created_at": 1771251999,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=47035371"
-    },
-    {
-      "id": "47033328",
-      "title": "MessageFormat: Unicode standard for localizable message strings",
-      "url": "https://github.com/unicode-org/message-format-wg",
-      "points": 151,
-      "author": "todsacerdoti",
-      "created_at": 1771237582,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=47033328"
-    },
-    {
-      "id": "47037628",
-      "title": "I guess I kinda get why people hate AI",
-      "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
-      "points": 148,
-      "author": "NM-Super",
-      "created_at": 1771262522,
-      "num_comments": 238,
-      "hn_url": "https://news.ycombinator.com/item?id=47037628"
-    },
-    {
       "id": "47045612",
       "title": "GrapheneOS \u2013 Break Free from Google and Apple",
       "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
@@ -201,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47049824"
     },
     {
-      "id": "47042396",
-      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-      "points": 553,
-      "author": "colinprince",
-      "created_at": 1771290060,
-      "num_comments": 344,
-      "hn_url": "https://news.ycombinator.com/item?id=47042396"
-    },
-    {
       "id": "47049426",
       "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
       "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
@@ -239,16 +59,6 @@
       "created_at": 1771354964,
       "num_comments": 237,
       "hn_url": "https://news.ycombinator.com/item?id=47051546"
-    },
-    {
-      "id": "47042136",
-      "title": "AI is destroying open source, and it's not even good yet",
-      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-      "points": 403,
-      "author": "VorpalWay",
-      "created_at": 1771287980,
-      "num_comments": 328,
-      "hn_url": "https://news.ycombinator.com/item?id=47042136"
     },
     {
       "id": "47051852",
@@ -359,16 +169,6 @@
       "created_at": 1771347574,
       "num_comments": 83,
       "hn_url": "https://news.ycombinator.com/item?id=47049718"
-    },
-    {
-      "id": "47042895",
-      "title": "Poor Deming never stood a chance",
-      "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
-      "points": 192,
-      "author": "todsacerdoti",
-      "created_at": 1771294417,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=47042895"
     },
     {
       "id": "47057829",
@@ -17789,7 +17589,207 @@
       "created_at": 1778975987,
       "num_comments": 46,
       "hn_url": "https://news.ycombinator.com/item?id=48164891"
+    },
+    {
+      "id": "48166459",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "points": 745,
+      "author": "WithinReason",
+      "created_at": 1778998646,
+      "num_comments": 319,
+      "hn_url": "https://news.ycombinator.com/item?id=48166459"
+    },
+    {
+      "id": "48168221",
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "points": 593,
+      "author": "TheEdonian",
+      "created_at": 1779020025,
+      "num_comments": 406,
+      "hn_url": "https://news.ycombinator.com/item?id=48168221"
+    },
+    {
+      "id": "48168856",
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "points": 566,
+      "author": "nolok",
+      "created_at": 1779025350,
+      "num_comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=48168856"
+    },
+    {
+      "id": "48170798",
+      "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "points": 426,
+      "author": "rolph",
+      "created_at": 1779037755,
+      "num_comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=48170798"
+    },
+    {
+      "id": "48168058",
+      "title": "Native all the way, until you need text",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "points": 420,
+      "author": "dive",
+      "created_at": 1779018586,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=48168058"
+    },
+    {
+      "id": "48168626",
+      "title": "AI is a technology not a product",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "points": 408,
+      "author": "ch_sm",
+      "created_at": 1779023480,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=48168626"
+    },
+    {
+      "id": "48168056",
+      "title": "AI subscriptions are a ticking time bomb for enterprise",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "points": 395,
+      "author": "mooreds",
+      "created_at": 1779018571,
+      "num_comments": 388,
+      "hn_url": "https://news.ycombinator.com/item?id=48168056"
+    },
+    {
+      "id": "48168668",
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "points": 365,
+      "author": "tech4bot",
+      "created_at": 1779023787,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=48168668"
+    },
+    {
+      "id": "48169874",
+      "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "points": 327,
+      "author": "Bibabomas",
+      "created_at": 1779032227,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=48169874"
+    },
+    {
+      "id": "48168198",
+      "title": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "points": 316,
+      "author": "datadrivenangel",
+      "created_at": 1779019763,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=48168198"
+    },
+    {
+      "id": "48173429",
+      "title": "GenCAD",
+      "url": "https://gencad.github.io/",
+      "points": 312,
+      "author": "dagenix",
+      "created_at": 1779054035,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=48173429"
+    },
+    {
+      "id": "48168708",
+      "title": "WHO declares Ebola outbreak a global health emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "points": 303,
+      "author": "zzzeek",
+      "created_at": 1779024134,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=48168708"
+    },
+    {
+      "id": "48165980",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "points": 256,
+      "author": "celsoazevedo",
+      "created_at": 1778990992,
+      "num_comments": 264,
+      "hn_url": "https://news.ycombinator.com/item?id=48165980"
+    },
+    {
+      "id": "48165295",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "points": 239,
+      "author": "zdw",
+      "created_at": 1778981126,
+      "num_comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=48165295"
+    },
+    {
+      "id": "48168485",
+      "title": "CUDA Books",
+      "url": "https://github.com/alternbits/awesome-cuda-books",
+      "points": 196,
+      "author": "dariubs",
+      "created_at": 1779022326,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=48168485"
+    },
+    {
+      "id": "48170810",
+      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+      "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+      "points": 195,
+      "author": "bhouston",
+      "created_at": 1779037848,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=48170810"
+    },
+    {
+      "id": "48166877",
+      "title": "Ten Signs of Fascism. America has all of them",
+      "url": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
+      "points": 195,
+      "author": "fredski42",
+      "created_at": 1779004257,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=48166877"
+    },
+    {
+      "id": "48173468",
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "points": 193,
+      "author": "ChrisArchitect",
+      "created_at": 1779054330,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=48173468"
+    },
+    {
+      "id": "48172505",
+      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+      "url": "https://spectrum.ieee.org/payphone-voip",
+      "points": 154,
+      "author": "bookofjoe",
+      "created_at": 1779046750,
+      "num_comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=48172505"
+    },
+    {
+      "id": "48171015",
+      "title": "EU weighs restricting use of US cloud platforms to process government data",
+      "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
+      "points": 144,
+      "author": "abdelhousni",
+      "created_at": 1779038978,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=48171015"
     }
   ],
-  "last_updated": "2026-05-17T08:15:17.515241+00:00"
+  "last_updated": "2026-05-18T09:53:32.926268+00:00"
 }
