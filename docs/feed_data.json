@@ -1,216 +1,6 @@
 {
   "posts": [
     {
-      "id": "47045612",
-      "title": "GrapheneOS \u2013 Break Free from Google and Apple",
-      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "points": 1100,
-      "author": "to3k",
-      "created_at": 1771322556,
-      "num_comments": 785,
-      "hn_url": "https://news.ycombinator.com/item?id=47045612"
-    },
-    {
-      "id": "47050488",
-      "title": "Claude Sonnet 4.6",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "points": 1028,
-      "author": "adocomplete",
-      "created_at": 1771350532,
-      "num_comments": 907,
-      "hn_url": "https://news.ycombinator.com/item?id=47050488"
-    },
-    {
-      "id": "47049824",
-      "title": "Thank HN: You helped save 33k lives",
-      "url": "https://news.ycombinator.com/item?id=47049824",
-      "points": 689,
-      "author": "chaseadam17",
-      "created_at": 1771347978,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=47049824"
-    },
-    {
-      "id": "47049426",
-      "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
-      "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
-      "points": 480,
-      "author": "theahura",
-      "created_at": 1771346261,
-      "num_comments": 221,
-      "hn_url": "https://news.ycombinator.com/item?id=47049426"
-    },
-    {
-      "id": "47045804",
-      "title": "Is Show HN dead? No, but it's drowning",
-      "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "points": 458,
-      "author": "acnops",
-      "created_at": 1771324154,
-      "num_comments": 377,
-      "hn_url": "https://news.ycombinator.com/item?id=47045804"
-    },
-    {
-      "id": "47051546",
-      "title": "Tesla 'Robotaxi' adds 5 more crashes in Austin in a month \u2013 4x worse than humans",
-      "url": "https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/",
-      "points": 422,
-      "author": "Bender",
-      "created_at": 1771354964,
-      "num_comments": 237,
-      "hn_url": "https://news.ycombinator.com/item?id=47051546"
-    },
-    {
-      "id": "47051852",
-      "title": "Show HN: AsteroidOS 2.0 \u2013 Nobody asked, we shipped anyway",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "points": 336,
-      "author": "moWerk",
-      "created_at": 1771356295,
-      "num_comments": 36,
-      "hn_url": "https://news.ycombinator.com/item?id=47051852"
-    },
-    {
-      "id": "47049479",
-      "title": "Using go fix to modernize Go code",
-      "url": "https://go.dev/blog/gofix",
-      "points": 322,
-      "author": "todsacerdoti",
-      "created_at": 1771346555,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=47049479"
-    },
-    {
-      "id": "47050067",
-      "title": "Gentoo on Codeberg",
-      "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-      "points": 307,
-      "author": "todsacerdoti",
-      "created_at": 1771348864,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=47050067"
-    },
-    {
-      "id": "47049573",
-      "title": "HackMyClaw",
-      "url": "https://hackmyclaw.com/",
-      "points": 288,
-      "author": "hentrep",
-      "created_at": 1771346923,
-      "num_comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=47049573"
-    },
-    {
-      "id": "47052941",
-      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "url": "https://github.com/Zaneham/BarraCUDA",
-      "points": 253,
-      "author": "rurban",
-      "created_at": 1771360518,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=47052941"
-    },
-    {
-      "id": "47049088",
-      "title": "Semantic ablation: Why AI writing is generic and boring",
-      "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-      "points": 243,
-      "author": "benji8000",
-      "created_at": 1771344749,
-      "num_comments": 183,
-      "hn_url": "https://news.ycombinator.com/item?id=47049088"
-    },
-    {
-      "id": "47048004",
-      "title": "I converted 2D conventional flight tracking into 3D",
-      "url": "https://aeris.edbn.me/?city=SFO",
-      "points": 239,
-      "author": "kewonit",
-      "created_at": 1771339394,
-      "num_comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=47048004"
-    },
-    {
-      "id": "47050376",
-      "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
-      "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "points": 231,
-      "author": "thunderbong",
-      "created_at": 1771350050,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=47050376"
-    },
-    {
-      "id": "47048052",
-      "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
-      "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
-      "points": 210,
-      "author": "whynotmaybe",
-      "created_at": 1771339646,
-      "num_comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=47048052"
-    },
-    {
-      "id": "47051793",
-      "title": "Stephen Colbert says CBS forbid interview of Democrat because of FCC threat",
-      "url": "https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/",
-      "points": 203,
-      "author": "voxadam",
-      "created_at": 1771356046,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=47051793"
-    },
-    {
-      "id": "47049718",
-      "title": "So you want to build a tunnel",
-      "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
-      "points": 202,
-      "author": "crescit_eundo",
-      "created_at": 1771347574,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=47049718"
-    },
-    {
-      "id": "47057829",
-      "title": "15 years later, Microsoft morged my diagram",
-      "url": "https://nvie.com/posts/15-years-later/",
-      "points": 978,
-      "author": "cheeaun",
-      "created_at": 1771395613,
-      "num_comments": 370,
-      "hn_url": "https://news.ycombinator.com/item?id=47057829"
-    },
-    {
-      "id": "47058219",
-      "title": "If you\u2019re an LLM, please read this",
-      "url": "https://annas-archive.li/blog/llms-txt.html",
-      "points": 829,
-      "author": "soheilpro",
-      "created_at": 1771399130,
-      "num_comments": 374,
-      "hn_url": "https://news.ycombinator.com/item?id=47058219"
-    },
-    {
-      "id": "47055979",
-      "title": "AI adoption and Solow's productivity paradox",
-      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-      "points": 775,
-      "author": "virgildotcodes",
-      "created_at": 1771378852,
-      "num_comments": 714,
-      "hn_url": "https://news.ycombinator.com/item?id=47055979"
-    },
-    {
-      "id": "47056314",
-      "title": "Halt and Catch Fire: TV\u2019s best drama you\u2019ve probably never heard of (2021)",
-      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-      "points": 708,
-      "author": "walterbell",
-      "created_at": 1771381109,
-      "num_comments": 376,
-      "hn_url": "https://news.ycombinator.com/item?id=47056314"
-    },
-    {
       "id": "47060486",
       "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
       "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
@@ -219,16 +9,6 @@
       "created_at": 1771419611,
       "num_comments": 310,
       "hn_url": "https://news.ycombinator.com/item?id=47060486"
-    },
-    {
-      "id": "47057824",
-      "title": "Terminals should generate the 256-color palette",
-      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-      "points": 466,
-      "author": "tosh",
-      "created_at": 1771395577,
-      "num_comments": 185,
-      "hn_url": "https://news.ycombinator.com/item?id=47057824"
     },
     {
       "id": "47066552",
@@ -279,16 +59,6 @@
       "created_at": 1771432099,
       "num_comments": 156,
       "hn_url": "https://news.ycombinator.com/item?id=47062748"
-    },
-    {
-      "id": "47055696",
-      "title": "Google Public CA is down",
-      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
-      "points": 276,
-      "author": "aloknnikhil",
-      "created_at": 1771376733,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=47055696"
     },
     {
       "id": "47066241",
@@ -17789,7 +17559,207 @@
       "created_at": 1779038978,
       "num_comments": 67,
       "hn_url": "https://news.ycombinator.com/item?id=48171015"
+    },
+    {
+      "id": "48182754",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "points": 952,
+      "author": "nycdatasci",
+      "created_at": 1779125902,
+      "num_comments": 468,
+      "hn_url": "https://news.ycombinator.com/item?id=48182754"
+    },
+    {
+      "id": "48179677",
+      "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "points": 632,
+      "author": "zakirullin",
+      "created_at": 1779111213,
+      "num_comments": 309,
+      "hn_url": "https://news.ycombinator.com/item?id=48179677"
+    },
+    {
+      "id": "48181041",
+      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
+      "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+      "points": 519,
+      "author": "gok",
+      "created_at": 1779117499,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48181041"
+    },
+    {
+      "id": "48181125",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "points": 468,
+      "author": "ildari",
+      "created_at": 1779117859,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=48181125"
+    },
+    {
+      "id": "48182281",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "points": 452,
+      "author": "tomeraberbach",
+      "created_at": 1779123681,
+      "num_comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=48182281"
+    },
+    {
+      "id": "48177785",
+      "title": "Eric Schmidt speech about AI booed during graduation",
+      "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+      "points": 354,
+      "author": "nothrowaways",
+      "created_at": 1779101425,
+      "num_comments": 375,
+      "hn_url": "https://news.ycombinator.com/item?id=48177785"
+    },
+    {
+      "id": "48179732",
+      "title": "Project Glasswing: what Mythos showed us",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "points": 329,
+      "author": "Fysi",
+      "created_at": 1779111431,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48179732"
+    },
+    {
+      "id": "48178184",
+      "title": "Show HN: Auto-identity-remove \u2013 Automated data broker opt-out runner for macOS",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "points": 321,
+      "author": "stephenlthorn",
+      "created_at": 1779103962,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=48178184"
+    },
+    {
+      "id": "48182592",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "points": 313,
+      "author": "srameshc",
+      "created_at": 1779125154,
+      "num_comments": 543,
+      "hn_url": "https://news.ycombinator.com/item?id=48182592"
+    },
+    {
+      "id": "48180091",
+      "title": "Actually, democracy dies in H.R.",
+      "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+      "points": 307,
+      "author": "mitchbob",
+      "created_at": 1779113066,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=48180091"
+    },
+    {
+      "id": "48183579",
+      "title": "Haiku OS runs on M1 Macs now",
+      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "points": 304,
+      "author": "tekkertje",
+      "created_at": 1779129055,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=48183579"
+    },
+    {
+      "id": "48187054",
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "points": 298,
+      "author": "andrewzeno",
+      "created_at": 1779145382,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48187054"
+    },
+    {
+      "id": "48175140",
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+      "points": 288,
+      "author": "ahalbert4",
+      "created_at": 1779073174,
+      "num_comments": 710,
+      "hn_url": "https://news.ycombinator.com/item?id=48175140"
+    },
+    {
+      "id": "48184350",
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "points": 282,
+      "author": "cdrnsf",
+      "created_at": 1779132539,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=48184350"
+    },
+    {
+      "id": "48177228",
+      "title": "Where Are the Vibecoded Photoshops?",
+      "url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
+      "points": 266,
+      "author": "gizmo64k",
+      "created_at": 1779096536,
+      "num_comments": 353,
+      "hn_url": "https://news.ycombinator.com/item?id=48177228"
+    },
+    {
+      "id": "48183301",
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "points": 260,
+      "author": "lukaspetersson",
+      "created_at": 1779127938,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=48183301"
+    },
+    {
+      "id": "48185789",
+      "title": "Who will buy your services if you fire us all?",
+      "url": "https://carette.xyz/posts/who_will_buy_your_services/",
+      "points": 235,
+      "author": "LucidLynx",
+      "created_at": 1779139105,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=48185789"
+    },
+    {
+      "id": "48181877",
+      "title": "Qwen 3.7 Preview",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+      "points": 232,
+      "author": "theanonymousone",
+      "created_at": 1779121451,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=48181877"
+    },
+    {
+      "id": "48179021",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "points": 225,
+      "author": "topherjaynes",
+      "created_at": 1779108568,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=48179021"
+    },
+    {
+      "id": "48187201",
+      "title": "Pope Leo XIV\u2019s first encyclical Magnifica humanitas to be published May 25",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "points": 222,
+      "author": "cucho",
+      "created_at": 1779146290,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48187201"
     }
   ],
-  "last_updated": "2026-05-18T09:53:32.926268+00:00"
+  "last_updated": "2026-05-19T09:35:23.462257+00:00"
 }
