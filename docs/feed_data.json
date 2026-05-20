@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "47060486",
-      "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
-      "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
-      "points": 511,
-      "author": "speckx",
-      "created_at": 1771419611,
-      "num_comments": 310,
-      "hn_url": "https://news.ycombinator.com/item?id=47060486"
-    },
-    {
-      "id": "47066552",
-      "title": "Sizing chaos",
-      "url": "https://pudding.cool/2026/02/womens-sizing/",
-      "points": 440,
-      "author": "zdw",
-      "created_at": 1771449500,
-      "num_comments": 229,
-      "hn_url": "https://news.ycombinator.com/item?id=47066552"
-    },
-    {
-      "id": "47059275",
-      "title": "Asahi Linux Progress Report: Linux 6.19",
-      "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
-      "points": 421,
-      "author": "mkurz",
-      "created_at": 1771408811,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=47059275"
-    },
-    {
-      "id": "47063005",
-      "title": "Tailscale Peer Relays is now generally available",
-      "url": "https://tailscale.com/blog/peer-relays-ga",
-      "points": 376,
-      "author": "sz4kerto",
-      "created_at": 1771433172,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=47063005"
-    },
-    {
-      "id": "47064490",
-      "title": "Cosmologically Unique IDs",
-      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "points": 341,
-      "author": "jfantl",
-      "created_at": 1771439842,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=47064490"
-    },
-    {
-      "id": "47062748",
-      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-      "points": 306,
-      "author": "idoxer",
-      "created_at": 1771432099,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=47062748"
-    },
-    {
-      "id": "47066241",
-      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-      "points": 275,
-      "author": "surprisetalk",
-      "created_at": 1771448071,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47066241"
-    },
-    {
-      "id": "47067678",
-      "title": "Closing this as we are no longer pursuing Swift adoption",
-      "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-      "points": 263,
-      "author": "thewavelength",
-      "created_at": 1771456118,
-      "num_comments": 200,
-      "hn_url": "https://news.ycombinator.com/item?id=47067678"
-    },
-    {
-      "id": "47067759",
-      "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
-      "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-      "points": 261,
-      "author": "anonymous908213",
-      "created_at": 1771456769,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=47067759"
-    },
-    {
-      "id": "47062521",
-      "title": "The only moat left is money?",
-      "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
-      "points": 257,
-      "author": "elliotbnvl",
-      "created_at": 1771430879,
-      "num_comments": 353,
-      "hn_url": "https://news.ycombinator.com/item?id=47062521"
-    },
-    {
-      "id": "47060202",
-      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "points": 248,
-      "author": "tablets",
-      "created_at": 1771416972,
-      "num_comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=47060202"
-    },
-    {
-      "id": "47064047",
-      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-      "points": 245,
-      "author": "todsacerdoti",
-      "created_at": 1771437853,
-      "num_comments": 111,
-      "hn_url": "https://news.ycombinator.com/item?id=47064047"
-    },
-    {
-      "id": "47065678",
-      "title": "There is unequivocal evidence that Earth is warming (2024)",
-      "url": "https://science.nasa.gov/climate-change/evidence/",
-      "points": 205,
-      "author": "doener",
-      "created_at": 1771445350,
-      "num_comments": 223,
-      "hn_url": "https://news.ycombinator.com/item?id=47065678"
-    },
-    {
-      "id": "47062534",
-      "title": "The Future of AI Software Development",
-      "url": "https://martinfowler.com/fragments/2026-02-18.html",
-      "points": 186,
-      "author": "nthypes",
-      "created_at": 1771430928,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47062534"
-    },
-    {
       "id": "47074735",
       "title": "Gemini 3.1 Pro",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
@@ -149,16 +9,6 @@
       "created_at": 1771514397,
       "num_comments": 759,
       "hn_url": "https://news.ycombinator.com/item?id=47074735"
-    },
-    {
-      "id": "47069299",
-      "title": "Anthropic officially bans using subscription auth for third party use",
-      "url": "https://code.claude.com/docs/en/legal-and-compliance",
-      "points": 629,
-      "author": "theahura",
-      "created_at": 1771469546,
-      "num_comments": 754,
-      "hn_url": "https://news.ycombinator.com/item?id=47069299"
     },
     {
       "id": "47075318",
@@ -231,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47077844"
     },
     {
-      "id": "47068948",
-      "title": "Minecraft Java is switching from OpenGL to Vulkan",
-      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
-      "points": 278,
-      "author": "tuananh",
-      "created_at": 1771466133,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=47068948"
-    },
-    {
       "id": "47073112",
       "title": "Pebble Production: February Update",
       "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
@@ -271,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47077163"
     },
     {
-      "id": "47070142",
-      "title": "European Tech Alternatives",
-      "url": "https://eutechmap.com/map",
-      "points": 249,
-      "author": "puppion",
-      "created_at": 1771477657,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=47070142"
-    },
-    {
       "id": "47077849",
       "title": "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
       "url": "https://www.theregister.com/2026/02/19/irs_job_cuts/",
@@ -289,16 +119,6 @@
       "created_at": 1771528593,
       "num_comments": 146,
       "hn_url": "https://news.ycombinator.com/item?id=47077849"
-    },
-    {
-      "id": "47069179",
-      "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
-      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
-      "points": 218,
-      "author": "kristianp",
-      "created_at": 1771468320,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=47069179"
     },
     {
       "id": "47078324",
@@ -319,16 +139,6 @@
       "created_at": 1771523245,
       "num_comments": 34,
       "hn_url": "https://news.ycombinator.com/item?id=47076659"
-    },
-    {
-      "id": "47068890",
-      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-      "points": 199,
-      "author": "fp64enjoyer",
-      "created_at": 1771465567,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=47068890"
     },
     {
       "id": "47075245",
@@ -17759,7 +17569,207 @@
       "created_at": 1779146290,
       "num_comments": 130,
       "hn_url": "https://news.ycombinator.com/item?id=48187201"
+    },
+    {
+      "id": "48194352",
+      "title": "I\u2019ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "points": 1314,
+      "author": "dmarcos",
+      "created_at": 1779203265,
+      "num_comments": 550,
+      "hn_url": "https://news.ycombinator.com/item?id=48194352"
+    },
+    {
+      "id": "48196570",
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "points": 772,
+      "author": "spectraldrift",
+      "created_at": 1779212625,
+      "num_comments": 546,
+      "hn_url": "https://news.ycombinator.com/item?id=48196570"
+    },
+    {
+      "id": "48195009",
+      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "points": 768,
+      "author": "andreww591",
+      "created_at": 1779206018,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=48195009"
+    },
+    {
+      "id": "48188183",
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "points": 754,
+      "author": "yakkomajuri",
+      "created_at": 1779154242,
+      "num_comments": 572,
+      "hn_url": "https://news.ycombinator.com/item?id=48188183"
+    },
+    {
+      "id": "48192224",
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "points": 672,
+      "author": "interpol_p",
+      "created_at": 1779192258,
+      "num_comments": 345,
+      "hn_url": "https://news.ycombinator.com/item?id=48192224"
+    },
+    {
+      "id": "48197980",
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "points": 646,
+      "author": "ortusdux",
+      "created_at": 1779218006,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=48197980"
+    },
+    {
+      "id": "48197370",
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "points": 536,
+      "author": "berkeleyjunk",
+      "created_at": 1779215667,
+      "num_comments": 711,
+      "hn_url": "https://news.ycombinator.com/item?id=48197370"
+    },
+    {
+      "id": "48191602",
+      "title": "Show HN: Gaussian Splat of a Strawberry",
+      "url": "https://superspl.at/scene/84df8849",
+      "points": 498,
+      "author": "danybittel",
+      "created_at": 1779187127,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=48191602"
+    },
+    {
+      "id": "48192383",
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "points": 469,
+      "author": "zambelli",
+      "created_at": 1779193387,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=48192383"
+    },
+    {
+      "id": "48198551",
+      "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+      "url": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
+      "points": 467,
+      "author": "atombender",
+      "created_at": 1779220369,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=48198551"
+    },
+    {
+      "id": "48190454",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "points": 443,
+      "author": "LelouBil",
+      "created_at": 1779176753,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=48190454"
+    },
+    {
+      "id": "48197703",
+      "title": "Disney erased FiveThirtyEight",
+      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
+      "points": 408,
+      "author": "7777777phil",
+      "created_at": 1779216985,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=48197703"
+    },
+    {
+      "id": "48192882",
+      "title": "OpenBSD 7.9",
+      "url": "https://www.openbsd.org/79.html",
+      "points": 394,
+      "author": "bradley_taunt",
+      "created_at": 1779196311,
+      "num_comments": 285,
+      "hn_url": "https://news.ycombinator.com/item?id=48192882"
+    },
+    {
+      "id": "48189368",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "points": 376,
+      "author": "theanonymousone",
+      "created_at": 1779167089,
+      "num_comments": 288,
+      "hn_url": "https://news.ycombinator.com/item?id=48189368"
+    },
+    {
+      "id": "48188787",
+      "title": "Peter Neumann has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "points": 308,
+      "author": "pabs3",
+      "created_at": 1779160665,
+      "num_comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=48188787"
+    },
+    {
+      "id": "48196609",
+      "title": "Gemini Omni",
+      "url": "https://deepmind.google/models/gemini-omni/",
+      "points": 306,
+      "author": "meetpateltech",
+      "created_at": 1779212779,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=48196609"
+    },
+    {
+      "id": "48198291",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "points": 277,
+      "author": "smooke",
+      "created_at": 1779219270,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48198291"
+    },
+    {
+      "id": "48200569",
+      "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "points": 273,
+      "author": "janalsncm",
+      "created_at": 1779229831,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=48200569"
+    },
+    {
+      "id": "48197995",
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "points": 258,
+      "author": "doener",
+      "created_at": 1779218052,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=48197995"
+    },
+    {
+      "id": "48196867",
+      "title": "Gemini CLI will stop working from June 18, 2026",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "points": 206,
+      "author": "primaprashant",
+      "created_at": 1779213790,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=48196867"
     }
   ],
-  "last_updated": "2026-05-19T09:35:23.462257+00:00"
+  "last_updated": "2026-05-20T09:23:34.262722+00:00"
 }
