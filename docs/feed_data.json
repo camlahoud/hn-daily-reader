@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "47074735",
-      "title": "Gemini 3.1 Pro",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "points": 668,
-      "author": "MallocVoidstar",
-      "created_at": 1771514397,
-      "num_comments": 759,
-      "hn_url": "https://news.ycombinator.com/item?id=47074735"
-    },
-    {
-      "id": "47075318",
-      "title": "Gemini 3.1 Pro",
-      "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "points": 602,
-      "author": "PunchTornado",
-      "created_at": 1771517647,
-      "num_comments": 8,
-      "hn_url": "https://news.ycombinator.com/item?id=47075318"
-    },
-    {
-      "id": "47076966",
-      "title": "AI makes you boring",
-      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-      "points": 589,
-      "author": "speckx",
-      "created_at": 1771524736,
-      "num_comments": 329,
-      "hn_url": "https://news.ycombinator.com/item?id=47076966"
-    },
-    {
-      "id": "47075124",
-      "title": "Show HN: Micasa \u2013 track your house from the terminal",
-      "url": "https://micasa.dev",
-      "points": 506,
-      "author": "cpcloud",
-      "created_at": 1771516454,
-      "num_comments": 165,
-      "hn_url": "https://news.ycombinator.com/item?id=47075124"
-    },
-    {
-      "id": "47079222",
-      "title": "We're no longer attracting top talent: the brain drain killing American science",
-      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-      "points": 416,
-      "author": "mitchbob",
-      "created_at": 1771534583,
-      "num_comments": 386,
-      "hn_url": "https://news.ycombinator.com/item?id=47079222"
-    },
-    {
-      "id": "47072968",
-      "title": "Paged Out Issue #8 [pdf]",
-      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
-      "points": 363,
-      "author": "SteveHawk27",
-      "created_at": 1771503224,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=47072968"
-    },
-    {
-      "id": "47072967",
-      "title": "DOGE Track",
-      "url": "https://dogetrack.info/",
-      "points": 331,
-      "author": "donohoe",
-      "created_at": 1771503219,
-      "num_comments": 192,
-      "hn_url": "https://news.ycombinator.com/item?id=47072967"
-    },
-    {
-      "id": "47077844",
-      "title": "California's new bill requires DOJ-approved 3D printers that report themselves",
-      "url": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
-      "points": 280,
-      "author": "fortran77",
-      "created_at": 1771528572,
-      "num_comments": 333,
-      "hn_url": "https://news.ycombinator.com/item?id=47077844"
-    },
-    {
-      "id": "47073112",
-      "title": "Pebble Production: February Update",
-      "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "points": 277,
-      "author": "smig0",
-      "created_at": 1771504560,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=47073112"
-    },
-    {
-      "id": "47074389",
-      "title": "America vs. Singapore: You can't save your way out of economic shocks",
-      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "points": 266,
-      "author": "guardianbob",
-      "created_at": 1771512738,
-      "num_comments": 391,
-      "hn_url": "https://news.ycombinator.com/item?id=47074389"
-    },
-    {
-      "id": "47077163",
-      "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
-      "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
-      "points": 266,
-      "author": "Geekette",
-      "created_at": 1771525604,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=47077163"
-    },
-    {
-      "id": "47077849",
-      "title": "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
-      "url": "https://www.theregister.com/2026/02/19/irs_job_cuts/",
-      "points": 249,
-      "author": "freitasm",
-      "created_at": 1771528593,
-      "num_comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=47077849"
-    },
-    {
-      "id": "47078324",
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "points": 201,
-      "author": "benbeingbin",
-      "created_at": 1771530911,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=47078324"
-    },
-    {
-      "id": "47076659",
-      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-      "url": "https://github.com/Veirt/weathr",
-      "points": 201,
-      "author": "forinti",
-      "created_at": 1771523245,
-      "num_comments": 34,
-      "hn_url": "https://news.ycombinator.com/item?id=47076659"
-    },
-    {
-      "id": "47075245",
-      "title": "Mark Zuckerberg grilled on usage goals and underage users at California trial",
-      "url": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
-      "points": 190,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1771517234,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47075245"
-    },
-    {
       "id": "47089213",
       "title": "Trump's global tariffs struck down by US Supreme Court",
       "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
@@ -201,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47086181"
     },
     {
-      "id": "47085483",
-      "title": "I tried building my startup entirely on European infrastructure",
-      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-      "points": 695,
-      "author": "willy__",
-      "created_at": 1771578125,
-      "num_comments": 357,
-      "hn_url": "https://news.ycombinator.com/item?id=47085483"
-    },
-    {
       "id": "47088181",
       "title": "I found a useful Git one liner buried in leaked CIA developer docs",
       "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
@@ -219,16 +59,6 @@
       "created_at": 1771596186,
       "num_comments": 219,
       "hn_url": "https://news.ycombinator.com/item?id=47088181"
-    },
-    {
-      "id": "47083145",
-      "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
-      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-      "points": 517,
-      "author": "scottshambaugh",
-      "created_at": 1771556708,
-      "num_comments": 461,
-      "hn_url": "https://news.ycombinator.com/item?id=47083145"
     },
     {
       "id": "47092578",
@@ -271,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47088685"
     },
     {
-      "id": "47082496",
-      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
-      "points": 312,
-      "author": "interpidused",
-      "created_at": 1771550927,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=47082496"
-    },
-    {
       "id": "47086980",
       "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
       "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
@@ -311,26 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47095134"
     },
     {
-      "id": "47083648",
-      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "points": 212,
-      "author": "zagwdt",
-      "created_at": 1771560958,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=47083648"
-    },
-    {
-      "id": "47085425",
-      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "points": 211,
-      "author": "andreabergia",
-      "created_at": 1771577537,
-      "num_comments": 36,
-      "hn_url": "https://news.ycombinator.com/item?id=47085425"
-    },
-    {
       "id": "47088166",
       "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
       "url": "https://github.com/IronsideXXVI/Hacker-News",
@@ -339,16 +139,6 @@
       "created_at": 1771596125,
       "num_comments": 141,
       "hn_url": "https://news.ycombinator.com/item?id=47088166"
-    },
-    {
-      "id": "47085370",
-      "title": "Web Components: The Framework-Free Renaissance",
-      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-      "points": 194,
-      "author": "mpweiher",
-      "created_at": 1771577157,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47085370"
     },
     {
       "id": "47098245",
@@ -17769,7 +17559,207 @@
       "created_at": 1779213790,
       "num_comments": 108,
       "hn_url": "https://news.ycombinator.com/item?id=48196867"
+    },
+    {
+      "id": "48212493",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "points": 1148,
+      "author": "tedsanders",
+      "created_at": 1779303930,
+      "num_comments": 830,
+      "hn_url": "https://news.ycombinator.com/item?id=48212493"
+    },
+    {
+      "id": "48206768",
+      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "points": 1020,
+      "author": "giuliomagnifico",
+      "created_at": 1779281021,
+      "num_comments": 430,
+      "hn_url": "https://news.ycombinator.com/item?id=48206768"
+    },
+    {
+      "id": "48207004",
+      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+      "points": 920,
+      "author": "healsdata",
+      "created_at": 1779282150,
+      "num_comments": 728,
+      "hn_url": "https://news.ycombinator.com/item?id=48207004"
+    },
+    {
+      "id": "48207660",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "points": 827,
+      "author": "Timofeibu",
+      "created_at": 1779284617,
+      "num_comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=48207660"
+    },
+    {
+      "id": "48208502",
+      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
+      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+      "points": 730,
+      "author": "ceejayoz",
+      "created_at": 1779287447,
+      "num_comments": 467,
+      "hn_url": "https://news.ycombinator.com/item?id=48208502"
+    },
+    {
+      "id": "48205626",
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "points": 663,
+      "author": "kevinsimper",
+      "created_at": 1779273302,
+      "num_comments": 261,
+      "hn_url": "https://news.ycombinator.com/item?id=48205626"
+    },
+    {
+      "id": "48201316",
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "points": 619,
+      "author": "splenditer",
+      "created_at": 1779235278,
+      "num_comments": 330,
+      "hn_url": "https://news.ycombinator.com/item?id=48201316"
+    },
+    {
+      "id": "48201484",
+      "title": "Incident Report: Railway Blocked by Google Cloud [resolved]",
+      "url": "https://status.railway.com/incident/I23M92U0",
+      "points": 551,
+      "author": "aarondf",
+      "created_at": 1779236634,
+      "num_comments": 350,
+      "hn_url": "https://news.ycombinator.com/item?id=48201484"
+    },
+    {
+      "id": "48214449",
+      "title": "Google Declaring War on the Web",
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "points": 523,
+      "author": "cdrnsf",
+      "created_at": 1779312798,
+      "num_comments": 356,
+      "hn_url": "https://news.ycombinator.com/item?id=48214449"
+    },
+    {
+      "id": "48203698",
+      "title": "Everything in C is undefined behavior",
+      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "points": 486,
+      "author": "lycopodiopsida",
+      "created_at": 1779257242,
+      "num_comments": 665,
+      "hn_url": "https://news.ycombinator.com/item?id=48203698"
+    },
+    {
+      "id": "48210263",
+      "title": "Apparently Google hates us now",
+      "url": "https://twitter.com/pokemoncentral/status/2057123807404638250",
+      "points": 471,
+      "author": "zeitg3ist",
+      "created_at": 1779294445,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=48210263"
+    },
+    {
+      "id": "48204770",
+      "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "points": 433,
+      "author": "0xedb",
+      "created_at": 1779266275,
+      "num_comments": 245,
+      "hn_url": "https://news.ycombinator.com/item?id=48204770"
+    },
+    {
+      "id": "48205699",
+      "title": "Map of Metal",
+      "url": "https://mapofmetal.com/",
+      "points": 420,
+      "author": "robin_reala",
+      "created_at": 1779274040,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=48205699"
+    },
+    {
+      "id": "48206340",
+      "title": "Saying goodbye to asm.js",
+      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "points": 375,
+      "author": "eqrion",
+      "created_at": 1779278516,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48206340"
+    },
+    {
+      "id": "48212046",
+      "title": "Flipper One Tech Specs",
+      "url": "https://docs.flipper.net/one/general/tech-specs",
+      "points": 368,
+      "author": "gregsadetsky",
+      "created_at": 1779302036,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48212046"
+    },
+    {
+      "id": "48201973",
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
+      "points": 368,
+      "author": "ChocMontePy",
+      "created_at": 1779240859,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=48201973"
+    },
+    {
+      "id": "48213933",
+      "title": "SpaceX S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+      "points": 365,
+      "author": "cachecow",
+      "created_at": 1779310199,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=48213933"
+    },
+    {
+      "id": "48206241",
+      "title": "College students drown out AI-praising commencement speeches with boos",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+      "points": 362,
+      "author": "iancmceachern",
+      "created_at": 1779277892,
+      "num_comments": 364,
+      "hn_url": "https://news.ycombinator.com/item?id=48206241"
+    },
+    {
+      "id": "48202047",
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "points": 351,
+      "author": "ranit",
+      "created_at": 1779241386,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=48202047"
+    },
+    {
+      "id": "48205782",
+      "title": "Google\u2019s AI is being manipulated. The search giant is quietly fighting back",
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "points": 312,
+      "author": "tigerlily",
+      "created_at": 1779274629,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=48205782"
     }
   ],
-  "last_updated": "2026-05-20T09:23:34.262722+00:00"
+  "last_updated": "2026-05-21T09:32:15.812850+00:00"
 }
