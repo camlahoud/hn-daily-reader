@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "47089213",
-      "title": "Trump's global tariffs struck down by US Supreme Court",
-      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "points": 1342,
-      "author": "blackguardx",
-      "created_at": 1771601258,
-      "num_comments": 1091,
-      "hn_url": "https://news.ycombinator.com/item?id=47089213"
-    },
-    {
-      "id": "47091419",
-      "title": "Keep Android Open",
-      "url": "https://f-droid.org/2026/02/20/twif.html",
-      "points": 1300,
-      "author": "LorenDB",
-      "created_at": 1771610331,
-      "num_comments": 496,
-      "hn_url": "https://news.ycombinator.com/item?id=47091419"
-    },
-    {
-      "id": "47091748",
-      "title": "Facebook is cooked",
-      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "points": 937,
-      "author": "npilk",
-      "created_at": 1771611907,
-      "num_comments": 531,
-      "hn_url": "https://news.ycombinator.com/item?id=47091748"
-    },
-    {
-      "id": "47088037",
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "points": 707,
-      "author": "lairv",
-      "created_at": 1771595464,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=47088037"
-    },
-    {
-      "id": "47086181",
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "points": 705,
-      "author": "sidnarsipur",
-      "created_at": 1771583572,
-      "num_comments": 402,
-      "hn_url": "https://news.ycombinator.com/item?id=47086181"
-    },
-    {
-      "id": "47088181",
-      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "points": 637,
-      "author": "spencerldixon",
-      "created_at": 1771596186,
-      "num_comments": 219,
-      "hn_url": "https://news.ycombinator.com/item?id=47088181"
-    },
-    {
-      "id": "47092578",
-      "title": "I found a Vulnerability. They found a Lawyer",
-      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "points": 471,
-      "author": "toomuchtodo",
-      "created_at": 1771615198,
-      "num_comments": 199,
-      "hn_url": "https://news.ycombinator.com/item?id=47092578"
-    },
-    {
-      "id": "47094192",
-      "title": "Turn Dependabot Off",
-      "url": "https://words.filippo.io/dependabot/",
-      "points": 381,
-      "author": "todsacerdoti",
-      "created_at": 1771622741,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=47094192"
-    },
-    {
-      "id": "47092006",
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "points": 377,
-      "author": "nobody9999",
-      "created_at": 1771612941,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=47092006"
-    },
-    {
-      "id": "47088685",
-      "title": "Child's Play: Tech's new generation and the end of thinking",
-      "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
-      "points": 370,
-      "author": "ramimac",
-      "created_at": 1771598914,
-      "num_comments": 236,
-      "hn_url": "https://news.ycombinator.com/item?id=47088685"
-    },
-    {
-      "id": "47086980",
-      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-      "points": 290,
-      "author": "zerosizedweasle",
-      "created_at": 1771589075,
-      "num_comments": 319,
-      "hn_url": "https://news.ycombinator.com/item?id=47086980"
-    },
-    {
-      "id": "47087719",
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "points": 281,
-      "author": "el_duderino",
-      "created_at": 1771593752,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=47087719"
-    },
-    {
-      "id": "47095134",
-      "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
-      "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
-      "points": 268,
-      "author": "latexr",
-      "created_at": 1771627835,
-      "num_comments": 120,
-      "hn_url": "https://news.ycombinator.com/item?id=47095134"
-    },
-    {
-      "id": "47088166",
-      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
-      "url": "https://github.com/IronsideXXVI/Hacker-News",
-      "points": 197,
-      "author": "IronsideXXVI",
-      "created_at": 1771596125,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47088166"
-    },
-    {
-      "id": "47098245",
-      "title": "I verified my LinkedIn identity. Here's what I handed over",
-      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "points": 1224,
-      "author": "ColinWright",
-      "created_at": 1771657578,
-      "num_comments": 428,
-      "hn_url": "https://news.ycombinator.com/item?id=47098245"
-    },
-    {
       "id": "47102576",
       "title": "What not to write on your security clearance form (1988)",
       "url": "https://milk.com/wall-o-shame/security_clearance.html",
@@ -179,56 +29,6 @@
       "created_at": 1771667595,
       "num_comments": 68,
       "hn_url": "https://news.ycombinator.com/item?id=47099160"
-    },
-    {
-      "id": "47096253",
-      "title": "Claws are now a new layer on top of LLM agents",
-      "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "points": 255,
-      "author": "Cyphase",
-      "created_at": 1771635389,
-      "num_comments": 704,
-      "hn_url": "https://news.ycombinator.com/item?id=47096253"
-    },
-    {
-      "id": "47098582",
-      "title": "AI uBlock Blacklist",
-      "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-      "points": 243,
-      "author": "rdmuser",
-      "created_at": 1771661449,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=47098582"
-    },
-    {
-      "id": "47098296",
-      "title": "Acme Weather",
-      "url": "https://acmeweather.com/blog/introducing-acme-weather",
-      "points": 229,
-      "author": "cryptoz",
-      "created_at": 1771658018,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=47098296"
-    },
-    {
-      "id": "47098687",
-      "title": "EU mandates replaceable batteries by 2027 (2023)",
-      "url": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
-      "points": 221,
-      "author": "cyrusmg",
-      "created_at": 1771662522,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47098687"
-    },
-    {
-      "id": "47096520",
-      "title": "What Is OAuth?",
-      "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-      "points": 211,
-      "author": "cratermoon",
-      "created_at": 1771637620,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=47096520"
     },
     {
       "id": "47102975",
@@ -301,26 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47103931"
     },
     {
-      "id": "47096466",
-      "title": "Cord: Coordinating Trees of AI Agents",
-      "url": "https://www.june.kim/cord",
-      "points": 148,
-      "author": "gfortaine",
-      "created_at": 1771637255,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=47096466"
-    },
-    {
-      "id": "47097502",
-      "title": "Meta Deployed AI and It Is Killing Our Agency",
-      "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
-      "points": 146,
-      "author": "zenincognito",
-      "created_at": 1771648180,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=47097502"
-    },
-    {
       "id": "47100232",
       "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "url": "https://github.com/tnm/zclaw",
@@ -329,16 +109,6 @@
       "created_at": 1771677472,
       "num_comments": 79,
       "hn_url": "https://news.ycombinator.com/item?id=47100232"
-    },
-    {
-      "id": "47098828",
-      "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
-      "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
-      "points": 134,
-      "author": "XzetaU8",
-      "created_at": 1771664076,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=47098828"
     },
     {
       "id": "47106686",
@@ -17759,7 +17529,207 @@
       "created_at": 1779274629,
       "num_comments": 193,
       "hn_url": "https://news.ycombinator.com/item?id=48205782"
+    },
+    {
+      "id": "48220647",
+      "title": "Flipper One \u2013 we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "points": 1143,
+      "author": "sandebert",
+      "created_at": 1779361418,
+      "num_comments": 442,
+      "hn_url": "https://news.ycombinator.com/item?id=48220647"
+    },
+    {
+      "id": "48225297",
+      "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "points": 869,
+      "author": "speleo",
+      "created_at": 1779380591,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=48225297"
+    },
+    {
+      "id": "48222383",
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "points": 780,
+      "author": "speckx",
+      "created_at": 1779370692,
+      "num_comments": 682,
+      "hn_url": "https://news.ycombinator.com/item?id=48222383"
+    },
+    {
+      "id": "48222529",
+      "title": "Google's Antigravity bait and switch",
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "points": 667,
+      "author": "ssiddharth",
+      "created_at": 1779371459,
+      "num_comments": 299,
+      "hn_url": "https://news.ycombinator.com/item?id=48222529"
+    },
+    {
+      "id": "48220105",
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "points": 601,
+      "author": "sofumel",
+      "created_at": 1779356986,
+      "num_comments": 540,
+      "hn_url": "https://news.ycombinator.com/item?id=48220105"
+    },
+    {
+      "id": "48219992",
+      "title": "Throwing AI-generated walls of text into conversations",
+      "url": "https://noslopgrenade.com/",
+      "points": 598,
+      "author": "napolux",
+      "created_at": 1779355875,
+      "num_comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=48219992"
+    },
+    {
+      "id": "48226588",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "points": 455,
+      "author": "root-parent",
+      "created_at": 1779386158,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=48226588"
+    },
+    {
+      "id": "48220696",
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "points": 374,
+      "author": "rbanffy",
+      "created_at": 1779361811,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=48220696"
+    },
+    {
+      "id": "48222733",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "points": 371,
+      "author": "asenna",
+      "created_at": 1779372097,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=48222733"
+    },
+    {
+      "id": "48219060",
+      "title": "Vivaldi 8.0",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "points": 359,
+      "author": "OuterVale",
+      "created_at": 1779348115,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=48219060"
+    },
+    {
+      "id": "48222366",
+      "title": "Shunning AI is the human choice",
+      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+      "points": 357,
+      "author": "cdrnsf",
+      "created_at": 1779370566,
+      "num_comments": 507,
+      "hn_url": "https://news.ycombinator.com/item?id=48222366"
+    },
+    {
+      "id": "48220639",
+      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "points": 344,
+      "author": "pseudolus",
+      "created_at": 1779361346,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=48220639"
+    },
+    {
+      "id": "48225426",
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "points": 307,
+      "author": "mattas",
+      "created_at": 1779381047,
+      "num_comments": 388,
+      "hn_url": "https://news.ycombinator.com/item?id=48225426"
+    },
+    {
+      "id": "48226944",
+      "title": "BBEdit 16",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "points": 301,
+      "author": "qaz_plm",
+      "created_at": 1779387697,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=48226944"
+    },
+    {
+      "id": "48223362",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "points": 279,
+      "author": "sanity",
+      "created_at": 1779374097,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=48223362"
+    },
+    {
+      "id": "48225838",
+      "title": "News outlets are limiting the Internet Archive\u2019s access to their journalism",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "points": 278,
+      "author": "jaredwiener",
+      "created_at": 1779382767,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=48225838"
+    },
+    {
+      "id": "48227397",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "points": 275,
+      "author": "speckx",
+      "created_at": 1779389695,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=48227397"
+    },
+    {
+      "id": "48216278",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "points": 255,
+      "author": "wapasta",
+      "created_at": 1779323761,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=48216278"
+    },
+    {
+      "id": "48222241",
+      "title": "US employers spend more than $1.5B a year to fight labor unions, report finds",
+      "url": "https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions",
+      "points": 242,
+      "author": "robtherobber",
+      "created_at": 1779369941,
+      "num_comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=48222241"
+    },
+    {
+      "id": "48221915",
+      "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+      "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+      "points": 239,
+      "author": "cdrnsf",
+      "created_at": 1779368298,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=48221915"
     }
   ],
-  "last_updated": "2026-05-21T09:32:15.812850+00:00"
+  "last_updated": "2026-05-22T08:54:58.588751+00:00"
 }
