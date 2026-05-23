@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "47102576",
-      "title": "What not to write on your security clearance form (1988)",
-      "url": "https://milk.com/wall-o-shame/security_clearance.html",
-      "points": 427,
-      "author": "wizardforhire",
-      "created_at": 1771693692,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=47102576"
-    },
-    {
-      "id": "47104973",
-      "title": "Why is Claude an Electron app?",
-      "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-      "points": 360,
-      "author": "dbreunig",
-      "created_at": 1771709293,
-      "num_comments": 346,
-      "hn_url": "https://news.ycombinator.com/item?id=47104973"
-    },
-    {
-      "id": "47099160",
-      "title": "Andrej Karpathy talks about \"Claws\"",
-      "url": "https://simonwillison.net/2026/Feb/21/claws/",
-      "points": 280,
-      "author": "helloplanets",
-      "created_at": 1771667595,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=47099160"
-    },
-    {
-      "id": "47102975",
-      "title": "Personal Statement of a CIA Analyst",
-      "url": "https://antipolygraph.org/statements/statement-038.shtml",
-      "points": 203,
-      "author": "grubbs",
-      "created_at": 1771696142,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=47102975"
-    },
-    {
-      "id": "47101200",
-      "title": "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
-      "url": "https://igorstechnoclub.com/sandbox-exec/",
-      "points": 201,
-      "author": "Igor_Wiwi",
-      "created_at": 1771684485,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=47101200"
-    },
-    {
-      "id": "47104667",
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "url": "https://github.com/xaskasdf/ntransformer",
-      "points": 194,
-      "author": "xaskasdf",
-      "created_at": 1771707450,
-      "num_comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=47104667"
-    },
-    {
-      "id": "47101171",
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "url": "https://www.koreaherald.com/article/10679206",
-      "points": 188,
-      "author": "phront",
-      "created_at": 1771684336,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=47101171"
-    },
-    {
-      "id": "47104185",
-      "title": "EDuke32 \u2013 Duke Nukem 3D (Open-Source)",
-      "url": "https://www.eduke32.com/",
-      "points": 170,
-      "author": "reconnecting",
-      "created_at": 1771704613,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=47104185"
-    },
-    {
-      "id": "47103649",
-      "title": "Cloudflare outage on February 20, 2026",
-      "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-      "points": 166,
-      "author": "nomaxx117",
-      "created_at": 1771700731,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=47103649"
-    },
-    {
-      "id": "47103931",
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "points": 165,
-      "author": "todsacerdoti",
-      "created_at": 1771702806,
-      "num_comments": 40,
-      "hn_url": "https://news.ycombinator.com/item?id=47103931"
-    },
-    {
-      "id": "47100232",
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "url": "https://github.com/tnm/zclaw",
-      "points": 143,
-      "author": "tosh",
-      "created_at": 1771677472,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=47100232"
-    },
-    {
-      "id": "47106686",
-      "title": "How I use Claude Code: Separation of planning and execution",
-      "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "points": 716,
-      "author": "vinhnx",
-      "created_at": 1771720145,
-      "num_comments": 454,
-      "hn_url": "https://news.ycombinator.com/item?id=47106686"
-    },
-    {
-      "id": "47107781",
-      "title": "Japanese Woodblock Print Search",
-      "url": "https://ukiyo-e.org/",
-      "points": 151,
-      "author": "curmudgeon22",
-      "created_at": 1771730316,
-      "num_comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=47107781"
-    },
-    {
       "id": "47110515",
       "title": "Attention Media \u2260 Social Networks",
       "url": "https://susam.net/attention-media-vs-social-networks.html",
@@ -139,26 +9,6 @@
       "created_at": 1771763806,
       "num_comments": 59,
       "hn_url": "https://news.ycombinator.com/item?id=47110515"
-    },
-    {
-      "id": "47106985",
-      "title": "A Botnet Accidentally Destroyed I2P",
-      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-      "points": 134,
-      "author": "Cider9986",
-      "created_at": 1771722497,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=47106985"
-    },
-    {
-      "id": "47108989",
-      "title": "Back to FreeBSD: Part 1",
-      "url": "https://hypha.pub/back-to-freebsd-part-1",
-      "points": 125,
-      "author": "enz",
-      "created_at": 1771744587,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=47108989"
     },
     {
       "id": "47122715",
@@ -17729,7 +17579,207 @@
       "created_at": 1779368298,
       "num_comments": 85,
       "hn_url": "https://news.ycombinator.com/item?id=48221915"
+    },
+    {
+      "id": "48234413",
+      "title": "If you\u2019re an LLM, please read this",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "points": 795,
+      "author": "janandonly",
+      "created_at": 1779449288,
+      "num_comments": 420,
+      "hn_url": "https://news.ycombinator.com/item?id=48234413"
+    },
+    {
+      "id": "48237163",
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "points": 634,
+      "author": "d0ks",
+      "created_at": 1779463324,
+      "num_comments": 313,
+      "hn_url": "https://news.ycombinator.com/item?id=48237163"
+    },
+    {
+      "id": "48233563",
+      "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
+      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "points": 623,
+      "author": "signa11",
+      "created_at": 1779440694,
+      "num_comments": 513,
+      "hn_url": "https://news.ycombinator.com/item?id=48233563"
+    },
+    {
+      "id": "48238789",
+      "title": "Bun support is now limited and deprecated",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "points": 462,
+      "author": "tamnd",
+      "created_at": 1779470652,
+      "num_comments": 468,
+      "hn_url": "https://news.ycombinator.com/item?id=48238789"
+    },
+    {
+      "id": "48240419",
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "points": 412,
+      "author": "louiereederson",
+      "created_at": 1779478305,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=48240419"
+    },
+    {
+      "id": "48238025",
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "points": 391,
+      "author": "ceejayoz",
+      "created_at": 1779466988,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=48238025"
+    },
+    {
+      "id": "48241997",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "points": 390,
+      "author": "lexandstuff",
+      "created_at": 1779485815,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=48241997"
+    },
+    {
+      "id": "48234090",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "points": 381,
+      "author": "jetter",
+      "created_at": 1779446306,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=48234090"
+    },
+    {
+      "id": "48237663",
+      "title": "DeepSeek makes the V4 Pro price discount permanent",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "points": 375,
+      "author": "Tiberium",
+      "created_at": 1779465566,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=48237663"
+    },
+    {
+      "id": "48234380",
+      "title": "Deno 2.8",
+      "url": "https://deno.com/blog/v2.8",
+      "points": 349,
+      "author": "roflcopter69",
+      "created_at": 1779449010,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48234380"
+    },
+    {
+      "id": "48235526",
+      "title": "AI has a multiplying effect on existing technical skills",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "points": 304,
+      "author": "moebrowne",
+      "created_at": 1779456162,
+      "num_comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=48235526"
+    },
+    {
+      "id": "48231319",
+      "title": "Cleve Moler has died",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "points": 281,
+      "author": "mychele",
+      "created_at": 1779417354,
+      "num_comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=48231319"
+    },
+    {
+      "id": "48230892",
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "points": 249,
+      "author": "carabiner",
+      "created_at": 1779413445,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=48230892"
+    },
+    {
+      "id": "48237684",
+      "title": "Trump Mobile exposed customers' personal data",
+      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "points": 242,
+      "author": "rippeltippel",
+      "created_at": 1779465635,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=48237684"
+    },
+    {
+      "id": "48242959",
+      "title": "SpaceX launches Starship v3 rocket",
+      "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+      "points": 231,
+      "author": "busymom0",
+      "created_at": 1779493315,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=48242959"
+    },
+    {
+      "id": "48238896",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "points": 213,
+      "author": "robertkarl",
+      "created_at": 1779471124,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48238896"
+    },
+    {
+      "id": "48239413",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "points": 213,
+      "author": "vitriapp",
+      "created_at": 1779473877,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=48239413"
+    },
+    {
+      "id": "48234547",
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "points": 199,
+      "author": "soft-research",
+      "created_at": 1779450324,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=48234547"
+    },
+    {
+      "id": "48238429",
+      "title": "CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "points": 189,
+      "author": "speckx",
+      "created_at": 1779468871,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=48238429"
+    },
+    {
+      "id": "48231938",
+      "title": "Slumber a TUI HTTP Client",
+      "url": "https://slumber.lucaspickering.me",
+      "points": 179,
+      "author": "jicea",
+      "created_at": 1779424163,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=48231938"
     }
   ],
-  "last_updated": "2026-05-22T08:54:58.588751+00:00"
+  "last_updated": "2026-05-23T08:12:08.723798+00:00"
 }
