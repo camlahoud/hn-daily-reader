@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "id": "47110515",
-      "title": "Attention Media \u2260 Social Networks",
-      "url": "https://susam.net/attention-media-vs-social-networks.html",
-      "points": 150,
-      "author": "susam",
-      "created_at": 1771763806,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=47110515"
-    },
-    {
       "id": "47122715",
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
       "url": "https://spectrum.ieee.org/age-verification",
@@ -41,26 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47127081"
     },
     {
-      "id": "47119530",
-      "title": "Elsevier shuts down its finance journal citation cartel",
-      "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-      "points": 543,
-      "author": "qsi",
-      "created_at": 1771834954,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=47119530"
-    },
-    {
-      "id": "47119210",
-      "title": "Pope tells priests to use their brains, not AI, to write homilies",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-      "points": 540,
-      "author": "josephcsible",
-      "created_at": 1771832037,
-      "num_comments": 429,
-      "hn_url": "https://news.ycombinator.com/item?id=47119210"
-    },
-    {
       "id": "47127396",
       "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
       "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
@@ -79,16 +49,6 @@
       "created_at": 1771847050,
       "num_comments": 390,
       "hn_url": "https://news.ycombinator.com/item?id=47121029"
-    },
-    {
-      "id": "47119274",
-      "title": "Magical Mushroom \u2013 Europe's first industrial-scale mycelium packaging producer",
-      "url": "https://magicalmushroom.com/index",
-      "points": 372,
-      "author": "microflash",
-      "created_at": 1771832627,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=47119274"
     },
     {
       "id": "47129361",
@@ -111,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47125349"
     },
     {
-      "id": "47117780",
-      "title": "Freemediaheckyeah \u2013 A collection of free stuff on the internet",
-      "url": "https://fmhy.net/",
-      "points": 260,
-      "author": "con",
-      "created_at": 1771817731,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=47117780"
-    },
-    {
       "id": "47128960",
       "title": "Flock cameras gifted by Horowitz Foundation, avoiding public oversight",
       "url": "https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift",
@@ -129,16 +79,6 @@
       "created_at": 1771881320,
       "num_comments": 97,
       "hn_url": "https://news.ycombinator.com/item?id=47128960"
-    },
-    {
-      "id": "47117459",
-      "title": "The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/",
-      "points": 242,
-      "author": "modinfo",
-      "created_at": 1771814956,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=47117459"
     },
     {
       "id": "47130208",
@@ -171,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47122789"
     },
     {
-      "id": "47117087",
-      "title": "$30B for laptops yielded a generation less cognitively capable than parents",
-      "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
-      "points": 223,
-      "author": "walterbell",
-      "created_at": 1771811656,
-      "num_comments": 230,
-      "hn_url": "https://news.ycombinator.com/item?id=47117087"
-    },
-    {
       "id": "47124149",
       "title": "A simple web we own",
       "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
@@ -199,16 +129,6 @@
       "created_at": 1771840617,
       "num_comments": 145,
       "hn_url": "https://news.ycombinator.com/item?id=47120188"
-    },
-    {
-      "id": "47117886",
-      "title": "Crawling a billion web pages in just over 24 hours, in 2025",
-      "url": "https://andrewkchan.dev/posts/crawler.html",
-      "points": 174,
-      "author": "pseudolus",
-      "created_at": 1771818872,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=47117886"
     },
     {
       "id": "47136179",
@@ -17779,7 +17699,207 @@
       "created_at": 1779424163,
       "num_comments": 62,
       "hn_url": "https://news.ycombinator.com/item?id=48231938"
+    },
+    {
+      "id": "48249747",
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "points": 705,
+      "author": "abawany",
+      "created_at": 1779559362,
+      "num_comments": 290,
+      "hn_url": "https://news.ycombinator.com/item?id=48249747"
+    },
+    {
+      "id": "48245862",
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "url": "https://twitter.com/josefprusa/status/2054602354851254330",
+      "points": 398,
+      "author": "Tomte",
+      "created_at": 1779524697,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48245862"
+    },
+    {
+      "id": "48247325",
+      "title": "On The <dl> (2021)",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "points": 387,
+      "author": "ravenical",
+      "created_at": 1779541423,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=48247325"
+    },
+    {
+      "id": "48250144",
+      "title": "Time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "points": 365,
+      "author": "hggh",
+      "created_at": 1779561937,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=48250144"
+    },
+    {
+      "id": "48247208",
+      "title": "The Art of Money Getting",
+      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "points": 275,
+      "author": "dxs",
+      "created_at": 1779540482,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48247208"
+    },
+    {
+      "id": "48247876",
+      "title": "Oura says it gets government demands for user data",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "points": 271,
+      "author": "donohoe",
+      "created_at": 1779545397,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48247876"
+    },
+    {
+      "id": "48248775",
+      "title": "Italy moves to Airbus A330 tankers",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "points": 255,
+      "author": "embedding-shape",
+      "created_at": 1779552163,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=48248775"
+    },
+    {
+      "id": "48243863",
+      "title": "Is AI Profitable Yet?",
+      "url": "https://isaiprofitable.com/",
+      "points": 250,
+      "author": "poyu",
+      "created_at": 1779502238,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=48243863"
+    },
+    {
+      "id": "48247004",
+      "title": "80386 microcode disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "points": 247,
+      "author": "nand2mario",
+      "created_at": 1779538303,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=48247004"
+    },
+    {
+      "id": "48245571",
+      "title": "Experience: We found a baby on the subway \u2013 now he's our 26-year-old son",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+      "points": 246,
+      "author": "Michelangelo11",
+      "created_at": 1779521673,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=48245571"
+    },
+    {
+      "id": "48247127",
+      "title": "I Miss Terry Pratchett",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "points": 232,
+      "author": "gorgmah",
+      "created_at": 1779539728,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=48247127"
+    },
+    {
+      "id": "48244434",
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "points": 224,
+      "author": "nreece",
+      "created_at": 1779507856,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=48244434"
+    },
+    {
+      "id": "48246614",
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "points": 211,
+      "author": "zqna",
+      "created_at": 1779533834,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=48246614"
+    },
+    {
+      "id": "48247737",
+      "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+      "points": 193,
+      "author": "Brajeshwar",
+      "created_at": 1779544622,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=48247737"
+    },
+    {
+      "id": "48243293",
+      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+      "points": 189,
+      "author": "bilalq",
+      "created_at": 1779496465,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=48243293"
+    },
+    {
+      "id": "48245262",
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "url": "https://github.com/amatsuda/rubish",
+      "points": 175,
+      "author": "winebarrel",
+      "created_at": 1779517920,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=48245262"
+    },
+    {
+      "id": "48246889",
+      "title": "Making deep learning go brrrr from first principles (2022)",
+      "url": "https://horace.io/brrr_intro.html",
+      "points": 169,
+      "author": "tosh",
+      "created_at": 1779537022,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=48246889"
+    },
+    {
+      "id": "48245362",
+      "title": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
+      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+      "points": 153,
+      "author": "gslin",
+      "created_at": 1779519289,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=48245362"
+    },
+    {
+      "id": "48252060",
+      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+      "points": 151,
+      "author": "borski",
+      "created_at": 1779574145,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=48252060"
+    },
+    {
+      "id": "48246735",
+      "title": "DHS Quits Granting Green Cards\u2013Almost",
+      "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
+      "points": 141,
+      "author": "malshe",
+      "created_at": 1779535103,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=48246735"
     }
   ],
-  "last_updated": "2026-05-23T08:12:08.723798+00:00"
+  "last_updated": "2026-05-24T08:23:42.641004+00:00"
 }
