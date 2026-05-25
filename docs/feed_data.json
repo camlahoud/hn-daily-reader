@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "47122715",
-      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "url": "https://spectrum.ieee.org/age-verification",
-      "points": 1372,
-      "author": "oldnetguy",
-      "created_at": 1771856559,
-      "num_comments": 1046,
-      "hn_url": "https://news.ycombinator.com/item?id=47122715"
-    },
-    {
-      "id": "47120899",
-      "title": "Ladybird adopts Rust, with help from AI",
-      "url": "https://ladybird.org/posts/adopting-rust/",
-      "points": 1139,
-      "author": "adius",
-      "created_at": 1771846162,
-      "num_comments": 623,
-      "hn_url": "https://news.ycombinator.com/item?id=47120899"
-    },
-    {
-      "id": "47127081",
-      "title": "Americans are destroying Flock surveillance cameras",
-      "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
-      "points": 634,
-      "author": "mikece",
-      "created_at": 1771873474,
-      "num_comments": 423,
-      "hn_url": "https://news.ycombinator.com/item?id=47127081"
-    },
-    {
-      "id": "47127396",
-      "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
-      "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-      "points": 480,
-      "author": "boplicity",
-      "created_at": 1771874610,
-      "num_comments": 206,
-      "hn_url": "https://news.ycombinator.com/item?id=47127396"
-    },
-    {
-      "id": "47121029",
-      "title": "Hetzner (European hosting provider) to increase prices by up to 38%",
-      "url": "https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/",
-      "points": 442,
-      "author": "doener",
-      "created_at": 1771847050,
-      "num_comments": 390,
-      "hn_url": "https://news.ycombinator.com/item?id=47121029"
-    },
-    {
-      "id": "47129361",
-      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-      "points": 330,
-      "author": "varankinv",
-      "created_at": 1771883068,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=47129361"
-    },
-    {
-      "id": "47125349",
-      "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
-      "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
-      "points": 317,
-      "author": "pieterr",
-      "created_at": 1771867121,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=47125349"
-    },
-    {
-      "id": "47128960",
-      "title": "Flock cameras gifted by Horowitz Foundation, avoiding public oversight",
-      "url": "https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift",
-      "points": 243,
-      "author": "rurp",
-      "created_at": 1771881320,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=47128960"
-    },
-    {
-      "id": "47130208",
-      "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
-      "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
-      "points": 240,
-      "author": "cdrnsf",
-      "created_at": 1771887308,
-      "num_comments": 232,
-      "hn_url": "https://news.ycombinator.com/item?id=47130208"
-    },
-    {
-      "id": "47123631",
-      "title": "Show HN: PgDog \u2013 Scale Postgres without changing the app",
-      "url": "https://github.com/pgdogdev/pgdog",
-      "points": 235,
-      "author": "levkk",
-      "created_at": 1771860804,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=47123631"
-    },
-    {
-      "id": "47122789",
-      "title": "The peculiar case of Japanese web design (2022)",
-      "url": "https://sabrinas.space",
-      "points": 234,
-      "author": "montenegrohugo",
-      "created_at": 1771856919,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=47122789"
-    },
-    {
-      "id": "47124149",
-      "title": "A simple web we own",
-      "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
-      "points": 211,
-      "author": "speckx",
-      "created_at": 1771862478,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=47124149"
-    },
-    {
-      "id": "47120188",
-      "title": "Hacker News.love \u2013 22 projects Hacker News didn't love",
-      "url": "https://hackernews.love/",
-      "points": 208,
-      "author": "ohong",
-      "created_at": 1771840617,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=47120188"
-    },
-    {
       "id": "47136179",
       "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
       "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
@@ -171,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47143152"
     },
     {
-      "id": "47133313",
-      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-      "points": 450,
-      "author": "shaunpud",
-      "created_at": 1771912043,
-      "num_comments": 378,
-      "hn_url": "https://news.ycombinator.com/item?id=47133313"
-    },
-    {
       "id": "47136604",
       "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
       "url": "https://wordglyph.xyz/one-piece-at-a-time",
@@ -199,16 +59,6 @@
       "created_at": 1771934354,
       "num_comments": 307,
       "hn_url": "https://news.ycombinator.com/item?id=47136036"
-    },
-    {
-      "id": "47132388",
-      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-      "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-      "points": 430,
-      "author": "wglb",
-      "created_at": 1771902616,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=47132388"
     },
     {
       "id": "47142156",
@@ -241,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47136611"
     },
     {
-      "id": "47131225",
-      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
-      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-      "points": 317,
-      "author": "adebayoj",
-      "created_at": 1771893482,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=47131225"
-    },
-    {
       "id": "47143754",
       "title": "Pi \u2013 A minimal terminal coding harness",
       "url": "https://pi.dev",
@@ -271,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47140042"
     },
     {
-      "id": "47132102",
-      "title": "Show HN: X86CSS \u2013 An x86 CPU emulator written in CSS",
-      "url": "https://lyra.horse/x86css/",
-      "points": 257,
-      "author": "rebane2001",
-      "created_at": 1771900034,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=47132102"
-    },
-    {
       "id": "47141797",
       "title": "Hacking an old Kindle to display bus arrival times",
       "url": "https://www.mariannefeng.com/portfolio/kindle/",
@@ -299,16 +129,6 @@
       "created_at": 1771958785,
       "num_comments": 245,
       "hn_url": "https://news.ycombinator.com/item?id=47140932"
-    },
-    {
-      "id": "47131173",
-      "title": "Shatner is making an album with 35 metal icons",
-      "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
-      "points": 212,
-      "author": "mhb",
-      "created_at": 1771893186,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=47131173"
     },
     {
       "id": "47139224",
@@ -17899,7 +17719,207 @@
       "created_at": 1779535103,
       "num_comments": 2,
       "hn_url": "https://news.ycombinator.com/item?id=48246735"
+    },
+    {
+      "id": "48256953",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "points": 563,
+      "author": "Alifatisk",
+      "created_at": 1779627726,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=48256953"
+    },
+    {
+      "id": "48253386",
+      "title": "Microsoft open-sources \u201cthe earliest DOS source code discovered to date\u201d",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "points": 474,
+      "author": "DamnInteresting",
+      "created_at": 1779585673,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=48253386"
+    },
+    {
+      "id": "48253060",
+      "title": "Wake up! 16b",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "points": 421,
+      "author": "MaximilianEmel",
+      "created_at": 1779582650,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=48253060"
+    },
+    {
+      "id": "48258684",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "points": 387,
+      "author": "intelkishan",
+      "created_at": 1779640289,
+      "num_comments": 396,
+      "hn_url": "https://news.ycombinator.com/item?id=48258684"
+    },
+    {
+      "id": "48258015",
+      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "points": 366,
+      "author": "pantelisk",
+      "created_at": 1779636343,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=48258015"
+    },
+    {
+      "id": "48254309",
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "points": 324,
+      "author": "zdw",
+      "created_at": 1779596092,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=48254309"
+    },
+    {
+      "id": "48254475",
+      "title": "Amazon Web Services \u2013 Four Years and Out",
+      "url": "https://www.adventuresinoss.com/aws-four-years/",
+      "points": 314,
+      "author": "RyeCombinator",
+      "created_at": 1779598282,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=48254475"
+    },
+    {
+      "id": "48253186",
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "points": 289,
+      "author": "spike021",
+      "created_at": 1779583892,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=48253186"
+    },
+    {
+      "id": "48259808",
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "points": 281,
+      "author": "jabits",
+      "created_at": 1779647502,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=48259808"
+    },
+    {
+      "id": "48259784",
+      "title": "Claude is not your architect. Stop letting it pretend",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "points": 251,
+      "author": "cdrnsf",
+      "created_at": 1779647291,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=48259784"
+    },
+    {
+      "id": "48259990",
+      "title": "The four-day workweek in Australia: insights from early adopters of 100:80:100",
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "points": 242,
+      "author": "randycupertino",
+      "created_at": 1779648969,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=48259990"
+    },
+    {
+      "id": "48256912",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "points": 241,
+      "author": "wek",
+      "created_at": 1779627353,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=48256912"
+    },
+    {
+      "id": "48256597",
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "points": 211,
+      "author": "blenderob",
+      "created_at": 1779624454,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=48256597"
+    },
+    {
+      "id": "48257410",
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "points": 207,
+      "author": "moh_maya",
+      "created_at": 1779631773,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=48257410"
+    },
+    {
+      "id": "48255593",
+      "title": "Greg Brockman interview [video]",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "points": 198,
+      "author": "prakashqwerty",
+      "created_at": 1779611378,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=48255593"
+    },
+    {
+      "id": "48258194",
+      "title": "Usborne 1980s Computer Books",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "points": 177,
+      "author": "ngram",
+      "created_at": 1779637380,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=48258194"
+    },
+    {
+      "id": "48257612",
+      "title": "Omarchy Is Not A Distro",
+      "url": "https://abyss.fish/your_dotfiles_are_not_a_distro",
+      "points": 170,
+      "author": "j3s",
+      "created_at": 1779633441,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=48257612"
+    },
+    {
+      "id": "48257980",
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "points": 163,
+      "author": "Brajeshwar",
+      "created_at": 1779636088,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=48257980"
+    },
+    {
+      "id": "48260117",
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "points": 163,
+      "author": "littlexsparkee",
+      "created_at": 1779649826,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=48260117"
+    },
+    {
+      "id": "48257532",
+      "title": "The seed oil panic is hurting my cardiac patients",
+      "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
+      "points": 155,
+      "author": "randycupertino",
+      "created_at": 1779632846,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=48257532"
     }
   ],
-  "last_updated": "2026-05-24T08:23:42.641004+00:00"
+  "last_updated": "2026-05-25T09:57:36.254735+00:00"
 }
