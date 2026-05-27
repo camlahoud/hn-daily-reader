@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "47149701",
-      "title": "Danish government agency to ditch Microsoft software (2025)",
-      "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
-      "points": 765,
-      "author": "robtherobber",
-      "created_at": 1772014582,
-      "num_comments": 375,
-      "hn_url": "https://news.ycombinator.com/item?id=47149701"
-    },
-    {
-      "id": "47151233",
-      "title": "Never buy a .online domain",
-      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "points": 703,
-      "author": "ssiddharth",
-      "created_at": 1772026277,
-      "num_comments": 431,
-      "hn_url": "https://news.ycombinator.com/item?id=47151233"
-    },
-    {
-      "id": "47152085",
-      "title": "New accounts on HN more likely to use em-dashes",
-      "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
-      "points": 641,
-      "author": "todsacerdoti",
-      "created_at": 1772030241,
-      "num_comments": 527,
-      "hn_url": "https://news.ycombinator.com/item?id=47152085"
-    },
-    {
-      "id": "47152252",
-      "title": "US orders diplomats to fight data sovereignty initiatives",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
-      "points": 472,
-      "author": "colinhb",
-      "created_at": 1772030897,
-      "num_comments": 407,
-      "hn_url": "https://news.ycombinator.com/item?id=47152252"
-    },
-    {
-      "id": "47154009",
-      "title": "Following 35% growth, solar has passed hydro on US grid",
-      "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
-      "points": 448,
-      "author": "rbanffy",
-      "created_at": 1772037894,
-      "num_comments": 396,
-      "hn_url": "https://news.ycombinator.com/item?id=47154009"
-    },
-    {
-      "id": "47157224",
-      "title": "Jimi Hendrix was a systems engineer",
-      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "points": 421,
-      "author": "tintinnabula",
-      "created_at": 1772050607,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=47157224"
-    },
-    {
-      "id": "47153798",
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-      "points": 338,
-      "author": "surprisetalk",
-      "created_at": 1772037086,
-      "num_comments": 492,
-      "hn_url": "https://news.ycombinator.com/item?id=47153798"
-    },
-    {
-      "id": "47156925",
-      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "points": 315,
-      "author": "hiisthisthingon",
-      "created_at": 1772049254,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=47156925"
-    },
-    {
-      "id": "47154971",
-      "title": "The Om Programming Language",
-      "url": "https://www.om-language.com/",
-      "points": 251,
-      "author": "tosh",
-      "created_at": 1772041701,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=47154971"
-    },
-    {
-      "id": "47154399",
-      "title": "Windows 11 Notepad to support Markdown",
-      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "points": 250,
-      "author": "andreynering",
-      "created_at": 1772039659,
-      "num_comments": 390,
-      "hn_url": "https://news.ycombinator.com/item?id=47154399"
-    },
-    {
-      "id": "47151000",
-      "title": "AIs can't stop recommending nuclear strikes in war game simulations",
-      "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
-      "points": 227,
-      "author": "ceejayoz",
-      "created_at": 1772024856,
-      "num_comments": 242,
-      "hn_url": "https://news.ycombinator.com/item?id=47151000"
-    },
-    {
-      "id": "47155597",
-      "title": "Show HN: I ported Tree-sitter to Go",
-      "url": "https://github.com/odvcencio/gotreesitter",
-      "points": 205,
-      "author": "odvcencio",
-      "created_at": 1772044117,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=47155597"
-    },
-    {
-      "id": "47149586",
-      "title": "Show HN: A real-time strategy game that AI agents can play",
-      "url": "https://llmskirmish.com/",
-      "points": 203,
-      "author": "__cayenne__",
-      "created_at": 1772013765,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=47149586"
-    },
-    {
-      "id": "47157398",
-      "title": "Making MCP cheaper via CLI",
-      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "points": 181,
-      "author": "thellimist",
-      "created_at": 1772051377,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=47157398"
-    },
-    {
-      "id": "47159302",
-      "title": "First Website (1992)",
-      "url": "https://info.cern.ch",
-      "points": 177,
-      "author": "shrikaranhanda",
-      "created_at": 1772060578,
-      "num_comments": 36,
-      "hn_url": "https://news.ycombinator.com/item?id=47159302"
-    },
-    {
       "id": "47173121",
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "url": "https://www.anthropic.com/news/statement-department-of-war",
@@ -171,16 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47172119"
     },
     {
-      "id": "47163885",
-      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
-      "url": "https://news.ycombinator.com/item?id=47163885",
-      "points": 619,
-      "author": "miki123211",
-      "created_at": 1772098508,
-      "num_comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=47163885"
-    },
-    {
       "id": "47165397",
       "title": "Anthropic ditches its core safety promise",
       "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
@@ -199,26 +39,6 @@
       "created_at": 1772121757,
       "num_comments": 509,
       "hn_url": "https://news.ycombinator.com/item?id=47167858"
-    },
-    {
-      "id": "47160226",
-      "title": "Tech companies shouldn't be bullied into doing surveillance",
-      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
-      "points": 474,
-      "author": "pseudolus",
-      "created_at": 1772066252,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47160226"
-    },
-    {
-      "id": "47161160",
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "points": 377,
-      "author": "jnord",
-      "created_at": 1772073806,
-      "num_comments": 325,
-      "hn_url": "https://news.ycombinator.com/item?id=47161160"
     },
     {
       "id": "47167931",
@@ -321,16 +141,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47168726"
     },
     {
-      "id": "47160613",
-      "title": "Jane Street Hit with Terra $40B Insider Trading Suit",
-      "url": "https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/",
-      "points": 169,
-      "author": "shin_lao",
-      "created_at": 1772069149,
-      "num_comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=47160613"
-    },
-    {
       "id": "47166264",
       "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
       "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
@@ -339,16 +149,6 @@
       "created_at": 1772114746,
       "num_comments": 62,
       "hn_url": "https://news.ycombinator.com/item?id=47166264"
-    },
-    {
-      "id": "47162059",
-      "title": "I don't know how you get here from \u201cpredict the next word\u201d",
-      "url": "https://www.grumpy-economist.com/p/refine",
-      "points": 163,
-      "author": "qsi",
-      "created_at": 1772081941,
-      "num_comments": 240,
-      "hn_url": "https://news.ycombinator.com/item?id=47162059"
     },
     {
       "id": "47186677",
@@ -17919,7 +17719,207 @@
       "created_at": 1779751317,
       "num_comments": 229,
       "hn_url": "https://news.ycombinator.com/item?id=48273030"
+    },
+    {
+      "id": "48279316",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "points": 917,
+      "author": "thm",
+      "created_at": 1779800893,
+      "num_comments": 425,
+      "hn_url": "https://news.ycombinator.com/item?id=48279316"
+    },
+    {
+      "id": "48278374",
+      "title": "GitHub Actions was down",
+      "url": "https://www.githubstatus.com/?today",
+      "points": 649,
+      "author": "cebert",
+      "created_at": 1779795778,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=48278374"
+    },
+    {
+      "id": "48278406",
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "points": 558,
+      "author": "vrganj",
+      "created_at": 1779795968,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=48278406"
+    },
+    {
+      "id": "48285592",
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "points": 493,
+      "author": "cdrnsf",
+      "created_at": 1779827604,
+      "num_comments": 285,
+      "hn_url": "https://news.ycombinator.com/item?id=48285592"
+    },
+    {
+      "id": "48274794",
+      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+      "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+      "points": 378,
+      "author": "Cider9986",
+      "created_at": 1779767769,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=48274794"
+    },
+    {
+      "id": "48281611",
+      "title": "The real cost of owning a home",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "points": 364,
+      "author": "ggcr",
+      "created_at": 1779811479,
+      "num_comments": 740,
+      "hn_url": "https://news.ycombinator.com/item?id=48281611"
+    },
+    {
+      "id": "48279453",
+      "title": "Dropbox CEO Drew Houston to step down",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "points": 347,
+      "author": "aghuang",
+      "created_at": 1779801513,
+      "num_comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=48279453"
+    },
+    {
+      "id": "48284712",
+      "title": "That Methyl Methacrylate Tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "points": 328,
+      "author": "nooks",
+      "created_at": 1779823516,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=48284712"
+    },
+    {
+      "id": "48276363",
+      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "url": "https://dynip.dev/",
+      "points": 328,
+      "author": "dynip",
+      "created_at": 1779780920,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=48276363"
+    },
+    {
+      "id": "48275059",
+      "title": "The user is visibly frustrated",
+      "url": "https://pscanf.com/s/354/",
+      "points": 288,
+      "author": "croes",
+      "created_at": 1779770343,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=48275059"
+    },
+    {
+      "id": "48285344",
+      "title": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "points": 288,
+      "author": "oliverio",
+      "created_at": 1779826309,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=48285344"
+    },
+    {
+      "id": "48278610",
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "points": 283,
+      "author": "GodelNumbering",
+      "created_at": 1779797313,
+      "num_comments": 302,
+      "hn_url": "https://news.ycombinator.com/item?id=48278610"
+    },
+    {
+      "id": "48277485",
+      "title": "Uber president says AI spending is getting 'harder to justify'",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "points": 280,
+      "author": "berlianta",
+      "created_at": 1779789699,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=48277485"
+    },
+    {
+      "id": "48281509",
+      "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
+      "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
+      "points": 276,
+      "author": "onemoresoop",
+      "created_at": 1779811082,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=48281509"
+    },
+    {
+      "id": "48274077",
+      "title": "Does anybody like React?",
+      "url": "https://jsx.lol",
+      "points": 236,
+      "author": "brazukadev",
+      "created_at": 1779760515,
+      "num_comments": 328,
+      "hn_url": "https://news.ycombinator.com/item?id=48274077"
+    },
+    {
+      "id": "48287468",
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "points": 214,
+      "author": "tjek",
+      "created_at": 1779838566,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=48287468"
+    },
+    {
+      "id": "48281226",
+      "title": "A sleep-like consolidation mechanism for LLMs",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "points": 199,
+      "author": "juxtapose",
+      "created_at": 1779809784,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=48281226"
+    },
+    {
+      "id": "48281539",
+      "title": "Is \"colorectal cancer\" rising in \"young people\"?",
+      "url": "https://dynomight.net/crc-rates/",
+      "points": 197,
+      "author": "surprisetalk",
+      "created_at": 1779811221,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=48281539"
+    },
+    {
+      "id": "48279321",
+      "title": "AWS Fired the One Employee Who Gave a Damn",
+      "url": "https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/",
+      "points": 195,
+      "author": "berlianta",
+      "created_at": 1779800920,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=48279321"
+    },
+    {
+      "id": "48283914",
+      "title": "Stop Advertising in Your Commits",
+      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+      "points": 178,
+      "author": "speckx",
+      "created_at": 1779820627,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=48283914"
     }
   ],
-  "last_updated": "2026-05-26T09:43:37.886080+00:00"
+  "last_updated": "2026-05-27T09:37:44.884638+00:00"
 }
