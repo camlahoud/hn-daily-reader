@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47186677",
-      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-      "url": "https://twitter.com/secwar/status/2027507717469049070",
-      "points": 1234,
-      "author": "jacobedawson",
-      "created_at": 1772231478,
-      "num_comments": 990,
-      "hn_url": "https://news.ycombinator.com/item?id=47186677"
-    },
-    {
-      "id": "47181391",
-      "title": "Court finds Fourth Amendment doesn\u2019t support broad search of protesters\u2019 devices",
-      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-      "points": 555,
-      "author": "hn_acker",
-      "created_at": 1772204944,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=47181391"
-    },
-    {
-      "id": "47181208",
-      "title": "A new California law says all operating systems need to have age verification",
-      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
-      "points": 510,
-      "author": "WalterSobchak",
-      "created_at": 1772204149,
-      "num_comments": 487,
-      "hn_url": "https://news.ycombinator.com/item?id=47181208"
-    },
-    {
-      "id": "47181211",
-      "title": "OpenAI raises $110B on $730B pre-money valuation",
-      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "points": 454,
-      "author": "zlatkov",
-      "created_at": 1772204165,
-      "num_comments": 497,
-      "hn_url": "https://news.ycombinator.com/item?id=47181211"
-    },
-    {
-      "id": "47183578",
-      "title": "Dan Simmons, author of Hyperion, has died",
-      "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
-      "points": 437,
-      "author": "throw0101a",
-      "created_at": 1772216019,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=47183578"
-    },
-    {
-      "id": "47184288",
-      "title": "Leaving Google has actively improved my life",
-      "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
-      "points": 417,
-      "author": "speckx",
-      "created_at": 1772219305,
-      "num_comments": 226,
-      "hn_url": "https://news.ycombinator.com/item?id=47184288"
-    },
-    {
-      "id": "47180569",
-      "title": "A better streams API is possible for JavaScript",
-      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
-      "points": 396,
-      "author": "nnx",
-      "created_at": 1772200973,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=47180569"
-    },
-    {
-      "id": "47184480",
-      "title": "Rob Grant, creator of Red Dwarf, has died",
-      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
-      "points": 263,
-      "author": "nephihaha",
-      "created_at": 1772220398,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=47184480"
-    },
-    {
-      "id": "47181380",
-      "title": "The Pentagon is making a mistake by threatening Anthropic",
-      "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
-      "points": 243,
-      "author": "speckx",
-      "created_at": 1772204909,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=47181380"
-    },
-    {
-      "id": "47182483",
-      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
-      "points": 241,
-      "author": "voxadam",
-      "created_at": 1772210019,
-      "num_comments": 261,
-      "hn_url": "https://news.ycombinator.com/item?id=47182483"
-    },
-    {
-      "id": "47186031",
-      "title": "President Trump bans Anthropic from use in government systems",
-      "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
-      "points": 241,
-      "author": "pkress2",
-      "created_at": 1772228440,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=47186031"
-    },
-    {
-      "id": "47181841",
-      "title": "ChatGPT Health fails to recognise medical emergencies \u2013\u00a0study",
-      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-      "points": 195,
-      "author": "simonebrunozzi",
-      "created_at": 1772207073,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=47181841"
-    },
-    {
-      "id": "47181944",
-      "title": "A Chinese official\u2019s use of ChatGPT revealed an intimidation operation",
-      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
-      "points": 188,
-      "author": "cwwc",
-      "created_at": 1772207547,
-      "num_comments": 117,
-      "hn_url": "https://news.ycombinator.com/item?id=47181944"
-    },
-    {
-      "id": "47181801",
-      "title": "We gave terabytes of CI logs to an LLM",
-      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-      "points": 185,
-      "author": "shad42",
-      "created_at": 1772206873,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=47181801"
-    },
-    {
-      "id": "47178678",
-      "title": "Breaking Free",
-      "url": "https://www.forbrukerradet.no/breakingfree/",
-      "points": 182,
-      "author": "Aissen",
-      "created_at": 1772186202,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=47178678"
-    },
-    {
-      "id": "47188473",
-      "title": "We Will Not Be Divided",
-      "url": "https://notdivided.org",
-      "points": 2552,
-      "author": "BloondAndDoom",
-      "created_at": 1772240093,
-      "num_comments": 807,
-      "hn_url": "https://news.ycombinator.com/item?id=47188473"
-    },
-    {
       "id": "47193478",
       "title": "OpenAI \u2013 How to delete your account",
       "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
@@ -171,46 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47193478"
     },
     {
-      "id": "47189650",
-      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-      "url": "https://twitter.com/sama/status/2027578652477821175",
-      "points": 1354,
-      "author": "eoskx",
-      "created_at": 1772247542,
-      "num_comments": 625,
-      "hn_url": "https://news.ycombinator.com/item?id=47189650"
-    },
-    {
-      "id": "47188697",
-      "title": "Statement on the comments from Secretary of War Pete Hegseth",
-      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "points": 1133,
-      "author": "surprisetalk",
-      "created_at": 1772241610,
-      "num_comments": 349,
-      "hn_url": "https://news.ycombinator.com/item?id=47188697"
-    },
-    {
-      "id": "47191232",
-      "title": "The United States and Israel have launched a major attack on Iran",
-      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
-      "points": 1096,
-      "author": "lavp",
-      "created_at": 1772260447,
-      "num_comments": 2371,
-      "hn_url": "https://news.ycombinator.com/item?id=47191232"
-    },
-    {
-      "id": "47190997",
-      "title": "How do I cancel my ChatGPT subscription?",
-      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
-      "points": 1025,
-      "author": "tobr",
-      "created_at": 1772258101,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=47190997"
-    },
-    {
       "id": "47197505",
       "title": "The whole thing was a scam",
       "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
@@ -219,16 +19,6 @@
       "created_at": 1772297509,
       "num_comments": 219,
       "hn_url": "https://news.ycombinator.com/item?id=47197505"
-    },
-    {
-      "id": "47189535",
-      "title": "Croatia declared free of landmines after 31 years",
-      "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
-      "points": 488,
-      "author": "toomuchtodo",
-      "created_at": 1772246896,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=47189535"
     },
     {
       "id": "47196582",
@@ -301,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47194847"
     },
     {
-      "id": "47191414",
-      "title": "U.S. and Israel Conduct Strikes on Iran",
-      "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
-      "points": 282,
-      "author": "gammarator",
-      "created_at": 1772261866,
-      "num_comments": 16,
-      "hn_url": "https://news.ycombinator.com/item?id=47191414"
-    },
-    {
       "id": "47198912",
       "title": "Techno\u2011feudal elite are attempting to build a twenty\u2011first\u2011century fascist state",
       "url": "https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/",
@@ -339,16 +119,6 @@
       "created_at": 1772310929,
       "num_comments": 205,
       "hn_url": "https://news.ycombinator.com/item?id=47199948"
-    },
-    {
-      "id": "47189749",
-      "title": "Don't use passkeys for encrypting user data",
-      "url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
-      "points": 250,
-      "author": "zdw",
-      "created_at": 1772248300,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=47189749"
     },
     {
       "id": "47202708",
@@ -17919,7 +17689,207 @@
       "created_at": 1779844244,
       "num_comments": 203,
       "hn_url": "https://news.ycombinator.com/item?id=48288191"
+    },
+    {
+      "id": "48311647",
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "points": 1524,
+      "author": "craigmart",
+      "created_at": 1779986954,
+      "num_comments": 1189,
+      "hn_url": "https://news.ycombinator.com/item?id=48311647"
+    },
+    {
+      "id": "48302745",
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "points": 1327,
+      "author": "mlsu",
+      "created_at": 1779928826,
+      "num_comments": 745,
+      "hn_url": "https://news.ycombinator.com/item?id=48302745"
+    },
+    {
+      "id": "48314136",
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "points": 945,
+      "author": "philips",
+      "created_at": 1779996249,
+      "num_comments": 432,
+      "hn_url": "https://news.ycombinator.com/item?id=48314136"
+    },
+    {
+      "id": "48307887",
+      "title": "Disagreement among frontier LLMs on real-world fact-checks",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "points": 489,
+      "author": "kostaj",
+      "created_at": 1779970819,
+      "num_comments": 341,
+      "hn_url": "https://news.ycombinator.com/item?id=48307887"
+    },
+    {
+      "id": "48304260",
+      "title": "Show HN: Hallucinate \u2013 Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "points": 423,
+      "author": "stagas",
+      "created_at": 1779940201,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=48304260"
+    },
+    {
+      "id": "48314951",
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "points": 396,
+      "author": "mattrighetti",
+      "created_at": 1779999921,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=48314951"
+    },
+    {
+      "id": "48309233",
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "points": 395,
+      "author": "brandonb",
+      "created_at": 1779977580,
+      "num_comments": 610,
+      "hn_url": "https://news.ycombinator.com/item?id=48309233"
+    },
+    {
+      "id": "48315968",
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "points": 391,
+      "author": "possibilistic",
+      "created_at": 1780004754,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=48315968"
+    },
+    {
+      "id": "48313048",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "points": 342,
+      "author": "meetpateltech",
+      "created_at": 1779991784,
+      "num_comments": 361,
+      "hn_url": "https://news.ycombinator.com/item?id=48313048"
+    },
+    {
+      "id": "48307231",
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "points": 330,
+      "author": "teleforce",
+      "created_at": 1779965815,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=48307231"
+    },
+    {
+      "id": "48309302",
+      "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "points": 328,
+      "author": "jjp",
+      "created_at": 1779977898,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=48309302"
+    },
+    {
+      "id": "48308376",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "points": 322,
+      "author": "Wirbelwind",
+      "created_at": 1779973320,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=48308376"
+    },
+    {
+      "id": "48313530",
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "points": 311,
+      "author": "KraftyOne",
+      "created_at": 1779993706,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=48313530"
+    },
+    {
+      "id": "48313810",
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "points": 306,
+      "author": "speckx",
+      "created_at": 1779994938,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=48313810"
+    },
+    {
+      "id": "48302822",
+      "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+      "points": 305,
+      "author": "pseudolus",
+      "created_at": 1779929398,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=48302822"
+    },
+    {
+      "id": "48309584",
+      "title": "New York passes pied-a-terre tax",
+      "url": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
+      "points": 269,
+      "author": "proofofcontempt",
+      "created_at": 1779979071,
+      "num_comments": 424,
+      "hn_url": "https://news.ycombinator.com/item?id=48309584"
+    },
+    {
+      "id": "48314002",
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "points": 247,
+      "author": "speckx",
+      "created_at": 1779995754,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=48314002"
+    },
+    {
+      "id": "48312528",
+      "title": "I hated writing until I learned there\u2019s a science to it (2024)",
+      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "points": 221,
+      "author": "o4c",
+      "created_at": 1779989807,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48312528"
+    },
+    {
+      "id": "48314363",
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "points": 212,
+      "author": "ianrahman",
+      "created_at": 1779997394,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=48314363"
+    },
+    {
+      "id": "48317093",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "points": 208,
+      "author": "drewda",
+      "created_at": 1780011767,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=48317093"
     }
   ],
-  "last_updated": "2026-05-28T09:54:18.877349+00:00"
+  "last_updated": "2026-05-29T09:45:10.502106+00:00"
 }
