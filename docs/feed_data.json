@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "47193478",
-      "title": "OpenAI \u2013 How to delete your account",
-      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
-      "points": 1840,
-      "author": "carlosrg",
-      "created_at": 1772275315,
-      "num_comments": 345,
-      "hn_url": "https://news.ycombinator.com/item?id=47193478"
-    },
-    {
-      "id": "47197505",
-      "title": "The whole thing was a scam",
-      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "points": 726,
-      "author": "guilamu",
-      "created_at": 1772297509,
-      "num_comments": 219,
-      "hn_url": "https://news.ycombinator.com/item?id=47197505"
-    },
-    {
-      "id": "47196582",
-      "title": "Cognitive Debt: When Velocity Exceeds Comprehension",
-      "url": "https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/",
-      "points": 461,
-      "author": "pagade",
-      "created_at": 1772293150,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=47196582"
-    },
-    {
-      "id": "47197267",
-      "title": "Obsidian Sync now has a headless client",
-      "url": "https://help.obsidian.md/sync/headless",
-      "points": 444,
-      "author": "adilmoujahid",
-      "created_at": 1772296313,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=47197267"
-    },
-    {
-      "id": "47200420",
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "points": 443,
-      "author": "golfer",
-      "created_at": 1772313856,
-      "num_comments": 199,
-      "hn_url": "https://news.ycombinator.com/item?id=47200420"
-    },
-    {
-      "id": "47193064",
-      "title": "MCP server that reduces Claude Code context consumption by 98%",
-      "url": "https://mksg.lu/blog/context-mode",
-      "points": 321,
-      "author": "mksglu",
-      "created_at": 1772272880,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=47193064"
-    },
-    {
-      "id": "47194611",
-      "title": "Don't trust AI agents",
-      "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
-      "points": 312,
-      "author": "gronky_",
-      "created_at": 1772282372,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=47194611"
-    },
-    {
-      "id": "47199781",
-      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "points": 304,
-      "author": "lostmsu",
-      "created_at": 1772310000,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=47199781"
-    },
-    {
-      "id": "47194847",
-      "title": "What AI coding costs you",
-      "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
-      "points": 299,
-      "author": "tomwojcik",
-      "created_at": 1772283903,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=47194847"
-    },
-    {
-      "id": "47198912",
-      "title": "Techno\u2011feudal elite are attempting to build a twenty\u2011first\u2011century fascist state",
-      "url": "https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/",
-      "points": 280,
-      "author": "measurablefunc",
-      "created_at": 1772305063,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=47198912"
-    },
-    {
-      "id": "47195317",
-      "title": "OpenAI fires an employee for prediction market insider trading",
-      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-      "points": 276,
-      "author": "bookofjoe",
-      "created_at": 1772286380,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=47195317"
-    },
-    {
-      "id": "47199948",
-      "title": "Our Agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "points": 261,
-      "author": "surprisetalk",
-      "created_at": 1772310929,
-      "num_comments": 205,
-      "hn_url": "https://news.ycombinator.com/item?id=47199948"
-    },
-    {
-      "id": "47202708",
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "points": 1787,
-      "author": "tambourine_man",
-      "created_at": 1772329166,
-      "num_comments": 301,
-      "hn_url": "https://news.ycombinator.com/item?id=47202708"
-    },
-    {
       "id": "47206009",
       "title": "Ghostty \u2013 Terminal Emulator",
       "url": "https://ghostty.org/docs",
@@ -139,16 +9,6 @@
       "created_at": 1772367183,
       "num_comments": 302,
       "hn_url": "https://news.ycombinator.com/item?id=47206009"
-    },
-    {
-      "id": "47204571",
-      "title": "Switch to Claude without starting over",
-      "url": "https://claude.com/import-memory",
-      "points": 547,
-      "author": "doener",
-      "created_at": 1772350612,
-      "num_comments": 252,
-      "hn_url": "https://news.ycombinator.com/item?id=47204571"
     },
     {
       "id": "47205890",
@@ -221,26 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47205208"
     },
     {
-      "id": "47202032",
-      "title": "Claude becomes number one app on the U.S. App Store",
-      "url": "https://apps.apple.com/us/iphone/charts",
-      "points": 246,
-      "author": "byincugnito",
-      "created_at": 1772323728,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47202032"
-    },
-    {
-      "id": "47204559",
-      "title": "10-202: Introduction to Modern AI (CMU)",
-      "url": "https://modernaicourse.org",
-      "points": 241,
-      "author": "vismit2000",
-      "created_at": 1772350503,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=47204559"
-    },
-    {
       "id": "47205637",
       "title": "Flightradar24 for Ships",
       "url": "https://atlas.flexport.com/",
@@ -279,16 +119,6 @@
       "created_at": 1772372961,
       "num_comments": 322,
       "hn_url": "https://news.ycombinator.com/item?id=47206663"
-    },
-    {
-      "id": "47202808",
-      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
-      "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
-      "points": 169,
-      "author": "pabs3",
-      "created_at": 1772330340,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=47202808"
     },
     {
       "id": "47206798",
@@ -17889,7 +17719,207 @@
       "created_at": 1780011767,
       "num_comments": 99,
       "hn_url": "https://news.ycombinator.com/item?id=48317093"
+    },
+    {
+      "id": "48324712",
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "points": 952,
+      "author": "WillDaSilva",
+      "created_at": 1780069584,
+      "num_comments": 1103,
+      "hn_url": "https://news.ycombinator.com/item?id=48324712"
+    },
+    {
+      "id": "48323683",
+      "title": "I am retiring from tech to live offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "points": 788,
+      "author": "PinkG",
+      "created_at": 1780065647,
+      "num_comments": 537,
+      "hn_url": "https://news.ycombinator.com/item?id=48323683"
+    },
+    {
+      "id": "48323101",
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "points": 740,
+      "author": "garycomtois",
+      "created_at": 1780062625,
+      "num_comments": 380,
+      "hn_url": "https://news.ycombinator.com/item?id=48323101"
+    },
+    {
+      "id": "48324499",
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "points": 670,
+      "author": "AndrewKemendo",
+      "created_at": 1780068775,
+      "num_comments": 450,
+      "hn_url": "https://news.ycombinator.com/item?id=48324499"
+    },
+    {
+      "id": "48326802",
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "points": 503,
+      "author": "tomasol",
+      "created_at": 1780077290,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=48326802"
+    },
+    {
+      "id": "48318481",
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "points": 487,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1780023660,
+      "num_comments": 284,
+      "hn_url": "https://news.ycombinator.com/item?id=48318481"
+    },
+    {
+      "id": "48317774",
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "points": 482,
+      "author": "enraged_camel",
+      "created_at": 1780017398,
+      "num_comments": 534,
+      "hn_url": "https://news.ycombinator.com/item?id=48317774"
+    },
+    {
+      "id": "48319509",
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "points": 376,
+      "author": "Kwastie",
+      "created_at": 1780033536,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=48319509"
+    },
+    {
+      "id": "48325340",
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "points": 361,
+      "author": "vnglst",
+      "created_at": 1780071721,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48325340"
+    },
+    {
+      "id": "48321631",
+      "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "points": 337,
+      "author": "xyzal",
+      "created_at": 1780052972,
+      "num_comments": 290,
+      "hn_url": "https://news.ycombinator.com/item?id=48321631"
+    },
+    {
+      "id": "48318174",
+      "title": "Claude Code \u2013 Everything you can configure that the docs don't tell you",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "points": 324,
+      "author": "ankitg12",
+      "created_at": 1780020800,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=48318174"
+    },
+    {
+      "id": "48324853",
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "points": 315,
+      "author": "antirez",
+      "created_at": 1780070068,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=48324853"
+    },
+    {
+      "id": "48330882",
+      "title": "What Is a Dickover?",
+      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+      "points": 312,
+      "author": "tambourine_man",
+      "created_at": 1780098862,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=48330882"
+    },
+    {
+      "id": "48323869",
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "points": 283,
+      "author": "watermelon0",
+      "created_at": 1780066531,
+      "num_comments": 474,
+      "hn_url": "https://news.ycombinator.com/item?id=48323869"
+    },
+    {
+      "id": "48324097",
+      "title": "Danish Pension Blacklists SpaceX over 'Catastrophic Governance'",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
+      "points": 247,
+      "author": "leopoldj",
+      "created_at": 1780067483,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=48324097"
+    },
+    {
+      "id": "48328175",
+      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "points": 233,
+      "author": "Cider9986",
+      "created_at": 1780083461,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=48328175"
+    },
+    {
+      "id": "48328365",
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "points": 228,
+      "author": "TechTechTech",
+      "created_at": 1780084556,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=48328365"
+    },
+    {
+      "id": "48323992",
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "points": 223,
+      "author": "justinweiss",
+      "created_at": 1780067012,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=48323992"
+    },
+    {
+      "id": "48318678",
+      "title": "Blue Origin\u2019s New Glenn rocket exploded during a static fire test",
+      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "points": 209,
+      "author": "benbreen",
+      "created_at": 1780025535,
+      "num_comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=48318678"
+    },
+    {
+      "id": "48318522",
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "points": 208,
+      "author": "goranmoomin",
+      "created_at": 1780024042,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=48318522"
     }
   ],
-  "last_updated": "2026-05-29T09:45:10.502106+00:00"
+  "last_updated": "2026-05-30T08:23:06.222008+00:00"
 }
