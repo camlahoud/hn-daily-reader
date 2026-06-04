@@ -1,116 +1,6 @@
 {
   "posts": [
     {
-      "id": "47263323",
-      "title": "Wikipedia was in read-only mode following mass admin account compromise",
-      "url": "https://www.wikimediastatus.net",
-      "points": 938,
-      "author": "greyface-",
-      "created_at": 1772726694,
-      "num_comments": 323,
-      "hn_url": "https://news.ycombinator.com/item?id=47263323"
-    },
-    {
-      "id": "47261688",
-      "title": "Judge orders government to begin refunding more than $130B in tariffs",
-      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
-      "points": 895,
-      "author": "JumpCrisscross",
-      "created_at": 1772719546,
-      "num_comments": 653,
-      "hn_url": "https://news.ycombinator.com/item?id=47261688"
-    },
-    {
-      "id": "47265045",
-      "title": "GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "points": 759,
-      "author": "mudkipdev",
-      "created_at": 1772734090,
-      "num_comments": 631,
-      "hn_url": "https://news.ycombinator.com/item?id=47265045"
-    },
-    {
-      "id": "47266084",
-      "title": "Pentagon formally labels Anthropic supply-chain risk",
-      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
-      "points": 397,
-      "author": "klausa",
-      "created_at": 1772738675,
-      "num_comments": 256,
-      "hn_url": "https://news.ycombinator.com/item?id=47266084"
-    },
-    {
-      "id": "47261561",
-      "title": "Good software knows when to stop",
-      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-      "points": 392,
-      "author": "ssaboum",
-      "created_at": 1772718763,
-      "num_comments": 207,
-      "hn_url": "https://news.ycombinator.com/item?id=47261561"
-    },
-    {
-      "id": "47263595",
-      "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-      "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-      "points": 375,
-      "author": "edf13",
-      "created_at": 1772727721,
-      "num_comments": 94,
-      "hn_url": "https://news.ycombinator.com/item?id=47263595"
-    },
-    {
-      "id": "47267628",
-      "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
-      "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
-      "points": 311,
-      "author": "sedatk",
-      "created_at": 1772746540,
-      "num_comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=47267628"
-    },
-    {
-      "id": "47264756",
-      "title": "The Brand Age",
-      "url": "https://paulgraham.com/brandage.html",
-      "points": 309,
-      "author": "bigwheels",
-      "created_at": 1772732650,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=47264756"
-    },
-    {
-      "id": "47264341",
-      "title": "The government uses targeted advertising to track your location",
-      "url": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
-      "points": 283,
-      "author": "hn_acker",
-      "created_at": 1772730982,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=47264341"
-    },
-    {
-      "id": "47262347",
-      "title": "Google Safe Browsing missed 84% of confirmed phishing sites",
-      "url": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
-      "points": 274,
-      "author": "jdup7",
-      "created_at": 1772723002,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=47262347"
-    },
-    {
-      "id": "47263036",
-      "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-      "url": "https://jido.run/blog/jido-2-0-is-here",
-      "points": 267,
-      "author": "mikehostetler",
-      "created_at": 1772725732,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=47263036"
-    },
-    {
       "id": "47275088",
       "title": "Global warming has accelerated significantly",
       "url": "https://www.researchsquare.com/article/rs-6079807/v1",
@@ -129,26 +19,6 @@
       "created_at": 1772819205,
       "num_comments": 558,
       "hn_url": "https://news.ycombinator.com/item?id=47278426"
-    },
-    {
-      "id": "47270784",
-      "title": "System76 on Age Verification Laws",
-      "url": "https://blog.system76.com/post/system76-on-age-verification/",
-      "points": 818,
-      "author": "LorenDB",
-      "created_at": 1772770346,
-      "num_comments": 574,
-      "hn_url": "https://news.ycombinator.com/item?id=47270784"
-    },
-    {
-      "id": "47269263",
-      "title": "Where things stand with the Department of War",
-      "url": "https://www.anthropic.com/news/where-stand-department-war",
-      "points": 615,
-      "author": "surprisetalk",
-      "created_at": 1772757641,
-      "num_comments": 758,
-      "hn_url": "https://news.ycombinator.com/item?id=47269263"
     },
     {
       "id": "47273854",
@@ -191,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47282736"
     },
     {
-      "id": "47272799",
-      "title": "LibreSprite \u2013 open-source pixel art editor",
-      "url": "https://libresprite.github.io/",
-      "points": 272,
-      "author": "nicoloren",
-      "created_at": 1772788920,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=47272799"
-    },
-    {
       "id": "47275236",
       "title": "Show HN: Moongate \u2013 Ultima Online server emulator in .NET 10 with Lua scripting",
       "url": "https://github.com/moongate-community/moongatev2",
@@ -239,26 +99,6 @@
       "created_at": 1772806566,
       "num_comments": 43,
       "hn_url": "https://news.ycombinator.com/item?id=47275152"
-    },
-    {
-      "id": "47272734",
-      "title": "We might all be AI engineers now",
-      "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-      "points": 188,
-      "author": "sn0wflak3s",
-      "created_at": 1772788410,
-      "num_comments": 303,
-      "hn_url": "https://news.ycombinator.com/item?id=47272734"
-    },
-    {
-      "id": "47270807",
-      "title": "Show HN: Swarm \u2013 Program a colony of 200 ants using a custom assembly language",
-      "url": "https://dev.moment.com/",
-      "points": 183,
-      "author": "armandhammer10",
-      "created_at": 1772770540,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=47270807"
     },
     {
       "id": "47279189",
@@ -17879,7 +17719,207 @@
       "created_at": 1780429165,
       "num_comments": 58,
       "hn_url": "https://news.ycombinator.com/item?id=48375175"
+    },
+    {
+      "id": "48385906",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "points": 833,
+      "author": "rvz",
+      "created_at": 1780502682,
+      "num_comments": 324,
+      "hn_url": "https://news.ycombinator.com/item?id=48385906"
+    },
+    {
+      "id": "48388324",
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "points": 766,
+      "author": "cloud8421",
+      "created_at": 1780513346,
+      "num_comments": 279,
+      "hn_url": "https://news.ycombinator.com/item?id=48388324"
+    },
+    {
+      "id": "48383220",
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "points": 732,
+      "author": "reconnecting",
+      "created_at": 1780490527,
+      "num_comments": 697,
+      "hn_url": "https://news.ycombinator.com/item?id=48383220"
+    },
+    {
+      "id": "48391611",
+      "title": "They\u2019re made out of weights",
+      "url": "https://maxleiter.com/blog/weights",
+      "points": 686,
+      "author": "MaxLeiter",
+      "created_at": 1780529838,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=48391611"
+    },
+    {
+      "id": "48382310",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "points": 667,
+      "author": "xx_ns",
+      "created_at": 1780483980,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=48382310"
+    },
+    {
+      "id": "48384355",
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "points": 615,
+      "author": "Tomte",
+      "created_at": 1780495806,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=48384355"
+    },
+    {
+      "id": "48383056",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "points": 484,
+      "author": "pdyc",
+      "created_at": 1780489514,
+      "num_comments": 604,
+      "hn_url": "https://news.ycombinator.com/item?id=48383056"
+    },
+    {
+      "id": "48384482",
+      "title": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "points": 457,
+      "author": "pentagrama",
+      "created_at": 1780496319,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=48384482"
+    },
+    {
+      "id": "48387270",
+      "title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "points": 434,
+      "author": "lordleft",
+      "created_at": 1780509097,
+      "num_comments": 762,
+      "hn_url": "https://news.ycombinator.com/item?id=48387270"
+    },
+    {
+      "id": "48383241",
+      "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "points": 400,
+      "author": "papersail",
+      "created_at": 1780490623,
+      "num_comments": 359,
+      "hn_url": "https://news.ycombinator.com/item?id=48383241"
+    },
+    {
+      "id": "48386238",
+      "title": "MacBook Neo is so popular that Apple doubled production",
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "points": 375,
+      "author": "tosh",
+      "created_at": 1780504397,
+      "num_comments": 410,
+      "hn_url": "https://news.ycombinator.com/item?id=48386238"
+    },
+    {
+      "id": "48382142",
+      "title": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "points": 305,
+      "author": "gregsadetsky",
+      "created_at": 1780482265,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=48382142"
+    },
+    {
+      "id": "48385965",
+      "title": "ESP32-S31",
+      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "points": 299,
+      "author": "volemo",
+      "created_at": 1780503025,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=48385965"
+    },
+    {
+      "id": "48385114",
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "points": 264,
+      "author": "SGran",
+      "created_at": 1780499169,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=48385114"
+    },
+    {
+      "id": "48382382",
+      "title": "Every Byte Matters",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "points": 251,
+      "author": "ingve",
+      "created_at": 1780484644,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=48382382"
+    },
+    {
+      "id": "48382052",
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "points": 238,
+      "author": "pseudolus",
+      "created_at": 1780481148,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=48382052"
+    },
+    {
+      "id": "48386551",
+      "title": "The Public Should Own Half of the Big A.I. Companies",
+      "url": "https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/",
+      "points": 217,
+      "author": "droidjj",
+      "created_at": 1780505919,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=48386551"
+    },
+    {
+      "id": "48383823",
+      "title": "I built a ceiling projection mapping of the planes flying over my house",
+      "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
+      "points": 216,
+      "author": "frereubu",
+      "created_at": 1780493580,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=48383823"
+    },
+    {
+      "id": "48379203",
+      "title": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
+      "points": 208,
+      "author": "elmerland",
+      "created_at": 1780453968,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=48379203"
+    },
+    {
+      "id": "48386725",
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "url": "https://github.com/duanebester/gooey",
+      "points": 178,
+      "author": "ksec",
+      "created_at": 1780506747,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=48386725"
     }
   ],
-  "last_updated": "2026-06-03T10:50:39.101769+00:00"
+  "last_updated": "2026-06-04T09:50:13.856849+00:00"
 }
