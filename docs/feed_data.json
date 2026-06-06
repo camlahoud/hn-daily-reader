@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "47286311",
-      "title": "Ki Editor - an editor that operates on the AST",
-      "url": "https://ki-editor.org/",
-      "points": 393,
-      "author": "ravenical",
-      "created_at": 1772879353,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47286311"
-    },
-    {
-      "id": "47292485",
-      "title": "Put the zip code first",
-      "url": "https://zipcodefirst.com",
-      "points": 329,
-      "author": "dsalzman",
-      "created_at": 1772925986,
-      "num_comments": 240,
-      "hn_url": "https://news.ycombinator.com/item?id=47292485"
-    },
-    {
-      "id": "47291406",
-      "title": "Effort to prevent government officials from engaging in prediction markets",
-      "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
-      "points": 302,
-      "author": "stopbulying",
-      "created_at": 1772916948,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=47291406"
-    },
-    {
-      "id": "47289311",
-      "title": "A decade of Docker containers",
-      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "points": 271,
-      "author": "zacwest",
-      "created_at": 1772902518,
-      "num_comments": 191,
-      "hn_url": "https://news.ycombinator.com/item?id=47289311"
-    },
-    {
-      "id": "47291292",
-      "title": "CasNum",
-      "url": "https://github.com/0x0mer/CasNum",
-      "points": 252,
-      "author": "aebtebeten",
-      "created_at": 1772916231,
-      "num_comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=47291292"
-    },
-    {
-      "id": "47287344",
-      "title": "Yoghurt delivery women combatting loneliness in Japan",
-      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-      "points": 251,
-      "author": "ranit",
-      "created_at": 1772889160,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=47287344"
-    },
-    {
-      "id": "47291036",
-      "title": "War prediction markets are a national-security threat",
-      "url": "https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/",
-      "points": 217,
-      "author": "fortran77",
-      "created_at": 1772914170,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=47291036"
-    },
-    {
-      "id": "47286408",
-      "title": "Files are the interface humans and agents interact with",
-      "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-      "points": 200,
-      "author": "malgamves",
-      "created_at": 1772880523,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=47286408"
-    },
-    {
-      "id": "47286933",
-      "title": "US economy sheds 92,000 jobs in February in sharp slide",
-      "url": "https://www.ft.com/content/6542bd0c-59ca-493b-ab5d-2d69e4e00cae",
-      "points": 199,
-      "author": "doener",
-      "created_at": 1772885584,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=47286933"
-    },
-    {
-      "id": "47288533",
-      "title": "FLASH radiotherapy's bold approach to cancer treatment",
-      "url": "https://spectrum.ieee.org/flash-radiotherapy",
-      "points": 197,
-      "author": "marc__1",
-      "created_at": 1772897616,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=47288533"
-    },
-    {
-      "id": "47287763",
-      "title": "Tinnitus Is Connected to Sleep",
-      "url": "https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function",
-      "points": 192,
-      "author": "bookofjoe",
-      "created_at": 1772892406,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=47287763"
-    },
-    {
-      "id": "47286082",
-      "title": "Boy I was wrong about the Fediverse",
-      "url": "https://matduggan.com/boy-i-was-wrong-about-the-fediverse/",
-      "points": 164,
-      "author": "wrxd",
-      "created_at": 1772876758,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=47286082"
-    },
-    {
-      "id": "47287792",
-      "title": "PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon",
-      "url": "https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose",
-      "points": 164,
-      "author": "LorenDB",
-      "created_at": 1772892617,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=47287792"
-    },
-    {
-      "id": "47292381",
-      "title": "I resigned from OpenAI",
-      "url": "https://twitter.com/kalinowski007/status/2030320074121478618",
-      "points": 163,
-      "author": "mmaia",
-      "created_at": 1772924991,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=47292381"
-    },
-    {
       "id": "47300329",
       "title": "Ask HN: Please restrict new accounts from posting",
       "url": "https://news.ycombinator.com/item?id=47300329",
@@ -201,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47299009"
     },
     {
-      "id": "47293119",
-      "title": "Cloud VM benchmarks 2026",
-      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "points": 335,
-      "author": "dkechag",
-      "created_at": 1772930672,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=47293119"
-    },
-    {
       "id": "47296849",
       "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
       "url": "https://xcancel.com/theflow0/status/2030011206040256841",
@@ -229,16 +79,6 @@
       "created_at": 1772989310,
       "num_comments": 60,
       "hn_url": "https://news.ycombinator.com/item?id=47298885"
-    },
-    {
-      "id": "47293415",
-      "title": "Warn about PyPy being unmaintained",
-      "url": "https://github.com/astral-sh/uv/pull/17643",
-      "points": 300,
-      "author": "networked",
-      "created_at": 1772933721,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=47293415"
     },
     {
       "id": "47297453",
@@ -17909,7 +17749,207 @@
       "created_at": 1780614716,
       "num_comments": 34,
       "hn_url": "https://news.ycombinator.com/item?id=48405931"
+    },
+    {
+      "id": "48409191",
+      "title": "Changing how we develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "points": 834,
+      "author": "EdwinHoksberg",
+      "created_at": 1780644393,
+      "num_comments": 530,
+      "hn_url": "https://news.ycombinator.com/item?id=48409191"
+    },
+    {
+      "id": "48415217",
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "points": 429,
+      "author": "toomuchtodo",
+      "created_at": 1780678530,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=48415217"
+    },
+    {
+      "id": "48411635",
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "points": 399,
+      "author": "logicprog",
+      "created_at": 1780663413,
+      "num_comments": 401,
+      "hn_url": "https://news.ycombinator.com/item?id=48411635"
+    },
+    {
+      "id": "48408016",
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "points": 394,
+      "author": "ingve",
+      "created_at": 1780634221,
+      "num_comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=48408016"
+    },
+    {
+      "id": "48409664",
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "points": 391,
+      "author": "mimorigasaka",
+      "created_at": 1780648336,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=48409664"
+    },
+    {
+      "id": "48413464",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "points": 387,
+      "author": "janpot",
+      "created_at": 1780671631,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=48413464"
+    },
+    {
+      "id": "48414367",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "points": 387,
+      "author": "coffeemug",
+      "created_at": 1780675197,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=48414367"
+    },
+    {
+      "id": "48413500",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "points": 348,
+      "author": "speckx",
+      "created_at": 1780671843,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=48413500"
+    },
+    {
+      "id": "48414653",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "points": 343,
+      "author": "theanonymousone",
+      "created_at": 1780676328,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=48414653"
+    },
+    {
+      "id": "48406640",
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "points": 299,
+      "author": "jenders",
+      "created_at": 1780620278,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=48406640"
+    },
+    {
+      "id": "48414027",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "points": 298,
+      "author": "jsve",
+      "created_at": 1780673978,
+      "num_comments": 231,
+      "hn_url": "https://news.ycombinator.com/item?id=48414027"
+    },
+    {
+      "id": "48413072",
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "points": 269,
+      "author": "vquemener",
+      "created_at": 1780669850,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=48413072"
+    },
+    {
+      "id": "48413295",
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "points": 264,
+      "author": "TechTechTech",
+      "created_at": 1780670924,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=48413295"
+    },
+    {
+      "id": "48406358",
+      "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "points": 264,
+      "author": "geoffbp",
+      "created_at": 1780617869,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=48406358"
+    },
+    {
+      "id": "48416845",
+      "title": "Three of our worst VC stories",
+      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+      "points": 226,
+      "author": "orgonon",
+      "created_at": 1780686492,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=48416845"
+    },
+    {
+      "id": "48411190",
+      "title": "Ultra-processed foods in the global food system: The role of tobacco companies",
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
+      "points": 215,
+      "author": "giuliomagnifico",
+      "created_at": 1780660587,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=48411190"
+    },
+    {
+      "id": "48407499",
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "points": 201,
+      "author": "haydenbarnes",
+      "created_at": 1780629268,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=48407499"
+    },
+    {
+      "id": "48409306",
+      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "points": 191,
+      "author": "geotp",
+      "created_at": 1780645204,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=48409306"
+    },
+    {
+      "id": "48408442",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "points": 184,
+      "author": "taubek",
+      "created_at": 1780638366,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=48408442"
+    },
+    {
+      "id": "48411510",
+      "title": "Programmers will document for Claude, but not for each other",
+      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+      "points": 180,
+      "author": "surprisetalk",
+      "created_at": 1780662617,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=48411510"
     }
   ],
-  "last_updated": "2026-06-05T09:38:26.668727+00:00"
+  "last_updated": "2026-06-06T08:28:42.913460+00:00"
 }
