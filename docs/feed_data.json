@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "47300329",
-      "title": "Ask HN: Please restrict new accounts from posting",
-      "url": "https://news.ycombinator.com/item?id=47300329",
-      "points": 543,
-      "author": "Oras",
-      "created_at": 1772998019,
-      "num_comments": 411,
-      "hn_url": "https://news.ycombinator.com/item?id=47300329"
-    },
-    {
-      "id": "47301085",
-      "title": "Agent Safehouse \u2013 macOS-native sandboxing for local agents",
-      "url": "https://agent-safehouse.dev/",
-      "points": 517,
-      "author": "atombender",
-      "created_at": 1773001818,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=47301085"
-    },
-    {
-      "id": "47298044",
-      "title": "FrameBook",
-      "url": "https://fb.edoo.gg",
-      "points": 396,
-      "author": "todsacerdoti",
-      "created_at": 1772983269,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=47298044"
-    },
-    {
-      "id": "47296547",
-      "title": "Ask HN: How to be alone?",
-      "url": "https://news.ycombinator.com/item?id=47296547",
-      "points": 394,
-      "author": "sillysaurusx",
-      "created_at": 1772970077,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=47296547"
-    },
-    {
-      "id": "47296302",
-      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
-      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "points": 364,
-      "author": "rbanffy",
-      "created_at": 1772967272,
-      "num_comments": 226,
-      "hn_url": "https://news.ycombinator.com/item?id=47296302"
-    },
-    {
-      "id": "47299009",
-      "title": "The changing goalposts of AGI and timelines",
-      "url": "https://mlumiste.com/general/openai-charter/",
-      "points": 362,
-      "author": "skandium",
-      "created_at": 1772990198,
-      "num_comments": 307,
-      "hn_url": "https://news.ycombinator.com/item?id=47299009"
-    },
-    {
-      "id": "47296849",
-      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-      "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-      "points": 323,
-      "author": "doener",
-      "created_at": 1772973614,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=47296849"
-    },
-    {
-      "id": "47298885",
-      "title": "LibreOffice Writer now supports Markdown",
-      "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-      "points": 321,
-      "author": "todsacerdoti",
-      "created_at": 1772989310,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=47298885"
-    },
-    {
-      "id": "47297453",
-      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
-      "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-      "points": 284,
-      "author": "maxloh",
-      "created_at": 1772978949,
-      "num_comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=47297453"
-    },
-    {
-      "id": "47295837",
-      "title": "Notes on writing Rust-based Wasm",
-      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "points": 218,
-      "author": "vinhnx",
-      "created_at": 1772961894,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=47295837"
-    },
-    {
-      "id": "47300102",
-      "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "points": 211,
-      "author": "vancecookcobxin",
-      "created_at": 1772996853,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=47300102"
-    },
-    {
-      "id": "47300747",
-      "title": "We should revisit literate programming in the agent era",
-      "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-      "points": 208,
-      "author": "horseradish",
-      "created_at": 1772999895,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=47300747"
-    },
-    {
-      "id": "47298743",
-      "title": "My Homelab Setup",
-      "url": "https://bryananthonio.com/blog/my-homelab-setup/",
-      "points": 204,
-      "author": "photon_collider",
-      "created_at": 1772988370,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47298743"
-    },
-    {
-      "id": "47302022",
-      "title": "Most of the US economy is in a recession",
-      "url": "https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3",
-      "points": 193,
-      "author": "wslh",
-      "created_at": 1773007292,
-      "num_comments": 192,
-      "hn_url": "https://news.ycombinator.com/item?id=47302022"
-    },
-    {
-      "id": "47297919",
-      "title": "Living human brain cells play DOOM on a CL1 [video]",
-      "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-      "points": 172,
-      "author": "kevinak",
-      "created_at": 1772982448,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=47297919"
-    },
-    {
-      "id": "47298183",
-      "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
-      "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
-      "points": 165,
-      "author": "ljoshua",
-      "created_at": 1772984252,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=47298183"
-    },
-    {
-      "id": "47298997",
-      "title": "Claude struggles to cope with ChatGPT exodus",
-      "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
-      "points": 150,
-      "author": "perakojotgenije",
-      "created_at": 1772990093,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=47298997"
-    },
-    {
-      "id": "47297054",
-      "title": "How Big Diaper absorbs billions of extra dollars from American parents",
-      "url": "https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents",
-      "points": 138,
-      "author": "Anon84",
-      "created_at": 1772975535,
-      "num_comments": 266,
-      "hn_url": "https://news.ycombinator.com/item?id=47297054"
-    },
-    {
       "id": "47307055",
       "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
       "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
@@ -189,16 +9,6 @@
       "created_at": 1773051299,
       "num_comments": 568,
       "hn_url": "https://news.ycombinator.com/item?id=47307055"
-    },
-    {
-      "id": "47305461",
-      "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
-      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "points": 532,
-      "author": "dryadin",
-      "created_at": 1773037682,
-      "num_comments": 415,
-      "hn_url": "https://news.ycombinator.com/item?id=47305461"
     },
     {
       "id": "47311815",
@@ -241,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47312090"
     },
     {
-      "id": "47304831",
-      "title": "How the Sriracha guys screwed over their supplier",
-      "url": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
-      "points": 401,
-      "author": "thunderbong",
-      "created_at": 1773029793,
-      "num_comments": 222,
-      "hn_url": "https://news.ycombinator.com/item?id=47304831"
-    },
-    {
       "id": "47313884",
       "title": "Bluesky CEO Jay Graber is stepping down",
       "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
@@ -281,26 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47311484"
     },
     {
-      "id": "47303111",
-      "title": "Ask HN: What Are You Working On? (March 2026)",
-      "url": "https://news.ycombinator.com/item?id=47303111",
-      "points": 274,
-      "author": "david927",
-      "created_at": 1773014838,
-      "num_comments": 996,
-      "hn_url": "https://news.ycombinator.com/item?id=47303111"
-    },
-    {
-      "id": "47305236",
-      "title": "FFmpeg at Meta: Media Processing at Scale",
-      "url": "https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/",
-      "points": 242,
-      "author": "sudhakaran88",
-      "created_at": 1773034635,
-      "num_comments": 94,
-      "hn_url": "https://news.ycombinator.com/item?id=47305236"
-    },
-    {
       "id": "47316880",
       "title": "Sir Tony Hoare has died",
       "url": "http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html",
@@ -309,16 +89,6 @@
       "created_at": 1773096909,
       "num_comments": 58,
       "hn_url": "https://news.ycombinator.com/item?id=47316880"
-    },
-    {
-      "id": "47304886",
-      "title": "The death of social media is the renaissance of RSS (2025)",
-      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-      "points": 233,
-      "author": "jruohonen",
-      "created_at": 1773030479,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=47304886"
     },
     {
       "id": "47310073",
@@ -17949,7 +17719,207 @@
       "created_at": 1780662617,
       "num_comments": 152,
       "hn_url": "https://news.ycombinator.com/item?id=48411510"
+    },
+    {
+      "id": "48421442",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "points": 1408,
+      "author": "maltalex",
+      "created_at": 1780720716,
+      "num_comments": 481,
+      "hn_url": "https://news.ycombinator.com/item?id=48421442"
+    },
+    {
+      "id": "48427643",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "points": 571,
+      "author": "speckx",
+      "created_at": 1780770927,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=48427643"
+    },
+    {
+      "id": "48427523",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "points": 509,
+      "author": "MilnerRoute",
+      "created_at": 1780770066,
+      "num_comments": 396,
+      "hn_url": "https://news.ycombinator.com/item?id=48427523"
+    },
+    {
+      "id": "48422798",
+      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+      "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+      "points": 438,
+      "author": "Cider9986",
+      "created_at": 1780735439,
+      "num_comments": 456,
+      "hn_url": "https://news.ycombinator.com/item?id=48422798"
+    },
+    {
+      "id": "48420827",
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "url": "https://news.ycombinator.com/item?id=48420827",
+      "points": 411,
+      "author": "Ekami",
+      "created_at": 1780713111,
+      "num_comments": 676,
+      "hn_url": "https://news.ycombinator.com/item?id=48420827"
+    },
+    {
+      "id": "48423990",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "points": 408,
+      "author": "ramanan",
+      "created_at": 1780746375,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=48423990"
+    },
+    {
+      "id": "48428025",
+      "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "points": 338,
+      "author": "gregsadetsky",
+      "created_at": 1780773466,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=48428025"
+    },
+    {
+      "id": "48423762",
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "url": "https://pokeemerald.com/",
+      "points": 315,
+      "author": "tripplyons",
+      "created_at": 1780744378,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=48423762"
+    },
+    {
+      "id": "48425528",
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "points": 295,
+      "author": "jwilk",
+      "created_at": 1780756460,
+      "num_comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=48425528"
+    },
+    {
+      "id": "48424605",
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "points": 276,
+      "author": "tosh",
+      "created_at": 1780750338,
+      "num_comments": 467,
+      "hn_url": "https://news.ycombinator.com/item?id=48424605"
+    },
+    {
+      "id": "48420148",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "points": 249,
+      "author": "transistor-man",
+      "created_at": 1780706006,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=48420148"
+    },
+    {
+      "id": "48425723",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "points": 229,
+      "author": "losfair",
+      "created_at": 1780757983,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=48425723"
+    },
+    {
+      "id": "48422993",
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "points": 208,
+      "author": "nikcub",
+      "created_at": 1780737469,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=48422993"
+    },
+    {
+      "id": "48428763",
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "points": 202,
+      "author": "davidbarker",
+      "created_at": 1780778140,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=48428763"
+    },
+    {
+      "id": "48421171",
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "points": 178,
+      "author": "gostsamo",
+      "created_at": 1780717292,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=48421171"
+    },
+    {
+      "id": "48428356",
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "points": 164,
+      "author": "speckx",
+      "created_at": 1780775470,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=48428356"
+    },
+    {
+      "id": "48425982",
+      "title": "Python JIT project was asked to pause development",
+      "url": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
+      "points": 163,
+      "author": "kbumsik",
+      "created_at": 1780759809,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=48425982"
+    },
+    {
+      "id": "48426022",
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "points": 151,
+      "author": "nmstoker",
+      "created_at": 1780760149,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=48426022"
+    },
+    {
+      "id": "48421079",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "points": 147,
+      "author": "paulmooreparks",
+      "created_at": 1780716227,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=48421079"
+    },
+    {
+      "id": "48425611",
+      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+      "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+      "points": 138,
+      "author": "thisislife2",
+      "created_at": 1780757033,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=48425611"
     }
   ],
-  "last_updated": "2026-06-06T08:28:42.913460+00:00"
+  "last_updated": "2026-06-07T08:49:58.224452+00:00"
 }
