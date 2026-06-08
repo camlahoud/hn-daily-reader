@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "47307055",
-      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-      "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "points": 926,
-      "author": "robin_reala",
-      "created_at": 1773051299,
-      "num_comments": 568,
-      "hn_url": "https://news.ycombinator.com/item?id=47307055"
-    },
-    {
-      "id": "47311815",
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
-      "points": 454,
-      "author": "imadr",
-      "created_at": 1773075742,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=47311815"
-    },
-    {
-      "id": "47306655",
-      "title": "FontCrafter: Turn your handwriting into a real font",
-      "url": "https://arcade.pirillo.com/fontcrafter.html",
-      "points": 444,
-      "author": "rendx",
-      "created_at": 1773048302,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=47306655"
-    },
-    {
-      "id": "47310160",
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "points": 414,
-      "author": "dahlia",
-      "created_at": 1773069173,
-      "num_comments": 452,
-      "hn_url": "https://news.ycombinator.com/item?id=47310160"
-    },
-    {
-      "id": "47312090",
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "points": 404,
-      "author": "1970-01-01",
-      "created_at": 1773076829,
-      "num_comments": 526,
-      "hn_url": "https://news.ycombinator.com/item?id=47312090"
-    },
-    {
-      "id": "47313884",
-      "title": "Bluesky CEO Jay Graber is stepping down",
-      "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
-      "points": 354,
-      "author": "minimaxir",
-      "created_at": 1773083343,
-      "num_comments": 317,
-      "hn_url": "https://news.ycombinator.com/item?id=47313884"
-    },
-    {
-      "id": "47315128",
-      "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-      "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-      "points": 318,
-      "author": "spenvo",
-      "created_at": 1773088603,
-      "num_comments": 168,
-      "hn_url": "https://news.ycombinator.com/item?id=47315128"
-    },
-    {
-      "id": "47311484",
-      "title": "JSLinux Now Supports x86_64",
-      "url": "https://bellard.org/jslinux/",
-      "points": 292,
-      "author": "TechTechTech",
-      "created_at": 1773074619,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=47311484"
-    },
-    {
-      "id": "47316880",
-      "title": "Sir Tony Hoare has died",
-      "url": "http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html",
-      "points": 235,
-      "author": "nextos",
-      "created_at": 1773096909,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=47316880"
-    },
-    {
-      "id": "47310073",
-      "title": "The engine of Germany's wealth is blocking its future",
-      "url": "https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future",
-      "points": 216,
-      "author": "mariuz",
-      "created_at": 1773068709,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=47310073"
-    },
-    {
-      "id": "47313613",
-      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-      "url": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-      "points": 212,
-      "author": "randycupertino",
-      "created_at": 1773082294,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=47313613"
-    },
-    {
-      "id": "47311456",
-      "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
-      "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
-      "points": 199,
-      "author": "heresie-dabord",
-      "created_at": 1773074514,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=47311456"
-    },
-    {
-      "id": "47310092",
-      "title": "New farm bill would condemn pigs to a lifetime in gestation crates",
-      "url": "https://twitter.com/Lewis_Bollard/status/2030985704902099335",
-      "points": 193,
-      "author": "bilsbie",
-      "created_at": 1773068797,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=47310092"
-    },
-    {
-      "id": "47311669",
-      "title": "DARPA\u2019s new X-76",
-      "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-      "points": 186,
-      "author": "newer_vienna",
-      "created_at": 1773075271,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=47311669"
-    },
-    {
-      "id": "47312329",
-      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-      "url": "https://fixfest.therestartproject.org/",
-      "points": 163,
-      "author": "robtherobber",
-      "created_at": 1773077667,
-      "num_comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=47312329"
-    },
-    {
       "id": "47324054",
       "title": "Tony Hoare has died",
       "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
@@ -191,26 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47323900"
     },
     {
-      "id": "47321233",
-      "title": "I put my whole life into a single database",
-      "url": "https://howisfelix.today/",
-      "points": 440,
-      "author": "lukakopajtic",
-      "created_at": 1773137268,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=47321233"
-    },
-    {
-      "id": "47320600",
-      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "points": 419,
-      "author": "helloplanets",
-      "created_at": 1773132413,
-      "num_comments": 352,
-      "hn_url": "https://news.ycombinator.com/item?id=47320600"
-    },
-    {
       "id": "47321533",
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
       "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
@@ -221,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47321533"
     },
     {
-      "id": "47320661",
-      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "points": 383,
-      "author": "pjmlp",
-      "created_at": 1773132893,
-      "num_comments": 391,
-      "hn_url": "https://news.ycombinator.com/item?id=47320661"
-    },
-    {
       "id": "47322887",
       "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
       "url": "https://dnhkng.github.io/posts/rys/",
@@ -239,16 +59,6 @@
       "created_at": 1773148735,
       "num_comments": 99,
       "hn_url": "https://news.ycombinator.com/item?id=47322887"
-    },
-    {
-      "id": "47317616",
-      "title": "Two Years of Emacs Solo",
-      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "points": 335,
-      "author": "celadevra_",
-      "created_at": 1773101804,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=47317616"
     },
     {
       "id": "47324087",
@@ -17919,7 +17729,207 @@
       "created_at": 1780757033,
       "num_comments": 65,
       "hn_url": "https://news.ycombinator.com/item?id=48425611"
+    },
+    {
+      "id": "48434312",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "points": 981,
+      "author": "poisonfountain",
+      "created_at": 1780836569,
+      "num_comments": 943,
+      "hn_url": "https://news.ycombinator.com/item?id=48434312"
+    },
+    {
+      "id": "48437406",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "points": 637,
+      "author": "gavinray",
+      "created_at": 1780857187,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=48437406"
+    },
+    {
+      "id": "48434436",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "points": 498,
+      "author": "predkambrij",
+      "created_at": 1780837612,
+      "num_comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=48434436"
+    },
+    {
+      "id": "48437609",
+      "title": "How's Linear so fast? A technical breakdown",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "points": 416,
+      "author": "howToTestFE",
+      "created_at": 1780858897,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=48437609"
+    },
+    {
+      "id": "48432199",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "points": 396,
+      "author": "matt_d",
+      "created_at": 1780811274,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48432199"
+    },
+    {
+      "id": "48433410",
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "points": 330,
+      "author": "BerislavLopac",
+      "created_at": 1780827033,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=48433410"
+    },
+    {
+      "id": "48433756",
+      "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "points": 322,
+      "author": "devenjarvis",
+      "created_at": 1780831006,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=48433756"
+    },
+    {
+      "id": "48431981",
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "points": 287,
+      "author": "MrBuddyCasino",
+      "created_at": 1780808664,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=48431981"
+    },
+    {
+      "id": "48431461",
+      "title": "Major P2P issues in Israel and possibly other Middle East countries",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "points": 270,
+      "author": "babuskov",
+      "created_at": 1780802512,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=48431461"
+    },
+    {
+      "id": "48430539",
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "points": 249,
+      "author": "davidbarker",
+      "created_at": 1780791771,
+      "num_comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=48430539"
+    },
+    {
+      "id": "48437290",
+      "title": "Making peace with your unlived dreams (2023)",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "points": 231,
+      "author": "herbertl",
+      "created_at": 1780856147,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=48437290"
+    },
+    {
+      "id": "48435584",
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+      "points": 185,
+      "author": "supermatou",
+      "created_at": 1780844890,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=48435584"
+    },
+    {
+      "id": "48431085",
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "points": 183,
+      "author": "zeech",
+      "created_at": 1780798339,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=48431085"
+    },
+    {
+      "id": "48430860",
+      "title": "An Ohio Valley 100k-watt FM signal is severed in broad daylight",
+      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+      "points": 181,
+      "author": "pkaeding",
+      "created_at": 1780795455,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=48430860"
+    },
+    {
+      "id": "48430923",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "points": 169,
+      "author": "Anon84",
+      "created_at": 1780796231,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=48430923"
+    },
+    {
+      "id": "48431286",
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "points": 164,
+      "author": "gscott",
+      "created_at": 1780800397,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=48431286"
+    },
+    {
+      "id": "48435371",
+      "title": "The OnlyFans Economy of American AI",
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "points": 142,
+      "author": "futurisold",
+      "created_at": 1780843637,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=48435371"
+    },
+    {
+      "id": "48436246",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+      "points": 139,
+      "author": "Brajeshwar",
+      "created_at": 1780849014,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=48436246"
+    },
+    {
+      "id": "48436863",
+      "title": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "points": 136,
+      "author": "maxloh",
+      "created_at": 1780852948,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=48436863"
+    },
+    {
+      "id": "48431952",
+      "title": "The circus freaks of open source",
+      "url": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
+      "points": 118,
+      "author": "keyle",
+      "created_at": 1780808222,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=48431952"
     }
   ],
-  "last_updated": "2026-06-07T08:49:58.224452+00:00"
+  "last_updated": "2026-06-08T10:28:41.023508+00:00"
 }
