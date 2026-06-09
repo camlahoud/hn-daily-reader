@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47324054",
-      "title": "Tony Hoare has died",
-      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "points": 1684,
-      "author": "speckx",
-      "created_at": 1773154216,
-      "num_comments": 215,
-      "hn_url": "https://news.ycombinator.com/item?id=47324054"
-    },
-    {
-      "id": "47322635",
-      "title": "Online age-verification tools for child safety are surveilling adults",
-      "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "points": 599,
-      "author": "bilsbie",
-      "created_at": 1773147342,
-      "num_comments": 316,
-      "hn_url": "https://news.ycombinator.com/item?id=47322635"
-    },
-    {
-      "id": "47323017",
-      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "points": 530,
-      "author": "ndr42",
-      "created_at": 1773149477,
-      "num_comments": 424,
-      "hn_url": "https://news.ycombinator.com/item?id=47323017"
-    },
-    {
-      "id": "47323900",
-      "title": "Meta acquires Moltbook",
-      "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-      "points": 468,
-      "author": "mmayberry",
-      "created_at": 1773153486,
-      "num_comments": 310,
-      "hn_url": "https://news.ycombinator.com/item?id=47323900"
-    },
-    {
-      "id": "47321533",
-      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-      "points": 409,
-      "author": "ottomengis",
-      "created_at": 1773139830,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=47321533"
-    },
-    {
-      "id": "47322887",
-      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-      "url": "https://dnhkng.github.io/posts/rys/",
-      "points": 376,
-      "author": "dnhkng",
-      "created_at": 1773148735,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=47322887"
-    },
-    {
-      "id": "47324087",
-      "title": "Debian decides not to decide on AI-generated contributions",
-      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "points": 312,
-      "author": "jwilk",
-      "created_at": 1773154393,
-      "num_comments": 238,
-      "hn_url": "https://news.ycombinator.com/item?id=47324087"
-    },
-    {
-      "id": "47327559",
-      "title": "Agents that run while I sleep",
-      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "points": 295,
-      "author": "aray07",
-      "created_at": 1773169786,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=47327559"
-    },
-    {
-      "id": "47324211",
-      "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
-      "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
-      "points": 285,
-      "author": "lwhsiao",
-      "created_at": 1773154895,
-      "num_comments": 10,
-      "hn_url": "https://news.ycombinator.com/item?id=47324211"
-    },
-    {
-      "id": "47329605",
-      "title": "U+237C \u237c Is Azimuth",
-      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "points": 248,
-      "author": "cokernel_hacker",
-      "created_at": 1773182025,
-      "num_comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=47329605"
-    },
-    {
-      "id": "47322815",
-      "title": "Intel Demos Chip to Compute with Encrypted Data",
-      "url": "https://spectrum.ieee.org/fhe-intel",
-      "points": 238,
-      "author": "sohkamyung",
-      "created_at": 1773148248,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=47322815"
-    },
-    {
-      "id": "47329557",
-      "title": "Cloudflare crawl endpoint",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "points": 233,
-      "author": "jeffpalmer",
-      "created_at": 1773181635,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=47329557"
-    },
-    {
-      "id": "47326101",
-      "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
-      "url": "https://github.com/RunanywhereAI/rcli",
-      "points": 203,
-      "author": "sanchitmonga22",
-      "created_at": 1773162892,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=47326101"
-    },
-    {
-      "id": "47328214",
-      "title": "RISC-V Is Sloooow",
-      "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
-      "points": 202,
-      "author": "todsacerdoti",
-      "created_at": 1773173514,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=47328214"
-    },
-    {
-      "id": "47323105",
-      "title": "Rebasing in Magit",
-      "url": "https://entropicthoughts.com/rebasing-in-magit",
-      "points": 200,
-      "author": "ibobev",
-      "created_at": 1773149919,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=47323105"
-    },
-    {
-      "id": "47329608",
-      "title": "Universal vaccine against respiratory infections and allergens",
-      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-      "points": 197,
-      "author": "phony-account",
-      "created_at": 1773182028,
-      "num_comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=47329608"
-    },
-    {
       "id": "47340079",
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
@@ -169,16 +9,6 @@
       "created_at": 1773257369,
       "num_comments": 1234,
       "hn_url": "https://news.ycombinator.com/item?id=47340079"
-    },
-    {
-      "id": "47332074",
-      "title": "Create value for others and don\u2019t worry about the returns",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "points": 665,
-      "author": "ppew",
-      "created_at": 1773207949,
-      "num_comments": 433,
-      "hn_url": "https://news.ycombinator.com/item?id=47332074"
     },
     {
       "id": "47336989",
@@ -201,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47335572"
     },
     {
-      "id": "47331811",
-      "title": "Making WebAssembly a first-class language on the Web",
-      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "points": 499,
-      "author": "mikece",
-      "created_at": 1773204286,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=47331811"
-    },
-    {
       "id": "47334293",
       "title": "The MacBook Neo",
       "url": "https://daringfireball.net/2026/03/the_macbook_neo",
@@ -229,16 +49,6 @@
       "created_at": 1773223143,
       "num_comments": 169,
       "hn_url": "https://news.ycombinator.com/item?id=47333627"
-    },
-    {
-      "id": "47330836",
-      "title": "Type resolution redesign, with language changes to taste",
-      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "points": 396,
-      "author": "Retro_Dev",
-      "created_at": 1773192287,
-      "num_comments": 229,
-      "hn_url": "https://news.ycombinator.com/item?id=47330836"
     },
     {
       "id": "47335237",
@@ -309,16 +119,6 @@
       "created_at": 1773263166,
       "num_comments": 244,
       "hn_url": "https://news.ycombinator.com/item?id=47341845"
-    },
-    {
-      "id": "47331034",
-      "title": "Writing my own text editor, and daily-driving it",
-      "url": "https://blog.jsbarretto.com/post/text-editor",
-      "points": 220,
-      "author": "todsacerdoti",
-      "created_at": 1773194662,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=47331034"
     },
     {
       "id": "47337607",
@@ -17929,7 +17729,207 @@
       "created_at": 1780808222,
       "num_comments": 43,
       "hn_url": "https://news.ycombinator.com/item?id=48431952"
+    },
+    {
+      "id": "48445554",
+      "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "points": 974,
+      "author": "lizhang",
+      "created_at": 1780927516,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=48445554"
+    },
+    {
+      "id": "48440792",
+      "title": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "points": 773,
+      "author": "igmn",
+      "created_at": 1780886544,
+      "num_comments": 400,
+      "hn_url": "https://news.ycombinator.com/item?id=48440792"
+    },
+    {
+      "id": "48444228",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "points": 643,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1780919882,
+      "num_comments": 432,
+      "hn_url": "https://news.ycombinator.com/item?id=48444228"
+    },
+    {
+      "id": "48447935",
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "points": 624,
+      "author": "bobbiechen",
+      "created_at": 1780938103,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=48447935"
+    },
+    {
+      "id": "48450142",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "points": 589,
+      "author": "unclefuzzy",
+      "created_at": 1780946087,
+      "num_comments": 448,
+      "hn_url": "https://news.ycombinator.com/item?id=48450142"
+    },
+    {
+      "id": "48449084",
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "points": 572,
+      "author": "0xedb",
+      "created_at": 1780942673,
+      "num_comments": 530,
+      "hn_url": "https://news.ycombinator.com/item?id=48449084"
+    },
+    {
+      "id": "48446639",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "points": 567,
+      "author": "gainsurier",
+      "created_at": 1780932453,
+      "num_comments": 418,
+      "hn_url": "https://news.ycombinator.com/item?id=48446639"
+    },
+    {
+      "id": "48450646",
+      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "points": 564,
+      "author": "g0xA52A2A",
+      "created_at": 1780947748,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=48450646"
+    },
+    {
+      "id": "48446428",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "points": 556,
+      "author": "martinald",
+      "created_at": 1780931623,
+      "num_comments": 436,
+      "hn_url": "https://news.ycombinator.com/item?id=48446428"
+    },
+    {
+      "id": "48446893",
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "points": 548,
+      "author": "crescit_eundo",
+      "created_at": 1780933597,
+      "num_comments": 568,
+      "hn_url": "https://news.ycombinator.com/item?id=48446893"
+    },
+    {
+      "id": "48446439",
+      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
+      "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+      "points": 427,
+      "author": "greedo",
+      "created_at": 1780931669,
+      "num_comments": 237,
+      "hn_url": "https://news.ycombinator.com/item?id=48446439"
+    },
+    {
+      "id": "48442075",
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+      "points": 426,
+      "author": "mhrmsn",
+      "created_at": 1780901766,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48442075"
+    },
+    {
+      "id": "48447062",
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "points": 409,
+      "author": "john-titor",
+      "created_at": 1780934344,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=48447062"
+    },
+    {
+      "id": "48440448",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "points": 391,
+      "author": "yogthos",
+      "created_at": 1780882770,
+      "num_comments": 219,
+      "hn_url": "https://news.ycombinator.com/item?id=48440448"
+    },
+    {
+      "id": "48442725",
+      "title": "The Cypherpunk Library",
+      "url": "https://www.cypherpunkbooks.com",
+      "points": 361,
+      "author": "yu3zhou4",
+      "created_at": 1780907572,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=48442725"
+    },
+    {
+      "id": "48452317",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "points": 337,
+      "author": "hackerBanana",
+      "created_at": 1780953763,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=48452317"
+    },
+    {
+      "id": "48448012",
+      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "points": 331,
+      "author": "01-_-",
+      "created_at": 1780938453,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=48448012"
+    },
+    {
+      "id": "48440064",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "points": 302,
+      "author": "DevarshRanpara",
+      "created_at": 1780878517,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48440064"
+    },
+    {
+      "id": "48449187",
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "points": 300,
+      "author": "aryamaan",
+      "created_at": 1780942959,
+      "num_comments": 487,
+      "hn_url": "https://news.ycombinator.com/item?id=48449187"
+    },
+    {
+      "id": "48440952",
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "points": 299,
+      "author": "882542F3884314B",
+      "created_at": 1780888630,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=48440952"
     }
   ],
-  "last_updated": "2026-06-08T10:28:41.023508+00:00"
+  "last_updated": "2026-06-09T09:34:05.794004+00:00"
 }
