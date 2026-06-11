@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "47350424",
-      "title": "Malus \u2013 Clean Room as a Service",
-      "url": "https://malus.sh",
-      "points": 1169,
-      "author": "microflash",
-      "created_at": 1773322924,
-      "num_comments": 428,
-      "hn_url": "https://news.ycombinator.com/item?id=47350424"
-    },
-    {
-      "id": "47357042",
-      "title": "Shall I implement it? No",
-      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "points": 1133,
-      "author": "breton",
-      "created_at": 1773349270,
-      "num_comments": 431,
-      "hn_url": "https://news.ycombinator.com/item?id=47357042"
-    },
-    {
-      "id": "47356968",
-      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "points": 541,
-      "author": "rectang",
-      "created_at": 1773348951,
-      "num_comments": 281,
-      "hn_url": "https://news.ycombinator.com/item?id=47356968"
-    },
-    {
-      "id": "47352215",
-      "title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war",
-      "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
-      "points": 389,
-      "author": "speckx",
-      "created_at": 1773329437,
-      "num_comments": 325,
-      "hn_url": "https://news.ycombinator.com/item?id=47352215"
-    },
-    {
-      "id": "47351371",
-      "title": "ATMs didn\u2019t kill bank teller jobs, but the iPhone did",
-      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "points": 387,
-      "author": "colinprince",
-      "created_at": 1773326937,
-      "num_comments": 416,
-      "hn_url": "https://news.ycombinator.com/item?id=47351371"
-    },
-    {
-      "id": "47349277",
-      "title": "Big data on the cheapest MacBook",
-      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
-      "points": 340,
-      "author": "bcye",
-      "created_at": 1773315674,
-      "num_comments": 273,
-      "hn_url": "https://news.ycombinator.com/item?id=47349277"
-    },
-    {
-      "id": "47349806",
-      "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
-      "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
-      "points": 332,
-      "author": "JumpCrisscross",
-      "created_at": 1773319485,
-      "num_comments": 396,
-      "hn_url": "https://news.ycombinator.com/item?id=47349806"
-    },
-    {
-      "id": "47354098",
-      "title": "Bubble Sorted Amen Break",
-      "url": "https://parametricavocado.itch.io/amen-sorting",
-      "points": 306,
-      "author": "eieio",
-      "created_at": 1773335636,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=47354098"
-    },
-    {
-      "id": "47350931",
-      "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
-      "url": "https://codespeak.dev/",
-      "points": 288,
-      "author": "souvlakee",
-      "created_at": 1773325363,
-      "num_comments": 246,
-      "hn_url": "https://news.ycombinator.com/item?id=47350931"
-    },
-    {
-      "id": "47353533",
-      "title": "Reversing memory loss via gut-brain communication",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "points": 283,
-      "author": "mustaphah",
-      "created_at": 1773333531,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=47353533"
-    },
-    {
-      "id": "47352459",
-      "title": "The Met releases high-def 3D scans of 140 famous art objects",
-      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "points": 261,
-      "author": "coloneltcb",
-      "created_at": 1773330219,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=47352459"
-    },
-    {
-      "id": "47352297",
-      "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
-      "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
-      "points": 259,
-      "author": "amarcheschi",
-      "created_at": 1773329681,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=47352297"
-    },
-    {
-      "id": "47349798",
-      "title": "US banks' exposure to private credit hits $300B (2025)",
-      "url": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
-      "points": 214,
-      "author": "JumpCrisscross",
-      "created_at": 1773319406,
-      "num_comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=47349798"
-    },
-    {
-      "id": "47362528",
-      "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
-      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
-      "points": 1207,
-      "author": "shaicoleman",
-      "created_at": 1773396956,
-      "num_comments": 509,
-      "hn_url": "https://news.ycombinator.com/item?id=47362528"
-    },
-    {
       "id": "47363754",
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
@@ -149,16 +9,6 @@
       "created_at": 1773405970,
       "num_comments": 278,
       "hn_url": "https://news.ycombinator.com/item?id=47363754"
-    },
-    {
-      "id": "47359744",
-      "title": "\u201cThis is not the computer for you\u201d",
-      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "points": 948,
-      "author": "MBCook",
-      "created_at": 1773366349,
-      "num_comments": 366,
-      "hn_url": "https://news.ycombinator.com/item?id=47359744"
     },
     {
       "id": "47362613",
@@ -179,16 +29,6 @@
       "created_at": 1773422341,
       "num_comments": 222,
       "hn_url": "https://news.ycombinator.com/item?id=47367129"
-    },
-    {
-      "id": "47360730",
-      "title": "Vite 8.0 Is Out",
-      "url": "https://vite.dev/blog/announcing-vite8",
-      "points": 522,
-      "author": "kothariji",
-      "created_at": 1773376600,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=47360730"
     },
     {
       "id": "47363584",
@@ -231,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47363922"
     },
     {
-      "id": "47361913",
-      "title": "Bucketsquatting is finally dead",
-      "url": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
-      "points": 318,
-      "author": "boyter",
-      "created_at": 1773390693,
-      "num_comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=47361913"
-    },
-    {
       "id": "47367568",
       "title": "Your phone is an entire computer",
       "url": "https://medhir.com/blog/your-phone-is-an-entire-computer",
@@ -259,16 +89,6 @@
       "created_at": 1773424294,
       "num_comments": 387,
       "hn_url": "https://news.ycombinator.com/item?id=47367463"
-    },
-    {
-      "id": "47360978",
-      "title": "Lost Doctor Who episodes found",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
-      "points": 273,
-      "author": "edent",
-      "created_at": 1773379081,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=47360978"
     },
     {
       "id": "47368033",
@@ -299,16 +119,6 @@
       "created_at": 1773411096,
       "num_comments": 325,
       "hn_url": "https://news.ycombinator.com/item?id=47364729"
-    },
-    {
-      "id": "47362350",
-      "title": "Source code of Swedish e-government services has been leaked",
-      "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
-      "points": 213,
-      "author": "tavro",
-      "created_at": 1773395130,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=47362350"
     },
     {
       "id": "47365597",
@@ -17899,7 +17709,207 @@
       "created_at": 1781020781,
       "num_comments": 93,
       "hn_url": "https://news.ycombinator.com/item?id=48462823"
+    },
+    {
+      "id": "48469658",
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "points": 1222,
+      "author": "timsneath",
+      "created_at": 1781051341,
+      "num_comments": 425,
+      "hn_url": "https://news.ycombinator.com/item?id=48469658"
+    },
+    {
+      "id": "48475483",
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "points": 1133,
+      "author": "edent",
+      "created_at": 1781095547,
+      "num_comments": 511,
+      "hn_url": "https://news.ycombinator.com/item?id=48475483"
+    },
+    {
+      "id": "48470248",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "points": 982,
+      "author": "ahlCVA",
+      "created_at": 1781055853,
+      "num_comments": 520,
+      "hn_url": "https://news.ycombinator.com/item?id=48470248"
+    },
+    {
+      "id": "48480978",
+      "title": "\u03c0FS",
+      "url": "https://github.com/philipl/pifs",
+      "points": 755,
+      "author": "helterskelter",
+      "created_at": 1781117694,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=48480978"
+    },
+    {
+      "id": "48477135",
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "points": 671,
+      "author": "eries",
+      "created_at": 1781102872,
+      "num_comments": 490,
+      "hn_url": "https://news.ycombinator.com/item?id=48477135"
+    },
+    {
+      "id": "48472877",
+      "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "points": 530,
+      "author": "raffael_de",
+      "created_at": 1781077489,
+      "num_comments": 336,
+      "hn_url": "https://news.ycombinator.com/item?id=48472877"
+    },
+    {
+      "id": "48476466",
+      "title": "PgDog is funded and coming to a database near you",
+      "url": "https://pgdog.dev/blog/our-funding-announcement",
+      "points": 468,
+      "author": "levkk",
+      "created_at": 1781100179,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=48476466"
+    },
+    {
+      "id": "48481126",
+      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+      "points": 456,
+      "author": "maxloh",
+      "created_at": 1781118410,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=48481126"
+    },
+    {
+      "id": "48478969",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "points": 443,
+      "author": "speckx",
+      "created_at": 1781109720,
+      "num_comments": 386,
+      "hn_url": "https://news.ycombinator.com/item?id=48478969"
+    },
+    {
+      "id": "48479452",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "points": 403,
+      "author": "tonyrice",
+      "created_at": 1781111516,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=48479452"
+    },
+    {
+      "id": "48473166",
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "points": 403,
+      "author": "TomAnthony",
+      "created_at": 1781079698,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=48473166"
+    },
+    {
+      "id": "48471970",
+      "title": "Chrome is looking to permanently drop MV2 extension",
+      "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+      "points": 397,
+      "author": "d3Xt3r",
+      "created_at": 1781070607,
+      "num_comments": 404,
+      "hn_url": "https://news.ycombinator.com/item?id=48471970"
+    },
+    {
+      "id": "48478471",
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "points": 306,
+      "author": "meetpateltech",
+      "created_at": 1781107777,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=48478471"
+    },
+    {
+      "id": "48480852",
+      "title": "Anthropic's model naming, extrapolated",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "points": 305,
+      "author": "sammycdubs",
+      "created_at": 1781117120,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=48480852"
+    },
+    {
+      "id": "48481857",
+      "title": "Raspberry Pi 5 \u2013 16GB RAM",
+      "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+      "points": 266,
+      "author": "akman",
+      "created_at": 1781121921,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=48481857"
+    },
+    {
+      "id": "48477551",
+      "title": "US Consumer Price Index up 4.2%",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "points": 261,
+      "author": "ortusdux",
+      "created_at": 1781104240,
+      "num_comments": 288,
+      "hn_url": "https://news.ycombinator.com/item?id=48477551"
+    },
+    {
+      "id": "48479852",
+      "title": "GeoLibre 1.0",
+      "url": "https://geolibre.app/",
+      "points": 243,
+      "author": "jonbaer",
+      "created_at": 1781113187,
+      "num_comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=48479852"
+    },
+    {
+      "id": "48475100",
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
+      "url": "https://jivx.com/eki",
+      "points": 239,
+      "author": "momentmaker",
+      "created_at": 1781093488,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=48475100"
+    },
+    {
+      "id": "48479705",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "points": 236,
+      "author": "pseudolus",
+      "created_at": 1781112648,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=48479705"
+    },
+    {
+      "id": "48475871",
+      "title": "Ask HN: Are most corporate SWE jobs performative?",
+      "url": "https://news.ycombinator.com/item?id=48475871",
+      "points": 224,
+      "author": "hnthrow10282910",
+      "created_at": 1781097514,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=48475871"
     }
   ],
-  "last_updated": "2026-06-10T09:50:46.423532+00:00"
+  "last_updated": "2026-06-11T10:16:07.018906+00:00"
 }
