@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47381791",
-      "title": "Ageless Linux \u2013 Software for humans of indeterminate age",
-      "url": "https://agelesslinux.org/",
-      "points": 521,
-      "author": "nateb2022",
-      "created_at": 1773526226,
-      "num_comments": 333,
-      "hn_url": "https://news.ycombinator.com/item?id=47381791"
-    },
-    {
-      "id": "47378638",
-      "title": "What happens when US economic data becomes unreliable",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
-      "points": 327,
-      "author": "inaros",
-      "created_at": 1773507520,
-      "num_comments": 343,
-      "hn_url": "https://news.ycombinator.com/item?id=47378638"
-    },
-    {
-      "id": "47375085",
-      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
-      "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-      "points": 266,
-      "author": "edward",
-      "created_at": 1773482758,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47375085"
-    },
-    {
-      "id": "47376767",
-      "title": "Montana passes Right to Compute act (2025)",
-      "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-      "points": 261,
-      "author": "bilsbie",
-      "created_at": 1773496798,
-      "num_comments": 229,
-      "hn_url": "https://news.ycombinator.com/item?id=47376767"
-    },
-    {
-      "id": "47375764",
-      "title": "XML is a cheap DSL",
-      "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "points": 249,
-      "author": "y1n0",
-      "created_at": 1773489553,
-      "num_comments": 245,
-      "hn_url": "https://news.ycombinator.com/item?id=47375764"
-    },
-    {
-      "id": "47380647",
-      "title": "Claude March 2026 usage promotion",
-      "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
-      "points": 226,
-      "author": "weldu",
-      "created_at": 1773518934,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47380647"
-    },
-    {
-      "id": "47380465",
-      "title": "GIMP 3.2 released",
-      "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
-      "points": 216,
-      "author": "F3nd0",
-      "created_at": 1773517885,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=47380465"
-    },
-    {
-      "id": "47380294",
-      "title": "Head of FCC threatens broadcaster licenses over critical coverage of Iran war",
-      "url": "https://twitter.com/BrendanCarrFCC/status/2032855414233047172",
-      "points": 209,
-      "author": "theahura",
-      "created_at": 1773516937,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=47380294"
-    },
-    {
-      "id": "47375682",
-      "title": "Please do not A/B test my workflow",
-      "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-      "points": 162,
-      "author": "ramoz",
-      "created_at": 1773488789,
-      "num_comments": 202,
-      "hn_url": "https://news.ycombinator.com/item?id=47375682"
-    },
-    {
-      "id": "47380405",
-      "title": "2026 tech layoffs reach 45,000 in March",
-      "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
-      "points": 157,
-      "author": "ninadwrites",
-      "created_at": 1773517609,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=47380405"
-    },
-    {
-      "id": "47378268",
-      "title": "Nmap in the movies (2008)",
-      "url": "https://nmap.org/movies/",
-      "points": 153,
-      "author": "homebrewer",
-      "created_at": 1773505534,
-      "num_comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=47378268"
-    },
-    {
-      "id": "47380295",
-      "title": "Marketing for Founders",
-      "url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "points": 152,
-      "author": "jimsojim",
-      "created_at": 1773516940,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=47380295"
-    },
-    {
-      "id": "47381746",
-      "title": "Changes to OpenTTD Distribution on Steam",
-      "url": "https://www.openttd.org/news/2026/03/14/steam-changes",
-      "points": 151,
-      "author": "canpan",
-      "created_at": 1773525888,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=47381746"
-    },
-    {
-      "id": "47381382",
-      "title": "Show HN: Han \u2013 A Korean programming language written in Rust",
-      "url": "https://github.com/xodn348/han",
-      "points": 149,
-      "author": "xodn348",
-      "created_at": 1773523653,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=47381382"
-    },
-    {
-      "id": "47376848",
-      "title": "Philosoph J\u00fcrgen Habermas Gestorben",
-      "url": "https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363",
-      "points": 145,
-      "author": "sebastian_z",
-      "created_at": 1773497298,
-      "num_comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=47376848"
-    },
-    {
-      "id": "47379067",
-      "title": "Sunsetting Jazzband",
-      "url": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
-      "points": 140,
-      "author": "mooreds",
-      "created_at": 1773510023,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=47379067"
-    },
-    {
-      "id": "47381340",
-      "title": "Launching the Claude Partner Network",
-      "url": "https://www.anthropic.com/news/claude-partner-network",
-      "points": 128,
-      "author": "gmays",
-      "created_at": 1773523422,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=47381340"
-    },
-    {
       "id": "47392084",
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
@@ -211,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47385935"
     },
     {
-      "id": "47385272",
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "points": 357,
-      "author": "ingve",
-      "created_at": 1773561895,
-      "num_comments": 291,
-      "hn_url": "https://news.ycombinator.com/item?id=47385272"
-    },
-    {
       "id": "47388676",
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
@@ -239,26 +59,6 @@
       "created_at": 1773571655,
       "num_comments": 30,
       "hn_url": "https://news.ycombinator.com/item?id=47386116"
-    },
-    {
-      "id": "47382791",
-      "title": "How kernel anti-cheats work",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "points": 343,
-      "author": "davikr",
-      "created_at": 1773533710,
-      "num_comments": 300,
-      "hn_url": "https://news.ycombinator.com/item?id=47382791"
-    },
-    {
-      "id": "47384352",
-      "title": "Rack-mount hydroponics",
-      "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "points": 337,
-      "author": "cdrnsf",
-      "created_at": 1773548623,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=47384352"
     },
     {
       "id": "47388646",
@@ -339,16 +139,6 @@
       "created_at": 1773578897,
       "num_comments": 295,
       "hn_url": "https://news.ycombinator.com/item?id=47386908"
-    },
-    {
-      "id": "47384032",
-      "title": "A most elegant TCP hole punching algorithm",
-      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "points": 211,
-      "author": "Uptrenda",
-      "created_at": 1773545357,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=47384032"
     },
     {
       "id": "47390021",
@@ -17939,7 +17729,207 @@
       "created_at": 1781194202,
       "num_comments": 461,
       "hn_url": "https://news.ycombinator.com/item?id=48492304"
+    },
+    {
+      "id": "48500012",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "points": 1414,
+      "author": "xiaoyu2006",
+      "created_at": 1781239373,
+      "num_comments": 514,
+      "hn_url": "https://news.ycombinator.com/item?id=48500012"
+    },
+    {
+      "id": "48505231",
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "points": 809,
+      "author": "gmays",
+      "created_at": 1781277324,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=48505231"
+    },
+    {
+      "id": "48498573",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "points": 741,
+      "author": "lumpa",
+      "created_at": 1781226411,
+      "num_comments": 637,
+      "hn_url": "https://news.ycombinator.com/item?id=48498573"
+    },
+    {
+      "id": "48498385",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "points": 738,
+      "author": "sam_bristow",
+      "created_at": 1781224691,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=48498385"
+    },
+    {
+      "id": "48502347",
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "points": 427,
+      "author": "nekofneko",
+      "created_at": 1781260970,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=48502347"
+    },
+    {
+      "id": "48510010",
+      "title": "Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "points": 423,
+      "author": "bestouff",
+      "created_at": 1781302083,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=48510010"
+    },
+    {
+      "id": "48507278",
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "points": 406,
+      "author": "speckx",
+      "created_at": 1781286766,
+      "num_comments": 332,
+      "hn_url": "https://news.ycombinator.com/item?id=48507278"
+    },
+    {
+      "id": "48507020",
+      "title": "How to setup a local coding agent on macOS",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "points": 358,
+      "author": "kkm",
+      "created_at": 1781285695,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=48507020"
+    },
+    {
+      "id": "48509182",
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "points": 326,
+      "author": "sschueller",
+      "created_at": 1781296776,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=48509182"
+    },
+    {
+      "id": "48504697",
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "points": 319,
+      "author": "FergusArgyll",
+      "created_at": 1781274809,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=48504697"
+    },
+    {
+      "id": "48500447",
+      "title": "AUR packages compromised with Infostealer and Rootkit",
+      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+      "points": 290,
+      "author": "keyle",
+      "created_at": 1781243979,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=48500447"
+    },
+    {
+      "id": "48507282",
+      "title": "I Am Not a Reverse Centaur",
+      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "points": 263,
+      "author": "ibobev",
+      "created_at": 1781286800,
+      "num_comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=48507282"
+    },
+    {
+      "id": "48506659",
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "url": "https://piwodlaiwo.github.io/pirates/",
+      "points": 252,
+      "author": "iweczek",
+      "created_at": 1781284066,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=48506659"
+    },
+    {
+      "id": "48502601",
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "points": 247,
+      "author": "danosull",
+      "created_at": 1781262702,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=48502601"
+    },
+    {
+      "id": "48504063",
+      "title": "WASI 0.3",
+      "url": "https://bytecodealliance.org/articles/WASI-0.3",
+      "points": 245,
+      "author": "mavdol04",
+      "created_at": 1781272275,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=48504063"
+    },
+    {
+      "id": "48500404",
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+      "points": 235,
+      "author": "dotcoma",
+      "created_at": 1781243599,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=48500404"
+    },
+    {
+      "id": "48508726",
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "points": 193,
+      "author": "DASD",
+      "created_at": 1781294067,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=48508726"
+    },
+    {
+      "id": "48502321",
+      "title": "The Future of Email",
+      "url": "https://www.fastmail.com/blog/the-future-of-email/",
+      "points": 192,
+      "author": "soheilpro",
+      "created_at": 1781260711,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=48502321"
+    },
+    {
+      "id": "48510046",
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "points": 192,
+      "author": "redbell",
+      "created_at": 1781302409,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=48510046"
+    },
+    {
+      "id": "48504912",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "points": 191,
+      "author": "FergusArgyll",
+      "created_at": 1781275718,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=48504912"
     }
   ],
-  "last_updated": "2026-06-12T10:04:01.572322+00:00"
+  "last_updated": "2026-06-13T08:52:07.340779+00:00"
 }
