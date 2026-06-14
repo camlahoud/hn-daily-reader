@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47392084",
-      "title": "Canada's bill C-22 mandates mass metadata surveillance",
-      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "points": 601,
-      "author": "opengrass",
-      "created_at": 1773609736,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=47392084"
-    },
-    {
-      "id": "47390945",
-      "title": "The 49MB web page",
-      "url": "https://thatshubham.com/blog/news-audit",
-      "points": 452,
-      "author": "kermatt",
-      "created_at": 1773602718,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=47390945"
-    },
-    {
-      "id": "47390817",
-      "title": "Chrome DevTools MCP (2025)",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "points": 439,
-      "author": "xnx",
-      "created_at": 1773601973,
-      "num_comments": 183,
-      "hn_url": "https://news.ycombinator.com/item?id=47390817"
-    },
-    {
-      "id": "47385935",
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "points": 391,
-      "author": "ZacnyLos",
-      "created_at": 1773569747,
-      "num_comments": 350,
-      "hn_url": "https://news.ycombinator.com/item?id=47385935"
-    },
-    {
-      "id": "47388676",
-      "title": "LLM Architecture Gallery",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "points": 355,
-      "author": "tzury",
-      "created_at": 1773590469,
-      "num_comments": 27,
-      "hn_url": "https://news.ycombinator.com/item?id=47388676"
-    },
-    {
-      "id": "47386116",
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "points": 348,
-      "author": "vismit2000",
-      "created_at": 1773571655,
-      "num_comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=47386116"
-    },
-    {
-      "id": "47388646",
-      "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-      "url": "https://news.ycombinator.com/item?id=47388646",
-      "points": 294,
-      "author": "svara",
-      "created_at": 1773590303,
-      "num_comments": 478,
-      "hn_url": "https://news.ycombinator.com/item?id=47388646"
-    },
-    {
-      "id": "47392550",
-      "title": "Nasdaq's Shame",
-      "url": "https://keubiko.substack.com/p/nasdaqs-shame",
-      "points": 283,
-      "author": "imichael",
-      "created_at": 1773612969,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=47392550"
-    },
-    {
-      "id": "47390233",
-      "title": "Office.eu launches as Europe's sovereign office platform",
-      "url": "https://office.eu/media/pressrelease-20260304",
-      "points": 273,
-      "author": "campuscodi",
-      "created_at": 1773598956,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=47390233"
-    },
-    {
-      "id": "47388137",
-      "title": "Separating the Wayland compositor and window manager",
-      "url": "https://isaacfreund.com/blog/river-window-management/",
-      "points": 269,
-      "author": "dpassens",
-      "created_at": 1773587364,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=47388137"
-    },
-    {
-      "id": "47387047",
-      "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
-      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "points": 248,
-      "author": "robinhouston",
-      "created_at": 1773580082,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=47387047"
-    },
-    {
-      "id": "47389570",
-      "title": "Stop Sloppypasta",
-      "url": "https://stopsloppypasta.ai/",
-      "points": 244,
-      "author": "namnnumbr",
-      "created_at": 1773595500,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=47389570"
-    },
-    {
-      "id": "47386636",
-      "title": "The 100 hour gap between a vibecoded prototype and a working product",
-      "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-      "points": 234,
-      "author": "kiwieater",
-      "created_at": 1773576570,
-      "num_comments": 312,
-      "hn_url": "https://news.ycombinator.com/item?id=47386636"
-    },
-    {
-      "id": "47386908",
-      "title": "Harold and George Destroy the World",
-      "url": "https://tomclancy.info/harold-and-george.html",
-      "points": 227,
-      "author": "tclancy",
-      "created_at": 1773578897,
-      "num_comments": 295,
-      "hn_url": "https://news.ycombinator.com/item?id=47386908"
-    },
-    {
-      "id": "47390021",
-      "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
-      "points": 207,
-      "author": "Amorymeltzer",
-      "created_at": 1773597874,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=47390021"
-    },
-    {
-      "id": "47386813",
-      "title": "I'm 60 years old. Claude Code killed a passion",
-      "url": "https://news.ycombinator.com/item?id=47386813",
-      "points": 199,
-      "author": "fred1268",
-      "created_at": 1773578122,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=47386813"
-    },
-    {
       "id": "47397822",
       "title": "Polymarket gamblers threaten to kill me over Iran missile story",
       "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
@@ -199,16 +39,6 @@
       "created_at": 1773662253,
       "num_comments": 255,
       "hn_url": "https://news.ycombinator.com/item?id=47397797"
-    },
-    {
-      "id": "47394022",
-      "title": "How I write software with LLMs",
-      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "points": 491,
-      "author": "indigodaddy",
-      "created_at": 1773624249,
-      "num_comments": 471,
-      "hn_url": "https://news.ycombinator.com/item?id=47394022"
     },
     {
       "id": "47400060",
@@ -301,16 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47398681"
     },
     {
-      "id": "47396264",
-      "title": "Starlink Mini as a failover",
-      "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-      "points": 240,
-      "author": "jkpe",
-      "created_at": 1773648449,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=47396264"
-    },
-    {
       "id": "47400868",
       "title": "Show HN: Claude Code skills that build complete Godot games",
       "url": "https://github.com/htdt/godogen",
@@ -349,16 +169,6 @@
       "created_at": 1773656642,
       "num_comments": 174,
       "hn_url": "https://news.ycombinator.com/item?id=47397190"
-    },
-    {
-      "id": "47393619",
-      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
-      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-      "points": 164,
-      "author": "anjel",
-      "created_at": 1773620568,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=47393619"
     },
     {
       "id": "47408703",
@@ -17929,7 +17739,207 @@
       "created_at": 1781275718,
       "num_comments": 119,
       "hn_url": "https://news.ycombinator.com/item?id=48504912"
+    },
+    {
+      "id": "48511072",
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "points": 3079,
+      "author": "Dylan1312",
+      "created_at": 1781311890,
+      "num_comments": 2242,
+      "hn_url": "https://news.ycombinator.com/item?id=48511072"
+    },
+    {
+      "id": "48511908",
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "points": 1537,
+      "author": "vednig",
+      "created_at": 1781316864,
+      "num_comments": 467,
+      "hn_url": "https://news.ycombinator.com/item?id=48511908"
+    },
+    {
+      "id": "48517377",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "points": 821,
+      "author": "nl",
+      "created_at": 1781358896,
+      "num_comments": 509,
+      "hn_url": "https://news.ycombinator.com/item?id=48517377"
+    },
+    {
+      "id": "48516251",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "points": 702,
+      "author": "ravenical",
+      "created_at": 1781350820,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=48516251"
+    },
+    {
+      "id": "48519092",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "points": 683,
+      "author": "ls612",
+      "created_at": 1781369869,
+      "num_comments": 501,
+      "hn_url": "https://news.ycombinator.com/item?id=48519092"
+    },
+    {
+      "id": "48514560",
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "points": 644,
+      "author": "pera",
+      "created_at": 1781336739,
+      "num_comments": 370,
+      "hn_url": "https://news.ycombinator.com/item?id=48514560"
+    },
+    {
+      "id": "48518684",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "points": 568,
+      "author": "aloknnikhil",
+      "created_at": 1781367511,
+      "num_comments": 307,
+      "hn_url": "https://news.ycombinator.com/item?id=48518684"
+    },
+    {
+      "id": "48513806",
+      "title": "Leaving Mozilla",
+      "url": "https://blog.unitedheroes.net/5751",
+      "points": 481,
+      "author": "martey",
+      "created_at": 1781330234,
+      "num_comments": 295,
+      "hn_url": "https://news.ycombinator.com/item?id=48513806"
+    },
+    {
+      "id": "48513536",
+      "title": "There is a shadow hanging over this Fable thing",
+      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "points": 472,
+      "author": "theahura",
+      "created_at": 1781327801,
+      "num_comments": 465,
+      "hn_url": "https://news.ycombinator.com/item?id=48513536"
+    },
+    {
+      "id": "48517199",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "points": 360,
+      "author": "andsoitis",
+      "created_at": 1781357640,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=48517199"
+    },
+    {
+      "id": "48520807",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "points": 319,
+      "author": "austinallegro",
+      "created_at": 1781380495,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=48520807"
+    },
+    {
+      "id": "48516379",
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "points": 296,
+      "author": "qwertox",
+      "created_at": 1781351730,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=48516379"
+    },
+    {
+      "id": "48515336",
+      "title": "A low-carbon computing platform from your retired phones",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "points": 289,
+      "author": "vikas-sharma",
+      "created_at": 1781343512,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=48515336"
+    },
+    {
+      "id": "48518969",
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "points": 287,
+      "author": "sbochins",
+      "created_at": 1781369103,
+      "num_comments": 237,
+      "hn_url": "https://news.ycombinator.com/item?id=48518969"
+    },
+    {
+      "id": "48516504",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "points": 259,
+      "author": "hek2sch",
+      "created_at": 1781352647,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=48516504"
+    },
+    {
+      "id": "48511121",
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "points": 251,
+      "author": "jesse_dot_id",
+      "created_at": 1781312286,
+      "num_comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=48511121"
+    },
+    {
+      "id": "48515454",
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "points": 246,
+      "author": "iMil",
+      "created_at": 1781344532,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=48515454"
+    },
+    {
+      "id": "48516710",
+      "title": "The experience of rendering Arabic typography and its technical debt",
+      "url": "https://lr0.org/blog/p/arabic/",
+      "points": 228,
+      "author": "bookofjoe",
+      "created_at": 1781354416,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=48516710"
+    },
+    {
+      "id": "48522486",
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "points": 217,
+      "author": "jeditobe",
+      "created_at": 1781392925,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=48522486"
+    },
+    {
+      "id": "48519552",
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "points": 186,
+      "author": "tosh",
+      "created_at": 1781372582,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=48519552"
     }
   ],
-  "last_updated": "2026-06-13T08:52:07.340779+00:00"
+  "last_updated": "2026-06-14T09:27:15.570148+00:00"
 }
