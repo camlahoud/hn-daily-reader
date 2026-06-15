@@ -1,216 +1,6 @@
 {
   "posts": [
     {
-      "id": "47397822",
-      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "points": 1438,
-      "author": "defly",
-      "created_at": 1773662406,
-      "num_comments": 924,
-      "hn_url": "https://news.ycombinator.com/item?id=47397822"
-    },
-    {
-      "id": "47402950",
-      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
-      "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
-      "points": 1046,
-      "author": "tartoran",
-      "created_at": 1773686294,
-      "num_comments": 297,
-      "hn_url": "https://news.ycombinator.com/item?id=47402950"
-    },
-    {
-      "id": "47397593",
-      "title": "Corruption erodes social trust more in democracies than in autocracies",
-      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "points": 693,
-      "author": "PaulHoule",
-      "created_at": 1773660331,
-      "num_comments": 363,
-      "hn_url": "https://news.ycombinator.com/item?id=47397593"
-    },
-    {
-      "id": "47397797",
-      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
-      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-      "points": 619,
-      "author": "vrganj",
-      "created_at": 1773662253,
-      "num_comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=47397797"
-    },
-    {
-      "id": "47400060",
-      "title": "US Job Market Visualizer",
-      "url": "https://karpathy.ai/jobs/",
-      "points": 454,
-      "author": "andygcook",
-      "created_at": 1773673830,
-      "num_comments": 333,
-      "hn_url": "https://news.ycombinator.com/item?id=47400060"
-    },
-    {
-      "id": "47404796",
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "points": 427,
-      "author": "Poudlardo",
-      "created_at": 1773694780,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=47404796"
-    },
-    {
-      "id": "47402640",
-      "title": "Meta\u2019s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "points": 404,
-      "author": "hahahacorn",
-      "created_at": 1773684752,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47402640"
-    },
-    {
-      "id": "47397574",
-      "title": "Why I love FreeBSD",
-      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
-      "points": 402,
-      "author": "enz",
-      "created_at": 1773660194,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=47397574"
-    },
-    {
-      "id": "47401879",
-      "title": "The \u201csmall web\u201d is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "points": 377,
-      "author": "speckx",
-      "created_at": 1773681477,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=47401879"
-    },
-    {
-      "id": "47398534",
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "points": 358,
-      "author": "Vaslo",
-      "created_at": 1773666598,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=47398534"
-    },
-    {
-      "id": "47401809",
-      "title": "The American Healthcare Conundrum",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "points": 314,
-      "author": "rexroad",
-      "created_at": 1773681207,
-      "num_comments": 269,
-      "hn_url": "https://news.ycombinator.com/item?id=47401809"
-    },
-    {
-      "id": "47397920",
-      "title": "Obsession with growth is destroying nature, 150 countries warn",
-      "url": "https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/",
-      "points": 271,
-      "author": "speckx",
-      "created_at": 1773663239,
-      "num_comments": 206,
-      "hn_url": "https://news.ycombinator.com/item?id=47397920"
-    },
-    {
-      "id": "47398681",
-      "title": "AirPods Max 2",
-      "url": "https://www.apple.com/airpods-max/",
-      "points": 262,
-      "author": "ssijak",
-      "created_at": 1773667323,
-      "num_comments": 444,
-      "hn_url": "https://news.ycombinator.com/item?id=47398681"
-    },
-    {
-      "id": "47400868",
-      "title": "Show HN: Claude Code skills that build complete Godot games",
-      "url": "https://github.com/htdt/godogen",
-      "points": 231,
-      "author": "htdt",
-      "created_at": 1773677249,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47400868"
-    },
-    {
-      "id": "47398479",
-      "title": "'Pok\u00e9mon Go' players unknowingly trained delivery robots with 30B images",
-      "url": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
-      "points": 191,
-      "author": "wslh",
-      "created_at": 1773666333,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=47398479"
-    },
-    {
-      "id": "47397857",
-      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
-      "url": "https://github.com/emin-ozata/lazycut",
-      "points": 187,
-      "author": "masterpos",
-      "created_at": 1773662708,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=47397857"
-    },
-    {
-      "id": "47397190",
-      "title": "Ask HN: What is it like being in a CS major program these days?",
-      "url": "https://news.ycombinator.com/item?id=47397190",
-      "points": 176,
-      "author": "tathagatadg",
-      "created_at": 1773656642,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=47397190"
-    },
-    {
-      "id": "47408703",
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "points": 1345,
-      "author": "smitec",
-      "created_at": 1773722382,
-      "num_comments": 325,
-      "hn_url": "https://news.ycombinator.com/item?id=47408703"
-    },
-    {
-      "id": "47410870",
-      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-      "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "points": 854,
-      "author": "doener",
-      "created_at": 1773743988,
-      "num_comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=47410870"
-    },
-    {
-      "id": "47406779",
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "points": 737,
-      "author": "djoldman",
-      "created_at": 1773705755,
-      "num_comments": 444,
-      "hn_url": "https://news.ycombinator.com/item?id=47406779"
-    },
-    {
-      "id": "47410542",
-      "title": "Kagi Small Web",
-      "url": "https://kagi.com/smallweb/",
-      "points": 735,
-      "author": "trueduke",
-      "created_at": 1773741233,
-      "num_comments": 198,
-      "hn_url": "https://news.ycombinator.com/item?id=47410542"
-    },
-    {
       "id": "47413876",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
@@ -229,16 +19,6 @@
       "created_at": 1773773990,
       "num_comments": 47,
       "hn_url": "https://news.ycombinator.com/item?id=47416736"
-    },
-    {
-      "id": "47408205",
-      "title": "Every layer of review makes you 10x slower",
-      "url": "https://apenwarr.ca/log/20260316",
-      "points": 522,
-      "author": "greyface-",
-      "created_at": 1773717636,
-      "num_comments": 298,
-      "hn_url": "https://news.ycombinator.com/item?id=47408205"
     },
     {
       "id": "47413525",
@@ -17939,7 +17719,207 @@
       "created_at": 1781372582,
       "num_comments": 65,
       "hn_url": "https://news.ycombinator.com/item?id=48519552"
+    },
+    {
+      "id": "48533848",
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "points": 676,
+      "author": "sohkamyung",
+      "created_at": 1781477695,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=48533848"
+    },
+    {
+      "id": "48526360",
+      "title": "How to earn a billion dollars",
+      "url": "https://paulgraham.com/earn.html",
+      "points": 654,
+      "author": "kingstoned",
+      "created_at": 1781437848,
+      "num_comments": 1677,
+      "hn_url": "https://news.ycombinator.com/item?id=48526360"
+    },
+    {
+      "id": "48529990",
+      "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "points": 584,
+      "author": "tamnd",
+      "created_at": 1781457938,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=48529990"
+    },
+    {
+      "id": "48527700",
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "points": 471,
+      "author": "yegg",
+      "created_at": 1781448269,
+      "num_comments": 504,
+      "hn_url": "https://news.ycombinator.com/item?id=48527700"
+    },
+    {
+      "id": "48523080",
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "points": 397,
+      "author": "librick",
+      "created_at": 1781398186,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=48523080"
+    },
+    {
+      "id": "48533101",
+      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
+      "points": 395,
+      "author": "josephcsible",
+      "created_at": 1781473332,
+      "num_comments": 265,
+      "hn_url": "https://news.ycombinator.com/item?id=48533101"
+    },
+    {
+      "id": "48528029",
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "points": 378,
+      "author": "iliashad",
+      "created_at": 1781450037,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=48528029"
+    },
+    {
+      "id": "48528371",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "points": 361,
+      "author": "unrvl22",
+      "created_at": 1781451451,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=48528371"
+    },
+    {
+      "id": "48523992",
+      "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "points": 347,
+      "author": "robhati",
+      "created_at": 1781408610,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=48523992"
+    },
+    {
+      "id": "48528729",
+      "title": "Linux 7.1",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+      "points": 296,
+      "author": "berlianta",
+      "created_at": 1781452890,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=48528729"
+    },
+    {
+      "id": "48526633",
+      "title": "Formal methods and the future of programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+      "points": 285,
+      "author": "eatonphil",
+      "created_at": 1781440527,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=48526633"
+    },
+    {
+      "id": "48524620",
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "points": 254,
+      "author": "computersuck",
+      "created_at": 1781417229,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=48524620"
+    },
+    {
+      "id": "48528779",
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48528779",
+      "points": 251,
+      "author": "david927",
+      "created_at": 1781453128,
+      "num_comments": 911,
+      "hn_url": "https://news.ycombinator.com/item?id=48528779"
+    },
+    {
+      "id": "48526661",
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "points": 225,
+      "author": "subset",
+      "created_at": 1781440711,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48526661"
+    },
+    {
+      "id": "48527658",
+      "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown",
+      "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
+      "points": 220,
+      "author": "tambourine_man",
+      "created_at": 1781448033,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=48527658"
+    },
+    {
+      "id": "48524135",
+      "title": "Pac-Man, but you're the ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "points": 206,
+      "author": "mindracer",
+      "created_at": 1781410725,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=48524135"
+    },
+    {
+      "id": "48524293",
+      "title": "Phoenix LiveView 1.2",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "points": 200,
+      "author": "ksec",
+      "created_at": 1781412831,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=48524293"
+    },
+    {
+      "id": "48527145",
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "url": "https://su3.io/posts/zeroserve-caddy-compat",
+      "points": 195,
+      "author": "losfair",
+      "created_at": 1781444588,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=48527145"
+    },
+    {
+      "id": "48529149",
+      "title": "Swiss voters reject proposal to cap population at ten million",
+      "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+      "points": 193,
+      "author": "FabCH",
+      "created_at": 1781454534,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=48529149"
+    },
+    {
+      "id": "48533504",
+      "title": "Did Anthropic ask for this?",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "points": 186,
+      "author": "ad8e",
+      "created_at": 1781475785,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=48533504"
     }
   ],
-  "last_updated": "2026-06-14T09:27:15.570148+00:00"
+  "last_updated": "2026-06-15T11:55:12.544040+00:00"
 }
