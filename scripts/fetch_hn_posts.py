@@ -31,20 +31,57 @@ def get_yesterday_timestamps():
     return int(yesterday_start.timestamp()), int(yesterday_end.timestamp())
 
 
-def fetch_hn_posts(start_ts, end_ts):
-    """Fetch top posts from Algolia HN API for the given time range."""
-    params = {
-        "tags": "story",
-        "numericFilters": f"created_at_i>={start_ts},created_at_i<={end_ts},points>={MIN_POINTS}",
-        "hitsPerPage": POSTS_PER_DAY,
-    }
-    url = f"{ALGOLIA_API_URL}?{urllib.parse.urlencode(params)}"
-
-    print(f"Fetching posts from: {url}")
-
+def _get_json(url):
+    """GET a URL and return parsed JSON, surfacing the response body on errors."""
     req = urllib.request.Request(url, headers={"User-Agent": "HN-Daily-Reader/1.0"})
     with urllib.request.urlopen(req, timeout=30) as response:
-        data = json.loads(response.read().decode("utf-8"))
+        return json.loads(response.read().decode("utf-8"))
+
+
+def fetch_hn_posts(start_ts, end_ts):
+    """Fetch top posts from Algolia HN API for the given time range.
+
+    The HN Algolia backend has rejected the bare comma-separated ``numericFilters``
+    string with HTTP 400 (the feed broke this way in June 2026 with no code change).
+    Newer/stricter Algolia query parsers want the JSON-array form or the ``filters``
+    expression, so we try the documented variants in order and use the first that
+    succeeds. On failure we print Algolia's actual response body so a future break
+    is never just an opaque "400 Bad Request".
+    """
+    base = {"tags": "story", "hitsPerPage": POSTS_PER_DAY}
+    strategies = [
+        # Canonical Algolia form: numericFilters as a JSON array of conditions.
+        ("numericFilters (JSON array)", {**base, "numericFilters": json.dumps([
+            f"created_at_i>={start_ts}",
+            f"created_at_i<={end_ts}",
+            f"points>={MIN_POINTS}",
+        ])}),
+        # Modern `filters` expression.
+        ("filters expression", {**base, "filters":
+            f"created_at_i>={start_ts} AND created_at_i<={end_ts} AND points>={MIN_POINTS}"}),
+        # Legacy comma-separated numericFilters (original behaviour).
+        ("numericFilters (comma)", {**base, "numericFilters":
+            f"created_at_i>={start_ts},created_at_i<={end_ts},points>={MIN_POINTS}"}),
+    ]
+
+    data = None
+    last_error = None
+    for label, params in strategies:
+        url = f"{ALGOLIA_API_URL}?{urllib.parse.urlencode(params)}"
+        print(f"Trying {label}: {url}")
+        try:
+            data = _get_json(url)
+            break
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", "replace")[:500]
+            last_error = f"HTTP {e.code} {e.reason}: {body}"
+            print(f"  -> failed: {last_error}")
+        except urllib.error.URLError as e:
+            last_error = f"URLError: {e.reason}"
+            print(f"  -> failed: {last_error}")
+
+    if data is None:
+        raise RuntimeError(f"All Algolia query strategies failed. Last error: {last_error}")
 
     posts = []
     for hit in data.get("hits", []):
