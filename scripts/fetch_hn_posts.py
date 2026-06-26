@@ -31,28 +31,49 @@ def get_yesterday_timestamps():
     return int(yesterday_start.timestamp()), int(yesterday_end.timestamp())
 
 
-def fetch_hn_posts(start_ts, end_ts):
-    """Fetch top posts from Algolia HN API for the given time range."""
-    params = {
-        "tags": "story",
-        "numericFilters": f"created_at_i>={start_ts},created_at_i<={end_ts},points>={MIN_POINTS}",
-        "hitsPerPage": POSTS_PER_DAY,
-    }
-    url = f"{ALGOLIA_API_URL}?{urllib.parse.urlencode(params)}"
-
-    print(f"Fetching posts from: {url}")
-
+def _get_json(url):
+    """GET a URL and return parsed JSON, surfacing the response body on errors."""
     req = urllib.request.Request(url, headers={"User-Agent": "HN-Daily-Reader/1.0"})
     with urllib.request.urlopen(req, timeout=30) as response:
-        data = json.loads(response.read().decode("utf-8"))
+        return json.loads(response.read().decode("utf-8"))
+
+
+def fetch_hn_posts(start_ts, end_ts):
+    """Fetch the day's top posts from the Algolia HN API for the given time range.
+
+    As of 2026-06-17 the HN Algolia index no longer exposes ``points`` in its
+    ``numericAttributesForFiltering`` setting, so a server-side ``points>=N``
+    filter returns HTTP 400 ("invalid numeric attribute(points)"). This silently
+    broke the daily feed. We now filter by the ``created_at_i`` range server-side
+    (still supported) and apply the points threshold client-side instead. On
+    failure we surface Algolia's response body so future breakage is diagnosable.
+    """
+    params = {
+        "tags": "story",
+        "numericFilters": f"created_at_i>={start_ts},created_at_i<={end_ts}",
+        # Pull a generous page since we filter by points locally; the HN index is
+        # ranked by popularity, so the day's highest-scoring stories come first.
+        "hitsPerPage": 100,
+    }
+    url = f"{ALGOLIA_API_URL}?{urllib.parse.urlencode(params)}"
+    print(f"Fetching posts from: {url}")
+
+    try:
+        data = _get_json(url)
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "replace")[:500]
+        raise RuntimeError(f"Algolia request failed: HTTP {e.code} {e.reason}: {body}") from e
 
     posts = []
     for hit in data.get("hits", []):
+        points = hit.get("points", 0)
+        if points < MIN_POINTS:
+            continue
         post = {
             "id": hit["objectID"],
             "title": hit.get("title", "Untitled"),
             "url": hit.get("url") or f"https://news.ycombinator.com/item?id={hit['objectID']}",
-            "points": hit.get("points", 0),
+            "points": points,
             "author": hit.get("author", "unknown"),
             "created_at": hit.get("created_at_i", 0),
             "num_comments": hit.get("num_comments", 0),
@@ -60,9 +81,9 @@ def fetch_hn_posts(start_ts, end_ts):
         }
         posts.append(post)
 
-    # Sort by points descending
+    # Sort by points descending and keep the top N for the day.
     posts.sort(key=lambda x: x["points"], reverse=True)
-    return posts
+    return posts[:POSTS_PER_DAY]
 
 
 def load_feed_data(filepath):
