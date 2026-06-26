@@ -39,57 +39,41 @@ def _get_json(url):
 
 
 def fetch_hn_posts(start_ts, end_ts):
-    """Fetch top posts from Algolia HN API for the given time range.
+    """Fetch the day's top posts from the Algolia HN API for the given time range.
 
-    The HN Algolia backend has rejected the bare comma-separated ``numericFilters``
-    string with HTTP 400 (the feed broke this way in June 2026 with no code change).
-    Newer/stricter Algolia query parsers want the JSON-array form or the ``filters``
-    expression, so we try the documented variants in order and use the first that
-    succeeds. On failure we print Algolia's actual response body so a future break
-    is never just an opaque "400 Bad Request".
+    As of 2026-06-17 the HN Algolia index no longer exposes ``points`` in its
+    ``numericAttributesForFiltering`` setting, so a server-side ``points>=N``
+    filter returns HTTP 400 ("invalid numeric attribute(points)"). This silently
+    broke the daily feed. We now filter by the ``created_at_i`` range server-side
+    (still supported) and apply the points threshold client-side instead. On
+    failure we surface Algolia's response body so future breakage is diagnosable.
     """
-    base = {"tags": "story", "hitsPerPage": POSTS_PER_DAY}
-    strategies = [
-        # Canonical Algolia form: numericFilters as a JSON array of conditions.
-        ("numericFilters (JSON array)", {**base, "numericFilters": json.dumps([
-            f"created_at_i>={start_ts}",
-            f"created_at_i<={end_ts}",
-            f"points>={MIN_POINTS}",
-        ])}),
-        # Modern `filters` expression.
-        ("filters expression", {**base, "filters":
-            f"created_at_i>={start_ts} AND created_at_i<={end_ts} AND points>={MIN_POINTS}"}),
-        # Legacy comma-separated numericFilters (original behaviour).
-        ("numericFilters (comma)", {**base, "numericFilters":
-            f"created_at_i>={start_ts},created_at_i<={end_ts},points>={MIN_POINTS}"}),
-    ]
+    params = {
+        "tags": "story",
+        "numericFilters": f"created_at_i>={start_ts},created_at_i<={end_ts}",
+        # Pull a generous page since we filter by points locally; the HN index is
+        # ranked by popularity, so the day's highest-scoring stories come first.
+        "hitsPerPage": 100,
+    }
+    url = f"{ALGOLIA_API_URL}?{urllib.parse.urlencode(params)}"
+    print(f"Fetching posts from: {url}")
 
-    data = None
-    last_error = None
-    for label, params in strategies:
-        url = f"{ALGOLIA_API_URL}?{urllib.parse.urlencode(params)}"
-        print(f"Trying {label}: {url}")
-        try:
-            data = _get_json(url)
-            break
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", "replace")[:500]
-            last_error = f"HTTP {e.code} {e.reason}: {body}"
-            print(f"  -> failed: {last_error}")
-        except urllib.error.URLError as e:
-            last_error = f"URLError: {e.reason}"
-            print(f"  -> failed: {last_error}")
-
-    if data is None:
-        raise RuntimeError(f"All Algolia query strategies failed. Last error: {last_error}")
+    try:
+        data = _get_json(url)
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "replace")[:500]
+        raise RuntimeError(f"Algolia request failed: HTTP {e.code} {e.reason}: {body}") from e
 
     posts = []
     for hit in data.get("hits", []):
+        points = hit.get("points", 0)
+        if points < MIN_POINTS:
+            continue
         post = {
             "id": hit["objectID"],
             "title": hit.get("title", "Untitled"),
             "url": hit.get("url") or f"https://news.ycombinator.com/item?id={hit['objectID']}",
-            "points": hit.get("points", 0),
+            "points": points,
             "author": hit.get("author", "unknown"),
             "created_at": hit.get("created_at_i", 0),
             "num_comments": hit.get("num_comments", 0),
@@ -97,9 +81,9 @@ def fetch_hn_posts(start_ts, end_ts):
         }
         posts.append(post)
 
-    # Sort by points descending
+    # Sort by points descending and keep the top N for the day.
     posts.sort(key=lambda x: x["points"], reverse=True)
-    return posts
+    return posts[:POSTS_PER_DAY]
 
 
 def load_feed_data(filepath):
