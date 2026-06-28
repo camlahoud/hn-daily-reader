@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "47561489",
-      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-      "url": "https://news.ycombinator.com/item?id=47561489",
-      "points": 708,
-      "author": "hrncode",
-      "created_at": 1774774704,
-      "num_comments": 405,
-      "hn_url": "https://news.ycombinator.com/item?id=47561489"
-    },
-    {
-      "id": "47563655",
-      "title": "Say No to Palantir in Europe",
-      "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
-      "points": 545,
-      "author": "Betelbuddy",
-      "created_at": 1774795880,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=47563655"
-    },
-    {
-      "id": "47566865",
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "points": 539,
-      "author": "alberto-m",
-      "created_at": 1774815665,
-      "num_comments": 355,
-      "hn_url": "https://news.ycombinator.com/item?id=47566865"
-    },
-    {
-      "id": "47561711",
-      "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "points": 538,
-      "author": "giuliomagnifico",
-      "created_at": 1774777618,
-      "num_comments": 243,
-      "hn_url": "https://news.ycombinator.com/item?id=47561711"
-    },
-    {
-      "id": "47564421",
-      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "points": 500,
-      "author": "speckx",
-      "created_at": 1774800742,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=47564421"
-    },
-    {
-      "id": "47566442",
-      "title": "The Cognitive Dark Forest",
-      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "points": 395,
-      "author": "kaycebasques",
-      "created_at": 1774812981,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=47566442"
-    },
-    {
-      "id": "47563384",
-      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-      "points": 385,
-      "author": "ourmandave",
-      "created_at": 1774794023,
-      "num_comments": 165,
-      "hn_url": "https://news.ycombinator.com/item?id=47563384"
-    },
-    {
-      "id": "47565316",
-      "title": "Neovim 0.12.0",
-      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-      "points": 348,
-      "author": "pawelgrzybek",
-      "created_at": 1774805995,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=47565316"
-    },
-    {
-      "id": "47561819",
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "url": "https://github.com/austin-weeks/miasma",
-      "points": 311,
-      "author": "LucidLynx",
-      "created_at": 1774779012,
-      "num_comments": 224,
-      "hn_url": "https://news.ycombinator.com/item?id=47561819"
-    },
-    {
-      "id": "47564245",
-      "title": "Full network of clitoral nerves mapped out for first time",
-      "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
-      "points": 271,
-      "author": "onei",
-      "created_at": 1774799665,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=47564245"
-    },
-    {
-      "id": "47567969",
-      "title": "Claude Code runs Git reset \u2013hard origin/main against project repo every 10 mins",
-      "url": "https://github.com/anthropics/claude-code/issues/40710",
-      "points": 234,
-      "author": "mthwsjc_",
-      "created_at": 1774822506,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=47567969"
-    },
-    {
-      "id": "47565365",
-      "title": "C++26 is done: ISO C++ standards meeting Trip Report",
-      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "points": 216,
-      "author": "pjmlp",
-      "created_at": 1774806372,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=47565365"
-    },
-    {
-      "id": "47564469",
-      "title": "The bot situation on the internet is worse than you could imagine",
-      "url": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
-      "points": 212,
-      "author": "ohjeez",
-      "created_at": 1774801050,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=47564469"
-    },
-    {
-      "id": "47566143",
-      "title": "My MacBook keyboard is broken and it's insanely expensive to fix",
-      "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
-      "points": 157,
-      "author": "TobiasBerg",
-      "created_at": 1774811300,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47566143"
-    },
-    {
-      "id": "47568028",
-      "title": "Coding Agents Could Make Free Software Matter Again",
-      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "points": 156,
-      "author": "rogueleaderr",
-      "created_at": 1774822894,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=47568028"
-    },
-    {
-      "id": "47566491",
-      "title": "The \"Vibe Coding\" Wall of Shame",
-      "url": "https://crackr.dev/vibe-coding-failures",
-      "points": 122,
-      "author": "wa5ina",
-      "created_at": 1774813346,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=47566491"
-    },
-    {
-      "id": "47565264",
-      "title": "Netscape News Feed Straight Out of the Late 00s",
-      "url": "https://isp.netscape.com/",
-      "points": 110,
-      "author": "mistyvales",
-      "created_at": 1774805660,
-      "num_comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=47565264"
-    },
-    {
-      "id": "47563007",
-      "title": "TSA lines are so out of control that travelers are hiring line-sitters",
-      "url": "https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/",
-      "points": 105,
-      "author": "bookofjoe",
-      "created_at": 1774791145,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=47563007"
-    },
-    {
-      "id": "47570269",
-      "title": "Copilot edited an ad into my PR",
-      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-      "points": 1497,
-      "author": "pavo-etc",
-      "created_at": 1774843471,
-      "num_comments": 619,
-      "hn_url": "https://news.ycombinator.com/item?id=47570269"
-    },
-    {
       "id": "47574034",
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
@@ -221,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47573519"
     },
     {
-      "id": "47569471",
-      "title": "Philly courts will ban all smart eyeglasses starting next week",
-      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
-      "points": 397,
-      "author": "Philadelphia",
-      "created_at": 1774834697,
-      "num_comments": 206,
-      "hn_url": "https://news.ycombinator.com/item?id=47569471"
-    },
-    {
       "id": "47575403",
       "title": "CodingFont: A game to help you pick a coding font",
       "url": "https://www.codingfont.com/",
@@ -249,16 +49,6 @@
       "created_at": 1774873716,
       "num_comments": 486,
       "hn_url": "https://news.ycombinator.com/item?id=47573420"
-    },
-    {
-      "id": "47570666",
-      "title": "The curious case of retro demo scene graphics",
-      "url": "https://www.datagubbe.se/aipixels/",
-      "points": 348,
-      "author": "zdw",
-      "created_at": 1774848438,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=47570666"
     },
     {
       "id": "47575212",
@@ -291,26 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47573887"
     },
     {
-      "id": "47569502",
-      "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
-      "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
-      "points": 304,
-      "author": "smcleod",
-      "created_at": 1774835000,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=47569502"
-    },
-    {
-      "id": "47571279",
-      "title": "I am definitely missing the pre-AI writing era",
-      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-      "points": 303,
-      "author": "joozio",
-      "created_at": 1774854198,
-      "num_comments": 223,
-      "hn_url": "https://news.ycombinator.com/item?id=47571279"
-    },
-    {
       "id": "47578572",
       "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
       "url": "https://anishathalye.com/macbook-touchscreen/",
@@ -321,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47578572"
     },
     {
-      "id": "47570940",
-      "title": "15 years, one server, 8GB RAM and 500k users \u2013 how Webminal refuses to die",
-      "url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
-      "points": 286,
-      "author": "giis",
-      "created_at": 1774850933,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=47570940"
-    },
-    {
       "id": "47575616",
       "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
@@ -339,16 +99,6 @@
       "created_at": 1774884757,
       "num_comments": 137,
       "hn_url": "https://news.ycombinator.com/item?id=47575616"
-    },
-    {
-      "id": "47571376",
-      "title": "I use Excalidraw to manage my diagrams for my blog",
-      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "points": 275,
-      "author": "mlysk",
-      "created_at": 1774855026,
-      "num_comments": 111,
-      "hn_url": "https://news.ycombinator.com/item?id=47571376"
     },
     {
       "id": "47580350",
@@ -16149,7 +15899,207 @@
       "created_at": 1782455079,
       "num_comments": 1,
       "hn_url": "https://news.ycombinator.com/item?id=48683021"
+    },
+    {
+      "id": "48698617",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "points": 791,
+      "author": "binyu",
+      "created_at": 1782570660,
+      "num_comments": 307,
+      "hn_url": "https://news.ycombinator.com/item?id=48698617"
+    },
+    {
+      "id": "48696585",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "points": 758,
+      "author": "aurenvale",
+      "created_at": 1782551932,
+      "num_comments": 318,
+      "hn_url": "https://news.ycombinator.com/item?id=48696585"
+    },
+    {
+      "id": "48697560",
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "points": 692,
+      "author": "tosh",
+      "created_at": 1782562227,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=48697560"
+    },
+    {
+      "id": "48698684",
+      "title": "Zuckerberg's war on whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "points": 690,
+      "author": "HotGarbage",
+      "created_at": 1782571085,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=48698684"
+    },
+    {
+      "id": "48696982",
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "points": 551,
+      "author": "signa11",
+      "created_at": 1782556133,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=48696982"
+    },
+    {
+      "id": "48697335",
+      "title": "The case for physical media ownership",
+      "url": "https://dervis.de/physical/",
+      "points": 429,
+      "author": "cemdervis",
+      "created_at": 1782559930,
+      "num_comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=48697335"
+    },
+    {
+      "id": "48700834",
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "url": "https://ipcrawl.com/",
+      "points": 294,
+      "author": "arm32",
+      "created_at": 1782587389,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48700834"
+    },
+    {
+      "id": "48697768",
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "points": 268,
+      "author": "speckx",
+      "created_at": 1782564196,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=48697768"
+    },
+    {
+      "id": "48698151",
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "points": 234,
+      "author": "tosh",
+      "created_at": 1782567140,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=48698151"
+    },
+    {
+      "id": "48695149",
+      "title": "OpenTTD 16.0-Beta1",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "points": 225,
+      "author": "untilted",
+      "created_at": 1782534666,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=48695149"
+    },
+    {
+      "id": "48699928",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "points": 222,
+      "author": "eustoria",
+      "created_at": 1782580280,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=48699928"
+    },
+    {
+      "id": "48697958",
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "points": 221,
+      "author": "bogdiyan",
+      "created_at": 1782565821,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=48697958"
+    },
+    {
+      "id": "48701822",
+      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+      "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+      "points": 187,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1782594859,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=48701822"
+    },
+    {
+      "id": "48694853",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "points": 169,
+      "author": "droidjj",
+      "created_at": 1782531001,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=48694853"
+    },
+    {
+      "id": "48702060",
+      "title": "Michigan spent $1.8B and only created 602 jobs",
+      "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+      "points": 165,
+      "author": "littlexsparkee",
+      "created_at": 1782596697,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=48702060"
+    },
+    {
+      "id": "48701984",
+      "title": "What Ozempic does to the gut-brain axis",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "points": 154,
+      "author": "randycupertino",
+      "created_at": 1782596046,
+      "num_comments": 345,
+      "hn_url": "https://news.ycombinator.com/item?id=48701984"
+    },
+    {
+      "id": "48702273",
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "points": 147,
+      "author": "pawal",
+      "created_at": 1782598288,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=48702273"
+    },
+    {
+      "id": "48698559",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "points": 146,
+      "author": "Versipelle",
+      "created_at": 1782570220,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=48698559"
+    },
+    {
+      "id": "48694631",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "points": 142,
+      "author": "signa11",
+      "created_at": 1782528113,
+      "num_comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=48694631"
+    },
+    {
+      "id": "48697746",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "points": 129,
+      "author": "rwmj",
+      "created_at": 1782564059,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=48697746"
     }
   ],
-  "last_updated": "2026-06-27T08:30:37.280123+00:00"
+  "last_updated": "2026-06-28T08:45:43.699167+00:00"
 }
