@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "47574034",
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "points": 653,
-      "author": "yabones",
-      "created_at": 1774877334,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=47574034"
-    },
-    {
-      "id": "47577761",
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "points": 530,
-      "author": "speckx",
-      "created_at": 1774894560,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=47577761"
-    },
-    {
-      "id": "47573519",
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "points": 479,
-      "author": "karimf",
-      "created_at": 1774874396,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47573519"
-    },
-    {
-      "id": "47575403",
-      "title": "CodingFont: A game to help you pick a coding font",
-      "url": "https://www.codingfont.com/",
-      "points": 389,
-      "author": "nvahalik",
-      "created_at": 1774883795,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=47575403"
-    },
-    {
-      "id": "47573420",
-      "title": "How the AI Bubble Bursts",
-      "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-      "points": 357,
-      "author": "martinvol",
-      "created_at": 1774873716,
-      "num_comments": 486,
-      "hn_url": "https://news.ycombinator.com/item?id=47573420"
-    },
-    {
-      "id": "47575212",
-      "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
-      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-      "points": 340,
-      "author": "bundie",
-      "created_at": 1774882828,
-      "num_comments": 10,
-      "hn_url": "https://news.ycombinator.com/item?id=47575212"
-    },
-    {
-      "id": "47576861",
-      "title": "New Washington state law bans noncompete agreements",
-      "url": "https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/",
-      "points": 316,
-      "author": "toomuchtodo",
-      "created_at": 1774890095,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=47576861"
-    },
-    {
-      "id": "47573887",
-      "title": "Bird brains (2023)",
-      "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "points": 313,
-      "author": "DiffTheEnder",
-      "created_at": 1774876467,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=47573887"
-    },
-    {
-      "id": "47578572",
-      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "url": "https://anishathalye.com/macbook-touchscreen/",
-      "points": 287,
-      "author": "HughParry",
-      "created_at": 1774898553,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=47578572"
-    },
-    {
-      "id": "47575616",
-      "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
-      "points": 285,
-      "author": "gnabgib",
-      "created_at": 1774884757,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47575616"
-    },
-    {
-      "id": "47580350",
-      "title": "Show HN: 30u30.fyi \u2013 Is your startup founder on Forbes' most fraudulent list?",
-      "url": "https://30u30.fyi",
-      "points": 232,
-      "author": "not-chatgpt",
-      "created_at": 1774908622,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=47580350"
-    },
-    {
-      "id": "47579229",
-      "title": "Learn Claude Code by doing, not reading",
-      "url": "https://claude.nagdy.me/",
-      "points": 222,
-      "author": "taubek",
-      "created_at": 1774901983,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=47579229"
-    },
-    {
-      "id": "47580297",
-      "title": "Android Developer Verification",
-      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "points": 221,
-      "author": "ingve",
-      "created_at": 1774908321,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=47580297"
-    },
-    {
-      "id": "47584540",
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "points": 1964,
-      "author": "treexs",
-      "created_at": 1774947640,
-      "num_comments": 961,
-      "hn_url": "https://news.ycombinator.com/item?id=47584540"
-    },
-    {
-      "id": "47582220",
-      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "points": 1818,
-      "author": "mtud",
-      "created_at": 1774925657,
-      "num_comments": 735,
-      "hn_url": "https://news.ycombinator.com/item?id=47582220"
-    },
-    {
       "id": "47586778",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
@@ -171,36 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47587935"
     },
     {
-      "id": "47582043",
-      "title": "Artemis II is not safe to fly",
-      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "points": 830,
-      "author": "idlewords",
-      "created_at": 1774923830,
-      "num_comments": 571,
-      "hn_url": "https://news.ycombinator.com/item?id=47582043"
-    },
-    {
-      "id": "47582482",
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "url": "https://ollama.com/blog/mlx",
-      "points": 614,
-      "author": "redundantly",
-      "created_at": 1774928445,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=47582482"
-    },
-    {
-      "id": "47582984",
-      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-      "points": 577,
-      "author": "_____k",
-      "created_at": 1774933884,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=47582984"
-    },
-    {
       "id": "47587866",
       "title": "Microsoft: Copilot is for entertainment purposes only",
       "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
@@ -219,16 +39,6 @@
       "created_at": 1774983689,
       "num_comments": 111,
       "hn_url": "https://news.ycombinator.com/item?id=47591928"
-    },
-    {
-      "id": "47581701",
-      "title": "Universal Claude.md \u2013 cut Claude output tokens",
-      "url": "https://github.com/drona23/claude-token-efficient",
-      "points": 454,
-      "author": "killme2008",
-      "created_at": 1774920214,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=47581701"
     },
     {
       "id": "47591104",
@@ -271,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47586176"
     },
     {
-      "id": "47583045",
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "url": "https://github.com/google-research/timesfm",
-      "points": 299,
-      "author": "codepawl",
-      "created_at": 1774934519,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47583045"
-    },
-    {
       "id": "47588658",
       "title": "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
       "url": "https://news.ycombinator.com/item?id=47588658",
@@ -289,16 +89,6 @@
       "created_at": 1774970411,
       "num_comments": 90,
       "hn_url": "https://news.ycombinator.com/item?id=47588658"
-    },
-    {
-      "id": "47584795",
-      "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-      "points": 264,
-      "author": "KoftaBob",
-      "created_at": 1774949443,
-      "num_comments": 716,
-      "hn_url": "https://news.ycombinator.com/item?id=47584795"
     },
     {
       "id": "47593556",
@@ -16099,7 +15889,207 @@
       "created_at": 1782564059,
       "num_comments": 111,
       "hn_url": "https://news.ycombinator.com/item?id=48697746"
+    },
+    {
+      "id": "48709670",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "points": 872,
+      "author": "jms703",
+      "created_at": 1782669047,
+      "num_comments": 402,
+      "hn_url": "https://news.ycombinator.com/item?id=48709670"
+    },
+    {
+      "id": "48707719",
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "points": 668,
+      "author": "NeutralForest",
+      "created_at": 1782657613,
+      "num_comments": 382,
+      "hn_url": "https://news.ycombinator.com/item?id=48707719"
+    },
+    {
+      "id": "48706560",
+      "title": "The KIDS Act would require age checks to get online",
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "points": 497,
+      "author": "bilsbie",
+      "created_at": 1782647776,
+      "num_comments": 396,
+      "hn_url": "https://news.ycombinator.com/item?id=48706560"
+    },
+    {
+      "id": "48708941",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "points": 441,
+      "author": "engmarketer",
+      "created_at": 1782664519,
+      "num_comments": 576,
+      "hn_url": "https://news.ycombinator.com/item?id=48708941"
+    },
+    {
+      "id": "48708991",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "points": 415,
+      "author": "geox",
+      "created_at": 1782664872,
+      "num_comments": 552,
+      "hn_url": "https://news.ycombinator.com/item?id=48708991"
+    },
+    {
+      "id": "48703759",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "points": 404,
+      "author": "reaperducer",
+      "created_at": 1782613388,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=48703759"
+    },
+    {
+      "id": "48710232",
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "points": 401,
+      "author": "rbanffy",
+      "created_at": 1782672533,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=48710232"
+    },
+    {
+      "id": "48703452",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "points": 385,
+      "author": "herbertl",
+      "created_at": 1782610090,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=48703452"
+    },
+    {
+      "id": "48707763",
+      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "points": 372,
+      "author": "xbryanx",
+      "created_at": 1782657896,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=48707763"
+    },
+    {
+      "id": "48707673",
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "points": 366,
+      "author": "SanjayMehta",
+      "created_at": 1782657326,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=48707673"
+    },
+    {
+      "id": "48710092",
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "points": 316,
+      "author": "vga1",
+      "created_at": 1782671573,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=48710092"
+    },
+    {
+      "id": "48708182",
+      "title": "Show HN: Zanagrams",
+      "url": "https://zanagrams.com/",
+      "points": 296,
+      "author": "pompomsheep",
+      "created_at": 1782660374,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48708182"
+    },
+    {
+      "id": "48707769",
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+      "points": 257,
+      "author": "cebert",
+      "created_at": 1782657963,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=48707769"
+    },
+    {
+      "id": "48706814",
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "points": 245,
+      "author": "colinprince",
+      "created_at": 1782650664,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=48706814"
+    },
+    {
+      "id": "48703968",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "points": 234,
+      "author": "speckx",
+      "created_at": 1782616153,
+      "num_comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=48703968"
+    },
+    {
+      "id": "48703258",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "points": 228,
+      "author": "jakogut",
+      "created_at": 1782607612,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=48703258"
+    },
+    {
+      "id": "48706714",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "points": 209,
+      "author": "pikseladam",
+      "created_at": 1782649653,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=48706714"
+    },
+    {
+      "id": "48703412",
+      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "points": 191,
+      "author": "jackpriceburns",
+      "created_at": 1782609680,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48703412"
+    },
+    {
+      "id": "48703613",
+      "title": "Feds Killed Polestar and Spared Volvo",
+      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+      "points": 174,
+      "author": "mraniki",
+      "created_at": 1782611721,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=48703613"
+    },
+    {
+      "id": "48707361",
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "url": "https://github.com/open-energy-transition/open-tyndp",
+      "points": 163,
+      "author": "lyoncy",
+      "created_at": 1782655547,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=48707361"
     }
   ],
-  "last_updated": "2026-06-28T08:45:43.699167+00:00"
+  "last_updated": "2026-06-29T10:48:20.587292+00:00"
 }
