@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "47586778",
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "points": 1100,
-      "author": "alex000kim",
-      "created_at": 1774962270,
-      "num_comments": 425,
-      "hn_url": "https://news.ycombinator.com/item?id=47586778"
-    },
-    {
-      "id": "47587935",
-      "title": "Oracle slashes 30k jobs",
-      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "points": 857,
-      "author": "pje",
-      "created_at": 1774967448,
-      "num_comments": 781,
-      "hn_url": "https://news.ycombinator.com/item?id=47587935"
-    },
-    {
-      "id": "47587866",
-      "title": "Microsoft: Copilot is for entertainment purposes only",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-      "points": 506,
-      "author": "lpcvoid",
-      "created_at": 1774967137,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=47587866"
-    },
-    {
-      "id": "47591928",
-      "title": "GitHub's Historic Uptime",
-      "url": "https://damrnelson.github.io/github-historical-uptime/",
-      "points": 458,
-      "author": "todsacerdoti",
-      "created_at": 1774983689,
-      "num_comments": 111,
-      "hn_url": "https://news.ycombinator.com/item?id=47591928"
-    },
-    {
-      "id": "47591104",
-      "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
-      "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
-      "points": 436,
-      "author": "whiteboardr",
-      "created_at": 1774979704,
-      "num_comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=47591104"
-    },
-    {
-      "id": "47592755",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "points": 415,
-      "author": "surprisetalk",
-      "created_at": 1774987650,
-      "num_comments": 362,
-      "hn_url": "https://news.ycombinator.com/item?id=47592755"
-    },
-    {
-      "id": "47586614",
-      "title": "Open source CAD in the browser (Solvespace)",
-      "url": "https://solvespace.com/webver.pl",
-      "points": 320,
-      "author": "phkahler",
-      "created_at": 1774961423,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47586614"
-    },
-    {
-      "id": "47586176",
-      "title": "Claude Code users hitting usage limits 'way faster than expected'",
-      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-      "points": 299,
-      "author": "samizdis",
-      "created_at": 1774959089,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=47586176"
-    },
-    {
-      "id": "47588658",
-      "title": "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
-      "url": "https://news.ycombinator.com/item?id=47588658",
-      "points": 277,
-      "author": "joering2",
-      "created_at": 1774970411,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=47588658"
-    },
-    {
-      "id": "47593556",
-      "title": "A dot a day keeps the clutter away",
-      "url": "https://scottlawsonbc.com/post/dot-system",
-      "points": 261,
-      "author": "scottlawson",
-      "created_at": 1774991701,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=47593556"
-    },
-    {
-      "id": "47587953",
-      "title": "Slop is not necessarily the future",
-      "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "points": 218,
-      "author": "dakshgupta",
-      "created_at": 1774967546,
-      "num_comments": 372,
-      "hn_url": "https://news.ycombinator.com/item?id=47587953"
-    },
-    {
-      "id": "47593422",
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "url": "https://prismml.com/",
-      "points": 214,
-      "author": "PrismML",
-      "created_at": 1774990878,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47593422"
-    },
-    {
-      "id": "47597085",
-      "title": "Claude Code Unpacked : A visual guide",
-      "url": "https://ccunpacked.dev/",
-      "points": 1053,
-      "author": "autocracy101",
-      "created_at": 1775020537,
-      "num_comments": 371,
-      "hn_url": "https://news.ycombinator.com/item?id=47597085"
-    },
-    {
       "id": "47603657",
       "title": "Live: Artemis II Launch Day Updates",
       "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
@@ -161,26 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47606840"
     },
     {
-      "id": "47598511",
-      "title": "I quit. The clankers won",
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "points": 392,
-      "author": "domysee",
-      "created_at": 1775034034,
-      "num_comments": 454,
-      "hn_url": "https://news.ycombinator.com/item?id=47598511"
-    },
-    {
-      "id": "47597935",
-      "title": "CERN levels up with new superconducting karts",
-      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "points": 387,
-      "author": "fnands",
-      "created_at": 1775028433,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=47597935"
-    },
-    {
       "id": "47604155",
       "title": "SpaceX files to go public",
       "url": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
@@ -201,26 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47607447"
     },
     {
-      "id": "47597119",
-      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
-      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "points": 259,
-      "author": "ishqdehlvi",
-      "created_at": 1775020908,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=47597119"
-    },
-    {
-      "id": "47595620",
-      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
-      "points": 256,
-      "author": "Jimmc414",
-      "created_at": 1775006331,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=47595620"
-    },
-    {
       "id": "47600382",
       "title": "Is BGP safe yet?",
       "url": "https://isbgpsafeyet.com/",
@@ -229,26 +59,6 @@
       "created_at": 1775049029,
       "num_comments": 82,
       "hn_url": "https://news.ycombinator.com/item?id=47600382"
-    },
-    {
-      "id": "47595572",
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "points": 232,
-      "author": "Hooke",
-      "created_at": 1775005932,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=47595572"
-    },
-    {
-      "id": "47595865",
-      "title": "We intercepted the White House app's network traffic",
-      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "points": 231,
-      "author": "donutpepperoni",
-      "created_at": 1775008725,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=47595865"
     },
     {
       "id": "47601859",
@@ -269,16 +79,6 @@
       "created_at": 1775058930,
       "num_comments": 189,
       "hn_url": "https://news.ycombinator.com/item?id=47602565"
-    },
-    {
-      "id": "47595971",
-      "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
-      "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
-      "points": 202,
-      "author": "samlinnfer",
-      "created_at": 1775009682,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=47595971"
     },
     {
       "id": "47603737",
@@ -16089,7 +15889,207 @@
       "created_at": 1782655547,
       "num_comments": 39,
       "hn_url": "https://news.ycombinator.com/item?id=48707361"
+    },
+    {
+      "id": "48714529",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "points": 976,
+      "author": "arkhiver",
+      "created_at": 1782704527,
+      "num_comments": 601,
+      "hn_url": "https://news.ycombinator.com/item?id=48714529"
+    },
+    {
+      "id": "48713832",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "points": 976,
+      "author": "sambellll",
+      "created_at": 1782697480,
+      "num_comments": 415,
+      "hn_url": "https://news.ycombinator.com/item?id=48713832"
+    },
+    {
+      "id": "48721903",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "points": 904,
+      "author": "stared",
+      "created_at": 1782752716,
+      "num_comments": 609,
+      "hn_url": "https://news.ycombinator.com/item?id=48721903"
+    },
+    {
+      "id": "48716902",
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "points": 887,
+      "author": "taubek",
+      "created_at": 1782725288,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=48716902"
+    },
+    {
+      "id": "48717469",
+      "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
+      "url": "https://det.social/@lostgen/116820546568940358",
+      "points": 605,
+      "author": "Risse",
+      "created_at": 1782729951,
+      "num_comments": 1354,
+      "hn_url": "https://news.ycombinator.com/item?id=48717469"
+    },
+    {
+      "id": "48720924",
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "points": 526,
+      "author": "cdrnsf",
+      "created_at": 1782748464,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=48720924"
+    },
+    {
+      "id": "48724230",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "points": 503,
+      "author": "HumanCCF",
+      "created_at": 1782762568,
+      "num_comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=48724230"
+    },
+    {
+      "id": "48719485",
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "points": 412,
+      "author": "everfrustrated",
+      "created_at": 1782742164,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=48719485"
+    },
+    {
+      "id": "48718102",
+      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+      "points": 398,
+      "author": "donohoe",
+      "created_at": 1782734328,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=48718102"
+    },
+    {
+      "id": "48721072",
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "points": 383,
+      "author": "Brajeshwar",
+      "created_at": 1782749235,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=48721072"
+    },
+    {
+      "id": "48719027",
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "url": "https://twitter.com/i/status/2071277885646868536",
+      "points": 343,
+      "author": "notRobot",
+      "created_at": 1782739595,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48719027"
+    },
+    {
+      "id": "48720758",
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "points": 304,
+      "author": "mrcslws",
+      "created_at": 1782747737,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=48720758"
+    },
+    {
+      "id": "48718840",
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "points": 301,
+      "author": "hn8726",
+      "created_at": 1782738543,
+      "num_comments": 331,
+      "hn_url": "https://news.ycombinator.com/item?id=48718840"
+    },
+    {
+      "id": "48718863",
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "points": 256,
+      "author": "mezark",
+      "created_at": 1782738668,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=48718863"
+    },
+    {
+      "id": "48726102",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "points": 223,
+      "author": "jnord",
+      "created_at": 1782771660,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48726102"
+    },
+    {
+      "id": "48718967",
+      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
+      "points": 222,
+      "author": "kugelblitz",
+      "created_at": 1782739214,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=48718967"
+    },
+    {
+      "id": "48722052",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "points": 209,
+      "author": "danboarder",
+      "created_at": 1782753377,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=48722052"
+    },
+    {
+      "id": "48716634",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "points": 208,
+      "author": "DR_MING",
+      "created_at": 1782723489,
+      "num_comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=48716634"
+    },
+    {
+      "id": "48720190",
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "points": 205,
+      "author": "energeticbark",
+      "created_at": 1782745320,
+      "num_comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=48720190"
+    },
+    {
+      "id": "48719532",
+      "title": "Mag 7 starting to underperform [pdf]",
+      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+      "points": 188,
+      "author": "mooreds",
+      "created_at": 1782742375,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48719532"
     }
   ],
-  "last_updated": "2026-06-29T10:48:20.587292+00:00"
+  "last_updated": "2026-06-30T09:26:05.152518+00:00"
 }
