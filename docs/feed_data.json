@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "47625952",
-      "title": "Show HN: I built a frontpage for personal blogs",
-      "url": "https://text.blogosphere.app/",
-      "points": 701,
-      "author": "ramkarthikk",
-      "created_at": 1775219625,
-      "num_comments": 179,
-      "hn_url": "https://news.ycombinator.com/item?id=47625952"
-    },
-    {
-      "id": "47631118",
-      "title": "Artemis II crew take \u201cspectacular\u201d image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "points": 668,
-      "author": "andsoitis",
-      "created_at": 1775244902,
-      "num_comments": 245,
-      "hn_url": "https://news.ycombinator.com/item?id=47631118"
-    },
-    {
-      "id": "47624645",
-      "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
-      "url": "https://apfel.franzai.com",
-      "points": 665,
-      "author": "franze",
-      "created_at": 1775207734,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=47624645"
-    },
-    {
-      "id": "47633396",
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "url": "https://news.ycombinator.com/item?id=47633396",
-      "points": 530,
-      "author": "firloop",
-      "created_at": 1775256924,
-      "num_comments": 470,
-      "hn_url": "https://news.ycombinator.com/item?id=47633396"
-    },
-    {
-      "id": "47631732",
-      "title": "Oracle files H-1B visa petitions amid mass layoffs",
-      "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
-      "points": 481,
-      "author": "kklisura",
-      "created_at": 1775247683,
-      "num_comments": 264,
-      "hn_url": "https://news.ycombinator.com/item?id=47631732"
-    },
-    {
-      "id": "47628326",
-      "title": "F-15E jet shot down over Iran",
-      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "points": 444,
-      "author": "tjwds",
-      "created_at": 1775232044,
-      "num_comments": 1012,
-      "hn_url": "https://news.ycombinator.com/item?id=47628326"
-    },
-    {
-      "id": "47629433",
-      "title": "iNaturalist",
-      "url": "https://www.inaturalist.org/",
-      "points": 391,
-      "author": "bookofjoe",
-      "created_at": 1775236940,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=47629433"
-    },
-    {
-      "id": "47627056",
-      "title": "Marc Andreessen is wrong about introspection",
-      "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
-      "points": 379,
-      "author": "surprisetalk",
-      "created_at": 1775226552,
-      "num_comments": 447,
-      "hn_url": "https://news.ycombinator.com/item?id=47627056"
-    },
-    {
-      "id": "47624741",
-      "title": "European alternatives to Google, Apple, Dropbox and 120 US apps",
-      "url": "https://only-eu.eu/en/",
-      "points": 356,
-      "author": "madman_dev",
-      "created_at": 1775209044,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=47624741"
-    },
-    {
-      "id": "47633947",
-      "title": "The FAA\u2019s flight restriction for drones is an attempt to criminalize filming ICE",
-      "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-      "points": 343,
-      "author": "detaro",
-      "created_at": 1775260592,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=47633947"
-    },
-    {
-      "id": "47628608",
-      "title": "OpenClaw privilege escalation vulnerability",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "points": 328,
-      "author": "kykeonaut",
-      "created_at": 1775233292,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47628608"
-    },
-    {
-      "id": "47624736",
-      "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-      "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
-      "points": 325,
-      "author": "chrisjj",
-      "created_at": 1775208993,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=47624736"
-    },
-    {
-      "id": "47624731",
-      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "points": 302,
-      "author": "greenstevester",
-      "created_at": 1775208916,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=47624731"
-    },
-    {
-      "id": "47627061",
-      "title": "Solar and batteries can power the world",
-      "url": "https://nworbmot.org/blog/solar-battery-world.html",
-      "points": 269,
-      "author": "edent",
-      "created_at": 1775226566,
-      "num_comments": 414,
-      "hn_url": "https://news.ycombinator.com/item?id=47627061"
-    },
-    {
-      "id": "47624811",
-      "title": "SSH certificates: the better SSH experience",
-      "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
-      "points": 236,
-      "author": "jandeboevrie",
-      "created_at": 1775209940,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=47624811"
-    },
-    {
-      "id": "47625244",
-      "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
-      "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
-      "points": 221,
-      "author": "nickslaughter02",
-      "created_at": 1775213931,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=47625244"
-    },
-    {
-      "id": "47632503",
-      "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
-      "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-      "points": 182,
-      "author": "upofadown",
-      "created_at": 1775251555,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=47632503"
-    },
-    {
-      "id": "47624558",
-      "title": "Proton Meet isn't what they told you it was",
-      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
-      "points": 162,
-      "author": "bundie",
-      "created_at": 1775206785,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=47624558"
-    },
-    {
-      "id": "47630109",
-      "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
-      "url": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
-      "points": 161,
-      "author": "MaximilianEmel",
-      "created_at": 1775240416,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=47630109"
-    },
-    {
       "id": "47639524",
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
       "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
@@ -231,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47642569"
     },
     {
-      "id": "47634690",
-      "title": "Delve removed from Y Combinator",
-      "url": "https://www.ycombinator.com/companies/delve",
-      "points": 476,
-      "author": "carabiner",
-      "created_at": 1775266622,
-      "num_comments": 292,
-      "hn_url": "https://news.ycombinator.com/item?id=47634690"
-    },
-    {
       "id": "47640380",
       "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
       "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
@@ -271,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47637287"
     },
     {
-      "id": "47635056",
-      "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
-      "points": 260,
-      "author": "lxm",
-      "created_at": 1775269832,
-      "num_comments": 230,
-      "hn_url": "https://news.ycombinator.com/item?id=47635056"
-    },
-    {
       "id": "47638810",
       "title": "Components of a Coding Agent",
       "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
@@ -299,16 +89,6 @@
       "created_at": 1775315646,
       "num_comments": 126,
       "hn_url": "https://news.ycombinator.com/item?id=47639727"
-    },
-    {
-      "id": "47636435",
-      "title": "Emotion concepts and their function in a large language model",
-      "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "points": 167,
-      "author": "dnw",
-      "created_at": 1775284225,
-      "num_comments": 166,
-      "hn_url": "https://news.ycombinator.com/item?id=47636435"
     },
     {
       "id": "47641788",
@@ -16159,7 +15939,207 @@
       "created_at": 1782901605,
       "num_comments": 282,
       "hn_url": "https://news.ycombinator.com/item?id=48744655"
+    },
+    {
+      "id": "48755965",
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "points": 1614,
+      "author": "drewfax",
+      "created_at": 1782961215,
+      "num_comments": 689,
+      "hn_url": "https://news.ycombinator.com/item?id=48755965"
+    },
+    {
+      "id": "48767347",
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "points": 744,
+      "author": "toomuchtodo",
+      "created_at": 1783026225,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=48767347"
+    },
+    {
+      "id": "48762725",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "points": 657,
+      "author": "mgh2",
+      "created_at": 1783004546,
+      "num_comments": 256,
+      "hn_url": "https://news.ycombinator.com/item?id=48762725"
+    },
+    {
+      "id": "48759634",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "points": 611,
+      "author": "doener",
+      "created_at": 1782991065,
+      "num_comments": 284,
+      "hn_url": "https://news.ycombinator.com/item?id=48759634"
+    },
+    {
+      "id": "48755731",
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "points": 555,
+      "author": "pentagrama",
+      "created_at": 1782959416,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=48755731"
+    },
+    {
+      "id": "48762098",
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "points": 516,
+      "author": "soheilpro",
+      "created_at": 1783002189,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=48762098"
+    },
+    {
+      "id": "48761118",
+      "title": "How to ask for help from people who don't know you",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "points": 477,
+      "author": "FigurativeVoid",
+      "created_at": 1782998362,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=48761118"
+    },
+    {
+      "id": "48761229",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "points": 462,
+      "author": "toomuchtodo",
+      "created_at": 1782998725,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=48761229"
+    },
+    {
+      "id": "48755005",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "points": 462,
+      "author": "devicelimit",
+      "created_at": 1782953281,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=48755005"
+    },
+    {
+      "id": "48763035",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "points": 459,
+      "author": "IngoBlechschmid",
+      "created_at": 1783005916,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=48763035"
+    },
+    {
+      "id": "48756602",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "points": 409,
+      "author": "unliftedq",
+      "created_at": 1782966761,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=48756602"
+    },
+    {
+      "id": "48761944",
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "points": 393,
+      "author": "hashier",
+      "created_at": 1783001606,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=48761944"
+    },
+    {
+      "id": "48761536",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "points": 374,
+      "author": "mushstory",
+      "created_at": 1782999821,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=48761536"
+    },
+    {
+      "id": "48759870",
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "points": 351,
+      "author": "ColinWright",
+      "created_at": 1782992487,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=48759870"
+    },
+    {
+      "id": "48760289",
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "points": 346,
+      "author": "mritzmann",
+      "created_at": 1782994653,
+      "num_comments": 412,
+      "hn_url": "https://news.ycombinator.com/item?id=48760289"
+    },
+    {
+      "id": "48754963",
+      "title": "Global review confirms mRNA vaccines are safe,\u00a0effective\u00a0and full of promise\u00a0",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "points": 333,
+      "author": "coloneltcb",
+      "created_at": 1782952814,
+      "num_comments": 446,
+      "hn_url": "https://news.ycombinator.com/item?id=48754963"
+    },
+    {
+      "id": "48758970",
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "points": 329,
+      "author": "vrganj",
+      "created_at": 1782986427,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=48758970"
+    },
+    {
+      "id": "48765663",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "points": 288,
+      "author": "yu3zhou4",
+      "created_at": 1783017679,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=48765663"
+    },
+    {
+      "id": "48758309",
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "points": 286,
+      "author": "boshomi",
+      "created_at": 1782981253,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=48758309"
+    },
+    {
+      "id": "48768464",
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "points": 266,
+      "author": "Philpax",
+      "created_at": 1783033055,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=48768464"
     }
   ],
-  "last_updated": "2026-07-02T08:49:40.784582+00:00"
+  "last_updated": "2026-07-03T08:55:44.976045+00:00"
 }
