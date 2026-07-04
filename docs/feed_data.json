@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47639524",
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "points": 769,
-      "author": "macleginn",
-      "created_at": 1775314106,
-      "num_comments": 504,
-      "hn_url": "https://news.ycombinator.com/item?id=47639524"
-    },
-    {
-      "id": "47640728",
-      "title": "Show HN: A game where you build a GPU",
-      "url": "https://jaso1024.com/mvidia/",
-      "points": 638,
-      "author": "Jaso1024",
-      "created_at": 1775321154,
-      "num_comments": 147,
-      "hn_url": "https://news.ycombinator.com/item?id=47640728"
-    },
-    {
-      "id": "47637757",
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "url": "https://arxiv.org/abs/2604.01193",
-      "points": 585,
-      "author": "Anon84",
-      "created_at": 1775298381,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=47637757"
-    },
-    {
-      "id": "47642569",
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "points": 554,
-      "author": "gpi",
-      "created_at": 1775331583,
-      "num_comments": 271,
-      "hn_url": "https://news.ycombinator.com/item?id=47642569"
-    },
-    {
-      "id": "47640380",
-      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-      "points": 415,
-      "author": "naves",
-      "created_at": 1775319370,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=47640380"
-    },
-    {
-      "id": "47639976",
-      "title": "German men 18-45 need military permit for extended stays abroad",
-      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
-      "points": 364,
-      "author": "L_226",
-      "created_at": 1775317150,
-      "num_comments": 626,
-      "hn_url": "https://news.ycombinator.com/item?id=47639976"
-    },
-    {
-      "id": "47637287",
-      "title": "Some Unusual Trees",
-      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "points": 271,
-      "author": "simplegeek",
-      "created_at": 1775293459,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=47637287"
-    },
-    {
-      "id": "47638810",
-      "title": "Components of a Coding Agent",
-      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "points": 213,
-      "author": "MindGods",
-      "created_at": 1775308593,
-      "num_comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=47638810"
-    },
-    {
-      "id": "47639727",
-      "title": "When legal sports betting surges, so do Americans' financial problems",
-      "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
-      "points": 186,
-      "author": "pseudolus",
-      "created_at": 1775315646,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=47639727"
-    },
-    {
-      "id": "47641788",
-      "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
-      "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
-      "points": 159,
-      "author": "lschueller",
-      "created_at": 1775327035,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47641788"
-    },
-    {
-      "id": "47639567",
-      "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
-      "url": "https://github.com/teamchong/turboquant-wasm",
-      "points": 150,
-      "author": "teamchong",
-      "created_at": 1775314396,
-      "num_comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=47639567"
-    },
-    {
-      "id": "47639779",
-      "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "points": 146,
-      "author": "jrandolf",
-      "created_at": 1775315938,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=47639779"
-    },
-    {
-      "id": "47640875",
-      "title": "LLM Wiki \u2013 example of an \"idea file\"",
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "points": 145,
-      "author": "tamnd",
-      "created_at": 1775321865,
-      "num_comments": 40,
-      "hn_url": "https://news.ycombinator.com/item?id=47640875"
-    },
-    {
-      "id": "47640722",
-      "title": "12k AI-generated blog posts added in a single commit",
-      "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
-      "points": 144,
-      "author": "noslop",
-      "created_at": 1775321131,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=47640722"
-    },
-    {
-      "id": "47640775",
-      "title": "Why the most valuable things you know are things you cannot say",
-      "url": "https://deadneurons.substack.com/p/why-the-most-valuable-things-you",
-      "points": 144,
-      "author": "nr378",
-      "created_at": 1775321380,
-      "num_comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=47640775"
-    },
-    {
-      "id": "47638075",
-      "title": "The CMS is dead, long live the CMS",
-      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-      "points": 138,
-      "author": "taubek",
-      "created_at": 1775301870,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=47638075"
-    },
-    {
-      "id": "47639291",
-      "title": "The Indie Internet Index \u2013 submit your favorite sites",
-      "url": "https://iii.social",
-      "points": 129,
-      "author": "freshman_dev",
-      "created_at": 1775312286,
-      "num_comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=47639291"
-    },
-    {
       "id": "47647788",
       "title": "The threat is comfortable drift toward not understanding what you're doing",
       "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
@@ -231,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47652400"
     },
     {
-      "id": "47644864",
-      "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-      "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-      "points": 392,
-      "author": "crcastle",
-      "created_at": 1775348035,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=47644864"
-    },
-    {
       "id": "47649117",
       "title": "Someone at BrowserStack is leaking users' email addresses",
       "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
@@ -281,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47648404"
     },
     {
-      "id": "47646843",
-      "title": "Lisette a little language inspired by Rust that compiles to Go",
-      "url": "https://lisette.run/",
-      "points": 258,
-      "author": "jspdown",
-      "created_at": 1775372239,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=47646843"
-    },
-    {
       "id": "47651540",
       "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
       "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
@@ -299,16 +109,6 @@
       "created_at": 1775409231,
       "num_comments": 59,
       "hn_url": "https://news.ycombinator.com/item?id=47651540"
-    },
-    {
-      "id": "47645432",
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "points": 222,
-      "author": "luu",
-      "created_at": 1775354069,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=47645432"
     },
     {
       "id": "47650726",
@@ -16139,7 +15939,207 @@
       "created_at": 1783033055,
       "num_comments": 52,
       "hn_url": "https://news.ycombinator.com/item?id=48768464"
+    },
+    {
+      "id": "48772388",
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "points": 1260,
+      "author": "weli",
+      "created_at": 1783067012,
+      "num_comments": 380,
+      "hn_url": "https://news.ycombinator.com/item?id=48772388"
+    },
+    {
+      "id": "48769397",
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "points": 557,
+      "author": "sprawl_",
+      "created_at": 1783040565,
+      "num_comments": 696,
+      "hn_url": "https://news.ycombinator.com/item?id=48769397"
+    },
+    {
+      "id": "48774518",
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "points": 555,
+      "author": "ahlCVA",
+      "created_at": 1783083709,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=48774518"
+    },
+    {
+      "id": "48770647",
+      "title": "Why Switzerland has 25 gbit internet and America doesn't",
+      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "points": 531,
+      "author": "talonx",
+      "created_at": 1783052177,
+      "num_comments": 427,
+      "hn_url": "https://news.ycombinator.com/item?id=48770647"
+    },
+    {
+      "id": "48768992",
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "points": 400,
+      "author": "flowercalled",
+      "created_at": 1783036866,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=48768992"
+    },
+    {
+      "id": "48776044",
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "points": 394,
+      "author": "bookofjoe",
+      "created_at": 1783091695,
+      "num_comments": 366,
+      "hn_url": "https://news.ycombinator.com/item?id=48776044"
+    },
+    {
+      "id": "48779683",
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "points": 355,
+      "author": "ledoge",
+      "created_at": 1783111106,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=48779683"
+    },
+    {
+      "id": "48775921",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "points": 334,
+      "author": "livestyle",
+      "created_at": 1783091023,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=48775921"
+    },
+    {
+      "id": "48772443",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "points": 325,
+      "author": "nsoonhui",
+      "created_at": 1783067497,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=48772443"
+    },
+    {
+      "id": "48772573",
+      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "points": 294,
+      "author": "indy",
+      "created_at": 1783068647,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=48772573"
+    },
+    {
+      "id": "48776464",
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "points": 265,
+      "author": "dimitropoulos",
+      "created_at": 1783093849,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48776464"
+    },
+    {
+      "id": "48769639",
+      "title": "The Safari MCP server for web developers",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "points": 262,
+      "author": "coloneltcb",
+      "created_at": 1783042631,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=48769639"
+    },
+    {
+      "id": "48776035",
+      "title": "Factories are just rooms",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "points": 238,
+      "author": "arbesman",
+      "created_at": 1783091623,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=48776035"
+    },
+    {
+      "id": "48774454",
+      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+      "points": 237,
+      "author": "ExMachina73",
+      "created_at": 1783083293,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=48774454"
+    },
+    {
+      "id": "48774414",
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "points": 228,
+      "author": "skadamat",
+      "created_at": 1783083077,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=48774414"
+    },
+    {
+      "id": "48780417",
+      "title": "Performance per dollar is getting faster and cheaper",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "points": 224,
+      "author": "latchkey",
+      "created_at": 1783115346,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=48780417"
+    },
+    {
+      "id": "48776345",
+      "title": "Markets are competitive if and only if P != NP",
+      "url": "https://arxiv.org/abs/2602.20415",
+      "points": 221,
+      "author": "kscarlet",
+      "created_at": 1783093304,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=48776345"
+    },
+    {
+      "id": "48777832",
+      "title": "Holes",
+      "url": "https://xkcd.com/3266/large/",
+      "points": 216,
+      "author": "caminanteblanco",
+      "created_at": 1783101265,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=48777832"
+    },
+    {
+      "id": "48780801",
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "points": 210,
+      "author": "programLyrique",
+      "created_at": 1783117990,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=48780801"
+    },
+    {
+      "id": "48779454",
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "points": 202,
+      "author": "theanonymousone",
+      "created_at": 1783109749,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=48779454"
     }
   ],
-  "last_updated": "2026-07-03T08:55:44.976045+00:00"
+  "last_updated": "2026-07-04T08:30:30.512776+00:00"
 }
