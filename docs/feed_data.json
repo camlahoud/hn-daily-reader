@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47647788",
-      "title": "The threat is comfortable drift toward not understanding what you're doing",
-      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "points": 858,
-      "author": "zaikunzhang",
-      "created_at": 1775383045,
-      "num_comments": 571,
-      "hn_url": "https://news.ycombinator.com/item?id=47647788"
-    },
-    {
-      "id": "47647455",
-      "title": "Caveman: Why use many token when few token do trick",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "points": 752,
-      "author": "tosh",
-      "created_at": 1775379378,
-      "num_comments": 327,
-      "hn_url": "https://news.ycombinator.com/item?id=47647455"
-    },
-    {
-      "id": "47648828",
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "points": 751,
-      "author": "brilee",
-      "created_at": 1775393027,
-      "num_comments": 227,
-      "hn_url": "https://news.ycombinator.com/item?id=47648828"
-    },
-    {
-      "id": "47652561",
-      "title": "Gemma 4 on iPhone",
-      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "points": 574,
-      "author": "janandonly",
-      "created_at": 1775414753,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=47652561"
-    },
-    {
-      "id": "47649721",
-      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "points": 465,
-      "author": "mooreds",
-      "created_at": 1775398692,
-      "num_comments": 362,
-      "hn_url": "https://news.ycombinator.com/item?id=47649721"
-    },
-    {
-      "id": "47652400",
-      "title": "Why Switzerland has 25 Gbit internet and America doesn't",
-      "url": "https://sschueller.github.io/posts/the-free-market-lie/",
-      "points": 409,
-      "author": "sschueller",
-      "created_at": 1775413787,
-      "num_comments": 305,
-      "hn_url": "https://news.ycombinator.com/item?id=47652400"
-    },
-    {
-      "id": "47649117",
-      "title": "Someone at BrowserStack is leaking users' email addresses",
-      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-      "points": 371,
-      "author": "m_km",
-      "created_at": 1775394878,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=47649117"
-    },
-    {
-      "id": "47651703",
-      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "points": 364,
-      "author": "naves",
-      "created_at": 1775410061,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=47651703"
-    },
-    {
-      "id": "47649113",
-      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-      "points": 354,
-      "author": "Growtika",
-      "created_at": 1775394876,
-      "num_comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=47649113"
-    },
-    {
-      "id": "47648404",
-      "title": "My Google Workspace account suspension",
-      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
-      "points": 345,
-      "author": "zenincognito",
-      "created_at": 1775389693,
-      "num_comments": 197,
-      "hn_url": "https://news.ycombinator.com/item?id=47648404"
-    },
-    {
-      "id": "47651540",
-      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-      "points": 248,
-      "author": "vbtechguy",
-      "created_at": 1775409231,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=47651540"
-    },
-    {
-      "id": "47650726",
-      "title": "Codex pricing to align with API token usage, instead of per-message",
-      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
-      "points": 199,
-      "author": "ccmcarey",
-      "created_at": 1775404688,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=47650726"
-    },
-    {
-      "id": "47649742",
-      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
-      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-      "points": 183,
-      "author": "desideratum",
-      "created_at": 1775398877,
-      "num_comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=47649742"
-    },
-    {
-      "id": "47652324",
-      "title": "LibreOffice \u2013 Let's put an end to the speculation",
-      "url": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
-      "points": 174,
-      "author": "eisa01",
-      "created_at": 1775413394,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=47652324"
-    },
-    {
-      "id": "47652322",
-      "title": "Music for Programming",
-      "url": "https://musicforprogramming.net",
-      "points": 160,
-      "author": "merusame",
-      "created_at": 1775413388,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=47652322"
-    },
-    {
-      "id": "47654620",
-      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "points": 159,
-      "author": "rbanffy",
-      "created_at": 1775428276,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=47654620"
-    },
-    {
-      "id": "47650312",
-      "title": "A tail-call interpreter in (nightly) Rust",
-      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-      "points": 153,
-      "author": "g0xA52A2A",
-      "created_at": 1775402281,
-      "num_comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=47650312"
-    },
-    {
       "id": "47659135",
       "title": "Sam Altman may control our future \u2013 can he be trusted?",
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
@@ -191,16 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47660925"
     },
     {
-      "id": "47655408",
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "points": 863,
-      "author": "armanified",
-      "created_at": 1775434812,
-      "num_comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=47655408"
-    },
-    {
       "id": "47661439",
       "title": "I won't download your app. The web version is a-ok",
       "url": "https://www.0xsid.com/blog/wont-download-your-app",
@@ -209,16 +29,6 @@
       "created_at": 1775485889,
       "num_comments": 503,
       "hn_url": "https://news.ycombinator.com/item?id=47661439"
-    },
-    {
-      "id": "47658146",
-      "title": "France pulls last gold held in US",
-      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-      "points": 580,
-      "author": "teleforce",
-      "created_at": 1775462623,
-      "num_comments": 320,
-      "hn_url": "https://news.ycombinator.com/item?id=47658146"
     },
     {
       "id": "47664912",
@@ -239,16 +49,6 @@
       "created_at": 1775497058,
       "num_comments": 127,
       "hn_url": "https://news.ycombinator.com/item?id=47664186"
-    },
-    {
-      "id": "47655466",
-      "title": "Employers use your personal data to figure out the lowest salary you'll accept",
-      "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
-      "points": 438,
-      "author": "thisislife2",
-      "created_at": 1775435348,
-      "num_comments": 278,
-      "hn_url": "https://news.ycombinator.com/item?id=47655466"
     },
     {
       "id": "47662234",
@@ -291,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47662857"
     },
     {
-      "id": "47655392",
-      "title": "Show HN: I made a YouTube search form with advanced filters",
-      "url": "https://playlists.at/youtube/search/",
-      "points": 311,
-      "author": "nevernothing",
-      "created_at": 1775434706,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=47655392"
-    },
-    {
       "id": "47659109",
       "title": "Age verification as mass surveillance infrastructure",
       "url": "https://tboteproject.com/surveillancefindings/",
@@ -331,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47664205"
     },
     {
-      "id": "47656501",
-      "title": "The 1987 game \u201cThe Last Ninja\u201d was 40 kilobytes",
-      "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
-      "points": 285,
-      "author": "keepamovin",
-      "created_at": 1775444602,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=47656501"
-    },
-    {
       "id": "47662945",
       "title": "Show HN: GovAuctions lets you browse government auctions at once",
       "url": "https://www.govauctions.app/",
@@ -359,16 +139,6 @@
       "created_at": 1775493131,
       "num_comments": 142,
       "hn_url": "https://news.ycombinator.com/item?id=47663147"
-    },
-    {
-      "id": "47656622",
-      "title": "An open-source 240-antenna array to bounce signals off the Moon",
-      "url": "https://moonrf.com/",
-      "points": 251,
-      "author": "hillcrestenigma",
-      "created_at": 1775445762,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=47656622"
     },
     {
       "id": "47679121",
@@ -16139,7 +15909,207 @@
       "created_at": 1783109749,
       "num_comments": 53,
       "hn_url": "https://news.ycombinator.com/item?id=48779454"
+    },
+    {
+      "id": "48783117",
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "points": 780,
+      "author": "gslin",
+      "created_at": 1783146748,
+      "num_comments": 451,
+      "hn_url": "https://news.ycombinator.com/item?id=48783117"
+    },
+    {
+      "id": "48786781",
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "points": 601,
+      "author": "javxfps",
+      "created_at": 1783183510,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=48786781"
+    },
+    {
+      "id": "48788283",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "points": 551,
+      "author": "asronline",
+      "created_at": 1783194070,
+      "num_comments": 224,
+      "hn_url": "https://news.ycombinator.com/item?id=48788283"
+    },
+    {
+      "id": "48784777",
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "url": "https://peteris.rocks/blog/htop/",
+      "points": 469,
+      "author": "theanonymousone",
+      "created_at": 1783166457,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=48784777"
+    },
+    {
+      "id": "48786838",
+      "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "points": 456,
+      "author": "Cider9986",
+      "created_at": 1783183886,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=48786838"
+    },
+    {
+      "id": "48782435",
+      "title": "Maybe you should learn something",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "points": 435,
+      "author": "tylerdane",
+      "created_at": 1783136163,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=48782435"
+    },
+    {
+      "id": "48785485",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "points": 293,
+      "author": "chatmasta",
+      "created_at": 1783173820,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48785485"
+    },
+    {
+      "id": "48789428",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "points": 257,
+      "author": "maille",
+      "created_at": 1783201869,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=48789428"
+    },
+    {
+      "id": "48786782",
+      "title": "Meta data center water discharges suspended for contaminating water supply",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+      "points": 228,
+      "author": "sensanaty",
+      "created_at": 1783183523,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=48786782"
+    },
+    {
+      "id": "48783948",
+      "title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "points": 203,
+      "author": "jnord",
+      "created_at": 1783156089,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=48783948"
+    },
+    {
+      "id": "48786638",
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "points": 188,
+      "author": "tosh",
+      "created_at": 1783182610,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=48786638"
+    },
+    {
+      "id": "48790066",
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "points": 187,
+      "author": "cybermango",
+      "created_at": 1783208470,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=48790066"
+    },
+    {
+      "id": "48782671",
+      "title": "Agentic coding notes",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "points": 168,
+      "author": "gm678",
+      "created_at": 1783139835,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=48782671"
+    },
+    {
+      "id": "48788599",
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "points": 166,
+      "author": "leemoore",
+      "created_at": 1783196182,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=48788599"
+    },
+    {
+      "id": "48787329",
+      "title": "Verizon is about to break our Gizmo watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "points": 149,
+      "author": "jefftk",
+      "created_at": 1783187556,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=48787329"
+    },
+    {
+      "id": "48786245",
+      "title": "Fable created novel 4D splat format",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "points": 147,
+      "author": "adamraudonis",
+      "created_at": 1783180148,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=48786245"
+    },
+    {
+      "id": "48782219",
+      "title": "Synthesis is harder than analysis",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "points": 147,
+      "author": "azhenley",
+      "created_at": 1783133124,
+      "num_comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=48782219"
+    },
+    {
+      "id": "48787042",
+      "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "points": 141,
+      "author": "Breadmaker",
+      "created_at": 1783185448,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=48787042"
+    },
+    {
+      "id": "48781688",
+      "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
+      "points": 141,
+      "author": "MrBruh",
+      "created_at": 1783126664,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=48781688"
+    },
+    {
+      "id": "48782918",
+      "title": "David Beazley \u2013 Programming Courses",
+      "url": "https://www.dabeaz.com/courses.html",
+      "points": 140,
+      "author": "gregsadetsky",
+      "created_at": 1783143781,
+      "num_comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=48782918"
     }
   ],
-  "last_updated": "2026-07-04T08:30:30.512776+00:00"
+  "last_updated": "2026-07-05T08:46:40.196520+00:00"
 }
