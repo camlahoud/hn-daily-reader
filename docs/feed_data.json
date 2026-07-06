@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "47659135",
-      "title": "Sam Altman may control our future \u2013 can he be trusted?",
-      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "points": 1244,
-      "author": "adrianhon",
-      "created_at": 1775471817,
-      "num_comments": 475,
-      "hn_url": "https://news.ycombinator.com/item?id=47659135"
-    },
-    {
-      "id": "47660925",
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "points": 983,
-      "author": "StanAngeloff",
-      "created_at": 1775483435,
-      "num_comments": 550,
-      "hn_url": "https://news.ycombinator.com/item?id=47660925"
-    },
-    {
-      "id": "47661439",
-      "title": "I won't download your app. The web version is a-ok",
-      "url": "https://www.0xsid.com/blog/wont-download-your-app",
-      "points": 860,
-      "author": "ssiddharth",
-      "created_at": 1775485889,
-      "num_comments": 503,
-      "hn_url": "https://news.ycombinator.com/item?id=47661439"
-    },
-    {
-      "id": "47664912",
-      "title": "The cult of vibe coding is dogfooding run amok",
-      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-      "points": 528,
-      "author": "drob518",
-      "created_at": 1775500263,
-      "num_comments": 452,
-      "hn_url": "https://news.ycombinator.com/item?id=47664912"
-    },
-    {
-      "id": "47664186",
-      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
-      "url": "https://www.wesnoth.org",
-      "points": 458,
-      "author": "akyuu",
-      "created_at": 1775497058,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=47664186"
-    },
-    {
-      "id": "47662234",
-      "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "url": "https://words.filippo.io/crqc-timeline/",
-      "points": 435,
-      "author": "thadt",
-      "created_at": 1775489480,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47662234"
-    },
-    {
-      "id": "47660286",
-      "title": "What being ripped off taught me",
-      "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-      "points": 386,
-      "author": "doctorhandshake",
-      "created_at": 1775480021,
-      "num_comments": 197,
-      "hn_url": "https://news.ycombinator.com/item?id=47660286"
-    },
-    {
-      "id": "47666024",
-      "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "points": 347,
-      "author": "MattHart88",
-      "created_at": 1775505016,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=47666024"
-    },
-    {
-      "id": "47662857",
-      "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
-      "url": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
-      "points": 346,
-      "author": "josephcsible",
-      "created_at": 1775492141,
-      "num_comments": 399,
-      "hn_url": "https://news.ycombinator.com/item?id=47662857"
-    },
-    {
-      "id": "47659109",
-      "title": "Age verification as mass surveillance infrastructure",
-      "url": "https://tboteproject.com/surveillancefindings/",
-      "points": 293,
-      "author": "rurban",
-      "created_at": 1775471582,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=47659109"
-    },
-    {
-      "id": "47660954",
-      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "points": 291,
-      "author": "Bender",
-      "created_at": 1775483557,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=47660954"
-    },
-    {
-      "id": "47664205",
-      "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
-      "url": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
-      "points": 290,
-      "author": "rglullis",
-      "created_at": 1775497110,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=47664205"
-    },
-    {
-      "id": "47662945",
-      "title": "Show HN: GovAuctions lets you browse government auctions at once",
-      "url": "https://www.govauctions.app/",
-      "points": 264,
-      "author": "player_piano",
-      "created_at": 1775492506,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=47662945"
-    },
-    {
-      "id": "47663147",
-      "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
-      "points": 257,
-      "author": "benswerd",
-      "created_at": 1775493131,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=47663147"
-    },
-    {
       "id": "47679121",
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
@@ -179,16 +39,6 @@
       "created_at": 1775574198,
       "num_comments": 143,
       "hn_url": "https://news.ycombinator.com/item?id=47676509"
-    },
-    {
-      "id": "47672818",
-      "title": "Are We Idiocracy Yet?",
-      "url": "https://idiocracy.wtf/",
-      "points": 603,
-      "author": "jdiiufccuskal",
-      "created_at": 1775555859,
-      "num_comments": 518,
-      "hn_url": "https://news.ycombinator.com/item?id=47672818"
     },
     {
       "id": "47677853",
@@ -239,16 +89,6 @@
       "created_at": 1775582623,
       "num_comments": 73,
       "hn_url": "https://news.ycombinator.com/item?id=47678573"
-    },
-    {
-      "id": "47672295",
-      "title": "Every GPU That Mattered",
-      "url": "https://sheets.works/data-viz/every-gpu",
-      "points": 311,
-      "author": "jonbaer",
-      "created_at": 1775551097,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=47672295"
     },
     {
       "id": "47675625",
@@ -16109,7 +15949,207 @@
       "created_at": 1783143781,
       "num_comments": 34,
       "hn_url": "https://news.ycombinator.com/item?id=48782918"
+    },
+    {
+      "id": "48794446",
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "points": 994,
+      "author": "tosh",
+      "created_at": 1783260870,
+      "num_comments": 303,
+      "hn_url": "https://news.ycombinator.com/item?id=48794446"
+    },
+    {
+      "id": "48797916",
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "points": 864,
+      "author": "bouh",
+      "created_at": 1783285386,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=48797916"
+    },
+    {
+      "id": "48790689",
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "points": 562,
+      "author": "nozzlegear",
+      "created_at": 1783216863,
+      "num_comments": 262,
+      "hn_url": "https://news.ycombinator.com/item?id=48790689"
+    },
+    {
+      "id": "48794750",
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "points": 502,
+      "author": "popcar2",
+      "created_at": 1783263375,
+      "num_comments": 372,
+      "hn_url": "https://news.ycombinator.com/item?id=48794750"
+    },
+    {
+      "id": "48793393",
+      "title": "EU Council forces Chat Control via fast-track",
+      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "points": 442,
+      "author": "stavros",
+      "created_at": 1783251844,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=48793393"
+    },
+    {
+      "id": "48796552",
+      "title": "The future of Flipper Zero development",
+      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "points": 330,
+      "author": "croes",
+      "created_at": 1783275720,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48796552"
+    },
+    {
+      "id": "48799155",
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "points": 306,
+      "author": "wxw",
+      "created_at": 1783295340,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=48799155"
+    },
+    {
+      "id": "48793454",
+      "title": "Introduction to Compilers and Language Design (2021)",
+      "url": "https://dthain.github.io/books/compiler/",
+      "points": 304,
+      "author": "AlexeyBrin",
+      "created_at": 1783252456,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=48793454"
+    },
+    {
+      "id": "48791328",
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "points": 276,
+      "author": "dabinat",
+      "created_at": 1783226768,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=48791328"
+    },
+    {
+      "id": "48796093",
+      "title": "Starring the Computer",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "points": 230,
+      "author": "gitowiec",
+      "created_at": 1783272784,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=48796093"
+    },
+    {
+      "id": "48798061",
+      "title": "Completing a computer science degree on Coursera",
+      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "points": 213,
+      "author": "lexandstuff",
+      "created_at": 1783286449,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48798061"
+    },
+    {
+      "id": "48798153",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "points": 182,
+      "author": "homegamesjoseph",
+      "created_at": 1783287164,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=48798153"
+    },
+    {
+      "id": "48793492",
+      "title": "Cannabis users face substantially higher risk of heart attack (2025)",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+      "points": 172,
+      "author": "RickJWagner",
+      "created_at": 1783252767,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=48793492"
+    },
+    {
+      "id": "48796817",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "points": 165,
+      "author": "jonahbard",
+      "created_at": 1783277263,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=48796817"
+    },
+    {
+      "id": "48792790",
+      "title": "Europe's new climate in seven charts",
+      "url": "https://www.bbc.com/news/articles/c8e2j0j87reo",
+      "points": 152,
+      "author": "saikatsg",
+      "created_at": 1783245370,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=48792790"
+    },
+    {
+      "id": "48797015",
+      "title": "Small Penis Rule",
+      "url": "https://en.wikipedia.org/wiki/Small_penis_rule",
+      "points": 145,
+      "author": "chistev",
+      "created_at": 1783278518,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=48797015"
+    },
+    {
+      "id": "48792008",
+      "title": "Fast Software, the Best Software (2019)",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "points": 142,
+      "author": "ustad",
+      "created_at": 1783236325,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=48792008"
+    },
+    {
+      "id": "48794179",
+      "title": "Phosh 0.56.0",
+      "url": "https://phosh.mobi/releases/rel-0.56.0/",
+      "points": 139,
+      "author": "edward",
+      "created_at": 1783258091,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=48794179"
+    },
+    {
+      "id": "48792080",
+      "title": "Programmers need to start meditating",
+      "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+      "points": 135,
+      "author": "enz",
+      "created_at": 1783237175,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=48792080"
+    },
+    {
+      "id": "48795826",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "points": 133,
+      "author": "msolujic",
+      "created_at": 1783271135,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=48795826"
     }
   ],
-  "last_updated": "2026-07-05T08:46:40.196520+00:00"
+  "last_updated": "2026-07-06T10:09:02.191333+00:00"
 }
