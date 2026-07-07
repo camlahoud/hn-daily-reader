@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "47679121",
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "points": 1185,
-      "author": "Ryan5453",
-      "created_at": 1775585374,
-      "num_comments": 557,
-      "hn_url": "https://news.ycombinator.com/item?id=47679121"
-    },
-    {
-      "id": "47673360",
-      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "points": 747,
-      "author": "sam-bee",
-      "created_at": 1775560064,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=47673360"
-    },
-    {
-      "id": "47679258",
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "points": 644,
-      "author": "be7a",
-      "created_at": 1775585916,
-      "num_comments": 459,
-      "hn_url": "https://news.ycombinator.com/item?id=47679258"
-    },
-    {
-      "id": "47676509",
-      "title": "Lunar Flyby",
-      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "points": 626,
-      "author": "kipi",
-      "created_at": 1775574198,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=47676509"
-    },
-    {
-      "id": "47677853",
-      "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "url": "https://z.ai/blog/glm-5.1",
-      "points": 497,
-      "author": "zixuanlimit",
-      "created_at": 1775579535,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=47677853"
-    },
-    {
-      "id": "47682276",
-      "title": "US and Iran agree to provisional ceasefire",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "points": 417,
-      "author": "g-b-r",
-      "created_at": 1775601662,
-      "num_comments": 1136,
-      "hn_url": "https://news.ycombinator.com/item?id=47682276"
-    },
-    {
-      "id": "47673005",
-      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "points": 407,
-      "author": "henrygarner",
-      "created_at": 1775557512,
-      "num_comments": 192,
-      "hn_url": "https://news.ycombinator.com/item?id=47673005"
-    },
-    {
-      "id": "47675013",
-      "title": "Dropping Cloudflare for Bunny.net",
-      "url": "https://jola.dev/posts/dropping-cloudflare",
-      "points": 382,
-      "author": "shintoist",
-      "created_at": 1775568185,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=47675013"
-    },
-    {
-      "id": "47678573",
-      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "points": 358,
-      "author": "speckx",
-      "created_at": 1775582623,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=47678573"
-    },
-    {
-      "id": "47675625",
-      "title": "Cloudflare targets 2029 for full post-quantum security",
-      "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "points": 311,
-      "author": "ilreb",
-      "created_at": 1775570854,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=47675625"
-    },
-    {
-      "id": "47677142",
-      "title": "12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)",
-      "url": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined",
-      "points": 285,
-      "author": "pulisse",
-      "created_at": 1775576836,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=47677142"
-    },
-    {
-      "id": "47679155",
-      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-      "url": "https://red.anthropic.com/2026/mythos-preview/",
-      "points": 280,
-      "author": "sweis",
-      "created_at": 1775585491,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=47679155"
-    },
-    {
-      "id": "47680404",
-      "title": "S3 Files",
-      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "points": 276,
-      "author": "werner",
-      "created_at": 1775591041,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=47680404"
-    },
-    {
-      "id": "47674286",
-      "title": "Trump says 'a whole civilization will die tonight' if Iran does not make a deal",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07/",
-      "points": 244,
-      "author": "jacquesm",
-      "created_at": 1775565110,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=47674286"
-    },
-    {
-      "id": "47677241",
-      "title": "Taste in the age of AI and LLMs",
-      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-      "points": 237,
-      "author": "speckx",
-      "created_at": 1775577256,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=47677241"
-    },
-    {
-      "id": "47673394",
-      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
-      "url": "https://locker.dev",
-      "points": 233,
-      "author": "Zm44",
-      "created_at": 1775560337,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=47673394"
-    },
-    {
-      "id": "47676521",
-      "title": "Claude Code login fails with OAuth timeout on Windows",
-      "url": "https://github.com/anthropics/claude-code/issues/44257",
-      "points": 219,
-      "author": "sh1mmer",
-      "created_at": 1775574263,
-      "num_comments": 294,
-      "hn_url": "https://news.ycombinator.com/item?id=47676521"
-    },
-    {
-      "id": "47673541",
-      "title": "AI may be making us think and write more alike",
-      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-      "points": 218,
-      "author": "giuliomagnifico",
-      "created_at": 1775561342,
-      "num_comments": 230,
-      "hn_url": "https://news.ycombinator.com/item?id=47673541"
-    },
-    {
-      "id": "47687273",
-      "title": "Git commands I run before reading any code",
-      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "points": 1970,
-      "author": "grepsedawk",
-      "created_at": 1775638422,
-      "num_comments": 408,
-      "hn_url": "https://news.ycombinator.com/item?id=47687273"
-    },
-    {
       "id": "47691730",
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
@@ -201,16 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47691730"
     },
     {
-      "id": "47686549",
-      "title": "Veracrypt project update",
-      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "points": 1193,
-      "author": "super256",
-      "created_at": 1775633019,
-      "num_comments": 437,
-      "hn_url": "https://news.ycombinator.com/item?id=47686549"
-    },
-    {
       "id": "47689237",
       "title": "US cities are axing Flock Safety surveillance technology",
       "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
@@ -219,16 +19,6 @@
       "created_at": 1775651174,
       "num_comments": 398,
       "hn_url": "https://news.ycombinator.com/item?id=47689237"
-    },
-    {
-      "id": "47687248",
-      "title": "\u0160koda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
-      "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
-      "points": 560,
-      "author": "ra",
-      "created_at": 1775638237,
-      "num_comments": 558,
-      "hn_url": "https://news.ycombinator.com/item?id=47687248"
     },
     {
       "id": "47690977",
@@ -259,36 +49,6 @@
       "created_at": 1775653593,
       "num_comments": 466,
       "hn_url": "https://news.ycombinator.com/item?id=47689648"
-    },
-    {
-      "id": "47685320",
-      "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
-      "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
-      "points": 438,
-      "author": "jfirebaugh",
-      "created_at": 1775623077,
-      "num_comments": 445,
-      "hn_url": "https://news.ycombinator.com/item?id=47685320"
-    },
-    {
-      "id": "47684326",
-      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
-      "points": 384,
-      "author": "surprisetalk",
-      "created_at": 1775616072,
-      "num_comments": 114,
-      "hn_url": "https://news.ycombinator.com/item?id=47684326"
-    },
-    {
-      "id": "47685739",
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "points": 363,
-      "author": "tetrisgm",
-      "created_at": 1775626448,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=47685739"
     },
     {
       "id": "47696562",
@@ -329,26 +89,6 @@
       "created_at": 1775668306,
       "num_comments": 41,
       "hn_url": "https://news.ycombinator.com/item?id=47693153"
-    },
-    {
-      "id": "47684514",
-      "title": "Protect your shed",
-      "url": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "points": 304,
-      "author": "baely",
-      "created_at": 1775617413,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=47684514"
-    },
-    {
-      "id": "47687533",
-      "title": "I've sold out",
-      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
-      "points": 289,
-      "author": "doppp",
-      "created_at": 1775640098,
-      "num_comments": 180,
-      "hn_url": "https://news.ycombinator.com/item?id=47687533"
     },
     {
       "id": "47689174",
@@ -16149,7 +15889,207 @@
       "created_at": 1783271135,
       "num_comments": 2,
       "hn_url": "https://news.ycombinator.com/item?id=48795826"
+    },
+    {
+      "id": "48804993",
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "points": 616,
+      "author": "dijksterhuis",
+      "created_at": 1783347503,
+      "num_comments": 666,
+      "hn_url": "https://news.ycombinator.com/item?id=48804993"
+    },
+    {
+      "id": "48808482",
+      "title": "OpenWrt One \u2013 Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "points": 611,
+      "author": "peter_d_sherman",
+      "created_at": 1783362192,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=48808482"
+    },
+    {
+      "id": "48808928",
+      "title": "CoMaps \u2013 FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "points": 552,
+      "author": "basilikum",
+      "created_at": 1783364107,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=48808928"
+    },
+    {
+      "id": "48811591",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "points": 451,
+      "author": "modinfo",
+      "created_at": 1783378824,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=48811591"
+    },
+    {
+      "id": "48809877",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "points": 407,
+      "author": "martinald",
+      "created_at": 1783368895,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=48809877"
+    },
+    {
+      "id": "48799614",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "points": 406,
+      "author": "mfiguiere",
+      "created_at": 1783299843,
+      "num_comments": 393,
+      "hn_url": "https://news.ycombinator.com/item?id=48799614"
+    },
+    {
+      "id": "48802535",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "points": 394,
+      "author": "scrlk",
+      "created_at": 1783330716,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=48802535"
+    },
+    {
+      "id": "48808002",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "points": 369,
+      "author": "in-silico",
+      "created_at": 1783359848,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=48808002"
+    },
+    {
+      "id": "48804193",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "points": 340,
+      "author": "akyuu",
+      "created_at": 1783343896,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=48804193"
+    },
+    {
+      "id": "48799929",
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "points": 331,
+      "author": "dabluck",
+      "created_at": 1783303609,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=48799929"
+    },
+    {
+      "id": "48805624",
+      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "points": 329,
+      "author": "LabsLucas",
+      "created_at": 1783350078,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=48805624"
+    },
+    {
+      "id": "48803364",
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "points": 329,
+      "author": "wolfadex",
+      "created_at": 1783338457,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=48803364"
+    },
+    {
+      "id": "48804297",
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "points": 268,
+      "author": "firephox",
+      "created_at": 1783344537,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=48804297"
+    },
+    {
+      "id": "48803751",
+      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
+      "points": 244,
+      "author": "raheelrjunaid",
+      "created_at": 1783341426,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=48803751"
+    },
+    {
+      "id": "48806289",
+      "title": "Should DayQuil Be Legal?",
+      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
+      "points": 218,
+      "author": "paulpauper",
+      "created_at": 1783352684,
+      "num_comments": 266,
+      "hn_url": "https://news.ycombinator.com/item?id=48806289"
+    },
+    {
+      "id": "48811644",
+      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "points": 218,
+      "author": "soycaporal",
+      "created_at": 1783379191,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=48811644"
+    },
+    {
+      "id": "48810439",
+      "title": "Learning to code is still worthwhile",
+      "url": "https://stevekrouse.com/learn-to-code",
+      "points": 203,
+      "author": "stevekrouse",
+      "created_at": 1783371594,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=48810439"
+    },
+    {
+      "id": "48804014",
+      "title": "Workers Cache",
+      "url": "https://blog.cloudflare.com/workers-cache/",
+      "points": 194,
+      "author": "ilreb",
+      "created_at": 1783342971,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=48804014"
+    },
+    {
+      "id": "48804123",
+      "title": "How Kalshi Infects the News",
+      "url": "https://www.publicnotice.co/p/kalshi-cnn-cnbc",
+      "points": 192,
+      "author": "everybodyknows",
+      "created_at": 1783343572,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=48804123"
+    },
+    {
+      "id": "48803762",
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "url": "https://andonlabs.com/blog/fable5-vending-bench",
+      "points": 184,
+      "author": "optimalsolver",
+      "created_at": 1783341493,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=48803762"
     }
   ],
-  "last_updated": "2026-07-06T10:09:02.191333+00:00"
+  "last_updated": "2026-07-07T09:33:17.156686+00:00"
 }
