@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "47691730",
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "points": 1477,
-      "author": "blkhp19",
-      "created_at": 1775662800,
-      "num_comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=47691730"
-    },
-    {
-      "id": "47689237",
-      "title": "US cities are axing Flock Safety surveillance technology",
-      "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
-      "points": 692,
-      "author": "giuliomagnifico",
-      "created_at": 1775651174,
-      "num_comments": 398,
-      "hn_url": "https://news.ycombinator.com/item?id=47689237"
-    },
-    {
-      "id": "47690977",
-      "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
-      "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
-      "points": 519,
-      "author": "donohoe",
-      "created_at": 1775659575,
-      "num_comments": 192,
-      "hn_url": "https://news.ycombinator.com/item?id=47690977"
-    },
-    {
-      "id": "47688678",
-      "title": "They're made out of meat (1991)",
-      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "points": 500,
-      "author": "surprisetalk",
-      "created_at": 1775647250,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=47688678"
-    },
-    {
-      "id": "47689648",
-      "title": "ML promises to be profoundly weird",
-      "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-      "points": 468,
-      "author": "pabs3",
-      "created_at": 1775653593,
-      "num_comments": 466,
-      "hn_url": "https://news.ycombinator.com/item?id=47689648"
-    },
-    {
-      "id": "47696562",
-      "title": "Show HN: Is Hormuz open yet?",
-      "url": "https://www.ishormuzopenyet.com/",
-      "points": 361,
-      "author": "anonfunction",
-      "created_at": 1775683986,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=47696562"
-    },
-    {
-      "id": "47693679",
-      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "points": 342,
-      "author": "nickvec",
-      "created_at": 1775670265,
-      "num_comments": 165,
-      "hn_url": "https://news.ycombinator.com/item?id=47693679"
-    },
-    {
-      "id": "47692043",
-      "title": "Muse Spark: Scaling towards personal superintelligence",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "points": 321,
-      "author": "chabons",
-      "created_at": 1775664092,
-      "num_comments": 324,
-      "hn_url": "https://news.ycombinator.com/item?id=47692043"
-    },
-    {
-      "id": "47693153",
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
-      "points": 312,
-      "author": "alex_be",
-      "created_at": 1775668306,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=47693153"
-    },
-    {
-      "id": "47689174",
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "url": "https://arxiv.org/abs/2604.05091",
-      "points": 288,
-      "author": "chrsw",
-      "created_at": 1775650740,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=47689174"
-    },
-    {
-      "id": "47696035",
-      "title": "John Deere to pay $99M in right-to-repair settlement",
-      "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-      "points": 279,
-      "author": "CharlesW",
-      "created_at": 1775681187,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=47696035"
-    },
-    {
-      "id": "47695012",
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "points": 270,
-      "author": "WerWolv",
-      "created_at": 1775676214,
-      "num_comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=47695012"
-    },
-    {
-      "id": "47697870",
-      "title": "LittleSnitch for Linux",
-      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "points": 1305,
-      "author": "pluc",
-      "created_at": 1775694368,
-      "num_comments": 418,
-      "hn_url": "https://news.ycombinator.com/item?id=47697870"
-    },
-    {
       "id": "47706268",
       "title": "EFF is leaving X",
       "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
@@ -149,16 +19,6 @@
       "created_at": 1775741030,
       "num_comments": 235,
       "hn_url": "https://news.ycombinator.com/item?id=47703419"
-    },
-    {
-      "id": "47700388",
-      "title": "Help Keep Thunderbird Alive",
-      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-      "points": 539,
-      "author": "playfultones",
-      "created_at": 1775719645,
-      "num_comments": 370,
-      "hn_url": "https://news.ycombinator.com/item?id=47700388"
     },
     {
       "id": "47708818",
@@ -189,16 +49,6 @@
       "created_at": 1775726728,
       "num_comments": 330,
       "hn_url": "https://news.ycombinator.com/item?id=47701233"
-    },
-    {
-      "id": "47699181",
-      "title": "Open source security at Astral",
-      "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "points": 356,
-      "author": "vinhnx",
-      "created_at": 1775707915,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=47699181"
     },
     {
       "id": "47700972",
@@ -289,16 +139,6 @@
       "created_at": 1775758959,
       "num_comments": 128,
       "hn_url": "https://news.ycombinator.com/item?id=47707477"
-    },
-    {
-      "id": "47698132",
-      "title": "Trump administration orders dismantling of the U.S. Forest Service",
-      "url": "https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263",
-      "points": 219,
-      "author": "dxs",
-      "created_at": 1775696523,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=47698132"
     },
     {
       "id": "47706140",
@@ -16089,7 +15929,207 @@
       "created_at": 1783341493,
       "num_comments": 127,
       "hn_url": "https://news.ycombinator.com/item?id=48803762"
+    },
+    {
+      "id": "48816883",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "points": 750,
+      "author": "kls0e",
+      "created_at": 1783427915,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=48816883"
+    },
+    {
+      "id": "48818311",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "points": 616,
+      "author": "gasull",
+      "created_at": 1783434195,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=48818311"
+    },
+    {
+      "id": "48823557",
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "points": 600,
+      "author": "nickslaughter02",
+      "created_at": 1783457446,
+      "num_comments": 765,
+      "hn_url": "https://news.ycombinator.com/item?id=48823557"
+    },
+    {
+      "id": "48819244",
+      "title": "Microsoft fire idTech team at Id software",
+      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "points": 588,
+      "author": "bauc",
+      "created_at": 1783438400,
+      "num_comments": 524,
+      "hn_url": "https://news.ycombinator.com/item?id=48819244"
+    },
+    {
+      "id": "48819008",
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "points": 565,
+      "author": "miroljub",
+      "created_at": 1783437375,
+      "num_comments": 245,
+      "hn_url": "https://news.ycombinator.com/item?id=48819008"
+    },
+    {
+      "id": "48816956",
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "points": 500,
+      "author": "surprisetalk",
+      "created_at": 1783428306,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=48816956"
+    },
+    {
+      "id": "48819608",
+      "title": "30papers.com \u2013 Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "points": 498,
+      "author": "notmcrowley",
+      "created_at": 1783439893,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=48819608"
+    },
+    {
+      "id": "48816959",
+      "title": "98% isn't much",
+      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "points": 494,
+      "author": "speckx",
+      "created_at": 1783428314,
+      "num_comments": 324,
+      "hn_url": "https://news.ycombinator.com/item?id=48816959"
+    },
+    {
+      "id": "48821576",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "points": 392,
+      "author": "speckx",
+      "created_at": 1783448650,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=48821576"
+    },
+    {
+      "id": "48812156",
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "points": 369,
+      "author": "bilsbie",
+      "created_at": 1783383261,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=48812156"
+    },
+    {
+      "id": "48815196",
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "points": 337,
+      "author": "ifh-hn",
+      "created_at": 1783414443,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48815196"
+    },
+    {
+      "id": "48820220",
+      "title": "China sentences official to death for taking $325M in bribes",
+      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "points": 322,
+      "author": "randycupertino",
+      "created_at": 1783442288,
+      "num_comments": 386,
+      "hn_url": "https://news.ycombinator.com/item?id=48820220"
+    },
+    {
+      "id": "48818963",
+      "title": "Amazon without the knockoffs",
+      "url": "https://knockoff.shopping/",
+      "points": 315,
+      "author": "plurby",
+      "created_at": 1783437181,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=48818963"
+    },
+    {
+      "id": "48816003",
+      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+      "points": 314,
+      "author": "28304283409234",
+      "created_at": 1783421253,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=48816003"
+    },
+    {
+      "id": "48821848",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "points": 295,
+      "author": "xinit",
+      "created_at": 1783449869,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=48821848"
+    },
+    {
+      "id": "48817017",
+      "title": "Dua Lipa opens library for banned and censored books in Portugal",
+      "url": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
+      "points": 289,
+      "author": "pax",
+      "created_at": 1783428640,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=48817017"
+    },
+    {
+      "id": "48823359",
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "points": 272,
+      "author": "zie1ony",
+      "created_at": 1783456542,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=48823359"
+    },
+    {
+      "id": "48815982",
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "points": 247,
+      "author": "theanonymousone",
+      "created_at": 1783420979,
+      "num_comments": 628,
+      "hn_url": "https://news.ycombinator.com/item?id=48815982"
+    },
+    {
+      "id": "48816612",
+      "title": "Europe's company websites are mostly served by US vendors",
+      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+      "points": 247,
+      "author": "adulion",
+      "created_at": 1783426105,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=48816612"
+    },
+    {
+      "id": "48813929",
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "points": 218,
+      "author": "archargelod",
+      "created_at": 1783401543,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=48813929"
     }
   ],
-  "last_updated": "2026-07-07T09:33:17.156686+00:00"
+  "last_updated": "2026-07-08T08:20:33.009698+00:00"
 }
