@@ -1,376 +1,6 @@
 {
   "posts": [
     {
-      "id": "47706268",
-      "title": "EFF is leaving X",
-      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-      "points": 1290,
-      "author": "gregsadetsky",
-      "created_at": 1775754484,
-      "num_comments": 1097,
-      "hn_url": "https://news.ycombinator.com/item?id=47706268"
-    },
-    {
-      "id": "47703419",
-      "title": "Meta removes ads for social media addiction litigation",
-      "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-      "points": 580,
-      "author": "giuliomagnifico",
-      "created_at": 1775741030,
-      "num_comments": 235,
-      "hn_url": "https://news.ycombinator.com/item?id=47703419"
-    },
-    {
-      "id": "47708818",
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "points": 451,
-      "author": "PaulHoule",
-      "created_at": 1775764106,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=47708818"
-    },
-    {
-      "id": "47705952",
-      "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
-      "url": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
-      "points": 433,
-      "author": "frm88",
-      "created_at": 1775753171,
-      "num_comments": 277,
-      "hn_url": "https://news.ycombinator.com/item?id=47705952"
-    },
-    {
-      "id": "47701233",
-      "title": "Claude mixes up who said what",
-      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-      "points": 427,
-      "author": "sixhobbits",
-      "created_at": 1775726728,
-      "num_comments": 330,
-      "hn_url": "https://news.ycombinator.com/item?id=47701233"
-    },
-    {
-      "id": "47700972",
-      "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-      "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-      "points": 325,
-      "author": "kisamoto",
-      "created_at": 1775724918,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=47700972"
-    },
-    {
-      "id": "47710149",
-      "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
-      "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
-      "points": 314,
-      "author": "jpmitchell",
-      "created_at": 1775768952,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=47710149"
-    },
-    {
-      "id": "47701148",
-      "title": "Top laptops to use with FreeBSD",
-      "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
-      "points": 310,
-      "author": "fork-bomber",
-      "created_at": 1775726245,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=47701148"
-    },
-    {
-      "id": "47704804",
-      "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "points": 289,
-      "author": "speckx",
-      "created_at": 1775747560,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=47704804"
-    },
-    {
-      "id": "47703123",
-      "title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
-      "url": "https://pizzalegacy.nl/blog/traffic-system.html",
-      "points": 279,
-      "author": "FinnKuhn",
-      "created_at": 1775739430,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=47703123"
-    },
-    {
-      "id": "47708817",
-      "title": "Maine is about to become the first state to ban major new data centers",
-      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
-      "points": 278,
-      "author": "rmason",
-      "created_at": 1775764105,
-      "num_comments": 389,
-      "hn_url": "https://news.ycombinator.com/item?id=47708817"
-    },
-    {
-      "id": "47704881",
-      "title": "The Vercel plugin on Claude Code wants to read your prompts",
-      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-      "points": 263,
-      "author": "akshay2603",
-      "created_at": 1775747847,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47704881"
-    },
-    {
-      "id": "47703072",
-      "title": "Am I German or Autistic?",
-      "url": "https://german.millermanschool.com/",
-      "points": 248,
-      "author": "doener",
-      "created_at": 1775739132,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=47703072"
-    },
-    {
-      "id": "47707477",
-      "title": "Old laptops in a colo as low cost servers",
-      "url": "https://colaptop.pages.dev/",
-      "points": 231,
-      "author": "argentum47",
-      "created_at": 1775758959,
-      "num_comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=47707477"
-    },
-    {
-      "id": "47706140",
-      "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
-      "url": "https://www.unfolder.app/",
-      "points": 205,
-      "author": "codazoda",
-      "created_at": 1775753926,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=47706140"
-    },
-    {
-      "id": "47707253",
-      "title": "ChatGPT Pro now starts at $100/month",
-      "url": "https://chatgpt.com/pricing/",
-      "points": 203,
-      "author": "strongpigeon",
-      "created_at": 1775758159,
-      "num_comments": 224,
-      "hn_url": "https://news.ycombinator.com/item?id=47707253"
-    },
-    {
-      "id": "47716043",
-      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "points": 835,
-      "author": "embedding-shape",
-      "created_at": 1775817453,
-      "num_comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=47716043"
-    },
-    {
-      "id": "47719740",
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "points": 765,
-      "author": "burnt-resistor",
-      "created_at": 1775835448,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47719740"
-    },
-    {
-      "id": "47724352",
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "points": 648,
-      "author": "normanvalentine",
-      "created_at": 1775859400,
-      "num_comments": 336,
-      "hn_url": "https://news.ycombinator.com/item?id=47724352"
-    },
-    {
-      "id": "47716490",
-      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-      "points": 580,
-      "author": "01-_-",
-      "created_at": 1775820544,
-      "num_comments": 288,
-      "hn_url": "https://news.ycombinator.com/item?id=47716490"
-    },
-    {
-      "id": "47719486",
-      "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-      "points": 481,
-      "author": "Teever",
-      "created_at": 1775834448,
-      "num_comments": 622,
-      "hn_url": "https://news.ycombinator.com/item?id=47719486"
-    },
-    {
-      "id": "47719602",
-      "title": "You can't trust macOS Privacy and Security settings",
-      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "points": 456,
-      "author": "zdw",
-      "created_at": 1775834904,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=47719602"
-    },
-    {
-      "id": "47719942",
-      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "points": 449,
-      "author": "zx2c4",
-      "created_at": 1775836192,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=47719942"
-    },
-    {
-      "id": "47712718",
-      "title": "I still prefer MCP over skills",
-      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "points": 429,
-      "author": "gmays",
-      "created_at": 1775786508,
-      "num_comments": 353,
-      "hn_url": "https://news.ycombinator.com/item?id=47712718"
-    },
-    {
-      "id": "47717587",
-      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-      "points": 428,
-      "author": "smurda",
-      "created_at": 1775826523,
-      "num_comments": 310,
-      "hn_url": "https://news.ycombinator.com/item?id=47717587"
-    },
-    {
-      "id": "47716412",
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "points": 363,
-      "author": "N19PEDL2",
-      "created_at": 1775820051,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=47716412"
-    },
-    {
-      "id": "47720419",
-      "title": "Industrial design files for Keychron keyboards and mice",
-      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "points": 350,
-      "author": "stingraycharles",
-      "created_at": 1775838146,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=47720419"
-    },
-    {
-      "id": "47712656",
-      "title": "We've raised $17M to build what comes after Git",
-      "url": "https://blog.gitbutler.com/series-a",
-      "points": 312,
-      "author": "ellieh",
-      "created_at": 1775785978,
-      "num_comments": 685,
-      "hn_url": "https://news.ycombinator.com/item?id=47712656"
-    },
-    {
-      "id": "47717847",
-      "title": "CPU-Z and HWMonitor compromised",
-      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-      "points": 306,
-      "author": "pashadee",
-      "created_at": 1775827760,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47717847"
-    },
-    {
-      "id": "47724118",
-      "title": "Installing every* Firefox extension",
-      "url": "https://jack.cab/blog/every-firefox-extension",
-      "points": 302,
-      "author": "RohanAdwankar",
-      "created_at": 1775858193,
-      "num_comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=47724118"
-    },
-    {
-      "id": "47722333",
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "points": 301,
-      "author": "neversaydie",
-      "created_at": 1775848222,
-      "num_comments": 165,
-      "hn_url": "https://news.ycombinator.com/item?id=47722333"
-    },
-    {
-      "id": "47719274",
-      "title": "Helium is hard to replace",
-      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "points": 292,
-      "author": "JumpCrisscross",
-      "created_at": 1775833611,
-      "num_comments": 205,
-      "hn_url": "https://news.ycombinator.com/item?id=47719274"
-    },
-    {
-      "id": "47724921",
-      "title": "Sam Altman's response to Molotov cocktail incident",
-      "url": "https://blog.samaltman.com/2279512",
-      "points": 280,
-      "author": "jack_hanford",
-      "created_at": 1775862348,
-      "num_comments": 559,
-      "hn_url": "https://news.ycombinator.com/item?id=47724921"
-    },
-    {
-      "id": "47721953",
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "points": 267,
-      "author": "hmokiguess",
-      "created_at": 1775846121,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=47721953"
-    },
-    {
-      "id": "47713495",
-      "title": "Team from ETH Zurich make high quality quantum swap gate using a geometric phase",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-      "points": 226,
-      "author": "joko42",
-      "created_at": 1775793897,
-      "num_comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=47713495"
-    },
-    {
-      "id": "47722566",
-      "title": "DOJ wants to scrap Watergate-era rule that makes presidential records public",
-      "url": "https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/",
-      "points": 225,
-      "author": "tlhunter",
-      "created_at": 1775849289,
-      "num_comments": 52,
-      "hn_url": "https://news.ycombinator.com/item?id=47722566"
-    },
-    {
-      "id": "47725583",
-      "title": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "points": 1248,
-      "author": "areoform",
-      "created_at": 1775866251,
-      "num_comments": 415,
-      "hn_url": "https://news.ycombinator.com/item?id=47725583"
-    },
-    {
       "id": "47732020",
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
@@ -379,26 +9,6 @@
       "created_at": 1775926048,
       "num_comments": 270,
       "hn_url": "https://news.ycombinator.com/item?id=47732020"
-    },
-    {
-      "id": "47728653",
-      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "points": 436,
-      "author": "pabs3",
-      "created_at": 1775895914,
-      "num_comments": 246,
-      "hn_url": "https://news.ycombinator.com/item?id=47728653"
-    },
-    {
-      "id": "47727960",
-      "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
-      "url": "https://news.ycombinator.com/item?id=47727960",
-      "points": 417,
-      "author": "vidluther",
-      "created_at": 1775888365,
-      "num_comments": 230,
-      "hn_url": "https://news.ycombinator.com/item?id=47727960"
     },
     {
       "id": "47730407",
@@ -439,16 +49,6 @@
       "created_at": 1775917959,
       "num_comments": 145,
       "hn_url": "https://news.ycombinator.com/item?id=47730981"
-    },
-    {
-      "id": "47727711",
-      "title": "20 years on AWS and never not my job",
-      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
-      "points": 245,
-      "author": "cperciva",
-      "created_at": 1775885470,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=47727711"
     },
     {
       "id": "47731506",
@@ -519,16 +119,6 @@
       "created_at": 1775910484,
       "num_comments": 123,
       "hn_url": "https://news.ycombinator.com/item?id=47729994"
-    },
-    {
-      "id": "47727659",
-      "title": "Productive Procrastination",
-      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
-      "points": 138,
-      "author": "maxvij",
-      "created_at": 1775884881,
-      "num_comments": 45,
-      "hn_url": "https://news.ycombinator.com/item?id=47727659"
     },
     {
       "id": "47730712",
@@ -16129,7 +15719,207 @@
       "created_at": 1783401543,
       "num_comments": 55,
       "hn_url": "https://news.ycombinator.com/item?id=48813929"
+    },
+    {
+      "id": "48843923",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "points": 1372,
+      "author": "rapnie",
+      "created_at": 1783595034,
+      "num_comments": 651,
+      "hn_url": "https://news.ycombinator.com/item?id=48843923"
+    },
+    {
+      "id": "48849066",
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "points": 1253,
+      "author": "logickkk1",
+      "created_at": 1783616654,
+      "num_comments": 896,
+      "hn_url": "https://news.ycombinator.com/item?id=48849066"
+    },
+    {
+      "id": "48845049",
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "points": 986,
+      "author": "pompomsheep",
+      "created_at": 1783601332,
+      "num_comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=48845049"
+    },
+    {
+      "id": "48843352",
+      "title": "My thoughts on the Bun Rust rewrite",
+      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "points": 702,
+      "author": "kristoff_it",
+      "created_at": 1783590448,
+      "num_comments": 608,
+      "hn_url": "https://news.ycombinator.com/item?id=48843352"
+    },
+    {
+      "id": "48842459",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "points": 663,
+      "author": "vforno",
+      "created_at": 1783584304,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=48842459"
+    },
+    {
+      "id": "48841676",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "points": 648,
+      "author": "SweetSoftPillow",
+      "created_at": 1783577899,
+      "num_comments": 555,
+      "hn_url": "https://news.ycombinator.com/item?id=48841676"
+    },
+    {
+      "id": "48847552",
+      "title": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "points": 473,
+      "author": "andai",
+      "created_at": 1783610868,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=48847552"
+    },
+    {
+      "id": "48839984",
+      "title": "I think I have LLM burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "points": 391,
+      "author": "sosodev",
+      "created_at": 1783562188,
+      "num_comments": 347,
+      "hn_url": "https://news.ycombinator.com/item?id=48839984"
+    },
+    {
+      "id": "48846184",
+      "title": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "points": 373,
+      "author": "ot",
+      "created_at": 1783606222,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=48846184"
+    },
+    {
+      "id": "48845442",
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "points": 371,
+      "author": "baud147258",
+      "created_at": 1783603483,
+      "num_comments": 456,
+      "hn_url": "https://news.ycombinator.com/item?id=48845442"
+    },
+    {
+      "id": "48842611",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "points": 354,
+      "author": "Gedxx",
+      "created_at": 1783585372,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=48842611"
+    },
+    {
+      "id": "48849059",
+      "title": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "points": 335,
+      "author": "Tiberium",
+      "created_at": 1783616633,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=48849059"
+    },
+    {
+      "id": "48843438",
+      "title": "Bonnie Tyler has died",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "points": 333,
+      "author": "theanonymousone",
+      "created_at": 1783591353,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=48843438"
+    },
+    {
+      "id": "48841259",
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "points": 294,
+      "author": "Jedd",
+      "created_at": 1783574085,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=48841259"
+    },
+    {
+      "id": "48847511",
+      "title": "A possible future for Damn Interesting",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "points": 281,
+      "author": "mzur",
+      "created_at": 1783610725,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=48847511"
+    },
+    {
+      "id": "48846281",
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "points": 278,
+      "author": "ChrisArchitect",
+      "created_at": 1783606594,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=48846281"
+    },
+    {
+      "id": "48845514",
+      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "points": 258,
+      "author": "rbanffy",
+      "created_at": 1783603771,
+      "num_comments": 321,
+      "hn_url": "https://news.ycombinator.com/item?id=48845514"
+    },
+    {
+      "id": "48849292",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "points": 240,
+      "author": "veqq",
+      "created_at": 1783617436,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=48849292"
+    },
+    {
+      "id": "48845209",
+      "title": "A road to Lisp: Why Lisp",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "points": 228,
+      "author": "silcoon",
+      "created_at": 1783602364,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=48845209"
+    },
+    {
+      "id": "48847940",
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "points": 217,
+      "author": "mukmuk",
+      "created_at": 1783612209,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=48847940"
     }
   ],
-  "last_updated": "2026-07-08T08:20:33.009698+00:00"
+  "last_updated": "2026-07-10T09:26:54.891091+00:00"
 }
