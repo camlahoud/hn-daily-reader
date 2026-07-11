@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "47732020",
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "points": 999,
-      "author": "dominicq",
-      "created_at": 1775926048,
-      "num_comments": 270,
-      "hn_url": "https://news.ycombinator.com/item?id=47732020"
-    },
-    {
-      "id": "47730407",
-      "title": "South Korea introduces universal basic mobile data access",
-      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-      "points": 365,
-      "author": "saikatsg",
-      "created_at": 1775914036,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=47730407"
-    },
-    {
-      "id": "47733217",
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "points": 341,
-      "author": "Anon84",
-      "created_at": 1775934956,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=47733217"
-    },
-    {
-      "id": "47730194",
-      "title": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "points": 256,
-      "author": "seekdeep",
-      "created_at": 1775912494,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=47730194"
-    },
-    {
-      "id": "47730981",
-      "title": "The future of everything is lies, I guess \u2013 Part 5: Annoyances",
-      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "points": 252,
-      "author": "aphyr",
-      "created_at": 1775917959,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=47730981"
-    },
-    {
-      "id": "47731506",
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "points": 231,
-      "author": "zdw",
-      "created_at": 1775921959,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=47731506"
-    },
-    {
-      "id": "47730370",
-      "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
-      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
-      "points": 226,
-      "author": "PaulHoule",
-      "created_at": 1775913745,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=47730370"
-    },
-    {
-      "id": "47733561",
-      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "points": 194,
-      "author": "iliatoli",
-      "created_at": 1775938126,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=47733561"
-    },
-    {
-      "id": "47733971",
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "points": 184,
-      "author": "krackers",
-      "created_at": 1775941128,
-      "num_comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=47733971"
-    },
-    {
-      "id": "47731960",
-      "title": "The disturbing white paper Red Hat is trying to erase from the internet",
-      "url": "https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/",
-      "points": 179,
-      "author": "choult",
-      "created_at": 1775925530,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=47731960"
-    },
-    {
-      "id": "47733521",
-      "title": "Dark Castle",
-      "url": "https://darkcastle.co.uk/",
-      "points": 171,
-      "author": "evo_9",
-      "created_at": 1775937719,
-      "num_comments": 22,
-      "hn_url": "https://news.ycombinator.com/item?id=47733521"
-    },
-    {
-      "id": "47729994",
-      "title": "Polymarket gamblers betting millions on war",
-      "url": "https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
-      "points": 152,
-      "author": "sandebert",
-      "created_at": 1775910484,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=47729994"
-    },
-    {
-      "id": "47730712",
-      "title": "The Problem That Built an Industry",
-      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "points": 120,
-      "author": "ShaggyHotDog",
-      "created_at": 1775916183,
-      "num_comments": 44,
-      "hn_url": "https://news.ycombinator.com/item?id=47730712"
-    },
-    {
-      "id": "47732697",
-      "title": "How to build a `Git diff` driver",
-      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "points": 105,
-      "author": "zdw",
-      "created_at": 1775930869,
-      "num_comments": 12,
-      "hn_url": "https://news.ycombinator.com/item?id=47732697"
-    },
-    {
-      "id": "47736555",
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "points": 874,
-      "author": "tradertef",
-      "created_at": 1775973600,
-      "num_comments": 478,
-      "hn_url": "https://news.ycombinator.com/item?id=47736555"
-    },
-    {
       "id": "47738883",
       "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
       "url": "https://news.ycombinator.com/item?id=47738883",
@@ -189,16 +39,6 @@
       "created_at": 1775996486,
       "num_comments": 290,
       "hn_url": "https://news.ycombinator.com/item?id=47738827"
-    },
-    {
-      "id": "47736476",
-      "title": "Anthropic downgraded cache TTL on March 6th",
-      "url": "https://github.com/anthropics/claude-code/issues/46829",
-      "points": 508,
-      "author": "lsdmtme",
-      "created_at": 1775972752,
-      "num_comments": 393,
-      "hn_url": "https://news.ycombinator.com/item?id=47736476"
     },
     {
       "id": "47743730",
@@ -271,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47742680"
     },
     {
-      "id": "47736298",
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "points": 231,
-      "author": "Jimmc414",
-      "created_at": 1775970483,
-      "num_comments": 251,
-      "hn_url": "https://news.ycombinator.com/item?id=47736298"
-    },
-    {
       "id": "47738978",
       "title": "We have a 99% email reputation, but Gmail disagrees",
       "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
@@ -299,16 +129,6 @@
       "created_at": 1776022635,
       "num_comments": 73,
       "hn_url": "https://news.ycombinator.com/item?id=47743553"
-    },
-    {
-      "id": "47735535",
-      "title": "The End of Eleventy",
-      "url": "https://brennan.day/the-end-of-eleventy/",
-      "points": 213,
-      "author": "ValentineC",
-      "created_at": 1775958948,
-      "num_comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=47735535"
     },
     {
       "id": "47737376",
@@ -15919,7 +15739,207 @@
       "created_at": 1783612209,
       "num_comments": 194,
       "hn_url": "https://news.ycombinator.com/item?id=48847940"
+    },
+    {
+      "id": "48865019",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "points": 908,
+      "author": "stock_toaster",
+      "created_at": 1783716429,
+      "num_comments": 453,
+      "hn_url": "https://news.ycombinator.com/item?id=48865019"
+    },
+    {
+      "id": "48861717",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "points": 532,
+      "author": "speckx",
+      "created_at": 1783699193,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=48861717"
+    },
+    {
+      "id": "48863464",
+      "title": "New York City to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "points": 492,
+      "author": "randycupertino",
+      "created_at": 1783707984,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=48863464"
+    },
+    {
+      "id": "48863490",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "points": 424,
+      "author": "scrlk",
+      "created_at": 1783708159,
+      "num_comments": 331,
+      "hn_url": "https://news.ycombinator.com/item?id=48863490"
+    },
+    {
+      "id": "48858121",
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "points": 398,
+      "author": "theanonymousone",
+      "created_at": 1783679561,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=48858121"
+    },
+    {
+      "id": "48858737",
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "points": 354,
+      "author": "dmonay",
+      "created_at": 1783684795,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=48858737"
+    },
+    {
+      "id": "48859701",
+      "title": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "points": 330,
+      "author": "ScottWRobinson",
+      "created_at": 1783690380,
+      "num_comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=48859701"
+    },
+    {
+      "id": "48856904",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "points": 273,
+      "author": "smusamashah",
+      "created_at": 1783669151,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=48856904"
+    },
+    {
+      "id": "48858292",
+      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "points": 258,
+      "author": "jeroenhd",
+      "created_at": 1783681215,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=48858292"
+    },
+    {
+      "id": "48857230",
+      "title": "In Emacs, everything looks like a service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "points": 238,
+      "author": "kickingvegas",
+      "created_at": 1783671670,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=48857230"
+    },
+    {
+      "id": "48859678",
+      "title": "Successful companies go blind",
+      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+      "points": 210,
+      "author": "speckx",
+      "created_at": 1783690268,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=48859678"
+    },
+    {
+      "id": "48862365",
+      "title": "The tech of 'Terminator 2' \u2013 an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "points": 206,
+      "author": "markus_zhang",
+      "created_at": 1783702121,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=48862365"
+    },
+    {
+      "id": "48863707",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "points": 202,
+      "author": "imustachyou",
+      "created_at": 1783709366,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=48863707"
+    },
+    {
+      "id": "48866134",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "points": 195,
+      "author": "hhs",
+      "created_at": 1783722644,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=48866134"
+    },
+    {
+      "id": "48864158",
+      "title": "Mayor Mamdani announces \"Click-to-Cancel\" rules",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+      "points": 181,
+      "author": "thisislife2",
+      "created_at": 1783711812,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=48864158"
+    },
+    {
+      "id": "48862252",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "points": 176,
+      "author": "simonebrunozzi",
+      "created_at": 1783701472,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=48862252"
+    },
+    {
+      "id": "48854247",
+      "title": "Parental device use and the adolescent-caregiver attachment bond",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "points": 168,
+      "author": "hbcondo714",
+      "created_at": 1783642828,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=48854247"
+    },
+    {
+      "id": "48864252",
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "points": 162,
+      "author": "chmaynard",
+      "created_at": 1783712314,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=48864252"
+    },
+    {
+      "id": "48859671",
+      "title": "Punk, or why I don't stream anymore",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
+      "points": 159,
+      "author": "surprisetalk",
+      "created_at": 1783690219,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=48859671"
+    },
+    {
+      "id": "48863064",
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "points": 150,
+      "author": "CrankyBear",
+      "created_at": 1783705867,
+      "num_comments": 445,
+      "hn_url": "https://news.ycombinator.com/item?id=48863064"
     }
   ],
-  "last_updated": "2026-07-10T09:26:54.891091+00:00"
+  "last_updated": "2026-07-11T07:47:47.047644+00:00"
 }
