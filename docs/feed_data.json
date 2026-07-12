@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47738883",
-      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-      "url": "https://news.ycombinator.com/item?id=47738883",
-      "points": 816,
-      "author": "littlecranky67",
-      "created_at": 1775996937,
-      "num_comments": 306,
-      "hn_url": "https://news.ycombinator.com/item?id=47738883"
-    },
-    {
-      "id": "47739260",
-      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "points": 613,
-      "author": "cmaster11",
-      "created_at": 1775999731,
-      "num_comments": 545,
-      "hn_url": "https://news.ycombinator.com/item?id=47739260"
-    },
-    {
-      "id": "47739313",
-      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
-      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "points": 563,
-      "author": "mpweiher",
-      "created_at": 1776000099,
-      "num_comments": 312,
-      "hn_url": "https://news.ycombinator.com/item?id=47739313"
-    },
-    {
-      "id": "47738827",
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "points": 533,
-      "author": "phil294",
-      "created_at": 1775996486,
-      "num_comments": 290,
-      "hn_url": "https://news.ycombinator.com/item?id=47738827"
-    },
-    {
-      "id": "47743730",
-      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "points": 424,
-      "author": "super256",
-      "created_at": 1776023588,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=47743730"
-    },
-    {
-      "id": "47741701",
-      "title": "DIY Soft Drinks",
-      "url": "https://blinry.org/diy-soft-drinks/",
-      "points": 391,
-      "author": "_Microft",
-      "created_at": 1776011923,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=47741701"
-    },
-    {
-      "id": "47743628",
-      "title": "The peril of laziness lost",
-      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-      "points": 378,
-      "author": "gpm",
-      "created_at": 1776023080,
-      "num_comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=47743628"
-    },
-    {
-      "id": "47742200",
-      "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
-      "points": 346,
-      "author": "a-ve",
-      "created_at": 1776014744,
-      "num_comments": 191,
-      "hn_url": "https://news.ycombinator.com/item?id=47742200"
-    },
-    {
-      "id": "47737563",
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-      "points": 333,
-      "author": "gHeadphone",
-      "created_at": 1775985395,
-      "num_comments": 595,
-      "hn_url": "https://news.ycombinator.com/item?id=47737563"
-    },
-    {
-      "id": "47737383",
-      "title": "Apple update looks like Czech mate for locked-out iPhone user",
-      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
-      "points": 329,
-      "author": "OuterVale",
-      "created_at": 1775983136,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=47737383"
-    },
-    {
-      "id": "47742680",
-      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
-      "url": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
-      "points": 328,
-      "author": "thepasswordis",
-      "created_at": 1776017942,
-      "num_comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=47742680"
-    },
-    {
-      "id": "47738978",
-      "title": "We have a 99% email reputation, but Gmail disagrees",
-      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "points": 231,
-      "author": "em-bee",
-      "created_at": 1775997745,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=47738978"
-    },
-    {
-      "id": "47743553",
-      "title": "Viktor Orb\u00e1n concedes defeat after 'painful' election result",
-      "url": "https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab",
-      "points": 226,
-      "author": "hackernj",
-      "created_at": 1776022635,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=47743553"
-    },
-    {
-      "id": "47737376",
-      "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
-      "url": "https://phyphox.org/",
-      "points": 210,
-      "author": "_Microft",
-      "created_at": 1775983091,
-      "num_comments": 33,
-      "hn_url": "https://news.ycombinator.com/item?id=47737376"
-    },
-    {
-      "id": "47741527",
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "url": "https://news.ycombinator.com/item?id=47741527",
-      "points": 202,
-      "author": "david927",
-      "created_at": 1776011083,
-      "num_comments": 621,
-      "hn_url": "https://news.ycombinator.com/item?id=47741527"
-    },
-    {
-      "id": "47738094",
-      "title": "JVM Options Explorer",
-      "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "points": 192,
-      "author": "0x54MUR41",
-      "created_at": 1775989766,
-      "num_comments": 84,
-      "hn_url": "https://news.ycombinator.com/item?id=47738094"
-    },
-    {
       "id": "47755629",
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
@@ -169,16 +9,6 @@
       "created_at": 1776102879,
       "num_comments": 247,
       "hn_url": "https://news.ycombinator.com/item?id=47755629"
-    },
-    {
-      "id": "47746610",
-      "title": "All elementary functions from a single binary operator",
-      "url": "https://arxiv.org/abs/2603.21852",
-      "points": 814,
-      "author": "pizza",
-      "created_at": 1776044972,
-      "num_comments": 256,
-      "hn_url": "https://news.ycombinator.com/item?id=47746610"
     },
     {
       "id": "47757495",
@@ -201,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47750872"
     },
     {
-      "id": "47747017",
-      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-      "points": 409,
-      "author": "walterbell",
-      "created_at": 1776048790,
-      "num_comments": 360,
-      "hn_url": "https://news.ycombinator.com/item?id=47747017"
-    },
-    {
       "id": "47753472",
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
@@ -219,16 +39,6 @@
       "created_at": 1776094266,
       "num_comments": 222,
       "hn_url": "https://news.ycombinator.com/item?id=47753472"
-    },
-    {
-      "id": "47748064",
-      "title": "The economics of software teams: Why most engineering orgs are flying blind",
-      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "points": 396,
-      "author": "kiyanwang",
-      "created_at": 1776059132,
-      "num_comments": 271,
-      "hn_url": "https://news.ycombinator.com/item?id=47748064"
     },
     {
       "id": "47751781",
@@ -15939,7 +15749,207 @@
       "created_at": 1783705867,
       "num_comments": 445,
       "hn_url": "https://news.ycombinator.com/item?id=48863064"
+    },
+    {
+      "id": "48873692",
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "points": 288,
+      "author": "speckx",
+      "created_at": 1783789403,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=48873692"
+    },
+    {
+      "id": "48873940",
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "points": 271,
+      "author": "ingve",
+      "created_at": 1783791235,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=48873940"
+    },
+    {
+      "id": "48875377",
+      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "points": 252,
+      "author": "theMackabu",
+      "created_at": 1783800438,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=48875377"
+    },
+    {
+      "id": "48873836",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "points": 243,
+      "author": "adletbalzhanov",
+      "created_at": 1783790509,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=48873836"
+    },
+    {
+      "id": "48876505",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "points": 222,
+      "author": "tionis",
+      "created_at": 1783809537,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=48876505"
+    },
+    {
+      "id": "48870381",
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://www.mixfont.com/ghost-font",
+      "points": 210,
+      "author": "justswim",
+      "created_at": 1783762613,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=48870381"
+    },
+    {
+      "id": "48868996",
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "points": 204,
+      "author": "mvdtnz",
+      "created_at": 1783747181,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=48868996"
+    },
+    {
+      "id": "48872874",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "points": 203,
+      "author": "saisrirampur",
+      "created_at": 1783783682,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=48872874"
+    },
+    {
+      "id": "48874200",
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "points": 199,
+      "author": "rvz",
+      "created_at": 1783793041,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=48874200"
+    },
+    {
+      "id": "48871470",
+      "title": "Networking and the Internet, from First Principles",
+      "url": "https://fazamhd.com/mental-models/networking/",
+      "points": 198,
+      "author": "faza",
+      "created_at": 1783773040,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=48871470"
+    },
+    {
+      "id": "48873893",
+      "title": "Leaded gas was a known poison the day it was invented (2016)",
+      "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+      "points": 183,
+      "author": "downbad_",
+      "created_at": 1783790875,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=48873893"
+    },
+    {
+      "id": "48873424",
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "points": 179,
+      "author": "downwithdisease",
+      "created_at": 1783787328,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=48873424"
+    },
+    {
+      "id": "48876441",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "points": 177,
+      "author": "theorchid",
+      "created_at": 1783808928,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=48876441"
+    },
+    {
+      "id": "48873457",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "points": 172,
+      "author": "prtk25",
+      "created_at": 1783787622,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=48873457"
+    },
+    {
+      "id": "48871973",
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "points": 162,
+      "author": "acley",
+      "created_at": 1783777227,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=48871973"
+    },
+    {
+      "id": "48876741",
+      "title": "How Doctors die. It\u2019s not like the rest of us (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "points": 148,
+      "author": "downbad_",
+      "created_at": 1783811706,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=48876741"
+    },
+    {
+      "id": "48876593",
+      "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "points": 135,
+      "author": "sublinear",
+      "created_at": 1783810182,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=48876593"
+    },
+    {
+      "id": "48876245",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "points": 129,
+      "author": "mariuz",
+      "created_at": 1783807080,
+      "num_comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=48876245"
+    },
+    {
+      "id": "48870799",
+      "title": "Your code is fast if you're lucky",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "points": 124,
+      "author": "chrka",
+      "created_at": 1783767010,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=48870799"
+    },
+    {
+      "id": "48874357",
+      "title": "How to hide from killer drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "points": 121,
+      "author": "pseudolus",
+      "created_at": 1783794122,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=48874357"
     }
   ],
-  "last_updated": "2026-07-11T07:47:47.047644+00:00"
+  "last_updated": "2026-07-12T08:09:15.575906+00:00"
 }
