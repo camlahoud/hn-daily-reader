@@ -1,206 +1,6 @@
 {
   "posts": [
     {
-      "id": "47755629",
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "points": 880,
-      "author": "speckx",
-      "created_at": 1776102879,
-      "num_comments": 247,
-      "hn_url": "https://news.ycombinator.com/item?id=47755629"
-    },
-    {
-      "id": "47757495",
-      "title": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
-      "points": 652,
-      "author": "ezekg",
-      "created_at": 1776112609,
-      "num_comments": 352,
-      "hn_url": "https://news.ycombinator.com/item?id=47757495"
-    },
-    {
-      "id": "47750872",
-      "title": "Servo is now available on crates.io",
-      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "points": 447,
-      "author": "ffin",
-      "created_at": 1776082342,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=47750872"
-    },
-    {
-      "id": "47753472",
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "points": 405,
-      "author": "m-hodges",
-      "created_at": 1776094266,
-      "num_comments": 222,
-      "hn_url": "https://news.ycombinator.com/item?id=47753472"
-    },
-    {
-      "id": "47751781",
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "points": 373,
-      "author": "t-3",
-      "created_at": 1776087453,
-      "num_comments": 251,
-      "hn_url": "https://news.ycombinator.com/item?id=47751781"
-    },
-    {
-      "id": "47752819",
-      "title": "Make tmux pretty and usable (2024)",
-      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "points": 359,
-      "author": "speckx",
-      "created_at": 1776091735,
-      "num_comments": 224,
-      "hn_url": "https://news.ycombinator.com/item?id=47752819"
-    },
-    {
-      "id": "47750669",
-      "title": "Android now stops you sharing your location in photos",
-      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "points": 349,
-      "author": "edent",
-      "created_at": 1776080895,
-      "num_comments": 295,
-      "hn_url": "https://news.ycombinator.com/item?id=47750669"
-    },
-    {
-      "id": "47751936",
-      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-      "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
-      "points": 342,
-      "author": "bundie",
-      "created_at": 1776088104,
-      "num_comments": 259,
-      "hn_url": "https://news.ycombinator.com/item?id=47751936"
-    },
-    {
-      "id": "47752884",
-      "title": "This year\u2019s insane timeline of hacks",
-      "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
-      "points": 300,
-      "author": "laurex",
-      "created_at": 1776091985,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=47752884"
-    },
-    {
-      "id": "47754379",
-      "title": "The Future of Everything Is Lies, I Guess: Safety",
-      "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-      "points": 294,
-      "author": "aphyr",
-      "created_at": 1776097389,
-      "num_comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=47754379"
-    },
-    {
-      "id": "47753689",
-      "title": "Building a CLI for all of Cloudflare",
-      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "points": 293,
-      "author": "soheilpro",
-      "created_at": 1776095042,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=47753689"
-    },
-    {
-      "id": "47758028",
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "points": 238,
-      "author": "ZeidJ",
-      "created_at": 1776115538,
-      "num_comments": 342,
-      "hn_url": "https://news.ycombinator.com/item?id=47758028"
-    },
-    {
-      "id": "47750821",
-      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
-      "points": 214,
-      "author": "iamnothere",
-      "created_at": 1776081935,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=47750821"
-    },
-    {
-      "id": "47751029",
-      "title": "I went to America's worst national parks so you don't have to",
-      "url": "https://substack.com/home/post/p-193626949",
-      "points": 195,
-      "author": "surprisetalk",
-      "created_at": 1776083375,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=47751029"
-    },
-    {
-      "id": "47751032",
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-      "points": 178,
-      "author": "surprisetalk",
-      "created_at": 1776083379,
-      "num_comments": 257,
-      "hn_url": "https://news.ycombinator.com/item?id=47751032"
-    },
-    {
-      "id": "47749674",
-      "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-      "url": "https://github.com/brightbeanxyz/brightbean-studio",
-      "points": 177,
-      "author": "JanSchu",
-      "created_at": 1776072416,
-      "num_comments": 120,
-      "hn_url": "https://news.ycombinator.com/item?id=47749674"
-    },
-    {
-      "id": "47756321",
-      "title": "How to make Firefox builds 17% faster",
-      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "points": 165,
-      "author": "mbitsnbites",
-      "created_at": 1776106208,
-      "num_comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=47756321"
-    },
-    {
-      "id": "47760529",
-      "title": "DaVinci Resolve \u2013 Photo",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "points": 1093,
-      "author": "thebiblelover7",
-      "created_at": 1776133515,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=47760529"
-    },
-    {
-      "id": "47762864",
-      "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
-      "url": "https://rareese.com/posts/backblaze/",
-      "points": 1057,
-      "author": "rrreese",
-      "created_at": 1776155427,
-      "num_comments": 629,
-      "hn_url": "https://news.ycombinator.com/item?id=47762864"
-    },
-    {
-      "id": "47760764",
-      "title": "A new spam policy for \u201cback button hijacking\u201d",
-      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "points": 868,
-      "author": "zdw",
-      "created_at": 1776135987,
-      "num_comments": 489,
-      "hn_url": "https://news.ycombinator.com/item?id=47760764"
-    },
-    {
       "id": "47765604",
       "title": "Rare concert recordings are landing on the Internet Archive",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
@@ -271,36 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47768195"
     },
     {
-      "id": "47759709",
-      "title": "Lean proved this program correct; then I found a bug",
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "points": 383,
-      "author": "bumbledraven",
-      "created_at": 1776126308,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=47759709"
-    },
-    {
-      "id": "47762641",
-      "title": "Introspective Diffusion Language Models",
-      "url": "https://introspective-diffusion.github.io/",
-      "points": 262,
-      "author": "zagwdt",
-      "created_at": 1776153453,
-      "num_comments": 45,
-      "hn_url": "https://news.ycombinator.com/item?id=47762641"
-    },
-    {
-      "id": "47760750",
-      "title": "Sometimes powerful people just do dumb shit",
-      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
-      "points": 261,
-      "author": "zdw",
-      "created_at": 1776135860,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=47760750"
-    },
-    {
       "id": "47766550",
       "title": "The future of everything is lies, I guess: Work",
       "url": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
@@ -321,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47768788"
     },
     {
-      "id": "47762901",
-      "title": "An AI Vibe Coding Horror Story",
-      "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-      "points": 206,
-      "author": "teichmann",
-      "created_at": 1776155745,
-      "num_comments": 202,
-      "hn_url": "https://news.ycombinator.com/item?id=47762901"
-    },
-    {
       "id": "47767191",
       "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out",
       "url": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
@@ -339,26 +99,6 @@
       "created_at": 1776181603,
       "num_comments": 93,
       "hn_url": "https://news.ycombinator.com/item?id=47767191"
-    },
-    {
-      "id": "47761997",
-      "title": "Distributed DuckDB Instance",
-      "url": "https://github.com/citguru/openduck",
-      "points": 172,
-      "author": "citguru",
-      "created_at": 1776148304,
-      "num_comments": 33,
-      "hn_url": "https://news.ycombinator.com/item?id=47761997"
-    },
-    {
-      "id": "47760925",
-      "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
-      "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
-      "points": 164,
-      "author": "wibbily",
-      "created_at": 1776137536,
-      "num_comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=47760925"
     },
     {
       "id": "47769183",
@@ -15949,7 +15689,207 @@
       "created_at": 1783794122,
       "num_comments": 157,
       "hn_url": "https://news.ycombinator.com/item?id=48874357"
+    },
+    {
+      "id": "48883275",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "points": 584,
+      "author": "systima",
+      "created_at": 1783880751,
+      "num_comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=48883275"
+    },
+    {
+      "id": "48877371",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "points": 473,
+      "author": "jhoho",
+      "created_at": 1783818590,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=48877371"
+    },
+    {
+      "id": "48880170",
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "points": 434,
+      "author": "subset",
+      "created_at": 1783854582,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=48880170"
+    },
+    {
+      "id": "48883343",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "points": 419,
+      "author": "therepanic",
+      "created_at": 1783881116,
+      "num_comments": 265,
+      "hn_url": "https://news.ycombinator.com/item?id=48883343"
+    },
+    {
+      "id": "48884853",
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "points": 399,
+      "author": "joahnn_s",
+      "created_at": 1783890731,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=48884853"
+    },
+    {
+      "id": "48882056",
+      "title": "How to read more books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "points": 353,
+      "author": "silcoon",
+      "created_at": 1783871236,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=48882056"
+    },
+    {
+      "id": "48879504",
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "points": 277,
+      "author": "signa11",
+      "created_at": 1783846379,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=48879504"
+    },
+    {
+      "id": "48884395",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "points": 249,
+      "author": "naves",
+      "created_at": 1783887785,
+      "num_comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=48884395"
+    },
+    {
+      "id": "48882569",
+      "title": "LARP \u2013 Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
+      "points": 240,
+      "author": "BerislavLopac",
+      "created_at": 1783875401,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=48882569"
+    },
+    {
+      "id": "48881874",
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "points": 239,
+      "author": "saikatsg",
+      "created_at": 1783869839,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=48881874"
+    },
+    {
+      "id": "48884322",
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "points": 232,
+      "author": "Bender",
+      "created_at": 1783887372,
+      "num_comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=48884322"
+    },
+    {
+      "id": "48882716",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "points": 203,
+      "author": "brryant",
+      "created_at": 1783876387,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=48882716"
+    },
+    {
+      "id": "48881830",
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "points": 197,
+      "author": "zdw",
+      "created_at": 1783869440,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=48881830"
+    },
+    {
+      "id": "48878126",
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "points": 190,
+      "author": "nradov",
+      "created_at": 1783828814,
+      "num_comments": 493,
+      "hn_url": "https://news.ycombinator.com/item?id=48878126"
+    },
+    {
+      "id": "48885643",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "points": 184,
+      "author": "zdw",
+      "created_at": 1783896331,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=48885643"
+    },
+    {
+      "id": "48880499",
+      "title": "Understanding the Odin programming language",
+      "url": "https://odinbook.com/",
+      "points": 156,
+      "author": "AlexeyBrin",
+      "created_at": 1783858087,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=48880499"
+    },
+    {
+      "id": "48884984",
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "points": 154,
+      "author": "david927",
+      "created_at": 1783891601,
+      "num_comments": 484,
+      "hn_url": "https://news.ycombinator.com/item?id=48884984"
+    },
+    {
+      "id": "48880209",
+      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+      "points": 153,
+      "author": "RetroTechie",
+      "created_at": 1783855112,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=48880209"
+    },
+    {
+      "id": "48878682",
+      "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "points": 152,
+      "author": "cosmtrek",
+      "created_at": 1783835492,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=48878682"
+    },
+    {
+      "id": "48881043",
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "points": 146,
+      "author": "zaikunzhang",
+      "created_at": 1783862773,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=48881043"
     }
   ],
-  "last_updated": "2026-07-12T08:09:15.575906+00:00"
+  "last_updated": "2026-07-13T09:16:47.858758+00:00"
 }
