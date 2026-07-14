@@ -1,116 +1,6 @@
 {
   "posts": [
     {
-      "id": "47765604",
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "points": 621,
-      "author": "jrm-veris",
-      "created_at": 1776174391,
-      "num_comments": 179,
-      "hn_url": "https://news.ycombinator.com/item?id=47765604"
-    },
-    {
-      "id": "47772012",
-      "title": "Stop Flock",
-      "url": "https://stopflock.com",
-      "points": 593,
-      "author": "cdrnsf",
-      "created_at": 1776203765,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=47772012"
-    },
-    {
-      "id": "47768813",
-      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-      "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-      "points": 583,
-      "author": "speckx",
-      "created_at": 1776188820,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=47768813"
-    },
-    {
-      "id": "47768133",
-      "title": "Claude Code Routines",
-      "url": "https://code.claude.com/docs/en/routines",
-      "points": 575,
-      "author": "matthieu_bl",
-      "created_at": 1776185673,
-      "num_comments": 339,
-      "hn_url": "https://news.ycombinator.com/item?id=47768133"
-    },
-    {
-      "id": "47769796",
-      "title": "Tell HN: Fiverr left customer files public and searchable",
-      "url": "https://news.ycombinator.com/item?id=47769796",
-      "points": 571,
-      "author": "morpheuskafka",
-      "created_at": 1776193000,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=47769796"
-    },
-    {
-      "id": "47763759",
-      "title": "jj \u2013 the CLI for Jujutsu",
-      "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-      "points": 518,
-      "author": "tigerlily",
-      "created_at": 1776162819,
-      "num_comments": 448,
-      "hn_url": "https://news.ycombinator.com/item?id=47763759"
-    },
-    {
-      "id": "47768195",
-      "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
-      "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
-      "points": 409,
-      "author": "akyuu",
-      "created_at": 1776185949,
-      "num_comments": 416,
-      "hn_url": "https://news.ycombinator.com/item?id=47768195"
-    },
-    {
-      "id": "47766550",
-      "title": "The future of everything is lies, I guess: Work",
-      "url": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
-      "points": 258,
-      "author": "aphyr",
-      "created_at": 1776178845,
-      "num_comments": 206,
-      "hn_url": "https://news.ycombinator.com/item?id=47766550"
-    },
-    {
-      "id": "47768788",
-      "title": "OpenSSL 4.0.0",
-      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0",
-      "points": 245,
-      "author": "petecooper",
-      "created_at": 1776188734,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=47768788"
-    },
-    {
-      "id": "47767191",
-      "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out",
-      "url": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
-      "points": 179,
-      "author": "Cider9986",
-      "created_at": 1776181603,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=47767191"
-    },
-    {
-      "id": "47769183",
-      "title": "40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal",
-      "url": "https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b",
-      "points": 159,
-      "author": "randycupertino",
-      "created_at": 1776190469,
-      "num_comments": 266,
-      "hn_url": "https://news.ycombinator.com/item?id=47769183"
-    },
-    {
       "id": "47782570",
       "title": "Google broke its promise to me \u2013 now ICE has my data",
       "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
@@ -211,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47780456"
     },
     {
-      "id": "47774971",
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "points": 279,
-      "author": "takumi123",
-      "created_at": 1776230346,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=47774971"
-    },
-    {
       "id": "47786791",
       "title": "YouTube users get option to set their Shorts time limit to zero minutes",
       "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
@@ -239,16 +119,6 @@
       "created_at": 1776280930,
       "num_comments": 322,
       "hn_url": "https://news.ycombinator.com/item?id=47783940"
-    },
-    {
-      "id": "47774789",
-      "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "points": 257,
-      "author": "snoofydude",
-      "created_at": 1776228420,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=47774789"
     },
     {
       "id": "47778758",
@@ -289,16 +159,6 @@
       "created_at": 1776281452,
       "num_comments": 44,
       "hn_url": "https://news.ycombinator.com/item?id=47784045"
-    },
-    {
-      "id": "47775628",
-      "title": "Wacli \u2013 WhatsApp CLI",
-      "url": "https://github.com/steipete/wacli",
-      "points": 234,
-      "author": "dinakars777",
-      "created_at": 1776236685,
-      "num_comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=47775628"
     },
     {
       "id": "47785053",
@@ -15889,7 +15749,207 @@
       "created_at": 1783862773,
       "num_comments": 103,
       "hn_url": "https://news.ycombinator.com/item?id=48881043"
+    },
+    {
+      "id": "48889637",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "points": 1467,
+      "author": "crowdhailer",
+      "created_at": 1783931979,
+      "num_comments": 739,
+      "hn_url": "https://news.ycombinator.com/item?id=48889637"
+    },
+    {
+      "id": "48886741",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "points": 1030,
+      "author": "levkk",
+      "created_at": 1783905860,
+      "num_comments": 443,
+      "hn_url": "https://news.ycombinator.com/item?id=48886741"
+    },
+    {
+      "id": "48888331",
+      "title": "A graph that should be front-page news",
+      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "points": 655,
+      "author": "rakel_rakel",
+      "created_at": 1783920927,
+      "num_comments": 406,
+      "hn_url": "https://news.ycombinator.com/item?id=48888331"
+    },
+    {
+      "id": "48894752",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "points": 527,
+      "author": "get-inscribe",
+      "created_at": 1783958768,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=48894752"
+    },
+    {
+      "id": "48892512",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "points": 496,
+      "author": "tnolet",
+      "created_at": 1783949999,
+      "num_comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=48892512"
+    },
+    {
+      "id": "48897945",
+      "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+      "points": 487,
+      "author": "benwerd",
+      "created_at": 1783972675,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=48897945"
+    },
+    {
+      "id": "48888468",
+      "title": "Sam Neill has died",
+      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+      "points": 459,
+      "author": "j4mie",
+      "created_at": 1783922531,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=48888468"
+    },
+    {
+      "id": "48893947",
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "points": 447,
+      "author": "forks",
+      "created_at": 1783955510,
+      "num_comments": 393,
+      "hn_url": "https://news.ycombinator.com/item?id=48893947"
+    },
+    {
+      "id": "48896665",
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "points": 443,
+      "author": "speckx",
+      "created_at": 1783966936,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=48896665"
+    },
+    {
+      "id": "48892468",
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "points": 402,
+      "author": "denysvitali",
+      "created_at": 1783949732,
+      "num_comments": 395,
+      "hn_url": "https://news.ycombinator.com/item?id=48892468"
+    },
+    {
+      "id": "48896286",
+      "title": "Show HN: Super Dario",
+      "url": "https://superdario.pawb.de",
+      "points": 383,
+      "author": "thepasch",
+      "created_at": 1783965232,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=48896286"
+    },
+    {
+      "id": "48890959",
+      "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
+      "url": "https://jivx.com/densha",
+      "points": 364,
+      "author": "momentmaker",
+      "created_at": 1783941510,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48890959"
+    },
+    {
+      "id": "48887753",
+      "title": "Count Binface",
+      "url": "https://countbinface.com",
+      "points": 336,
+      "author": "mooreds",
+      "created_at": 1783915254,
+      "num_comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=48887753"
+    },
+    {
+      "id": "48894641",
+      "title": "DOGE is done. What happened to its records?",
+      "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
+      "points": 312,
+      "author": "ndsipa_pomu",
+      "created_at": 1783958199,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=48894641"
+    },
+    {
+      "id": "48897991",
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
+      "points": 309,
+      "author": "bundie",
+      "created_at": 1783972903,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=48897991"
+    },
+    {
+      "id": "48897878",
+      "title": "Telegram's t.me domain has been suspended",
+      "url": "https://www.whois.com/whois/t.me",
+      "points": 307,
+      "author": "Tiberium",
+      "created_at": 1783972345,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=48897878"
+    },
+    {
+      "id": "48888518",
+      "title": "Backtrack-Free Cursive",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "points": 258,
+      "author": "dmit",
+      "created_at": 1783922892,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=48888518"
+    },
+    {
+      "id": "48893639",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "points": 243,
+      "author": "ibobev",
+      "created_at": 1783954353,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=48893639"
+    },
+    {
+      "id": "48891184",
+      "title": "Control the Ideas, Not the Code",
+      "url": "https://antirez.com/news/169",
+      "points": 210,
+      "author": "surprisetalk",
+      "created_at": 1783943136,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=48891184"
+    },
+    {
+      "id": "48889350",
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "points": 194,
+      "author": "coinfused",
+      "created_at": 1783929870,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=48889350"
     }
   ],
-  "last_updated": "2026-07-13T09:16:47.858758+00:00"
+  "last_updated": "2026-07-14T07:55:00.586645+00:00"
 }
