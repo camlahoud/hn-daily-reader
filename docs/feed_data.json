@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47782570",
-      "title": "Google broke its promise to me \u2013 now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "points": 1370,
-      "author": "Brajeshwar",
-      "created_at": 1776275066,
-      "num_comments": 586,
-      "hn_url": "https://news.ycombinator.com/item?id=47782570"
-    },
-    {
-      "id": "47783713",
-      "title": "Live Nation illegally monopolized ticketing market, jury finds",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "points": 513,
-      "author": "Alex_Bond",
-      "created_at": 1776279999,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=47783713"
-    },
-    {
-      "id": "47778475",
-      "title": "God sleeps in the minerals",
-      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "points": 512,
-      "author": "speckx",
-      "created_at": 1776258490,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=47778475"
-    },
-    {
-      "id": "47776796",
-      "title": "Want to write a compiler? Just read these two papers (2008)",
-      "url": "https://prog21.dadgum.com/30.html",
-      "points": 480,
-      "author": "downbad_",
-      "created_at": 1776246079,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=47776796"
-    },
-    {
-      "id": "47777209",
-      "title": "Backpacks got worse on purpose",
-      "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
-      "points": 404,
-      "author": "113",
-      "created_at": 1776249748,
-      "num_comments": 369,
-      "hn_url": "https://news.ycombinator.com/item?id=47777209"
-    },
-    {
-      "id": "47776035",
-      "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-      "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-      "points": 399,
-      "author": "askl",
-      "created_at": 1776240318,
-      "num_comments": 400,
-      "hn_url": "https://news.ycombinator.com/item?id=47776035"
-    },
-    {
-      "id": "47776557",
-      "title": "Good sleep, good learning, good life (2012)",
-      "url": "https://super-memory.com/articles/sleep.htm",
-      "points": 388,
-      "author": "downbad_",
-      "created_at": 1776244278,
-      "num_comments": 198,
-      "hn_url": "https://news.ycombinator.com/item?id=47776557"
-    },
-    {
-      "id": "47785738",
-      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "points": 372,
-      "author": "bckygldstn",
-      "created_at": 1776289698,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=47785738"
-    },
-    {
-      "id": "47780712",
-      "title": "Open Source Isn't Dead",
-      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "points": 323,
-      "author": "bearsyankees",
-      "created_at": 1776267817,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=47780712"
-    },
-    {
-      "id": "47780456",
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "points": 285,
-      "author": "Benjamin_Dobell",
-      "created_at": 1776266806,
-      "num_comments": 204,
-      "hn_url": "https://news.ycombinator.com/item?id=47780456"
-    },
-    {
-      "id": "47786791",
-      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
-      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-      "points": 274,
-      "author": "pentagrama",
-      "created_at": 1776296216,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=47786791"
-    },
-    {
-      "id": "47783940",
-      "title": "Ask HN: Who is using OpenClaw?",
-      "url": "https://news.ycombinator.com/item?id=47783940",
-      "points": 269,
-      "author": "misterchocolat",
-      "created_at": 1776280930,
-      "num_comments": 322,
-      "hn_url": "https://news.ycombinator.com/item?id=47783940"
-    },
-    {
-      "id": "47778758",
-      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
-      "url": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
-      "points": 255,
-      "author": "aphyr",
-      "created_at": 1776260051,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=47778758"
-    },
-    {
-      "id": "47779730",
-      "title": "Elevated errors on Claude.ai, API, Claude Code",
-      "url": "https://claudestatus.com/",
-      "points": 242,
-      "author": "redm",
-      "created_at": 1776264240,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=47779730"
-    },
-    {
-      "id": "47778086",
-      "title": "Do you even need a database?",
-      "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-      "points": 236,
-      "author": "upmostly",
-      "created_at": 1776255971,
-      "num_comments": 266,
-      "hn_url": "https://news.ycombinator.com/item?id=47778086"
-    },
-    {
-      "id": "47784045",
-      "title": "Why are Flock employees watching our children?",
-      "url": "https://substack.com/home/post/p-193593234",
-      "points": 235,
-      "author": "enaaem",
-      "created_at": 1776281452,
-      "num_comments": 44,
-      "hn_url": "https://news.ycombinator.com/item?id=47784045"
-    },
-    {
-      "id": "47785053",
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "url": "https://github.com/gastownhall/gastown/issues/3649",
-      "points": 230,
-      "author": "rektomatic",
-      "created_at": 1776286188,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=47785053"
-    },
-    {
       "id": "47793411",
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
@@ -201,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47796469"
     },
     {
-      "id": "47788385",
-      "title": "The local LLM ecosystem doesn\u2019t need Ollama",
-      "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "points": 618,
-      "author": "Zetaphor",
-      "created_at": 1776310511,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=47788385"
-    },
-    {
       "id": "47792718",
       "title": "The future of everything is lies, I guess: Where do we go from here?",
       "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
@@ -219,16 +39,6 @@
       "created_at": 1776346333,
       "num_comments": 619,
       "hn_url": "https://news.ycombinator.com/item?id=47792718"
-    },
-    {
-      "id": "47788542",
-      "title": "Darkbloom \u2013 Private inference on idle Macs",
-      "url": "https://darkbloom.dev",
-      "points": 479,
-      "author": "twapi",
-      "created_at": 1776312399,
-      "num_comments": 237,
-      "hn_url": "https://news.ycombinator.com/item?id=47788542"
     },
     {
       "id": "47792593",
@@ -259,16 +69,6 @@
       "created_at": 1776361040,
       "num_comments": 83,
       "hn_url": "https://news.ycombinator.com/item?id=47796830"
-    },
-    {
-      "id": "47788424",
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "url": "https://daedal.io/@thomzane/116410863009847575",
-      "points": 375,
-      "author": "pabs3",
-      "created_at": 1776311078,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=47788424"
     },
     {
       "id": "47792368",
@@ -15949,7 +15749,207 @@
       "created_at": 1783929870,
       "num_comments": 137,
       "hn_url": "https://news.ycombinator.com/item?id=48889350"
+    },
+    {
+      "id": "48901569",
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "points": 727,
+      "author": "donohoe",
+      "created_at": 1783996040,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=48901569"
+    },
+    {
+      "id": "48910545",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "points": 561,
+      "author": "xenova",
+      "created_at": 1784051448,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=48910545"
+    },
+    {
+      "id": "48903777",
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "points": 519,
+      "author": "roundabout-host",
+      "created_at": 1784018097,
+      "num_comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=48903777"
+    },
+    {
+      "id": "48905248",
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "points": 514,
+      "author": "shintoist",
+      "created_at": 1784029562,
+      "num_comments": 540,
+      "hn_url": "https://news.ycombinator.com/item?id=48905248"
+    },
+    {
+      "id": "48908178",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "points": 454,
+      "author": "yenniejun111",
+      "created_at": 1784042293,
+      "num_comments": 418,
+      "hn_url": "https://news.ycombinator.com/item?id=48908178"
+    },
+    {
+      "id": "48909785",
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "points": 447,
+      "author": "cdrnsf",
+      "created_at": 1784048274,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=48909785"
+    },
+    {
+      "id": "48901010",
+      "title": "The git history command",
+      "url": "https://lalitm.com/post/git-history/",
+      "points": 435,
+      "author": "turbocon",
+      "created_at": 1783990631,
+      "num_comments": 309,
+      "hn_url": "https://news.ycombinator.com/item?id=48901010"
+    },
+    {
+      "id": "48905028",
+      "title": "Codex starts encrypting sub-agent prompts",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "points": 418,
+      "author": "embedding-shape",
+      "created_at": 1784028092,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=48905028"
+    },
+    {
+      "id": "48909424",
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "points": 366,
+      "author": "hoechst",
+      "created_at": 1784046966,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=48909424"
+    },
+    {
+      "id": "48910676",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "points": 340,
+      "author": "Synthetic7346",
+      "created_at": 1784051915,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48910676"
+    },
+    {
+      "id": "48909768",
+      "title": "S&P Global has lowered Oracle\u2019s creditworthiness from BBB to BBB-",
+      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+      "points": 323,
+      "author": "gepeto42",
+      "created_at": 1784048208,
+      "num_comments": 335,
+      "hn_url": "https://news.ycombinator.com/item?id=48909768"
+    },
+    {
+      "id": "48902320",
+      "title": "Australian energy retailers must offer three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "points": 273,
+      "author": "i2oc",
+      "created_at": 1784003508,
+      "num_comments": 373,
+      "hn_url": "https://news.ycombinator.com/item?id=48902320"
+    },
+    {
+      "id": "48905290",
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "points": 261,
+      "author": "robtherobber",
+      "created_at": 1784029788,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=48905290"
+    },
+    {
+      "id": "48908214",
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "points": 259,
+      "author": "speckx",
+      "created_at": 1784042436,
+      "num_comments": 357,
+      "hn_url": "https://news.ycombinator.com/item?id=48908214"
+    },
+    {
+      "id": "48905118",
+      "title": "Punch yourself in the face with reality",
+      "url": "https://adi.bio/reality",
+      "points": 225,
+      "author": "AdityaAnand1",
+      "created_at": 1784028799,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=48905118"
+    },
+    {
+      "id": "48912175",
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "points": 215,
+      "author": "gnabgib",
+      "created_at": 1784058931,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=48912175"
+    },
+    {
+      "id": "48903082",
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "points": 204,
+      "author": "BaudouinVH",
+      "created_at": 1784011408,
+      "num_comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=48903082"
+    },
+    {
+      "id": "48906125",
+      "title": "Proof of care in the age of AI",
+      "url": "https://jacobfilipp.com/care/",
+      "points": 181,
+      "author": "jfil",
+      "created_at": 1784033785,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=48906125"
+    },
+    {
+      "id": "48901454",
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "points": 176,
+      "author": "teleforce",
+      "created_at": 1783995019,
+      "num_comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=48901454"
+    },
+    {
+      "id": "48901292",
+      "title": "What will be left for us to work on?",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "points": 175,
+      "author": "randomwalker",
+      "created_at": 1783993480,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=48901292"
     }
   ],
-  "last_updated": "2026-07-14T07:55:00.586645+00:00"
+  "last_updated": "2026-07-15T08:00:05.489915+00:00"
 }
