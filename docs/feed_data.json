@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47793411",
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "points": 1670,
-      "author": "meetpateltech",
-      "created_at": 1776349430,
-      "num_comments": 1186,
-      "hn_url": "https://news.ycombinator.com/item?id=47793411"
-    },
-    {
-      "id": "47792764",
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "points": 1030,
-      "author": "cmitsakis",
-      "created_at": 1776346587,
-      "num_comments": 454,
-      "hn_url": "https://news.ycombinator.com/item?id=47792764"
-    },
-    {
-      "id": "47796469",
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "points": 818,
-      "author": "mikeevans",
-      "created_at": 1776359539,
-      "num_comments": 413,
-      "hn_url": "https://news.ycombinator.com/item?id=47796469"
-    },
-    {
-      "id": "47792718",
-      "title": "The future of everything is lies, I guess: Where do we go from here?",
-      "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "points": 591,
-      "author": "aphyr",
-      "created_at": 1776346333,
-      "num_comments": 619,
-      "hn_url": "https://news.ycombinator.com/item?id=47792718"
-    },
-    {
-      "id": "47792593",
-      "title": "Cloudflare Email Service",
-      "url": "https://blog.cloudflare.com/email-for-agents/",
-      "points": 437,
-      "author": "jilles",
-      "created_at": 1776345713,
-      "num_comments": 198,
-      "hn_url": "https://news.ycombinator.com/item?id=47792593"
-    },
-    {
-      "id": "47791871",
-      "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "points": 383,
-      "author": "zanbezi",
-      "created_at": 1776341610,
-      "num_comments": 278,
-      "hn_url": "https://news.ycombinator.com/item?id=47791871"
-    },
-    {
-      "id": "47796830",
-      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-      "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "points": 381,
-      "author": "simonw",
-      "created_at": 1776361040,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=47796830"
-    },
-    {
-      "id": "47792368",
-      "title": "Mozilla Thunderbolt",
-      "url": "https://www.thunderbolt.io/",
-      "points": 345,
-      "author": "dabinat",
-      "created_at": 1776344496,
-      "num_comments": 307,
-      "hn_url": "https://news.ycombinator.com/item?id=47792368"
-    },
-    {
-      "id": "47799120",
-      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
-      "url": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
-      "points": 282,
-      "author": "devonnull",
-      "created_at": 1776371512,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=47799120"
-    },
-    {
-      "id": "47792538",
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "points": 270,
-      "author": "nikitoci",
-      "created_at": 1776345457,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=47792538"
-    },
-    {
-      "id": "47791212",
-      "title": "Codex Hacked a Samsung TV",
-      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-      "points": 235,
-      "author": "campuscodi",
-      "created_at": 1776336285,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=47791212"
-    },
-    {
-      "id": "47800738",
-      "title": "Everything we like is a psyop?",
-      "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "points": 228,
-      "author": "evo_9",
-      "created_at": 1776381333,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=47800738"
-    },
-    {
-      "id": "47791236",
-      "title": "AI cybersecurity is not proof of work",
-      "url": "https://antirez.com/news/163",
-      "points": 219,
-      "author": "surprisetalk",
-      "created_at": 1776336480,
-      "num_comments": 84,
-      "hn_url": "https://news.ycombinator.com/item?id=47791236"
-    },
-    {
-      "id": "47797665",
-      "title": "Android CLI: Build Android apps 3x faster using any agent",
-      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "points": 206,
-      "author": "ingve",
-      "created_at": 1776364799,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=47797665"
-    },
-    {
-      "id": "47800166",
-      "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-      "points": 197,
-      "author": "kmfrk",
-      "created_at": 1776377333,
-      "num_comments": 45,
-      "hn_url": "https://news.ycombinator.com/item?id=47800166"
-    },
-    {
-      "id": "47794391",
-      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "url": "https://andonlabs.com/blog/andon-market-launch",
-      "points": 193,
-      "author": "lukaspetersson",
-      "created_at": 1776352393,
-      "num_comments": 262,
-      "hn_url": "https://news.ycombinator.com/item?id=47794391"
-    },
-    {
-      "id": "47793926",
-      "title": "Laravel raised money and now injects ads directly into your agent",
-      "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-      "points": 191,
-      "author": "mooreds",
-      "created_at": 1776351073,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=47793926"
-    },
-    {
       "id": "47806725",
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
@@ -209,16 +39,6 @@
       "created_at": 1776439776,
       "num_comments": 411,
       "hn_url": "https://news.ycombinator.com/item?id=47807006"
-    },
-    {
-      "id": "47801991",
-      "title": "US Bill Mandates On-Device Age Verification",
-      "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
-      "points": 385,
-      "author": "ronsor",
-      "created_at": 1776394202,
-      "num_comments": 315,
-      "hn_url": "https://news.ycombinator.com/item?id=47801991"
     },
     {
       "id": "47808268",
@@ -269,16 +89,6 @@
       "created_at": 1776436909,
       "num_comments": 100,
       "hn_url": "https://news.ycombinator.com/item?id=47806484"
-    },
-    {
-      "id": "47802233",
-      "title": "Discourse Is Not Going Closed Source",
-      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
-      "points": 210,
-      "author": "sams99",
-      "created_at": 1776396986,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=47802233"
     },
     {
       "id": "47806596",
@@ -359,16 +169,6 @@
       "created_at": 1776436151,
       "num_comments": 67,
       "hn_url": "https://news.ycombinator.com/item?id=47806348"
-    },
-    {
-      "id": "47802330",
-      "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
-      "url": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
-      "points": 162,
-      "author": "dotmanish",
-      "created_at": 1776398362,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=47802330"
     },
     {
       "id": "47815774",
@@ -15949,7 +15749,207 @@
       "created_at": 1783993480,
       "num_comments": 252,
       "hn_url": "https://news.ycombinator.com/item?id=48901292"
+    },
+    {
+      "id": "48924912",
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "points": 929,
+      "author": "vimarsh6739",
+      "created_at": 1784139165,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=48924912"
+    },
+    {
+      "id": "48915709",
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "points": 888,
+      "author": "vinhnx",
+      "created_at": 1784084267,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=48915709"
+    },
+    {
+      "id": "48919363",
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "points": 688,
+      "author": "bilsbie",
+      "created_at": 1784115966,
+      "num_comments": 367,
+      "hn_url": "https://news.ycombinator.com/item?id=48919363"
+    },
+    {
+      "id": "48916975",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "points": 634,
+      "author": "macleginn",
+      "created_at": 1784096880,
+      "num_comments": 285,
+      "hn_url": "https://news.ycombinator.com/item?id=48916975"
+    },
+    {
+      "id": "48920181",
+      "title": "SpaceX bond worth 10% less than issue price \u2013 heading for junk bond status",
+      "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+      "points": 536,
+      "author": "youngtaff",
+      "created_at": 1784120349,
+      "num_comments": 552,
+      "hn_url": "https://news.ycombinator.com/item?id=48920181"
+    },
+    {
+      "id": "48915953",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "points": 431,
+      "author": "rvz",
+      "created_at": 1784086365,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=48915953"
+    },
+    {
+      "id": "48926590",
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "points": 418,
+      "author": "skp1995",
+      "created_at": 1784147098,
+      "num_comments": 434,
+      "hn_url": "https://news.ycombinator.com/item?id=48926590"
+    },
+    {
+      "id": "48914644",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "points": 358,
+      "author": "LookAtThatBacon",
+      "created_at": 1784074553,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=48914644"
+    },
+    {
+      "id": "48925271",
+      "title": "Why I Left Google DeepMind",
+      "url": "https://turntrout.com/why-i-left-google-deepmind",
+      "points": 322,
+      "author": "apsec112",
+      "created_at": 1784140834,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=48925271"
+    },
+    {
+      "id": "48919198",
+      "title": "Prioritize mental health, and why communication is so important",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "points": 312,
+      "author": "ramon156",
+      "created_at": 1784114855,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=48919198"
+    },
+    {
+      "id": "48923079",
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "points": 278,
+      "author": "davidbarker",
+      "created_at": 1784131978,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=48923079"
+    },
+    {
+      "id": "48922434",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "points": 275,
+      "author": "neomindryan",
+      "created_at": 1784129645,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=48922434"
+    },
+    {
+      "id": "48920475",
+      "title": "Mysteries of Telegram Data Centers (2022)",
+      "url": "https://dev.moe/en/3025",
+      "points": 255,
+      "author": "theanonymousone",
+      "created_at": 1784121720,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=48920475"
+    },
+    {
+      "id": "48928135",
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "points": 242,
+      "author": "gnyeki",
+      "created_at": 1784155378,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=48928135"
+    },
+    {
+      "id": "48921461",
+      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "points": 233,
+      "author": "hermanzegerman",
+      "created_at": 1784125956,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=48921461"
+    },
+    {
+      "id": "48923380",
+      "title": "Collection of Digital Clock Designs",
+      "url": "https://clocks.dev",
+      "points": 231,
+      "author": "levmiseri",
+      "created_at": 1784133195,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=48923380"
+    },
+    {
+      "id": "48915004",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "points": 212,
+      "author": "jervant",
+      "created_at": 1784077706,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=48915004"
+    },
+    {
+      "id": "48914683",
+      "title": "Data centers have hiked electricity prices on the public by $23B",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+      "points": 195,
+      "author": "measurablefunc",
+      "created_at": 1784074831,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=48914683"
+    },
+    {
+      "id": "48921077",
+      "title": "Towards a harness that can do anything",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "points": 190,
+      "author": "evakhoury",
+      "created_at": 1784124508,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=48921077"
+    },
+    {
+      "id": "48918534",
+      "title": "Telegram Serverless",
+      "url": "https://core.telegram.org/bots/serverless",
+      "points": 190,
+      "author": "soheilpro",
+      "created_at": 1784109999,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=48918534"
     }
   ],
-  "last_updated": "2026-07-15T08:00:05.489915+00:00"
+  "last_updated": "2026-07-16T08:04:49.445318+00:00"
 }
