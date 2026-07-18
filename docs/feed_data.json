@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "47815774",
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "points": 742,
-      "author": "yusufusta",
-      "created_at": 1776518944,
-      "num_comments": 375,
-      "hn_url": "https://news.ycombinator.com/item?id=47815774"
-    },
-    {
-      "id": "47816960",
-      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-      "url": "https://tokens.billchambers.me/leaderboard",
-      "points": 492,
-      "author": "anabranch",
-      "created_at": 1776528343,
-      "num_comments": 490,
-      "hn_url": "https://news.ycombinator.com/item?id=47816960"
-    },
-    {
-      "id": "47815395",
-      "title": "Why Japan has such good railways",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "points": 373,
-      "author": "RickJWagner",
-      "created_at": 1776515346,
-      "num_comments": 358,
-      "hn_url": "https://news.ycombinator.com/item?id=47815395"
-    },
-    {
-      "id": "47815118",
-      "title": "State of Kdenlive",
-      "url": "https://kdenlive.org/news/2026/state-2026/",
-      "points": 372,
-      "author": "f_r_d",
-      "created_at": 1776512557,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=47815118"
-    },
-    {
-      "id": "47817132",
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "points": 312,
-      "author": "NelsonMinar",
-      "created_at": 1776529607,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47817132"
-    },
-    {
-      "id": "47818305",
-      "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
-      "points": 290,
-      "author": "trocado",
-      "created_at": 1776537367,
-      "num_comments": 201,
-      "hn_url": "https://news.ycombinator.com/item?id=47818305"
-    },
-    {
-      "id": "47818700",
-      "title": "Thoughts and feelings around Claude Design",
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "points": 283,
-      "author": "cdrnsf",
-      "created_at": 1776539964,
-      "num_comments": 185,
-      "hn_url": "https://news.ycombinator.com/item?id=47818700"
-    },
-    {
-      "id": "47819453",
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "points": 273,
-      "author": "rbanffy",
-      "created_at": 1776545657,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=47819453"
-    },
-    {
-      "id": "47818485",
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "points": 242,
-      "author": "gnabgib",
-      "created_at": 1776538800,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=47818485"
-    },
-    {
-      "id": "47815127",
-      "title": "The quiet disappearance of the free-range childhood",
-      "url": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
-      "points": 212,
-      "author": "sylvainkalache",
-      "created_at": 1776512637,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=47815127"
-    },
-    {
-      "id": "47820531",
-      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-      "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "points": 145,
-      "author": "sohkamyung",
-      "created_at": 1776556065,
-      "num_comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=47820531"
-    },
-    {
-      "id": "47816878",
-      "title": "Amazon is discontinuing Kindle for PC on June 30th",
-      "url": "https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th",
-      "points": 139,
-      "author": "tech234a",
-      "created_at": 1776527677,
-      "num_comments": 120,
-      "hn_url": "https://news.ycombinator.com/item?id=47816878"
-    },
-    {
-      "id": "47820046",
-      "title": "Dad brains: How fatherhood rewires the male mind",
-      "url": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
-      "points": 126,
-      "author": "tchalla",
-      "created_at": 1776551087,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=47820046"
-    },
-    {
-      "id": "47817349",
-      "title": "PgQue: Zero-Bloat Postgres Queue",
-      "url": "https://github.com/NikolayS/pgque",
-      "points": 109,
-      "author": "gmcabrita",
-      "created_at": 1776531046,
-      "num_comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=47817349"
-    },
-    {
-      "id": "47816629",
-      "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
-      "url": "https://github.com/drasimwagan/mdv",
-      "points": 108,
-      "author": "drasim",
-      "created_at": 1776525879,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=47816629"
-    },
-    {
       "id": "47824463",
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
@@ -181,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47824945"
     },
     {
-      "id": "47822486",
-      "title": "The seven programming ur-languages (2022)",
-      "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "points": 327,
-      "author": "helloplanets",
-      "created_at": 1776584288,
-      "num_comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=47822486"
-    },
-    {
       "id": "47823270",
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
       "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
@@ -199,16 +39,6 @@
       "created_at": 1776594989,
       "num_comments": 174,
       "hn_url": "https://news.ycombinator.com/item?id=47823270"
-    },
-    {
-      "id": "47822414",
-      "title": "The RAM shortage could last years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "points": 276,
-      "author": "omer_k",
-      "created_at": 1776583124,
-      "num_comments": 307,
-      "hn_url": "https://news.ycombinator.com/item?id=47822414"
     },
     {
       "id": "47824068",
@@ -229,16 +59,6 @@
       "created_at": 1776590232,
       "num_comments": 118,
       "hn_url": "https://news.ycombinator.com/item?id=47822940"
-    },
-    {
-      "id": "47821429",
-      "title": "The world in which IPv6 was a good design (2017)",
-      "url": "https://apenwarr.ca/log/20170810",
-      "points": 219,
-      "author": "signa11",
-      "created_at": 1776567043,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=47821429"
     },
     {
       "id": "47824403",
@@ -289,16 +109,6 @@
       "created_at": 1776629349,
       "num_comments": 70,
       "hn_url": "https://news.ycombinator.com/item?id=47827259"
-    },
-    {
-      "id": "47822356",
-      "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
-      "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
-      "points": 179,
-      "author": "nobody9999",
-      "created_at": 1776582317,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=47822356"
     },
     {
       "id": "47822805",
@@ -15949,7 +15759,207 @@
       "created_at": 1784164864,
       "num_comments": 139,
       "hn_url": "https://news.ycombinator.com/item?id=48929351"
+    },
+    {
+      "id": "48945241",
+      "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "points": 1146,
+      "author": "nprateem",
+      "created_at": 1784281325,
+      "num_comments": 685,
+      "hn_url": "https://news.ycombinator.com/item?id=48945241"
+    },
+    {
+      "id": "48949551",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "points": 532,
+      "author": "nicholasjbs",
+      "created_at": 1784307447,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=48949551"
+    },
+    {
+      "id": "48952880",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "points": 483,
+      "author": "gnabgib",
+      "created_at": 1784327190,
+      "num_comments": 307,
+      "hn_url": "https://news.ycombinator.com/item?id=48952880"
+    },
+    {
+      "id": "48946010",
+      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "points": 455,
+      "author": "twerkmeister",
+      "created_at": 1784287800,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=48946010"
+    },
+    {
+      "id": "48947560",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "points": 436,
+      "author": "neversaydie",
+      "created_at": 1784297173,
+      "num_comments": 256,
+      "hn_url": "https://news.ycombinator.com/item?id=48947560"
+    },
+    {
+      "id": "48947825",
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "points": 419,
+      "author": "rellem",
+      "created_at": 1784298670,
+      "num_comments": 302,
+      "hn_url": "https://news.ycombinator.com/item?id=48947825"
+    },
+    {
+      "id": "48946303",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "points": 390,
+      "author": "merksittich",
+      "created_at": 1784289759,
+      "num_comments": 336,
+      "hn_url": "https://news.ycombinator.com/item?id=48946303"
+    },
+    {
+      "id": "48947717",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "points": 323,
+      "author": "droidjj",
+      "created_at": 1784298111,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=48947717"
+    },
+    {
+      "id": "48942000",
+      "title": "The human-in-the-loop is tired",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "points": 304,
+      "author": "haritha1313",
+      "created_at": 1784247669,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=48942000"
+    },
+    {
+      "id": "48943174",
+      "title": "Pebble Mega Update \u2013 July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "points": 263,
+      "author": "crazysaem",
+      "created_at": 1784260418,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=48943174"
+    },
+    {
+      "id": "48943142",
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "points": 258,
+      "author": "divbzero",
+      "created_at": 1784260106,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=48943142"
+    },
+    {
+      "id": "48943745",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "points": 250,
+      "author": "giuliomagnifico",
+      "created_at": 1784267470,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=48943745"
+    },
+    {
+      "id": "48950122",
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "points": 233,
+      "author": "surprisetalk",
+      "created_at": 1784310341,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=48950122"
+    },
+    {
+      "id": "48947490",
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "points": 228,
+      "author": "surprisetalk",
+      "created_at": 1784296804,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=48947490"
+    },
+    {
+      "id": "48951461",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "points": 209,
+      "author": "st_goliath",
+      "created_at": 1784317262,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=48951461"
+    },
+    {
+      "id": "48945681",
+      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
+      "url": "https://news.ycombinator.com/item?id=48945681",
+      "points": 203,
+      "author": "mstolpm",
+      "created_at": 1784285121,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=48945681"
+    },
+    {
+      "id": "48947455",
+      "title": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "points": 186,
+      "author": "silcoon",
+      "created_at": 1784296564,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=48947455"
+    },
+    {
+      "id": "48942454",
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "points": 174,
+      "author": "aussieguy1234",
+      "created_at": 1784252212,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=48942454"
+    },
+    {
+      "id": "48952939",
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "points": 171,
+      "author": "letmevoteplease",
+      "created_at": 1784327755,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=48952939"
+    },
+    {
+      "id": "48952439",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "points": 171,
+      "author": "hmm37",
+      "created_at": 1784323373,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=48952439"
     }
   ],
-  "last_updated": "2026-07-17T08:01:37.553431+00:00"
+  "last_updated": "2026-07-18T07:41:20.975050+00:00"
 }
