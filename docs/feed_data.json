@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47824463",
-      "title": "Vercel April 2026 security incident",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "points": 716,
-      "author": "colesantiago",
-      "created_at": 1776608078,
-      "num_comments": 406,
-      "hn_url": "https://news.ycombinator.com/item?id=47824463"
-    },
-    {
-      "id": "47824976",
-      "title": "Vercel says internal systems hit in breach",
-      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-      "points": 377,
-      "author": "whiteyford",
-      "created_at": 1776612219,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=47824976"
-    },
-    {
-      "id": "47824945",
-      "title": "Notion leaks email addresses of all editors of any public page",
-      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-      "points": 366,
-      "author": "Tiberium",
-      "created_at": 1776612001,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=47824945"
-    },
-    {
-      "id": "47823270",
-      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-      "points": 304,
-      "author": "pretext",
-      "created_at": 1776594989,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=47823270"
-    },
-    {
-      "id": "47824068",
-      "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-      "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-      "points": 268,
-      "author": "aa_is_op",
-      "created_at": 1776604389,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47824068"
-    },
-    {
-      "id": "47822940",
-      "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
-      "url": "https://news.ycombinator.com/item?id=47822940",
-      "points": 258,
-      "author": "modelcroissant",
-      "created_at": 1776590232,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=47822940"
-    },
-    {
-      "id": "47824403",
-      "title": "The creative software industry has declared war on Adobe",
-      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
-      "points": 210,
-      "author": "tambourine_man",
-      "created_at": 1776607549,
-      "num_comments": 161,
-      "hn_url": "https://news.ycombinator.com/item?id=47824403"
-    },
-    {
-      "id": "47827383",
-      "title": "Swiss authorities want to reduce dependency on Microsoft",
-      "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
-      "points": 210,
-      "author": "doener",
-      "created_at": 1776630329,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=47827383"
-    },
-    {
-      "id": "47825160",
-      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-      "points": 209,
-      "author": "Brajeshwar",
-      "created_at": 1776613720,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=47825160"
-    },
-    {
-      "id": "47826100",
-      "title": "The Bromine Chokepoint",
-      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "points": 196,
-      "author": "crescit_eundo",
-      "created_at": 1776620643,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=47826100"
-    },
-    {
-      "id": "47827259",
-      "title": "Stop trying to engineer your way out of listening to people",
-      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "points": 185,
-      "author": "walterbell",
-      "created_at": 1776629349,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=47827259"
-    },
-    {
-      "id": "47822805",
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "points": 176,
-      "author": "Eridanus2",
-      "created_at": 1776588348,
-      "num_comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=47822805"
-    },
-    {
-      "id": "47822734",
-      "title": "A Brief History of Fish Sauce",
-      "url": "https://www.legalnomads.com/fish-sauce/",
-      "points": 169,
-      "author": "vinhnx",
-      "created_at": 1776587573,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=47822734"
-    },
-    {
-      "id": "47828420",
-      "title": "2,100 Swiss municipalities showing which provider handles their official email",
-      "url": "https://mxmap.ch/",
-      "points": 162,
-      "author": "doener",
-      "created_at": 1776639347,
-      "num_comments": 44,
-      "hn_url": "https://news.ycombinator.com/item?id=47828420"
-    },
-    {
-      "id": "47828225",
-      "title": "Ex-CEO, ex-CFO of iLearningEngines charged with fraud",
-      "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
-      "points": 153,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1776637819,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=47828225"
-    },
-    {
-      "id": "47824681",
-      "title": "Notes from the SF peptide scene",
-      "url": "https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene",
-      "points": 130,
-      "author": "theahura",
-      "created_at": 1776609787,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=47824681"
-    },
-    {
       "id": "47840219",
       "title": "John Ternus to become Apple CEO",
       "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
@@ -309,26 +149,6 @@
       "created_at": 1776702865,
       "num_comments": 132,
       "hn_url": "https://news.ycombinator.com/item?id=47836730"
-    },
-    {
-      "id": "47829486",
-      "title": "The insider trading suspicions looming over Trump's presidency",
-      "url": "https://www.bbc.com/news/articles/cge0grppe3po",
-      "points": 297,
-      "author": "blondie9x",
-      "created_at": 1776649835,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=47829486"
-    },
-    {
-      "id": "47831437",
-      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-      "points": 285,
-      "author": "feigewalnuss",
-      "created_at": 1776671388,
-      "num_comments": 310,
-      "hn_url": "https://news.ycombinator.com/item?id=47831437"
     },
     {
       "id": "47832248",
@@ -15959,7 +15779,207 @@
       "created_at": 1784323373,
       "num_comments": 98,
       "hn_url": "https://news.ycombinator.com/item?id=48952439"
+    },
+    {
+      "id": "48956688",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "points": 1111,
+      "author": "baranul",
+      "created_at": 1784370079,
+      "num_comments": 568,
+      "hn_url": "https://news.ycombinator.com/item?id=48956688"
+    },
+    {
+      "id": "48954851",
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "points": 674,
+      "author": "vitaut",
+      "created_at": 1784344460,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=48954851"
+    },
+    {
+      "id": "48957779",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "points": 553,
+      "author": "mbustamanter",
+      "created_at": 1784379652,
+      "num_comments": 353,
+      "hn_url": "https://news.ycombinator.com/item?id=48957779"
+    },
+    {
+      "id": "48962983",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "points": 447,
+      "author": "gnabgib",
+      "created_at": 1784412819,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=48962983"
+    },
+    {
+      "id": "48956924",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "points": 423,
+      "author": "miniBill",
+      "created_at": 1784372810,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=48956924"
+    },
+    {
+      "id": "48956949",
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "points": 400,
+      "author": "secretslol",
+      "created_at": 1784373166,
+      "num_comments": 491,
+      "hn_url": "https://news.ycombinator.com/item?id=48956949"
+    },
+    {
+      "id": "48959090",
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "points": 382,
+      "author": "barry-cotter",
+      "created_at": 1784389021,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=48959090"
+    },
+    {
+      "id": "48960218",
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "points": 356,
+      "author": "sbochins",
+      "created_at": 1784395960,
+      "num_comments": 387,
+      "hn_url": "https://news.ycombinator.com/item?id=48960218"
+    },
+    {
+      "id": "48958269",
+      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+      "points": 287,
+      "author": "robtherobber",
+      "created_at": 1784383482,
+      "num_comments": 288,
+      "hn_url": "https://news.ycombinator.com/item?id=48958269"
+    },
+    {
+      "id": "48956879",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "points": 235,
+      "author": "couAUIA",
+      "created_at": 1784372429,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=48956879"
+    },
+    {
+      "id": "48959143",
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "points": 231,
+      "author": "nerdypepper",
+      "created_at": 1784389444,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=48959143"
+    },
+    {
+      "id": "48959392",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "points": 224,
+      "author": "ykev",
+      "created_at": 1784391128,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=48959392"
+    },
+    {
+      "id": "48959042",
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "points": 222,
+      "author": "bbg2401",
+      "created_at": 1784388724,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=48959042"
+    },
+    {
+      "id": "48960155",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "points": 207,
+      "author": "Ygg2",
+      "created_at": 1784395644,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=48960155"
+    },
+    {
+      "id": "48963465",
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "points": 158,
+      "author": "denysvitali",
+      "created_at": 1784417066,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=48963465"
+    },
+    {
+      "id": "48955042",
+      "title": "Show HN: IKEA Complexity Index",
+      "url": "https://ikea.greg.technology/",
+      "points": 155,
+      "author": "gregsadetsky",
+      "created_at": 1784346702,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=48955042"
+    },
+    {
+      "id": "48956231",
+      "title": "The Computer at the Bottom of a Canal",
+      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "points": 155,
+      "author": "Kudos",
+      "created_at": 1784363611,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=48956231"
+    },
+    {
+      "id": "48962758",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "points": 147,
+      "author": "cdrnsf",
+      "created_at": 1784411112,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=48962758"
+    },
+    {
+      "id": "48958814",
+      "title": "British runner Josh Kerr breaks world record for mile which stood for 27 years",
+      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
+      "points": 121,
+      "author": "austinallegro",
+      "created_at": 1784387312,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=48958814"
+    },
+    {
+      "id": "48954149",
+      "title": "I started a \u201cdirt notebook\u201d",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "points": 112,
+      "author": "herbertl",
+      "created_at": 1784337133,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=48954149"
     }
   ],
-  "last_updated": "2026-07-18T07:41:20.975050+00:00"
+  "last_updated": "2026-07-19T08:08:30.359718+00:00"
 }
