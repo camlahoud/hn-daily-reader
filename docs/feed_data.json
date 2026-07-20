@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "47840219",
-      "title": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "points": 1646,
-      "author": "schappim",
-      "created_at": 1776717572,
-      "num_comments": 811,
-      "hn_url": "https://news.ycombinator.com/item?id=47840219"
-    },
-    {
-      "id": "47834195",
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "points": 1171,
-      "author": "ramonga",
-      "created_at": 1776692485,
-      "num_comments": 977,
-      "hn_url": "https://news.ycombinator.com/item?id=47834195"
-    },
-    {
-      "id": "47831621",
-      "title": "GitHub's fake star economy",
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "points": 766,
-      "author": "Liriel",
-      "created_at": 1776673612,
-      "num_comments": 360,
-      "hn_url": "https://news.ycombinator.com/item?id=47831621"
-    },
-    {
-      "id": "47835735",
-      "title": "Kimi K2.6: Advancing open-source coding",
-      "url": "https://www.kimi.com/blog/kimi-k2-6",
-      "points": 638,
-      "author": "meetpateltech",
-      "created_at": 1776698893,
-      "num_comments": 331,
-      "hn_url": "https://news.ycombinator.com/item?id=47835735"
-    },
-    {
-      "id": "47834565",
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "points": 607,
-      "author": "mfiguiere",
-      "created_at": 1776693934,
-      "num_comments": 320,
-      "hn_url": "https://news.ycombinator.com/item?id=47834565"
-    },
-    {
-      "id": "47837611",
-      "title": "At long last, InfoWars is ours",
-      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "points": 574,
-      "author": "HotGarbage",
-      "created_at": 1776705838,
-      "num_comments": 281,
-      "hn_url": "https://news.ycombinator.com/item?id=47837611"
-    },
-    {
-      "id": "47833247",
-      "title": "Atlassian enables default data collection to train AI",
-      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-      "points": 561,
-      "author": "kevcampb",
-      "created_at": 1776687819,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=47833247"
-    },
-    {
-      "id": "47832222",
-      "title": "NSA is using Anthropic's Mythos despite blacklist",
-      "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
-      "points": 457,
-      "author": "Palmik",
-      "created_at": 1776679235,
-      "num_comments": 319,
-      "hn_url": "https://news.ycombinator.com/item?id=47832222"
-    },
-    {
-      "id": "47834184",
-      "title": "Sauna effect on heart rate",
-      "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-      "points": 411,
-      "author": "kyriakosel",
-      "created_at": 1776692428,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=47834184"
-    },
-    {
-      "id": "47833558",
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "points": 400,
-      "author": "thomasp85",
-      "created_at": 1776689480,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=47833558"
-    },
-    {
-      "id": "47839951",
-      "title": "AI Resistance: some recent anti-AI stuff that\u2019s worth discussing",
-      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
-      "points": 351,
-      "author": "speckx",
-      "created_at": 1776716353,
-      "num_comments": 341,
-      "hn_url": "https://news.ycombinator.com/item?id=47839951"
-    },
-    {
-      "id": "47835928",
-      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-      "points": 337,
-      "author": "FiddlerClamp",
-      "created_at": 1776699662,
-      "num_comments": 338,
-      "hn_url": "https://news.ycombinator.com/item?id=47835928"
-    },
-    {
-      "id": "47833156",
-      "title": "Tesla concealed fatal accidents to continue testing autonomous driving",
-      "url": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
-      "points": 314,
-      "author": "doener",
-      "created_at": 1776687139,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=47833156"
-    },
-    {
-      "id": "47835775",
-      "title": "Not buying another Kindle",
-      "url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
-      "points": 304,
-      "author": "mikhael",
-      "created_at": 1776699017,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=47835775"
-    },
-    {
-      "id": "47836730",
-      "title": "We accepted surveillance as default",
-      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
-      "points": 302,
-      "author": "speckx",
-      "created_at": 1776702865,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=47836730"
-    },
-    {
-      "id": "47832248",
-      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "points": 278,
-      "author": "Someone",
-      "created_at": 1776679480,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=47832248"
-    },
-    {
-      "id": "47840980",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \u201cprompt relevance\u201d",
-      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-      "points": 262,
-      "author": "jlark77777",
-      "created_at": 1776720052,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=47840980"
-    },
-    {
-      "id": "47839835",
-      "title": "F-35 is built for the wrong war",
-      "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
-      "points": 254,
-      "author": "anjel",
-      "created_at": 1776715655,
-      "num_comments": 521,
-      "hn_url": "https://news.ycombinator.com/item?id=47839835"
-    },
-    {
       "id": "47852177",
       "title": "Framework Laptop 13 Pro",
       "url": "https://frame.work/laptop13pro",
@@ -241,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47851948"
     },
     {
-      "id": "47844269",
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
-      "points": 487,
-      "author": "jmsflknr",
-      "created_at": 1776742983,
-      "num_comments": 278,
-      "hn_url": "https://news.ycombinator.com/item?id=47844269"
-    },
-    {
       "id": "47847324",
       "title": "Tim Cook's Impeccable Timing",
       "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
@@ -269,16 +79,6 @@
       "created_at": 1776791675,
       "num_comments": 108,
       "hn_url": "https://news.ycombinator.com/item?id=47851634"
-    },
-    {
-      "id": "47844431",
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "points": 279,
-      "author": "bishwasbh",
-      "created_at": 1776744732,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=47844431"
     },
     {
       "id": "47851885",
@@ -331,16 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47849854"
     },
     {
-      "id": "47843194",
-      "title": "How to make a fast dynamic language interpreter",
-      "url": "https://zef-lang.dev/implementation",
-      "points": 244,
-      "author": "pizlonator",
-      "created_at": 1776732487,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=47843194"
-    },
-    {
       "id": "47847124",
       "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
       "url": "https://fsfe.org/news/2026/news-20260420-01.html",
@@ -359,16 +149,6 @@
       "created_at": 1776802900,
       "num_comments": 130,
       "hn_url": "https://news.ycombinator.com/item?id=47854051"
-    },
-    {
-      "id": "47844797",
-      "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
-      "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
-      "points": 218,
-      "author": "hebelehubele",
-      "created_at": 1776748523,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47844797"
     },
     {
       "id": "47849221",
@@ -15979,7 +15759,207 @@
       "created_at": 1784337133,
       "num_comments": 93,
       "hn_url": "https://news.ycombinator.com/item?id=48954149"
+    },
+    {
+      "id": "48968606",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "points": 2224,
+      "author": "section33",
+      "created_at": 1784472076,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=48968606"
+    },
+    {
+      "id": "48966120",
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "points": 873,
+      "author": "nh43215rgb",
+      "created_at": 1784450697,
+      "num_comments": 596,
+      "hn_url": "https://news.ycombinator.com/item?id=48966120"
+    },
+    {
+      "id": "48963879",
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "points": 742,
+      "author": "sebjones",
+      "created_at": 1784421506,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=48963879"
+    },
+    {
+      "id": "48966569",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "points": 506,
+      "author": "tosh",
+      "created_at": 1784455403,
+      "num_comments": 670,
+      "hn_url": "https://news.ycombinator.com/item?id=48966569"
+    },
+    {
+      "id": "48966713",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "points": 482,
+      "author": "chipweinberger",
+      "created_at": 1784457298,
+      "num_comments": 219,
+      "hn_url": "https://news.ycombinator.com/item?id=48966713"
+    },
+    {
+      "id": "48964185",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "points": 403,
+      "author": "subset",
+      "created_at": 1784424559,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=48964185"
+    },
+    {
+      "id": "48965850",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "points": 340,
+      "author": "AmazingTurtle",
+      "created_at": 1784447679,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48965850"
+    },
+    {
+      "id": "48971738",
+      "title": "AI advice made people less accurate but more confident \u2013 sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "points": 335,
+      "author": "rbanffy",
+      "created_at": 1784495890,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=48971738"
+    },
+    {
+      "id": "48964015",
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "points": 333,
+      "author": "xonery",
+      "created_at": 1784422795,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=48964015"
+    },
+    {
+      "id": "48967256",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "points": 307,
+      "author": "ObviouslyFlamer",
+      "created_at": 1784461698,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=48967256"
+    },
+    {
+      "id": "48969291",
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "points": 256,
+      "author": "serialx",
+      "created_at": 1784476945,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=48969291"
+    },
+    {
+      "id": "48966190",
+      "title": "Qwen 3.8 Max Preview",
+      "url": "https://www.qwencloud.com/pricing/token-plan",
+      "points": 219,
+      "author": "lebovic",
+      "created_at": 1784451451,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=48966190"
+    },
+    {
+      "id": "48969635",
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "points": 204,
+      "author": "LorenDB",
+      "created_at": 1784479517,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=48969635"
+    },
+    {
+      "id": "48966984",
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "points": 199,
+      "author": "andros",
+      "created_at": 1784459678,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=48966984"
+    },
+    {
+      "id": "48970894",
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "points": 189,
+      "author": "sebjones",
+      "created_at": 1784488409,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=48970894"
+    },
+    {
+      "id": "48972062",
+      "title": "We want Texans to know their rights",
+      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "points": 180,
+      "author": "amarcheschi",
+      "created_at": 1784498591,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=48972062"
+    },
+    {
+      "id": "48968063",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "points": 154,
+      "author": "teleforce",
+      "created_at": 1784467769,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=48968063"
+    },
+    {
+      "id": "48969582",
+      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+      "points": 135,
+      "author": "randycupertino",
+      "created_at": 1784479116,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=48969582"
+    },
+    {
+      "id": "48965880",
+      "title": "Ollama: All Aboard Open Models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "points": 132,
+      "author": "inferhaven",
+      "created_at": 1784447984,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=48965880"
+    },
+    {
+      "id": "48966769",
+      "title": "The death and rebirth of my home server",
+      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "points": 131,
+      "author": "steinuil",
+      "created_at": 1784457871,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=48966769"
     }
   ],
-  "last_updated": "2026-07-19T08:08:30.359718+00:00"
+  "last_updated": "2026-07-20T08:49:48.879314+00:00"
 }
