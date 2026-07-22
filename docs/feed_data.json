@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "47865868",
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "points": 1678,
-      "author": "Kaibeezy",
-      "created_at": 1776875365,
-      "num_comments": 534,
-      "hn_url": "https://news.ycombinator.com/item?id=47865868"
-    },
-    {
-      "id": "47861270",
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://social.hails.org/@hailey/116446826733136456",
-      "points": 941,
-      "author": "sohkamyung",
-      "created_at": 1776851572,
-      "num_comments": 221,
-      "hn_url": "https://news.ycombinator.com/item?id=47861270"
-    },
-    {
-      "id": "47863217",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "points": 816,
-      "author": "mfiguiere",
-      "created_at": 1776863998,
-      "num_comments": 382,
-      "hn_url": "https://news.ycombinator.com/item?id=47863217"
-    },
-    {
-      "id": "47866697",
-      "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "points": 647,
-      "author": "danpinto",
-      "created_at": 1776879303,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=47866697"
-    },
-    {
-      "id": "47868867",
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "points": 545,
-      "author": "cdrnsf",
-      "created_at": 1776889651,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=47868867"
-    },
-    {
-      "id": "47862331",
-      "title": "GitHub CLI now collects pseudoanonymous telemetry",
-      "url": "https://cli.github.com/telemetry",
-      "points": 437,
-      "author": "ingve",
-      "created_at": 1776859138,
-      "num_comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=47862331"
-    },
-    {
-      "id": "47862497",
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "points": 430,
-      "author": "xnx",
-      "created_at": 1776860129,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=47862497"
-    },
-    {
-      "id": "47866913",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "points": 351,
-      "author": "pella",
-      "created_at": 1776880277,
-      "num_comments": 197,
-      "hn_url": "https://news.ycombinator.com/item?id=47866913"
-    },
-    {
-      "id": "47862386",
-      "title": "3.4M Solar Panels",
-      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "points": 306,
-      "author": "marklit",
-      "created_at": 1776859470,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=47862386"
-    },
-    {
-      "id": "47864393",
-      "title": "Scoring Show HN submissions for AI design patterns",
-      "url": "https://www.adriankrebs.ch/blog/design-slop/",
-      "points": 304,
-      "author": "hubraumhugo",
-      "created_at": 1776869072,
-      "num_comments": 215,
-      "hn_url": "https://news.ycombinator.com/item?id=47864393"
-    },
-    {
-      "id": "47865661",
-      "title": "Technical, cognitive, and intent debt",
-      "url": "https://martinfowler.com/fragments/2026-04-02.html",
-      "points": 255,
-      "author": "theorchid",
-      "created_at": 1776874283,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=47865661"
-    },
-    {
-      "id": "47867048",
-      "title": "Website streamed live directly from a model",
-      "url": "https://flipbook.page/",
-      "points": 249,
-      "author": "sethbannon",
-      "created_at": 1776880878,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=47867048"
-    },
-    {
-      "id": "47861087",
-      "title": "How does GPS work?",
-      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "points": 232,
-      "author": "alfanick",
-      "created_at": 1776849725,
-      "num_comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=47861087"
-    },
-    {
-      "id": "47863324",
-      "title": "Ultraviolet corona discharges on treetops during storms",
-      "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-      "points": 228,
-      "author": "t-3",
-      "created_at": 1776864520,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=47863324"
-    },
-    {
-      "id": "47860742",
-      "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
-      "url": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
-      "points": 222,
-      "author": "jjgreen",
-      "created_at": 1776846797,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=47860742"
-    },
-    {
-      "id": "47866750",
-      "title": "Parallel agents in Zed",
-      "url": "https://zed.dev/blog/parallel-agents",
-      "points": 216,
-      "author": "ajeetdsouza",
-      "created_at": 1776879537,
-      "num_comments": 120,
-      "hn_url": "https://news.ycombinator.com/item?id=47866750"
-    },
-    {
-      "id": "47865622",
-      "title": "Youth Suicides Declined After Creation of National Hotline",
-      "url": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
-      "points": 214,
-      "author": "marojejian",
-      "created_at": 1776874076,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47865622"
-    },
-    {
       "id": "47879092",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
@@ -179,16 +9,6 @@
       "created_at": 1776967299,
       "num_comments": 876,
       "hn_url": "https://news.ycombinator.com/item?id=47879092"
-    },
-    {
-      "id": "47872324",
-      "title": "I am building a cloud",
-      "url": "https://crawshaw.io/blog/building-a-cloud",
-      "points": 1052,
-      "author": "bumbledraven",
-      "created_at": 1776919459,
-      "num_comments": 527,
-      "hn_url": "https://news.ycombinator.com/item?id=47872324"
     },
     {
       "id": "47878633",
@@ -259,16 +79,6 @@
       "created_at": 1776959995,
       "num_comments": 135,
       "hn_url": "https://news.ycombinator.com/item?id=47877366"
-    },
-    {
-      "id": "47871519",
-      "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
-      "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "points": 332,
-      "author": "maxloh",
-      "created_at": 1776909548,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=47871519"
     },
     {
       "id": "47874647",
@@ -359,16 +169,6 @@
       "created_at": 1776981375,
       "num_comments": 238,
       "hn_url": "https://news.ycombinator.com/item?id=47882645"
-    },
-    {
-      "id": "47872452",
-      "title": "Our newsroom AI policy",
-      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "points": 193,
-      "author": "zdw",
-      "created_at": 1776921245,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=47872452"
     },
     {
       "id": "47884971",
@@ -15969,7 +15769,207 @@
       "created_at": 1784565396,
       "num_comments": 153,
       "hn_url": "https://news.ycombinator.com/item?id=48981206"
+    },
+    {
+      "id": "48997548",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "points": 1076,
+      "author": "mfiguiere",
+      "created_at": 1784664592,
+      "num_comments": 727,
+      "hn_url": "https://news.ycombinator.com/item?id=48997548"
+    },
+    {
+      "id": "48996571",
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "points": 696,
+      "author": "montecarl",
+      "created_at": 1784660324,
+      "num_comments": 486,
+      "hn_url": "https://news.ycombinator.com/item?id=48996571"
+    },
+    {
+      "id": "48993414",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "points": 678,
+      "author": "logickkk1",
+      "created_at": 1784647036,
+      "num_comments": 517,
+      "hn_url": "https://news.ycombinator.com/item?id=48993414"
+    },
+    {
+      "id": "48999291",
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "points": 575,
+      "author": "piotrgrabowski",
+      "created_at": 1784673324,
+      "num_comments": 320,
+      "hn_url": "https://news.ycombinator.com/item?id=48999291"
+    },
+    {
+      "id": "48989701",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "points": 554,
+      "author": "ilreb",
+      "created_at": 1784623463,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=48989701"
+    },
+    {
+      "id": "48996318",
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "url": "https://freeink.org/",
+      "points": 536,
+      "author": "FriedPickles",
+      "created_at": 1784659146,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=48996318"
+    },
+    {
+      "id": "48997221",
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "points": 525,
+      "author": "healsdata",
+      "created_at": 1784663039,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48997221"
+    },
+    {
+      "id": "48986731",
+      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+      "points": 461,
+      "author": "StatsAreFun",
+      "created_at": 1784594033,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=48986731"
+    },
+    {
+      "id": "48992870",
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "points": 406,
+      "author": "speckx",
+      "created_at": 1784644301,
+      "num_comments": 376,
+      "hn_url": "https://news.ycombinator.com/item?id=48992870"
+    },
+    {
+      "id": "48987863",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "points": 358,
+      "author": "NordStreamYacht",
+      "created_at": 1784606163,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=48987863"
+    },
+    {
+      "id": "48993816",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "points": 342,
+      "author": "speckx",
+      "created_at": 1784648511,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48993816"
+    },
+    {
+      "id": "48987822",
+      "title": "Incremental \u2013 A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "points": 334,
+      "author": "handfuloflight",
+      "created_at": 1784605853,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=48987822"
+    },
+    {
+      "id": "48996652",
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "points": 326,
+      "author": "BeetleB",
+      "created_at": 1784660679,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=48996652"
+    },
+    {
+      "id": "48995213",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "points": 310,
+      "author": "ryanmerket",
+      "created_at": 1784654046,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=48995213"
+    },
+    {
+      "id": "48995261",
+      "title": "Laguna S 2.1",
+      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "points": 304,
+      "author": "rexledesma",
+      "created_at": 1784654226,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=48995261"
+    },
+    {
+      "id": "48998362",
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "points": 249,
+      "author": "jeremyscanvic",
+      "created_at": 1784668165,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=48998362"
+    },
+    {
+      "id": "48994178",
+      "title": "Map of the world's great castles and fortresses",
+      "url": "https://thecastlemap.com/",
+      "points": 243,
+      "author": "marklit",
+      "created_at": 1784649958,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=48994178"
+    },
+    {
+      "id": "48993448",
+      "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
+      "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+      "points": 230,
+      "author": "Jimmc414",
+      "created_at": 1784647184,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=48993448"
+    },
+    {
+      "id": "48991139",
+      "title": "New US homeownership measure puts people first",
+      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "points": 206,
+      "author": "throw0101a",
+      "created_at": 1784635394,
+      "num_comments": 349,
+      "hn_url": "https://news.ycombinator.com/item?id=48991139"
+    },
+    {
+      "id": "48992323",
+      "title": "PCjs Machines",
+      "url": "https://www.pcjs.org/",
+      "points": 206,
+      "author": "naves",
+      "created_at": 1784641715,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=48992323"
     }
   ],
-  "last_updated": "2026-07-21T08:20:00.800018+00:00"
+  "last_updated": "2026-07-22T08:20:22.687384+00:00"
 }
