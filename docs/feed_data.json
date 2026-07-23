@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "47879092",
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "points": 1327,
-      "author": "rd",
-      "created_at": 1776967299,
-      "num_comments": 876,
-      "hn_url": "https://news.ycombinator.com/item?id=47879092"
-    },
-    {
-      "id": "47878633",
-      "title": "Palantir employees are starting to wonder if they're the bad guys",
-      "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-      "points": 831,
-      "author": "pavel_lishin",
-      "created_at": 1776965405,
-      "num_comments": 592,
-      "hn_url": "https://news.ycombinator.com/item?id=47878633"
-    },
-    {
-      "id": "47876043",
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "points": 742,
-      "author": "tosh",
-      "created_at": 1776953828,
-      "num_comments": 361,
-      "hn_url": "https://news.ycombinator.com/item?id=47876043"
-    },
-    {
-      "id": "47878905",
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "points": 706,
-      "author": "mfiguiere",
-      "created_at": 1776966518,
-      "num_comments": 522,
-      "hn_url": "https://news.ycombinator.com/item?id=47878905"
-    },
-    {
-      "id": "47879986",
-      "title": "Meta tells staff it will cut 10% of jobs",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-      "points": 576,
-      "author": "Vaslo",
-      "created_at": 1776970532,
-      "num_comments": 550,
-      "hn_url": "https://news.ycombinator.com/item?id=47879986"
-    },
-    {
-      "id": "47877429",
-      "title": "If America's so rich, how'd it get so sad?",
-      "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
-      "points": 485,
-      "author": "momentmaker",
-      "created_at": 1776960330,
-      "num_comments": 911,
-      "hn_url": "https://news.ycombinator.com/item?id=47877429"
-    },
-    {
-      "id": "47874814",
-      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
-      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "points": 380,
-      "author": "mentalgear",
-      "created_at": 1776946323,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=47874814"
-    },
-    {
-      "id": "47877366",
-      "title": "French government agency confirms breach as hacker offers to sell data",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "points": 378,
-      "author": "robtherobber",
-      "created_at": 1776959995,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=47877366"
-    },
-    {
-      "id": "47874647",
-      "title": "Show HN: Honker \u2013 Postgres NOTIFY/LISTEN Semantics for SQLite",
-      "url": "https://github.com/russellromney/honker",
-      "points": 256,
-      "author": "russellthehippo",
-      "created_at": 1776945191,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=47874647"
-    },
-    {
-      "id": "47883108",
-      "title": "U.S. soldier charged with using classified info to profit from prediction market",
-      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
-      "points": 250,
-      "author": "paulpauper",
-      "created_at": 1776983821,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=47883108"
-    },
-    {
-      "id": "47878208",
-      "title": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
-      "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
-      "points": 241,
-      "author": "zdw",
-      "created_at": 1776963661,
-      "num_comments": 233,
-      "hn_url": "https://news.ycombinator.com/item?id=47878208"
-    },
-    {
-      "id": "47877644",
-      "title": "Incident with multple GitHub services",
-      "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
-      "points": 240,
-      "author": "bwannasek",
-      "created_at": 1776961315,
-      "num_comments": 117,
-      "hn_url": "https://news.ycombinator.com/item?id=47877644"
-    },
-    {
-      "id": "47874854",
-      "title": "Raylib v6.0",
-      "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
-      "points": 210,
-      "author": "rydgel",
-      "created_at": 1776946576,
-      "num_comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=47874854"
-    },
-    {
-      "id": "47878117",
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "points": 209,
-      "author": "wielebny",
-      "created_at": 1776963313,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=47878117"
-    },
-    {
-      "id": "47880189",
-      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-      "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-      "points": 206,
-      "author": "codezero",
-      "created_at": 1776971380,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=47880189"
-    },
-    {
-      "id": "47876647",
-      "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
-      "url": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
-      "points": 197,
-      "author": "greedo",
-      "created_at": 1776956934,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=47876647"
-    },
-    {
-      "id": "47882645",
-      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "points": 196,
-      "author": "nkrisc",
-      "created_at": 1776981375,
-      "num_comments": 238,
-      "hn_url": "https://news.ycombinator.com/item?id=47882645"
-    },
-    {
-      "id": "47884971",
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1878,
-      "author": "impact_sy",
-      "created_at": 1776999681,
-      "num_comments": 1463,
-      "hn_url": "https://news.ycombinator.com/item?id=47884971"
-    },
-    {
       "id": "47892019",
       "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
@@ -241,36 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47887334"
     },
     {
-      "id": "47885596",
-      "title": "Ubuntu 26.04",
-      "url": "https://lwn.net/Articles/1069399/",
-      "points": 312,
-      "author": "lxst",
-      "created_at": 1777005517,
-      "num_comments": 244,
-      "hn_url": "https://news.ycombinator.com/item?id=47885596"
-    },
-    {
-      "id": "47884768",
-      "title": "Why I Write (1946)",
-      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "points": 277,
-      "author": "RyanShook",
-      "created_at": 1776997583,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=47884768"
-    },
-    {
-      "id": "47885377",
-      "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
-      "url": "https://www.nature.com/articles/s41467-026-71264-8",
-      "points": 254,
-      "author": "scubakid",
-      "created_at": 1777003482,
-      "num_comments": 244,
-      "hn_url": "https://news.ycombinator.com/item?id=47885377"
-    },
-    {
       "id": "47892291",
       "title": "SDL Now Supports DOS",
       "url": "https://github.com/libsdl-org/SDL/pull/15377",
@@ -279,16 +69,6 @@
       "created_at": 1777047615,
       "num_comments": 100,
       "hn_url": "https://news.ycombinator.com/item?id=47892291"
-    },
-    {
-      "id": "47886517",
-      "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
-      "url": "https://ynarwal.github.io/how-llms-work/",
-      "points": 235,
-      "author": "ynarwal__",
-      "created_at": 1777013333,
-      "num_comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=47886517"
     },
     {
       "id": "47894000",
@@ -15969,7 +15749,207 @@
       "created_at": 1784641715,
       "num_comments": 30,
       "hn_url": "https://news.ycombinator.com/item?id=48992323"
+    },
+    {
+      "id": "49010345",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "points": 831,
+      "author": "gmays",
+      "created_at": 1784741440,
+      "num_comments": 481,
+      "hn_url": "https://news.ycombinator.com/item?id=49010345"
+    },
+    {
+      "id": "49008211",
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "points": 798,
+      "author": "starfallg",
+      "created_at": 1784733563,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=49008211"
+    },
+    {
+      "id": "49012070",
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "points": 724,
+      "author": "coleca",
+      "created_at": 1784748139,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=49012070"
+    },
+    {
+      "id": "49004663",
+      "title": "OverpAId \u2013 Fire your CEO. Hire the future",
+      "url": "https://overpaid.lol",
+      "points": 656,
+      "author": "ignaloidas",
+      "created_at": 1784717344,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=49004663"
+    },
+    {
+      "id": "49007374",
+      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
+      "points": 505,
+      "author": "ksec",
+      "created_at": 1784730313,
+      "num_comments": 676,
+      "hn_url": "https://news.ycombinator.com/item?id=49007374"
+    },
+    {
+      "id": "49010129",
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "points": 503,
+      "author": "dcastm",
+      "created_at": 1784740674,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49010129"
+    },
+    {
+      "id": "49010167",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "points": 478,
+      "author": "syrusakbary",
+      "created_at": 1784740838,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=49010167"
+    },
+    {
+      "id": "49005747",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "points": 434,
+      "author": "montroser",
+      "created_at": 1784723568,
+      "num_comments": 405,
+      "hn_url": "https://news.ycombinator.com/item?id=49005747"
+    },
+    {
+      "id": "49000864",
+      "title": "LG to ban residential proxies from smart TV apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "points": 423,
+      "author": "DemiGuru",
+      "created_at": 1784685151,
+      "num_comments": 430,
+      "hn_url": "https://news.ycombinator.com/item?id=49000864"
+    },
+    {
+      "id": "49005787",
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "points": 397,
+      "author": "abelanger",
+      "created_at": 1784723768,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=49005787"
+    },
+    {
+      "id": "49010648",
+      "title": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "points": 397,
+      "author": "WadeGrimridge",
+      "created_at": 1784742498,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49010648"
+    },
+    {
+      "id": "49013036",
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "points": 362,
+      "author": "CITIZENDOT",
+      "created_at": 1784752424,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=49013036"
+    },
+    {
+      "id": "49008440",
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "points": 342,
+      "author": "erikschoster",
+      "created_at": 1784734428,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=49008440"
+    },
+    {
+      "id": "49007247",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "points": 329,
+      "author": "benbreen",
+      "created_at": 1784729885,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=49007247"
+    },
+    {
+      "id": "49001127",
+      "title": "Late.sh \u2013 a command-line Clubhouse for computer people",
+      "url": "https://late.sh/",
+      "points": 313,
+      "author": "itherseed",
+      "created_at": 1784687550,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49001127"
+    },
+    {
+      "id": "49008642",
+      "title": "Does creatine make you smarter?",
+      "url": "https://dynomight.net/creatine/",
+      "points": 292,
+      "author": "surprisetalk",
+      "created_at": 1784735118,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=49008642"
+    },
+    {
+      "id": "49005973",
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "points": 271,
+      "author": "speckx",
+      "created_at": 1784724585,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49005973"
+    },
+    {
+      "id": "49006195",
+      "title": "Back to Kagi",
+      "url": "https://blog.melashri.net/micro/back-to-kagi/",
+      "points": 257,
+      "author": "speckx",
+      "created_at": 1784725699,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=49006195"
+    },
+    {
+      "id": "49007610",
+      "title": "\u201cWe have information that Moonshot distilled Fable for the development of K3\u201d",
+      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
+      "points": 237,
+      "author": "softwaredoug",
+      "created_at": 1784731328,
+      "num_comments": 617,
+      "hn_url": "https://news.ycombinator.com/item?id=49007610"
+    },
+    {
+      "id": "49001472",
+      "title": "Never Enough",
+      "url": "https://dark.ronacher.eu/2026/7/21/never-enough/",
+      "points": 214,
+      "author": "reasonableklout",
+      "created_at": 1784690676,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49001472"
     }
   ],
-  "last_updated": "2026-07-22T08:20:22.687384+00:00"
+  "last_updated": "2026-07-23T08:22:32.797818+00:00"
 }
