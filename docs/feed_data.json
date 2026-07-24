@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47892019",
-      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 858,
-      "author": "y42",
-      "created_at": 1777046359,
-      "num_comments": 503,
-      "hn_url": "https://news.ycombinator.com/item?id=47892019"
-    },
-    {
-      "id": "47892074",
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 518,
-      "author": "elffjs",
-      "created_at": 1777046681,
-      "num_comments": 507,
-      "hn_url": "https://news.ycombinator.com/item?id=47892074"
-    },
-    {
-      "id": "47890799",
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 409,
-      "author": "alcazar",
-      "created_at": 1777040932,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=47890799"
-    },
-    {
-      "id": "47891019",
-      "title": "Norway set to become latest country to ban social media for under 16s",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "points": 385,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1777041910,
-      "num_comments": 444,
-      "hn_url": "https://news.ycombinator.com/item?id=47891019"
-    },
-    {
-      "id": "47888372",
-      "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
-      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 341,
-      "author": "calcifer",
-      "created_at": 1777027694,
-      "num_comments": 314,
-      "hn_url": "https://news.ycombinator.com/item?id=47888372"
-    },
-    {
-      "id": "47887334",
-      "title": "Spinel: Ruby AOT Native Compiler",
-      "url": "https://github.com/matz/spinel",
-      "points": 321,
-      "author": "dluan",
-      "created_at": 1777019327,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=47887334"
-    },
-    {
-      "id": "47892291",
-      "title": "SDL Now Supports DOS",
-      "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "points": 247,
-      "author": "Jayschwa",
-      "created_at": 1777047615,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=47892291"
-    },
-    {
-      "id": "47894000",
-      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "url": "https://developers.openai.com/api/docs/changelog",
-      "points": 232,
-      "author": "arabicalories",
-      "created_at": 1777055012,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=47894000"
-    },
-    {
-      "id": "47887683",
-      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-      "points": 223,
-      "author": "giuliomagnifico",
-      "created_at": 1777022277,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=47887683"
-    },
-    {
-      "id": "47894747",
-      "title": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "points": 217,
-      "author": "hhh",
-      "created_at": 1777059046,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=47894747"
-    },
-    {
-      "id": "47895080",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "points": 207,
-      "author": "elpakal",
-      "created_at": 1777060830,
-      "num_comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=47895080"
-    },
-    {
-      "id": "47893779",
-      "title": "There Will Be a Scientific Theory of Deep Learning",
-      "url": "https://arxiv.org/abs/2604.21691",
-      "points": 204,
-      "author": "jamie-simon",
-      "created_at": 1777053965,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=47893779"
-    },
-    {
-      "id": "47894435",
-      "title": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "points": 202,
-      "author": "NaOH",
-      "created_at": 1777057269,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=47894435"
-    },
-    {
-      "id": "47888465",
-      "title": "Hear your agent suffer through your code",
-      "url": "https://github.com/AndrewVos/endless-toil",
-      "points": 186,
-      "author": "AndrewVos",
-      "created_at": 1777028325,
-      "num_comments": 84,
-      "hn_url": "https://news.ycombinator.com/item?id=47888465"
-    },
-    {
-      "id": "47888557",
-      "title": "UK Biobank leak: Health details of 500k people offered for sale on Alibaba",
-      "url": "https://www.bmj.com/content/393/bmj.s781",
-      "points": 186,
-      "author": "dberhane",
-      "created_at": 1777028976,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=47888557"
-    },
-    {
-      "id": "47899053",
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "points": 574,
-      "author": "calcifer",
-      "created_at": 1777096572,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=47899053"
-    },
-    {
       "id": "47905283",
       "title": "Trump fires NSF's oversight board",
       "url": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
@@ -171,26 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47905283"
     },
     {
-      "id": "47897891",
-      "title": "Firefox Has Integrated Brave's Adblock Engine",
-      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "points": 388,
-      "author": "nreece",
-      "created_at": 1777081653,
-      "num_comments": 229,
-      "hn_url": "https://news.ycombinator.com/item?id=47897891"
-    },
-    {
-      "id": "47897647",
-      "title": "Replace IBM Quantum back end with /dev/urandom",
-      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "points": 354,
-      "author": "pigeons",
-      "created_at": 1777078718,
-      "num_comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=47897647"
-    },
-    {
       "id": "47903126",
       "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
@@ -199,16 +19,6 @@
       "created_at": 1777138838,
       "num_comments": 185,
       "hn_url": "https://news.ycombinator.com/item?id=47903126"
-    },
-    {
-      "id": "47897681",
-      "title": "Plain text has been around for decades and it\u2019s here to stay",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "points": 293,
-      "author": "rbanffy",
-      "created_at": 1777078989,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=47897681"
     },
     {
       "id": "47904876",
@@ -261,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47902416"
     },
     {
-      "id": "47898597",
-      "title": "Turbo Vision 2.0 \u2013 a modern port",
-      "url": "https://github.com/magiblot/tvision",
-      "points": 194,
-      "author": "andsoitis",
-      "created_at": 1777090681,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=47898597"
-    },
-    {
       "id": "47900398",
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "url": "https://github.com/MartinGalway/C64_music",
@@ -279,16 +79,6 @@
       "created_at": 1777113974,
       "num_comments": 25,
       "hn_url": "https://news.ycombinator.com/item?id=47900398"
-    },
-    {
-      "id": "47897790",
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "points": 169,
-      "author": "alash3al",
-      "created_at": 1777080280,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=47897790"
     },
     {
       "id": "47900478",
@@ -319,16 +109,6 @@
       "created_at": 1777126651,
       "num_comments": 101,
       "hn_url": "https://news.ycombinator.com/item?id=47901734"
-    },
-    {
-      "id": "47897349",
-      "title": "Education must go beyond the mere production of words",
-      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-      "points": 140,
-      "author": "signor_bosco",
-      "created_at": 1777075903,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=47897349"
     },
     {
       "id": "47902987",
@@ -15949,7 +15729,207 @@
       "created_at": 1784690676,
       "num_comments": 95,
       "hn_url": "https://news.ycombinator.com/item?id=49001472"
+    },
+    {
+      "id": "49022152",
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "points": 1264,
+      "author": "dwwoelfel",
+      "created_at": 1784816683,
+      "num_comments": 565,
+      "hn_url": "https://news.ycombinator.com/item?id=49022152"
+    },
+    {
+      "id": "49023016",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "points": 898,
+      "author": "theanonymousone",
+      "created_at": 1784819920,
+      "num_comments": 751,
+      "hn_url": "https://news.ycombinator.com/item?id=49023016"
+    },
+    {
+      "id": "49020999",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "points": 645,
+      "author": "technewssss",
+      "created_at": 1784812150,
+      "num_comments": 339,
+      "hn_url": "https://news.ycombinator.com/item?id=49020999"
+    },
+    {
+      "id": "49015639",
+      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "points": 502,
+      "author": "abhisek",
+      "created_at": 1784769374,
+      "num_comments": 385,
+      "hn_url": "https://news.ycombinator.com/item?id=49015639"
+    },
+    {
+      "id": "49028927",
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "points": 447,
+      "author": "lopespm",
+      "created_at": 1784845829,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49028927"
+    },
+    {
+      "id": "49028037",
+      "title": "Tell HN: Namecheap gave my account to an unverified third party",
+      "url": "https://news.ycombinator.com/item?id=49028037",
+      "points": 425,
+      "author": "Thrashed",
+      "created_at": 1784840729,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=49028037"
+    },
+    {
+      "id": "49026810",
+      "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "points": 370,
+      "author": "adam_rida",
+      "created_at": 1784834761,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=49026810"
+    },
+    {
+      "id": "49024691",
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "points": 362,
+      "author": "nickthegreek",
+      "created_at": 1784825613,
+      "num_comments": 166,
+      "hn_url": "https://news.ycombinator.com/item?id=49024691"
+    },
+    {
+      "id": "49015588",
+      "title": "Codeberg Bans Cryptocurrency Projects",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+      "points": 356,
+      "author": "intunderflow",
+      "created_at": 1784768816,
+      "num_comments": 620,
+      "hn_url": "https://news.ycombinator.com/item?id=49015588"
+    },
+    {
+      "id": "49027892",
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "points": 326,
+      "author": "Shortness8",
+      "created_at": 1784839939,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=49027892"
+    },
+    {
+      "id": "49023019",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "points": 301,
+      "author": "dhorthy",
+      "created_at": 1784819928,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=49023019"
+    },
+    {
+      "id": "49020868",
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "points": 283,
+      "author": "yogthos",
+      "created_at": 1784811603,
+      "num_comments": 321,
+      "hn_url": "https://news.ycombinator.com/item?id=49020868"
+    },
+    {
+      "id": "49022038",
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "points": 277,
+      "author": "mpweiher",
+      "created_at": 1784816260,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=49022038"
+    },
+    {
+      "id": "49024643",
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "points": 264,
+      "author": "jjfoooo4",
+      "created_at": 1784825397,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=49024643"
+    },
+    {
+      "id": "49021006",
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "points": 263,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1784812202,
+      "num_comments": 267,
+      "hn_url": "https://news.ycombinator.com/item?id=49021006"
+    },
+    {
+      "id": "49021856",
+      "title": "I regret migrating to Codeberg",
+      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+      "points": 256,
+      "author": "boramalper",
+      "created_at": 1784815607,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=49021856"
+    },
+    {
+      "id": "49021597",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "points": 234,
+      "author": "r2sk5t",
+      "created_at": 1784814696,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=49021597"
+    },
+    {
+      "id": "49022634",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "points": 232,
+      "author": "ibobev",
+      "created_at": 1784818414,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49022634"
+    },
+    {
+      "id": "49021783",
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "points": 216,
+      "author": "MarcoDewey",
+      "created_at": 1784815344,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=49021783"
+    },
+    {
+      "id": "49015635",
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "points": 196,
+      "author": "acmnrs",
+      "created_at": 1784769293,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=49015635"
     }
   ],
-  "last_updated": "2026-07-23T08:22:32.797818+00:00"
+  "last_updated": "2026-07-24T08:18:57.613474+00:00"
 }
