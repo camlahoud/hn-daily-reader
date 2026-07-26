@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "47914165",
-      "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "points": 743,
-      "author": "ca98am79",
-      "created_at": 1777236066,
-      "num_comments": 385,
-      "hn_url": "https://news.ycombinator.com/item?id=47914165"
-    },
-    {
-      "id": "47911524",
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "points": 644,
-      "author": "jeremyccrane",
-      "created_at": 1777220849,
-      "num_comments": 795,
-      "hn_url": "https://news.ycombinator.com/item?id=47911524"
-    },
-    {
-      "id": "47909226",
-      "title": "Asahi Linux Progress Linux 7.0",
-      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "points": 617,
-      "author": "elisaado",
-      "created_at": 1777200632,
-      "num_comments": 312,
-      "hn_url": "https://news.ycombinator.com/item?id=47909226"
-    },
-    {
-      "id": "47911780",
-      "title": "GoDaddy gave a domain to a stranger without any documentation",
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "points": 595,
-      "author": "jamesponddotco",
-      "created_at": 1777222676,
-      "num_comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=47911780"
-    },
-    {
-      "id": "47913650",
-      "title": "AI should elevate your thinking, not replace it",
-      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "points": 458,
-      "author": "koshyjohn",
-      "created_at": 1777233792,
-      "num_comments": 332,
-      "hn_url": "https://news.ycombinator.com/item?id=47913650"
-    },
-    {
-      "id": "47914350",
-      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-      "points": 368,
-      "author": "berkeleyjunk",
-      "created_at": 1777236990,
-      "num_comments": 254,
-      "hn_url": "https://news.ycombinator.com/item?id=47914350"
-    },
-    {
-      "id": "47908833",
-      "title": "Statecharts: hierarchical state machines",
-      "url": "https://statecharts.dev/",
-      "points": 297,
-      "author": "sph",
-      "created_at": 1777195942,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=47908833"
-    },
-    {
-      "id": "47910388",
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "points": 295,
-      "author": "kmdupree",
-      "created_at": 1777211893,
-      "num_comments": 161,
-      "hn_url": "https://news.ycombinator.com/item?id=47910388"
-    },
-    {
-      "id": "47910546",
-      "title": "Issue links now open in a popup",
-      "url": "https://github.com/orgs/community/discussions/192666",
-      "points": 234,
-      "author": "luckman212",
-      "created_at": 1777213118,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=47910546"
-    },
-    {
-      "id": "47913855",
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "points": 233,
-      "author": "dd23",
-      "created_at": 1777234717,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=47913855"
-    },
-    {
-      "id": "47912645",
-      "title": "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
-      "url": "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo",
-      "points": 223,
-      "author": "randycupertino",
-      "created_at": 1777228471,
-      "num_comments": 355,
-      "hn_url": "https://news.ycombinator.com/item?id=47912645"
-    },
-    {
-      "id": "47911350",
-      "title": "Clay PCB Tutorial",
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "points": 220,
-      "author": "j0r0b0",
-      "created_at": 1777219334,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=47911350"
-    },
-    {
-      "id": "47914677",
-      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-      "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "points": 199,
-      "author": "1659447091",
-      "created_at": 1777238600,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=47914677"
-    },
-    {
-      "id": "47911977",
-      "title": "Dillo Browser Release 3.3.0",
-      "url": "https://dillo-browser.org/release/3.3.0/",
-      "points": 172,
-      "author": "rodarima",
-      "created_at": 1777223894,
-      "num_comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=47911977"
-    },
-    {
       "id": "47921248",
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
@@ -281,16 +141,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47924877"
     },
     {
-      "id": "47916890",
-      "title": "TurboQuant: A first-principles walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "points": 286,
-      "author": "kweezar",
-      "created_at": 1777254872,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=47916890"
-    },
-    {
       "id": "47922079",
       "title": "\u201cWhy not just use Lean?\u201d",
       "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
@@ -299,16 +149,6 @@
       "created_at": 1777299893,
       "num_comments": 194,
       "hn_url": "https://news.ycombinator.com/item?id=47922079"
-    },
-    {
-      "id": "47917026",
-      "title": "The Prompt API",
-      "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "points": 261,
-      "author": "gslin",
-      "created_at": 1777256338,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=47917026"
     },
     {
       "id": "47922940",
@@ -15939,7 +15779,207 @@
       "created_at": 1784898169,
       "num_comments": 262,
       "hn_url": "https://news.ycombinator.com/item?id=49034948"
+    },
+    {
+      "id": "49045159",
+      "title": "Android may soon restrict on-device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "points": 916,
+      "author": "shscs911",
+      "created_at": 1784962634,
+      "num_comments": 448,
+      "hn_url": "https://news.ycombinator.com/item?id=49045159"
+    },
+    {
+      "id": "49043724",
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "points": 573,
+      "author": "agnishom",
+      "created_at": 1784943852,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49043724"
+    },
+    {
+      "id": "49051120",
+      "title": "Did they ghost you?",
+      "url": "https://didtheyghostyou.com/",
+      "points": 384,
+      "author": "mooreds",
+      "created_at": 1785010683,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=49051120"
+    },
+    {
+      "id": "49048034",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "points": 371,
+      "author": "tknaup",
+      "created_at": 1784990989,
+      "num_comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=49048034"
+    },
+    {
+      "id": "49044074",
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "points": 319,
+      "author": "JumpCrisscross",
+      "created_at": 1784948076,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=49044074"
+    },
+    {
+      "id": "49051361",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "points": 304,
+      "author": "mellosouls",
+      "created_at": 1785012155,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=49051361"
+    },
+    {
+      "id": "49047365",
+      "title": "Bitchat is now on Radicle",
+      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+      "points": 237,
+      "author": "h1watt",
+      "created_at": 1784985529,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49047365"
+    },
+    {
+      "id": "49050538",
+      "title": "The growing vigilante movement to knock out Flock surveillance cameras",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
+      "points": 234,
+      "author": "bookofjoe",
+      "created_at": 1785006137,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=49050538"
+    },
+    {
+      "id": "49048681",
+      "title": "The Dark Night of Mathematics",
+      "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+      "points": 193,
+      "author": "rmdmphilosopher",
+      "created_at": 1784994899,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=49048681"
+    },
+    {
+      "id": "49051369",
+      "title": "Turn And Face The Strange",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "points": 192,
+      "author": "subarctic",
+      "created_at": 1785012191,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=49051369"
+    },
+    {
+      "id": "49049693",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "points": 180,
+      "author": "jsax",
+      "created_at": 1785000874,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49049693"
+    },
+    {
+      "id": "49045446",
+      "title": "MouthPad: A Tongue-Controlled Touchpad",
+      "url": "https://www.augmental.tech/",
+      "points": 177,
+      "author": "ZaninAndrea",
+      "created_at": 1784965879,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49045446"
+    },
+    {
+      "id": "49051947",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "points": 171,
+      "author": "rbanffy",
+      "created_at": 1785016102,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=49051947"
+    },
+    {
+      "id": "49045040",
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "points": 169,
+      "author": "rzk",
+      "created_at": 1784961100,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49045040"
+    },
+    {
+      "id": "49050512",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "points": 168,
+      "author": "boveyking",
+      "created_at": 1785005990,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49050512"
+    },
+    {
+      "id": "49050152",
+      "title": "Tile's security is so bad it's a feature for stalkers",
+      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+      "points": 157,
+      "author": "sambellll",
+      "created_at": 1785003522,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49050152"
+    },
+    {
+      "id": "49051816",
+      "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
+      "url": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
+      "points": 144,
+      "author": "UmYeahNo",
+      "created_at": 1785015128,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49051816"
+    },
+    {
+      "id": "49046525",
+      "title": "The Fedora 45 Sausage Factory",
+      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+      "points": 143,
+      "author": "6581",
+      "created_at": 1784977497,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49046525"
+    },
+    {
+      "id": "49050859",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "points": 142,
+      "author": "zdw",
+      "created_at": 1785008679,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=49050859"
+    },
+    {
+      "id": "49048212",
+      "title": "Engineering management after the cost of code collapsed",
+      "url": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
+      "points": 134,
+      "author": "kiyanwang",
+      "created_at": 1784992251,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=49048212"
     }
   ],
-  "last_updated": "2026-07-25T07:59:50.169319+00:00"
+  "last_updated": "2026-07-26T08:19:39.818617+00:00"
 }
