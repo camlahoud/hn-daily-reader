@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "47921248",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "points": 864,
-      "author": "helsinkiandrew",
-      "created_at": 1777296162,
-      "num_comments": 735,
-      "hn_url": "https://news.ycombinator.com/item?id=47921248"
-    },
-    {
-      "id": "47923357",
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "points": 636,
-      "author": "frizlab",
-      "created_at": 1777305788,
-      "num_comments": 474,
-      "hn_url": "https://news.ycombinator.com/item?id=47923357"
-    },
-    {
-      "id": "47920074",
-      "title": "Men who stare at walls",
-      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "points": 560,
-      "author": "aselimov3",
-      "created_at": 1777288106,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=47920074"
-    },
-    {
-      "id": "47919630",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "points": 515,
-      "author": "Oravys",
-      "created_at": 1777283830,
-      "num_comments": 183,
-      "hn_url": "https://news.ycombinator.com/item?id=47919630"
-    },
-    {
-      "id": "47926861",
-      "title": "Is my blue your blue?",
-      "url": "https://ismy.blue/",
-      "points": 499,
-      "author": "theogravity",
-      "created_at": 1777321473,
-      "num_comments": 344,
-      "hn_url": "https://news.ycombinator.com/item?id=47926861"
-    },
-    {
-      "id": "47919997",
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "points": 417,
-      "author": "c0l0",
-      "created_at": 1777287394,
-      "num_comments": 220,
-      "hn_url": "https://news.ycombinator.com/item?id=47919997"
-    },
-    {
-      "id": "47920315",
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-      "points": 370,
-      "author": "yakkomajuri",
-      "created_at": 1777290239,
-      "num_comments": 266,
-      "hn_url": "https://news.ycombinator.com/item?id=47920315"
-    },
-    {
-      "id": "47920787",
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "url": "https://github.com/dirac-run/dirac",
-      "points": 338,
-      "author": "GodelNumbering",
-      "created_at": 1777293355,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=47920787"
-    },
-    {
-      "id": "47922712",
-      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
-      "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
-      "points": 328,
-      "author": "benterix",
-      "created_at": 1777302761,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=47922712"
-    },
-    {
-      "id": "47927903",
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "points": 324,
-      "author": "jekude",
-      "created_at": 1777326948,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=47927903"
-    },
-    {
-      "id": "47924775",
-      "title": "GitHub is having issues now",
-      "url": "https://www.githubstatus.com",
-      "points": 314,
-      "author": "SenHeng",
-      "created_at": 1777311739,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=47924775"
-    },
-    {
-      "id": "47919240",
-      "title": "Quarkdown \u2013 Markdown with Superpowers",
-      "url": "https://quarkdown.com/",
-      "points": 303,
-      "author": "amai",
-      "created_at": 1777280097,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=47919240"
-    },
-    {
-      "id": "47928828",
-      "title": "To my students",
-      "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-      "points": 288,
-      "author": "marvinborner",
-      "created_at": 1777334259,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=47928828"
-    },
-    {
-      "id": "47924877",
-      "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
-      "url": "https://zsnes.com/",
-      "points": 287,
-      "author": "haunter",
-      "created_at": 1777312210,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=47924877"
-    },
-    {
-      "id": "47922079",
-      "title": "\u201cWhy not just use Lean?\u201d",
-      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-      "points": 281,
-      "author": "ibobev",
-      "created_at": 1777299893,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=47922079"
-    },
-    {
-      "id": "47922940",
-      "title": "US Supreme Court reviews police use of cell location data",
-      "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
-      "points": 239,
-      "author": "unethical_ban",
-      "created_at": 1777303781,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=47922940"
-    },
-    {
-      "id": "47919733",
-      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "points": 239,
-      "author": "JeanKage",
-      "created_at": 1777284917,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47919733"
-    },
-    {
-      "id": "47923010",
-      "title": "Networking changes coming in macOS\u00a027",
-      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-      "points": 226,
-      "author": "pvtmert",
-      "created_at": 1777304172,
-      "num_comments": 199,
-      "hn_url": "https://news.ycombinator.com/item?id=47923010"
-    },
-    {
       "id": "47939579",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
@@ -249,16 +69,6 @@
       "created_at": 1777375492,
       "num_comments": 365,
       "hn_url": "https://news.ycombinator.com/item?id=47932937"
-    },
-    {
-      "id": "47931035",
-      "title": "GTFOBins",
-      "url": "https://gtfobins.org/",
-      "points": 354,
-      "author": "StefanBatory",
-      "created_at": 1777357659,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47931035"
     },
     {
       "id": "47932990",
@@ -339,16 +149,6 @@
       "created_at": 1777382786,
       "num_comments": 107,
       "hn_url": "https://news.ycombinator.com/item?id=47934269"
-    },
-    {
-      "id": "47932028",
-      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-      "points": 276,
-      "author": "whtsky",
-      "created_at": 1777366865,
-      "num_comments": 186,
-      "hn_url": "https://news.ycombinator.com/item?id=47932028"
     },
     {
       "id": "47938184",
@@ -15979,7 +15779,207 @@
       "created_at": 1784992251,
       "num_comments": 184,
       "hn_url": "https://news.ycombinator.com/item?id=49048212"
+    },
+    {
+      "id": "49057175",
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "points": 1011,
+      "author": "rapnie",
+      "created_at": 1785066797,
+      "num_comments": 484,
+      "hn_url": "https://news.ycombinator.com/item?id=49057175"
+    },
+    {
+      "id": "49063022",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "points": 748,
+      "author": "eecc",
+      "created_at": 1785104501,
+      "num_comments": 544,
+      "hn_url": "https://news.ycombinator.com/item?id=49063022"
+    },
+    {
+      "id": "49057241",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "points": 449,
+      "author": "rcy",
+      "created_at": 1785067211,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=49057241"
+    },
+    {
+      "id": "49055169",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "points": 413,
+      "author": "Cider9986",
+      "created_at": 1785045442,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=49055169"
+    },
+    {
+      "id": "49060495",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "points": 373,
+      "author": "saaaaaam",
+      "created_at": 1785088184,
+      "num_comments": 240,
+      "hn_url": "https://news.ycombinator.com/item?id=49060495"
+    },
+    {
+      "id": "49056112",
+      "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "points": 341,
+      "author": "vismit2000",
+      "created_at": 1785056499,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=49056112"
+    },
+    {
+      "id": "49057574",
+      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "points": 327,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1785069801,
+      "num_comments": 305,
+      "hn_url": "https://news.ycombinator.com/item?id=49057574"
+    },
+    {
+      "id": "49060856",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "points": 314,
+      "author": "tosh",
+      "created_at": 1785090186,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49060856"
+    },
+    {
+      "id": "49058669",
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "points": 278,
+      "author": "agotterer",
+      "created_at": 1785076827,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=49058669"
+    },
+    {
+      "id": "49054107",
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "points": 261,
+      "author": "alexktz",
+      "created_at": 1785033343,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49054107"
+    },
+    {
+      "id": "49060978",
+      "title": "The Strongest El Ni\u00f1o Ever",
+      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+      "points": 256,
+      "author": "ndsipa_pomu",
+      "created_at": 1785090936,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=49060978"
+    },
+    {
+      "id": "49059367",
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "points": 252,
+      "author": "ankitg12",
+      "created_at": 1785081072,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49059367"
+    },
+    {
+      "id": "49054224",
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "points": 251,
+      "author": "lisper",
+      "created_at": 1785034550,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=49054224"
+    },
+    {
+      "id": "49057248",
+      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+      "url": "https://english.mapn.ro/",
+      "points": 226,
+      "author": "_tk_",
+      "created_at": 1785067242,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=49057248"
+    },
+    {
+      "id": "49057666",
+      "title": "Show HN: Reverse Minesweeper",
+      "url": "https://sunflowersgame.com/",
+      "points": 220,
+      "author": "pompomsheep",
+      "created_at": 1785070263,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49057666"
+    },
+    {
+      "id": "49057398",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "points": 207,
+      "author": "AbuAssar",
+      "created_at": 1785068486,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=49057398"
+    },
+    {
+      "id": "49053375",
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "points": 206,
+      "author": "nateb2022",
+      "created_at": 1785026190,
+      "num_comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49053375"
+    },
+    {
+      "id": "49054010",
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "points": 204,
+      "author": "rickmf",
+      "created_at": 1785032546,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=49054010"
+    },
+    {
+      "id": "49060592",
+      "title": "It's not empowering to hand off the details",
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+      "points": 200,
+      "author": "davnicwil",
+      "created_at": 1785088682,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49060592"
+    },
+    {
+      "id": "49057877",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "points": 200,
+      "author": "mooreds",
+      "created_at": 1785071583,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=49057877"
     }
   ],
-  "last_updated": "2026-07-26T08:19:39.818617+00:00"
+  "last_updated": "2026-07-27T09:41:24.243146+00:00"
 }
