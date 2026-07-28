@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 09:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:26:13 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[291 pts] Netflix employee fired for sharing personal details in retreat trust exercise</title>
+      <link>https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;291 points&lt;/strong&gt; by softwaredoug | &lt;strong&gt;245 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49076923&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49076923</guid>
+      <pubDate>Mon, 27 Jul 2026 23:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[265 pts] Benchmarking Opus 5 on SlopCodeBench</title>
+      <link>https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md</link>
+      <description>&lt;p&gt;&lt;strong&gt;265 points&lt;/strong&gt; by dhorthy | &lt;strong&gt;59 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49076391&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49076391</guid>
+      <pubDate>Mon, 27 Jul 2026 22:37:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[271 pts] A missing underscore sent innocent man to prison for 18 months</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/</link>
+      <description>&lt;p&gt;&lt;strong&gt;271 points&lt;/strong&gt; by quantified | &lt;strong&gt;155 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49076116&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49076116</guid>
+      <pubDate>Mon, 27 Jul 2026 22:10:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[849 pts] Our position on open-weights models</title>
+      <link>https://www.anthropic.com/news/position-open-weights-models</link>
+      <description>&lt;p&gt;&lt;strong&gt;849 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;1233 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49076057&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49076057</guid>
+      <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[301 pts] Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped</title>
+      <link>https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/</link>
+      <description>&lt;p&gt;&lt;strong&gt;301 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;118 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49073513&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49073513</guid>
+      <pubDate>Mon, 27 Jul 2026 18:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[252 pts] Canceling &quot;Hey&quot;</title>
+      <link>https://chadnauseam.com/random/cancelling-my-hey</link>
+      <description>&lt;p&gt;&lt;strong&gt;252 points&lt;/strong&gt; by ChadNauseam | &lt;strong&gt;208 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49073007&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49073007</guid>
+      <pubDate>Mon, 27 Jul 2026 17:37:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[231 pts] MAI-Cyber-1-Flash inside MDASH</title>
+      <link>https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/</link>
+      <description>&lt;p&gt;&lt;strong&gt;231 points&lt;/strong&gt; by migmartri | &lt;strong&gt;109 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49072361&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49072361</guid>
+      <pubDate>Mon, 27 Jul 2026 16:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[320 pts] Decathlon Germany adds Wero payment option to decathlon.de website</title>
+      <link>https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article</link>
+      <description>&lt;p&gt;&lt;strong&gt;320 points&lt;/strong&gt; by doener | &lt;strong&gt;214 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49072310&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49072310</guid>
+      <pubDate>Mon, 27 Jul 2026 16:49:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[383 pts] Kimi-K3 Technical Report [pdf]</title>
+      <link>https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf</link>
+      <description>&lt;p&gt;&lt;strong&gt;383 points&lt;/strong&gt; by vinhnx | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49070985&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49070985</guid>
+      <pubDate>Mon, 27 Jul 2026 15:23:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[240 pts] Apple Will 'Watch Everything Burn' When the AI Bubble Bursts</title>
+      <link>https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/</link>
+      <description>&lt;p&gt;&lt;strong&gt;240 points&lt;/strong&gt; by thm | &lt;strong&gt;318 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49070427&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49070427</guid>
+      <pubDate>Mon, 27 Jul 2026 14:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[225 pts] Paged Out #9 [pdf]</title>
+      <link>https://pagedout.institute/download/PagedOut_009.pdf</link>
+      <description>&lt;p&gt;&lt;strong&gt;225 points&lt;/strong&gt; by laurensr | &lt;strong&gt;25 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49070138&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49070138</guid>
+      <pubDate>Mon, 27 Jul 2026 14:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[267 pts] AI companies spend record sums on Washington lobbying</title>
+      <link>https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db</link>
+      <description>&lt;p&gt;&lt;strong&gt;267 points&lt;/strong&gt; by 1vuio0pswjnm7 | &lt;strong&gt;141 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49069939&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49069939</guid>
+      <pubDate>Mon, 27 Jul 2026 14:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[233 pts] Should you wash your solar panels?</title>
+      <link>https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;233 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;231 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49069132&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49069132</guid>
+      <pubDate>Mon, 27 Jul 2026 13:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[767 pts] AI companies are shredding rare books</title>
+      <link>https://twitter.com/HedgieMarkets/status/2081534588485296565</link>
+      <description>&lt;p&gt;&lt;strong&gt;767 points&lt;/strong&gt; by anon373839 | &lt;strong&gt;484 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49068738&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49068738</guid>
+      <pubDate>Mon, 27 Jul 2026 12:32:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[467 pts] How is the Bun rewrite in Rust going?</title>
+      <link>https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;467 points&lt;/strong&gt; by tomlockwood | &lt;strong&gt;368 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49067854&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49067854</guid>
+      <pubDate>Mon, 27 Jul 2026 11:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[241 pts] Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)</title>
+      <link>https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/</link>
+      <description>&lt;p&gt;&lt;strong&gt;241 points&lt;/strong&gt; by Ralfp | &lt;strong&gt;176 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49067301&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49067301</guid>
+      <pubDate>Mon, 27 Jul 2026 09:58:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[190 pts] Why I Left Google DeepMind</title>
+      <link>https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind</link>
+      <description>&lt;p&gt;&lt;strong&gt;190 points&lt;/strong&gt; by eatitraw | &lt;strong&gt;54 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49067285&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49067285</guid>
+      <pubDate>Mon, 27 Jul 2026 09:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[209 pts] Chinese chipmaker shares surge 470%</title>
+      <link>https://www.bbc.com/news/articles/c9q9w3x9qn2o</link>
+      <description>&lt;p&gt;&lt;strong&gt;209 points&lt;/strong&gt; by pingou | &lt;strong&gt;181 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49066962&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49066962</guid>
+      <pubDate>Mon, 27 Jul 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1336 pts] Kimi-K3 on HuggingFace</title>
+      <link>https://huggingface.co/moonshotai/Kimi-K3</link>
+      <description>&lt;p&gt;&lt;strong&gt;1336 points&lt;/strong&gt; by nateb2022 | &lt;strong&gt;527 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49065752&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49065752</guid>
+      <pubDate>Mon, 27 Jul 2026 06:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[904 pts] PGSimCity - How PostgreSQL Works</title>
+      <link>https://nikolays.github.io/PGSimCity/</link>
+      <description>&lt;p&gt;&lt;strong&gt;904 points&lt;/strong&gt; by jonbaer | &lt;strong&gt;89 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49063754&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49063754</guid>
+      <pubDate>Mon, 27 Jul 2026 00:19:04 +0000</pubDate>
+    </item>
     <item>
       <title>[748 pts] US citizen charged after GrapheneOS phone wipes during airport search</title>
       <link>https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html</link>
@@ -12638,158 +12798,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47945707&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47945707</guid>
       <pubDate>Wed, 29 Apr 2026 08:43:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[645 pts] Bugs Rust won't catch</title>
-      <link>https://corrode.dev/blog/bugs-rust-wont-catch/</link>
-      <description>&lt;p&gt;&lt;strong&gt;645 points&lt;/strong&gt; by lwhsiao | &lt;strong&gt;352 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47943499&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47943499</guid>
-      <pubDate>Wed, 29 Apr 2026 02:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[292 pts] How ChatGPT serves ads</title>
-      <link>https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</link>
-      <description>&lt;p&gt;&lt;strong&gt;292 points&lt;/strong&gt; by lmbbuchodi | &lt;strong&gt;197 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47942437&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47942437</guid>
-      <pubDate>Tue, 28 Apr 2026 23:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[432 pts] Before GitHub</title>
-      <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
-      <description>&lt;p&gt;&lt;strong&gt;432 points&lt;/strong&gt; by mlex | &lt;strong&gt;121 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47940921&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47940921</guid>
-      <pubDate>Tue, 28 Apr 2026 21:17:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[2410 pts] Ghostty is leaving GitHub</title>
-      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
-      <description>&lt;p&gt;&lt;strong&gt;2410 points&lt;/strong&gt; by WadeGrimridge | &lt;strong&gt;713 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47939579&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47939579</guid>
-      <pubDate>Tue, 28 Apr 2026 19:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[267 pts] Waymo in Portland</title>
-      <link>https://waymo.com/blog/shorts/waymo-in-portland/</link>
-      <description>&lt;p&gt;&lt;strong&gt;267 points&lt;/strong&gt; by xnx | &lt;strong&gt;476 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47938184&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47938184</guid>
-      <pubDate>Tue, 28 Apr 2026 18:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[282 pts] Claude.ai unavailable and elevated errors on the API</title>
-      <link>https://status.claude.com/incidents/9l93x2ht4s5w</link>
-      <description>&lt;p&gt;&lt;strong&gt;282 points&lt;/strong&gt; by shorsher | &lt;strong&gt;244 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47938097&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47938097</guid>
-      <pubDate>Tue, 28 Apr 2026 18:01:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[330 pts] GitHub RCE Vulnerability: CVE-2026-3854 Breakdown</title>
-      <link>https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</link>
-      <description>&lt;p&gt;&lt;strong&gt;330 points&lt;/strong&gt; by bo0tzz | &lt;strong&gt;75 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47936479&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47936479</guid>
-      <pubDate>Tue, 28 Apr 2026 16:15:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[248 pts] Anthropic Joins the Blender Development Fund as Corporate Patron</title>
-      <link>https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/</link>
-      <description>&lt;p&gt;&lt;strong&gt;248 points&lt;/strong&gt; by Philpax | &lt;strong&gt;198 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47936370&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47936370</guid>
-      <pubDate>Tue, 28 Apr 2026 16:07:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[249 pts] Warp is now open-source</title>
-      <link>https://www.warp.dev/blog/warp-is-now-open-source</link>
-      <description>&lt;p&gt;&lt;strong&gt;249 points&lt;/strong&gt; by meetpateltech | &lt;strong&gt;69 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47936264&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47936264</guid>
-      <pubDate>Tue, 28 Apr 2026 15:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[289 pts] Google and Pentagon reportedly agree on deal for 'any lawful' use of AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal</link>
-      <description>&lt;p&gt;&lt;strong&gt;289 points&lt;/strong&gt; by granzymes | &lt;strong&gt;264 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47936156&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47936156</guid>
-      <pubDate>Tue, 28 Apr 2026 15:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[1294 pts] Your phone is about to stop being yours</title>
-      <link>https://keepandroidopen.org/en/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1294 points&lt;/strong&gt; by doener | &lt;strong&gt;589 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47935853&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47935853</guid>
-      <pubDate>Tue, 28 Apr 2026 15:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[280 pts] OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership</title>
-      <link>https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/</link>
-      <description>&lt;p&gt;&lt;strong&gt;280 points&lt;/strong&gt; by BoggleOhYeah | &lt;strong&gt;107 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47934269&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47934269</guid>
-      <pubDate>Tue, 28 Apr 2026 13:26:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[321 pts] UAE Leaves OPEC</title>
-      <link>https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/</link>
-      <description>&lt;p&gt;&lt;strong&gt;321 points&lt;/strong&gt; by TechTechTech | &lt;strong&gt;2 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47934120&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47934120</guid>
-      <pubDate>Tue, 28 Apr 2026 13:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[402 pts] UAE to leave OPEC</title>
-      <link>https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d</link>
-      <description>&lt;p&gt;&lt;strong&gt;402 points&lt;/strong&gt; by bazzmt | &lt;strong&gt;539 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47933983&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47933983</guid>
-      <pubDate>Tue, 28 Apr 2026 13:02:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[350 pts] VibeVoice: Open-source frontier voice AI</title>
-      <link>https://github.com/microsoft/VibeVoice</link>
-      <description>&lt;p&gt;&lt;strong&gt;350 points&lt;/strong&gt; by tosh | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47933236&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47933236</guid>
-      <pubDate>Tue, 28 Apr 2026 11:56:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[820 pts] Localsend: An open-source cross-platform alternative to AirDrop</title>
-      <link>https://github.com/localsend/localsend</link>
-      <description>&lt;p&gt;&lt;strong&gt;820 points&lt;/strong&gt; by bilsbie | &lt;strong&gt;248 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47933208&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47933208</guid>
-      <pubDate>Tue, 28 Apr 2026 11:54:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[353 pts] Period tracking app, Flo, found to be selling user data to Meta</title>
-      <link>https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been</link>
-      <description>&lt;p&gt;&lt;strong&gt;353 points&lt;/strong&gt; by campuscodi | &lt;strong&gt;233 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47932990&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47932990</guid>
-      <pubDate>Tue, 28 Apr 2026 11:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[365 pts] Who owns the code Claude Code wrote?</title>
-      <link>https://legallayer.substack.com/p/who-owns-the-claude-code-wrote</link>
-      <description>&lt;p&gt;&lt;strong&gt;365 points&lt;/strong&gt; by senaevren | &lt;strong&gt;365 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47932937&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47932937</guid>
-      <pubDate>Tue, 28 Apr 2026 11:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[369 pts] An update on GitHub availability</title>
-      <link>https://github.blog/news-insights/company-news/an-update-on-github-availability/</link>
-      <description>&lt;p&gt;&lt;strong&gt;369 points&lt;/strong&gt; by salkahfi | &lt;strong&gt;228 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47932422&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47932422</guid>
-      <pubDate>Tue, 28 Apr 2026 10:05:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
