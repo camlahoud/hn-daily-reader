@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "47949027",
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "points": 1799,
-      "author": "salkahfi",
-      "created_at": 1777473259,
-      "num_comments": 580,
-      "hn_url": "https://news.ycombinator.com/item?id=47949027"
-    },
-    {
-      "id": "47952722",
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "points": 1103,
-      "author": "homebrewer",
-      "created_at": 1777488871,
-      "num_comments": 469,
-      "hn_url": "https://news.ycombinator.com/item?id=47952722"
-    },
-    {
-      "id": "47952181",
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "points": 895,
-      "author": "unsnap_biceps",
-      "created_at": 1777486433,
-      "num_comments": 333,
-      "hn_url": "https://news.ycombinator.com/item?id=47952181"
-    },
-    {
-      "id": "47949939",
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "points": 887,
-      "author": "bpierre",
-      "created_at": 1777477183,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=47949939"
-    },
-    {
-      "id": "47950091",
-      "title": "Online age verification is the hill to die on",
-      "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "points": 879,
-      "author": "Cider9986",
-      "created_at": 1777477797,
-      "num_comments": 588,
-      "hn_url": "https://news.ycombinator.com/item?id=47950091"
-    },
-    {
-      "id": "47948603",
-      "title": "We need a federation of forges",
-      "url": "https://blog.tangled.org/federation/",
-      "points": 563,
-      "author": "icy",
-      "created_at": 1777471259,
-      "num_comments": 353,
-      "hn_url": "https://news.ycombinator.com/item?id=47948603"
-    },
-    {
-      "id": "47945918",
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "points": 538,
-      "author": "e12e",
-      "created_at": 1777454077,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=47945918"
-    },
-    {
-      "id": "47949642",
-      "title": "Mistral Medium 3.5",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "points": 458,
-      "author": "meetpateltech",
-      "created_at": 1777475866,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=47949642"
-    },
-    {
-      "id": "47946958",
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "points": 400,
-      "author": "terminalbraid",
-      "created_at": 1777462966,
-      "num_comments": 227,
-      "hn_url": "https://news.ycombinator.com/item?id=47946958"
-    },
-    {
-      "id": "47950510",
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "points": 330,
-      "author": "agwa",
-      "created_at": 1777479399,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=47950510"
-    },
-    {
-      "id": "47953275",
-      "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-      "url": "https://jivx.com/kyoto-bloom",
-      "points": 321,
-      "author": "momentmaker",
-      "created_at": 1777491156,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=47953275"
-    },
-    {
-      "id": "47951007",
-      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-      "points": 294,
-      "author": "01-_-",
-      "created_at": 1777481401,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=47951007"
-    },
-    {
-      "id": "47949750",
-      "title": "Why AI companies want you to be afraid of them",
-      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-      "points": 276,
-      "author": "rolph",
-      "created_at": 1777476361,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=47949750"
-    },
-    {
-      "id": "47951137",
-      "title": "Laws of UX",
-      "url": "https://lawsofux.com/",
-      "points": 257,
-      "author": "bobbiechen",
-      "created_at": 1777481893,
-      "num_comments": 36,
-      "hn_url": "https://news.ycombinator.com/item?id=47951137"
-    },
-    {
-      "id": "47950022",
-      "title": "Third editor fired in Elsevier\u2019s citation cartel crackdown",
-      "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
-      "points": 251,
-      "author": "RigbyTaro",
-      "created_at": 1777477525,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=47950022"
-    },
-    {
-      "id": "47949204",
-      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
-      "url": "https://github.com/GliaX/Stethoscope",
-      "points": 244,
-      "author": "0x54MUR41",
-      "created_at": 1777474051,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=47949204"
-    },
-    {
-      "id": "47953541",
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
-      "points": 239,
-      "author": "moooo99",
-      "created_at": 1777492170,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=47953541"
-    },
-    {
-      "id": "47947490",
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-      "points": 237,
-      "author": "sarusso",
-      "created_at": 1777466330,
-      "num_comments": 296,
-      "hn_url": "https://news.ycombinator.com/item?id=47947490"
-    },
-    {
-      "id": "47945707",
-      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "points": 217,
-      "author": "jjba23",
-      "created_at": 1777452197,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=47945707"
-    },
-    {
       "id": "47963204",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
@@ -201,16 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47963204"
     },
     {
-      "id": "47957688",
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "points": 1030,
-      "author": "ilreb",
-      "created_at": 1777519264,
-      "num_comments": 631,
-      "hn_url": "https://news.ycombinator.com/item?id=47957688"
-    },
-    {
       "id": "47961319",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
@@ -219,26 +19,6 @@
       "created_at": 1777551434,
       "num_comments": 805,
       "hn_url": "https://news.ycombinator.com/item?id=47961319"
-    },
-    {
-      "id": "47957294",
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "points": 652,
-      "author": "lumpa",
-      "created_at": 1777515347,
-      "num_comments": 433,
-      "hn_url": "https://news.ycombinator.com/item?id=47957294"
-    },
-    {
-      "id": "47959463",
-      "title": "Mozilla's opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "points": 614,
-      "author": "jaffathecake",
-      "created_at": 1777535035,
-      "num_comments": 221,
-      "hn_url": "https://news.ycombinator.com/item?id=47959463"
     },
     {
       "id": "47967786",
@@ -319,16 +99,6 @@
       "created_at": 1777565366,
       "num_comments": 133,
       "hn_url": "https://news.ycombinator.com/item?id=47964617"
-    },
-    {
-      "id": "47957101",
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "points": 331,
-      "author": "rdl",
-      "created_at": 1777513496,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=47957101"
     },
     {
       "id": "47967289",
@@ -15989,7 +15759,207 @@
       "created_at": 1785146197,
       "num_comments": 54,
       "hn_url": "https://news.ycombinator.com/item?id=49067285"
+    },
+    {
+      "id": "49080664",
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "points": 788,
+      "author": "krembo",
+      "created_at": 1785224664,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=49080664"
+    },
+    {
+      "id": "49083314",
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "points": 625,
+      "author": "codebyaditya",
+      "created_at": 1785244321,
+      "num_comments": 270,
+      "hn_url": "https://news.ycombinator.com/item?id=49083314"
+    },
+    {
+      "id": "49084938",
+      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+      "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+      "points": 592,
+      "author": "doener",
+      "created_at": 1785250695,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=49084938"
+    },
+    {
+      "id": "49086788",
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "points": 517,
+      "author": "speckx",
+      "created_at": 1785257911,
+      "num_comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=49086788"
+    },
+    {
+      "id": "49089755",
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "points": 487,
+      "author": "bakigul",
+      "created_at": 1785271975,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=49089755"
+    },
+    {
+      "id": "49085698",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "points": 404,
+      "author": "ModelForge",
+      "created_at": 1785253714,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=49085698"
+    },
+    {
+      "id": "49078454",
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "points": 318,
+      "author": "ilreb",
+      "created_at": 1785205133,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=49078454"
+    },
+    {
+      "id": "49078583",
+      "title": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "points": 311,
+      "author": "msaltz",
+      "created_at": 1785206234,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=49078583"
+    },
+    {
+      "id": "49082022",
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "points": 296,
+      "author": "ronfriedhaber",
+      "created_at": 1785235950,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=49082022"
+    },
+    {
+      "id": "49085731",
+      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "points": 291,
+      "author": "speerer",
+      "created_at": 1785253838,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=49085731"
+    },
+    {
+      "id": "49090607",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "points": 291,
+      "author": "twalichiewicz",
+      "created_at": 1785276546,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49090607"
+    },
+    {
+      "id": "49085909",
+      "title": "A walk through of the DeltaNet family of linear attention variants",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "points": 290,
+      "author": "AnhTho_FR",
+      "created_at": 1785254527,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=49085909"
+    },
+    {
+      "id": "49088148",
+      "title": "Deflock Casa Grande",
+      "url": "https://deflockcg.com/",
+      "points": 254,
+      "author": "mooreds",
+      "created_at": 1785264108,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=49088148"
+    },
+    {
+      "id": "49088451",
+      "title": "Donate to GrapheneOS",
+      "url": "https://grapheneos.org/donate",
+      "points": 242,
+      "author": "charliebwrites",
+      "created_at": 1785265570,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49088451"
+    },
+    {
+      "id": "49085666",
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "points": 233,
+      "author": "garyhtou",
+      "created_at": 1785253605,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=49085666"
+    },
+    {
+      "id": "49086971",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "points": 227,
+      "author": "tmtvl",
+      "created_at": 1785258714,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=49086971"
+    },
+    {
+      "id": "49089814",
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "points": 226,
+      "author": "freediver",
+      "created_at": 1785272319,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=49089814"
+    },
+    {
+      "id": "49082857",
+      "title": "I'm 38 and I Can't Support Myself Anymore",
+      "url": "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore",
+      "points": 218,
+      "author": "speckx",
+      "created_at": 1785242047,
+      "num_comments": 388,
+      "hn_url": "https://news.ycombinator.com/item?id=49082857"
+    },
+    {
+      "id": "49087091",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "points": 214,
+      "author": "gslin",
+      "created_at": 1785259336,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=49087091"
+    },
+    {
+      "id": "49081555",
+      "title": "About the security content of macOS Tahoe 26.6",
+      "url": "https://support.apple.com/en-us/128067",
+      "points": 203,
+      "author": "andor",
+      "created_at": 1785231943,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=49081555"
     }
   ],
-  "last_updated": "2026-07-28T08:26:13.966318+00:00"
+  "last_updated": "2026-07-29T08:32:18.477240+00:00"
 }
