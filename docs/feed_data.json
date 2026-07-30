@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47963204",
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "url": "https://twitter.com/theo/status/2049645973350363168",
-      "points": 1122,
-      "author": "elmean",
-      "created_at": 1777559818,
-      "num_comments": 611,
-      "hn_url": "https://news.ycombinator.com/item?id=47963204"
-    },
-    {
-      "id": "47961319",
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "points": 802,
-      "author": "mpweiher",
-      "created_at": 1777551434,
-      "num_comments": 805,
-      "hn_url": "https://news.ycombinator.com/item?id=47961319"
-    },
-    {
-      "id": "47967786",
-      "title": "Can I disable all data collection from my vehicle?",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "points": 611,
-      "author": "Cider9986",
-      "created_at": 1777580842,
-      "num_comments": 246,
-      "hn_url": "https://news.ycombinator.com/item?id=47967786"
-    },
-    {
-      "id": "47965060",
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "points": 569,
-      "author": "the-mitr",
-      "created_at": 1777567260,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=47965060"
-    },
-    {
-      "id": "47961838",
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "points": 494,
-      "author": "gorbachev",
-      "created_at": 1777554462,
-      "num_comments": 397,
-      "hn_url": "https://news.ycombinator.com/item?id=47961838"
-    },
-    {
-      "id": "47964034",
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "points": 477,
-      "author": "akyuu",
-      "created_at": 1777563100,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=47964034"
-    },
-    {
-      "id": "47965108",
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "points": 472,
-      "author": "ori_b",
-      "created_at": 1777567427,
-      "num_comments": 361,
-      "hn_url": "https://news.ycombinator.com/item?id=47965108"
-    },
-    {
-      "id": "47967262",
-      "title": "LinkedIn is scanning browser extensions",
-      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-      "points": 420,
-      "author": "un-nf",
-      "created_at": 1777578020,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=47967262"
-    },
-    {
-      "id": "47962548",
-      "title": "How an oil refinery works",
-      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "points": 407,
-      "author": "chmaynard",
-      "created_at": 1777557260,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=47962548"
-    },
-    {
-      "id": "47964617",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "points": 387,
-      "author": "j12y",
-      "created_at": 1777565366,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=47964617"
-    },
-    {
-      "id": "47967289",
-      "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
-      "url": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
-      "points": 295,
-      "author": "kamaraju",
-      "created_at": 1777578153,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=47967289"
-    },
-    {
-      "id": "47961004",
-      "title": "GCC 16 has been released",
-      "url": "https://gcc.gnu.org/gcc-16/changes.html",
-      "points": 292,
-      "author": "HeliumHydride",
-      "created_at": 1777549213,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=47961004"
-    },
-    {
-      "id": "47960507",
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "points": 288,
-      "author": "steveharing1",
-      "created_at": 1777545077,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=47960507"
-    },
-    {
-      "id": "47961378",
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "url": "https://bidprowl.com",
-      "points": 275,
-      "author": "scarsam",
-      "created_at": 1777551893,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=47961378"
-    },
-    {
-      "id": "47965503",
-      "title": "I built a Game Boy emulator in F#",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "points": 267,
-      "author": "elvis70",
-      "created_at": 1777569261,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=47965503"
-    },
-    {
-      "id": "47963316",
-      "title": "Honker \u2013 Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
-      "url": "https://honker.dev/",
-      "points": 212,
-      "author": "ferriswil",
-      "created_at": 1777560182,
-      "num_comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=47963316"
-    },
-    {
       "id": "47977134",
       "title": "The gay jailbreak technique (2025)",
       "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
@@ -311,16 +151,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47979839"
     },
     {
-      "id": "47970622",
-      "title": "OpenWarp",
-      "url": "https://openwarp.zerx.dev",
-      "points": 196,
-      "author": "zero-lab",
-      "created_at": 1777601446,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47970622"
-    },
-    {
       "id": "47977450",
       "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
       "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
@@ -339,16 +169,6 @@
       "created_at": 1777656889,
       "num_comments": 167,
       "hn_url": "https://news.ycombinator.com/item?id=47977583"
-    },
-    {
-      "id": "47972213",
-      "title": "Canonical/Ubuntu have been under DDoS",
-      "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-      "points": 172,
-      "author": "jtlebigot",
-      "created_at": 1777621457,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=47972213"
     },
     {
       "id": "47976566",
@@ -15959,7 +15779,207 @@
       "created_at": 1785231943,
       "num_comments": 135,
       "hn_url": "https://news.ycombinator.com/item?id=49081555"
+    },
+    {
+      "id": "49098510",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "points": 770,
+      "author": "gitpusher42",
+      "created_at": 1785337543,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=49098510"
+    },
+    {
+      "id": "49095865",
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
+      "points": 706,
+      "author": "Cider9986",
+      "created_at": 1785323108,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=49095865"
+    },
+    {
+      "id": "49098965",
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "points": 669,
+      "author": "yan",
+      "created_at": 1785339693,
+      "num_comments": 405,
+      "hn_url": "https://news.ycombinator.com/item?id=49098965"
+    },
+    {
+      "id": "49102774",
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "points": 621,
+      "author": "robbiet480",
+      "created_at": 1785357580,
+      "num_comments": 245,
+      "hn_url": "https://news.ycombinator.com/item?id=49102774"
+    },
+    {
+      "id": "49103285",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "points": 418,
+      "author": "YeGoblynQueenne",
+      "created_at": 1785360340,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=49103285"
+    },
+    {
+      "id": "49101852",
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "points": 417,
+      "author": "monneyboi",
+      "created_at": 1785353133,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=49101852"
+    },
+    {
+      "id": "49093434",
+      "title": "User Interfaces of the Demo Scene",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "points": 416,
+      "author": "zdw",
+      "created_at": 1785299436,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49093434"
+    },
+    {
+      "id": "49093569",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "points": 398,
+      "author": "Error6571",
+      "created_at": 1785301126,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49093569"
+    },
+    {
+      "id": "49096188",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "points": 363,
+      "author": "Canopy9560",
+      "created_at": 1785325473,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=49096188"
+    },
+    {
+      "id": "49099715",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "points": 363,
+      "author": "JLO64",
+      "created_at": 1785343019,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=49099715"
+    },
+    {
+      "id": "49096654",
+      "title": "Darktable",
+      "url": "https://www.darktable.org/",
+      "points": 338,
+      "author": "siatko",
+      "created_at": 1785328382,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=49096654"
+    },
+    {
+      "id": "49096290",
+      "title": "French musician Kavinsky found dead",
+      "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+      "points": 330,
+      "author": "bristleworm",
+      "created_at": 1785326077,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=49096290"
+    },
+    {
+      "id": "49096969",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "points": 314,
+      "author": "spIrr",
+      "created_at": 1785330117,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=49096969"
+    },
+    {
+      "id": "49098198",
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "points": 276,
+      "author": "thm",
+      "created_at": 1785336227,
+      "num_comments": 332,
+      "hn_url": "https://news.ycombinator.com/item?id=49098198"
+    },
+    {
+      "id": "49102150",
+      "title": "Claude: Elevated errors across all models \u2013 Resolved",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "points": 262,
+      "author": "gregsadetsky",
+      "created_at": 1785354642,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=49102150"
+    },
+    {
+      "id": "49092499",
+      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+      "url": "https://learnvector.ai/",
+      "points": 259,
+      "author": "ajhai",
+      "created_at": 1785289759,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=49092499"
+    },
+    {
+      "id": "49094346",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "points": 241,
+      "author": "ankitg12",
+      "created_at": 1785309504,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49094346"
+    },
+    {
+      "id": "49104117",
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "points": 216,
+      "author": "8thom",
+      "created_at": 1785365463,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=49104117"
+    },
+    {
+      "id": "49104335",
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "points": 205,
+      "author": "msephton",
+      "created_at": 1785367091,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49104335"
+    },
+    {
+      "id": "49100043",
+      "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
+      "url": "https://cheapfoodmap.com/",
+      "points": 192,
+      "author": "jaep1",
+      "created_at": 1785344392,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=49100043"
     }
   ],
-  "last_updated": "2026-07-29T08:32:18.477240+00:00"
+  "last_updated": "2026-07-30T08:17:19.182657+00:00"
 }
