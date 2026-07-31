@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "47977134",
-      "title": "The gay jailbreak technique (2025)",
-      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "points": 487,
-      "author": "bobsmooth",
-      "created_at": 1777654775,
-      "num_comments": 199,
-      "hn_url": "https://news.ycombinator.com/item?id=47977134"
-    },
-    {
-      "id": "47972511",
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "points": 484,
-      "author": "sleepingNomad",
-      "created_at": 1777625025,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47972511"
-    },
-    {
-      "id": "47979583",
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "points": 419,
-      "author": "thatxliner",
-      "created_at": 1777666019,
-      "num_comments": 368,
-      "hn_url": "https://news.ycombinator.com/item?id=47979583"
-    },
-    {
-      "id": "47972447",
-      "title": "Grok 4.3",
-      "url": "https://docs.x.ai/developers/models/grok-4.3",
-      "points": 386,
-      "author": "simianwords",
-      "created_at": 1777624171,
-      "num_comments": 515,
-      "hn_url": "https://news.ycombinator.com/item?id=47972447"
-    },
-    {
-      "id": "47978370",
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "points": 384,
-      "author": "joshcsimmons",
-      "created_at": 1777660667,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47978370"
-    },
-    {
-      "id": "47976415",
-      "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "points": 377,
-      "author": "lwhsiao",
-      "created_at": 1777651733,
-      "num_comments": 445,
-      "hn_url": "https://news.ycombinator.com/item?id=47976415"
-    },
-    {
-      "id": "47977383",
-      "title": "AI uses less water than the public thinks",
-      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-      "points": 371,
-      "author": "hirpslop",
-      "created_at": 1777655938,
-      "num_comments": 336,
-      "hn_url": "https://news.ycombinator.com/item?id=47977383"
-    },
-    {
-      "id": "47973378",
-      "title": "Apple accidentally left Claude.md files Apple Support app",
-      "url": "https://x.com/aaronp613/status/2049986504617820551",
-      "points": 371,
-      "author": "andruby",
-      "created_at": 1777633712,
-      "num_comments": 306,
-      "hn_url": "https://news.ycombinator.com/item?id=47973378"
-    },
-    {
-      "id": "47977748",
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "points": 316,
-      "author": "XzetaU8",
-      "created_at": 1777657662,
-      "num_comments": 180,
-      "hn_url": "https://news.ycombinator.com/item?id=47977748"
-    },
-    {
-      "id": "47975571",
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "points": 255,
-      "author": "whoishiring",
-      "created_at": 1777647607,
-      "num_comments": 270,
-      "hn_url": "https://news.ycombinator.com/item?id=47975571"
-    },
-    {
-      "id": "47976529",
-      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
-      "url": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
-      "points": 248,
-      "author": "loteck",
-      "created_at": 1777652275,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=47976529"
-    },
-    {
-      "id": "47973376",
-      "title": "Your website is not for you",
-      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "points": 247,
-      "author": "pumbaa",
-      "created_at": 1777633700,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=47973376"
-    },
-    {
-      "id": "47976856",
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "points": 234,
-      "author": "reconnecting",
-      "created_at": 1777653761,
-      "num_comments": 261,
-      "hn_url": "https://news.ycombinator.com/item?id=47976856"
-    },
-    {
-      "id": "47975785",
-      "title": "An open letter asking NHS England to keep its code open",
-      "url": "https://keepthingsopen.com",
-      "points": 233,
-      "author": "tvararu",
-      "created_at": 1777648536,
-      "num_comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=47975785"
-    },
-    {
-      "id": "47979839",
-      "title": "Credit cards are vulnerable to brute force kind attacks",
-      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "points": 215,
-      "author": "kodbraker",
-      "created_at": 1777667184,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=47979839"
-    },
-    {
-      "id": "47977450",
-      "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
-      "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
-      "points": 182,
-      "author": "johnbarron",
-      "created_at": 1777656336,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=47977450"
-    },
-    {
-      "id": "47977583",
-      "title": "The X-Files has made me nostalgic for a time I never experienced",
-      "url": "https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic",
-      "points": 181,
-      "author": "Teever",
-      "created_at": 1777656889,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=47977583"
-    },
-    {
-      "id": "47976566",
-      "title": "Apocalypse Early Warning System",
-      "url": "https://ews.kylemcdonald.net/",
-      "points": 160,
-      "author": "carlsborg",
-      "created_at": 1777652483,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47976566"
-    },
-    {
       "id": "47989883",
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
@@ -191,16 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47989883"
     },
     {
-      "id": "47983352",
-      "title": "Why does it take so long to release black fan versions?",
-      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "points": 720,
-      "author": "buildbot",
-      "created_at": 1777696684,
-      "num_comments": 292,
-      "hn_url": "https://news.ycombinator.com/item?id=47983352"
-    },
-    {
       "id": "47988504",
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
@@ -209,16 +19,6 @@
       "created_at": 1777743149,
       "num_comments": 122,
       "hn_url": "https://news.ycombinator.com/item?id=47988504"
-    },
-    {
-      "id": "47983226",
-      "title": "Ask.com has closed",
-      "url": "https://www.ask.com/",
-      "points": 450,
-      "author": "supermdguy",
-      "created_at": 1777695155,
-      "num_comments": 222,
-      "hn_url": "https://news.ycombinator.com/item?id=47983226"
     },
     {
       "id": "47988776",
@@ -321,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=47988261"
     },
     {
-      "id": "47982512",
-      "title": "Job Postings for Software Engineers Are Rapidly Rising",
-      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-      "points": 226,
-      "author": "delichon",
-      "created_at": 1777686384,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=47982512"
-    },
-    {
       "id": "47991350",
       "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
       "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
@@ -339,16 +129,6 @@
       "created_at": 1777761923,
       "num_comments": 98,
       "hn_url": "https://news.ycombinator.com/item?id=47991350"
-    },
-    {
-      "id": "47984522",
-      "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "points": 199,
-      "author": "ankitg12",
-      "created_at": 1777710203,
-      "num_comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=47984522"
     },
     {
       "id": "47985750",
@@ -15979,7 +15759,207 @@
       "created_at": 1785344392,
       "num_comments": 189,
       "hn_url": "https://news.ycombinator.com/item?id=49100043"
+    },
+    {
+      "id": "49113929",
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "points": 997,
+      "author": "dickfickling",
+      "created_at": 1785436852,
+      "num_comments": 535,
+      "hn_url": "https://news.ycombinator.com/item?id=49113929"
+    },
+    {
+      "id": "49112744",
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "points": 700,
+      "author": "speckx",
+      "created_at": 1785431093,
+      "num_comments": 398,
+      "hn_url": "https://news.ycombinator.com/item?id=49112744"
+    },
+    {
+      "id": "49112232",
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "points": 628,
+      "author": "tomzorz",
+      "created_at": 1785428776,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=49112232"
+    },
+    {
+      "id": "49112867",
+      "title": "Advancing the price-performance frontier with GPT\u20115.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "points": 570,
+      "author": "tedsanders",
+      "created_at": 1785431751,
+      "num_comments": 370,
+      "hn_url": "https://news.ycombinator.com/item?id=49112867"
+    },
+    {
+      "id": "49111237",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "points": 551,
+      "author": "ai2027",
+      "created_at": 1785424548,
+      "num_comments": 438,
+      "hn_url": "https://news.ycombinator.com/item?id=49111237"
+    },
+    {
+      "id": "49109440",
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://remysharp.com/links/2026-07-23-35890312",
+      "points": 429,
+      "author": "speckx",
+      "created_at": 1785416607,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=49109440"
+    },
+    {
+      "id": "49107950",
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "points": 399,
+      "author": "dmantis",
+      "created_at": 1785406426,
+      "num_comments": 476,
+      "hn_url": "https://news.ycombinator.com/item?id=49107950"
+    },
+    {
+      "id": "49113059",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "points": 362,
+      "author": "Areibman",
+      "created_at": 1785432667,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=49113059"
+    },
+    {
+      "id": "49114639",
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "points": 300,
+      "author": "navs",
+      "created_at": 1785440067,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=49114639"
+    },
+    {
+      "id": "49117099",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "points": 298,
+      "author": "montroser",
+      "created_at": 1785453736,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=49117099"
+    },
+    {
+      "id": "49108685",
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "points": 286,
+      "author": "arto",
+      "created_at": 1785411944,
+      "num_comments": 314,
+      "hn_url": "https://news.ycombinator.com/item?id=49108685"
+    },
+    {
+      "id": "49107246",
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "points": 241,
+      "author": "alberto-m",
+      "created_at": 1785399033,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=49107246"
+    },
+    {
+      "id": "49111176",
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "points": 233,
+      "author": "javaeeeee",
+      "created_at": 1785424227,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49111176"
+    },
+    {
+      "id": "49111305",
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "points": 213,
+      "author": "ibobev",
+      "created_at": 1785424966,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49111305"
+    },
+    {
+      "id": "49109616",
+      "title": "Upper stage impacting the moon on 2026 August 5",
+      "url": "https://www.projectpluto.com/25010d.htm",
+      "points": 204,
+      "author": "ryannevius",
+      "created_at": 1785417694,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49109616"
+    },
+    {
+      "id": "49104937",
+      "title": "Logic for Programmers",
+      "url": "https://logicforprogrammers.com/",
+      "points": 197,
+      "author": "_doctor_love",
+      "created_at": 1785372699,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=49104937"
+    },
+    {
+      "id": "49109193",
+      "title": "Why is everyone trying to build a solid-state battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "points": 192,
+      "author": "crescit_eundo",
+      "created_at": 1785415131,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=49109193"
+    },
+    {
+      "id": "49116721",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "points": 181,
+      "author": "volumes94",
+      "created_at": 1785450791,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49116721"
+    },
+    {
+      "id": "49116922",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "points": 177,
+      "author": "surprisetalk",
+      "created_at": 1785452451,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49116922"
+    },
+    {
+      "id": "49110085",
+      "title": "Europe's fires are just the start",
+      "url": "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start",
+      "points": 167,
+      "author": "andsoitis",
+      "created_at": 1785419709,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=49110085"
     }
   ],
-  "last_updated": "2026-07-30T08:17:19.182657+00:00"
+  "last_updated": "2026-07-31T08:42:27.428163+00:00"
 }
