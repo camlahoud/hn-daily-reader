@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "47989883",
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "url": "https://github.com/microsoft/vscode/pull/310226",
-      "points": 1105,
-      "author": "indrora",
-      "created_at": 1777751846,
-      "num_comments": 524,
-      "hn_url": "https://news.ycombinator.com/item?id=47989883"
-    },
-    {
-      "id": "47988504",
-      "title": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "points": 451,
-      "author": "dabinat",
-      "created_at": 1777743149,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=47988504"
-    },
-    {
-      "id": "47988776",
-      "title": "NetHack 5.0.0",
-      "url": "https://nethack.org/v500/release.html",
-      "points": 437,
-      "author": "rsaarelm",
-      "created_at": 1777745022,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=47988776"
-    },
-    {
-      "id": "47987256",
-      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "url": "https://arxiv.org/abs/2509.00462",
-      "points": 323,
-      "author": "laurex",
-      "created_at": 1777735693,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=47987256"
-    },
-    {
-      "id": "47988742",
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "points": 293,
-      "author": "geox",
-      "created_at": 1777744758,
-      "num_comments": 299,
-      "hn_url": "https://news.ycombinator.com/item?id=47988742"
-    },
-    {
-      "id": "47988592",
-      "title": "Do_not_track",
-      "url": "https://donottrack.sh/",
-      "points": 291,
-      "author": "RubyGuy",
-      "created_at": 1777743655,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=47988592"
-    },
-    {
-      "id": "47990318",
-      "title": "This Month in Ladybird - April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "points": 284,
-      "author": "richardboegli",
-      "created_at": 1777754790,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=47990318"
-    },
-    {
-      "id": "47990606",
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "points": 266,
-      "author": "valzevul",
-      "created_at": 1777756469,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=47990606"
-    },
-    {
-      "id": "47986083",
-      "title": "Russia Poisons Wikipedia",
-      "url": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
-      "points": 248,
-      "author": "exceptione",
-      "created_at": 1777727270,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=47986083"
-    },
-    {
-      "id": "47984852",
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "points": 243,
-      "author": "moosia",
-      "created_at": 1777714249,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=47984852"
-    },
-    {
-      "id": "47987006",
-      "title": "America's Expanding Domestic Surveillance",
-      "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
-      "points": 242,
-      "author": "Brajeshwar",
-      "created_at": 1777734133,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=47987006"
-    },
-    {
-      "id": "47988261",
-      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
-      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
-      "points": 229,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1777741818,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=47988261"
-    },
-    {
-      "id": "47991350",
-      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
-      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
-      "points": 221,
-      "author": "breve",
-      "created_at": 1777761923,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=47991350"
-    },
-    {
-      "id": "47985750",
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "url": "https://github.com/nexu-io/open-design",
-      "points": 198,
-      "author": "steveharing1",
-      "created_at": 1777724176,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=47985750"
-    },
-    {
-      "id": "47990284",
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "points": 173,
-      "author": "andsoitis",
-      "created_at": 1777754540,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=47990284"
-    },
-    {
-      "id": "47987333",
-      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "points": 132,
-      "author": "nickvec",
-      "created_at": 1777736297,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=47987333"
-    },
-    {
       "id": "47997418",
       "title": "Mercedes-Benz commits to bringing back physical buttons",
       "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
@@ -181,26 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48002136"
     },
     {
-      "id": "47991802",
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "points": 410,
-      "author": "unignorant",
-      "created_at": 1777766474,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=47991802"
-    },
-    {
-      "id": "47991981",
-      "title": "OpenAI\u2019s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "points": 384,
-      "author": "donsupreme",
-      "created_at": 1777768250,
-      "num_comments": 329,
-      "hn_url": "https://news.ycombinator.com/item?id=47991981"
-    },
-    {
       "id": "48000152",
       "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
       "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
@@ -209,16 +29,6 @@
       "created_at": 1777834468,
       "num_comments": 326,
       "hn_url": "https://news.ycombinator.com/item?id=48000152"
-    },
-    {
-      "id": "47993235",
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "points": 361,
-      "author": "bazlightyear",
-      "created_at": 1777781128,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=47993235"
     },
     {
       "id": "47999636",
@@ -271,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48002777"
     },
     {
-      "id": "47994012",
-      "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
-      "url": "https://acai.sh/blog/specsmaxxing",
-      "points": 266,
-      "author": "brendanmc6",
-      "created_at": 1777790018,
-      "num_comments": 279,
-      "hn_url": "https://news.ycombinator.com/item?id=47994012"
-    },
-    {
       "id": "47998790",
       "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
       "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
@@ -299,16 +99,6 @@
       "created_at": 1777827733,
       "num_comments": 73,
       "hn_url": "https://news.ycombinator.com/item?id=47998946"
-    },
-    {
-      "id": "47992349",
-      "title": "Maryland to ban A.I.-driven price increases in grocery stores",
-      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
-      "points": 223,
-      "author": "doener",
-      "created_at": 1777771449,
-      "num_comments": 237,
-      "hn_url": "https://news.ycombinator.com/item?id=47992349"
     },
     {
       "id": "47998225",
@@ -339,26 +129,6 @@
       "created_at": 1777852742,
       "num_comments": 86,
       "hn_url": "https://news.ycombinator.com/item?id=48002938"
-    },
-    {
-      "id": "47992772",
-      "title": "Open source does not imply open community",
-      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-      "points": 185,
-      "author": "RohanAdwankar",
-      "created_at": 1777775769,
-      "num_comments": 84,
-      "hn_url": "https://news.ycombinator.com/item?id=47992772"
-    },
-    {
-      "id": "47992338",
-      "title": "A network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "points": 181,
-      "author": "1659447091",
-      "created_at": 1777771361,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=47992338"
     },
     {
       "id": "48007438",
@@ -15959,7 +15729,207 @@
       "created_at": 1785419709,
       "num_comments": 282,
       "hn_url": "https://news.ycombinator.com/item?id=49110085"
+    },
+    {
+      "id": "49124218",
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "points": 1232,
+      "author": "Jrh0203",
+      "created_at": 1785511048,
+      "num_comments": 295,
+      "hn_url": "https://news.ycombinator.com/item?id=49124218"
+    },
+    {
+      "id": "49118781",
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "points": 749,
+      "author": "apitman",
+      "created_at": 1785469679,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=49118781"
+    },
+    {
+      "id": "49119559",
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "points": 694,
+      "author": "dnhkng",
+      "created_at": 1785478116,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=49119559"
+    },
+    {
+      "id": "49120299",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "points": 553,
+      "author": "theanonymousone",
+      "created_at": 1785484751,
+      "num_comments": 295,
+      "hn_url": "https://news.ycombinator.com/item?id=49120299"
+    },
+    {
+      "id": "49126604",
+      "title": "qm \u2013 Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "points": 547,
+      "author": "tosh",
+      "created_at": 1785521098,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=49126604"
+    },
+    {
+      "id": "49127306",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "points": 538,
+      "author": "bluehatbrit",
+      "created_at": 1785524625,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=49127306"
+    },
+    {
+      "id": "49120097",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "points": 499,
+      "author": "Garbage",
+      "created_at": 1785482962,
+      "num_comments": 517,
+      "hn_url": "https://news.ycombinator.com/item?id=49120097"
+    },
+    {
+      "id": "49121980",
+      "title": "The End of an Era",
+      "url": "https://hughhowey.com/the-end-of-an-era/",
+      "points": 403,
+      "author": "harscoat",
+      "created_at": 1785498706,
+      "num_comments": 426,
+      "hn_url": "https://news.ycombinator.com/item?id=49121980"
+    },
+    {
+      "id": "49125971",
+      "title": "Severance",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "points": 239,
+      "author": "surprisetalk",
+      "created_at": 1785518109,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49125971"
+    },
+    {
+      "id": "49123386",
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "points": 235,
+      "author": "marcobambini",
+      "created_at": 1785507158,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49123386"
+    },
+    {
+      "id": "49119063",
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "points": 230,
+      "author": "mfiguiere",
+      "created_at": 1785472699,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=49119063"
+    },
+    {
+      "id": "49124858",
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "points": 225,
+      "author": "jruohonen",
+      "created_at": 1785513872,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49124858"
+    },
+    {
+      "id": "49119425",
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
+      "url": "https://github.com/mokshablr/gander",
+      "points": 200,
+      "author": "mokshablr",
+      "created_at": 1785476713,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=49119425"
+    },
+    {
+      "id": "49125034",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "points": 184,
+      "author": "speckx",
+      "created_at": 1785514531,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49125034"
+    },
+    {
+      "id": "49124042",
+      "title": "The most official water costs $120k a gallon",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "points": 177,
+      "author": "surprisetalk",
+      "created_at": 1785510015,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=49124042"
+    },
+    {
+      "id": "49118663",
+      "title": "A California aquifer may have crossed the point of no return",
+      "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+      "points": 165,
+      "author": "Jimmc414",
+      "created_at": 1785468456,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=49118663"
+    },
+    {
+      "id": "49124358",
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "points": 158,
+      "author": "retupmoc01",
+      "created_at": 1785511779,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49124358"
+    },
+    {
+      "id": "49120120",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+      "points": 147,
+      "author": "vrganj",
+      "created_at": 1785483190,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=49120120"
+    },
+    {
+      "id": "49121868",
+      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "url": "https://arxiv.org/abs/2607.27197",
+      "points": 147,
+      "author": "rahen",
+      "created_at": 1785497832,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=49121868"
+    },
+    {
+      "id": "49127031",
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "points": 147,
+      "author": "jabits",
+      "created_at": 1785523187,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=49127031"
     }
   ],
-  "last_updated": "2026-07-31T08:42:27.428163+00:00"
+  "last_updated": "2026-08-01T08:12:47.915983+00:00"
 }
