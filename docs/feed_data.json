@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "47997418",
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "points": 686,
-      "author": "teleforce",
-      "created_at": 1777819407,
-      "num_comments": 388,
-      "hn_url": "https://news.ycombinator.com/item?id=47997418"
-    },
-    {
-      "id": "48002136",
-      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "points": 416,
-      "author": "alattaran",
-      "created_at": 1777846400,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=48002136"
-    },
-    {
-      "id": "48000152",
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "points": 374,
-      "author": "dryadin",
-      "created_at": 1777834468,
-      "num_comments": 326,
-      "hn_url": "https://news.ycombinator.com/item?id=48000152"
-    },
-    {
-      "id": "47999636",
-      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "points": 354,
-      "author": "nullagent",
-      "created_at": 1777831394,
-      "num_comments": 114,
-      "hn_url": "https://news.ycombinator.com/item?id=47999636"
-    },
-    {
-      "id": "48002442",
-      "title": "Agentic Coding Is a Trap",
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "points": 345,
-      "author": "ayoisaiah",
-      "created_at": 1777848727,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=48002442"
-    },
-    {
-      "id": "47997947",
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "points": 330,
-      "author": "xngbuilds",
-      "created_at": 1777822325,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=47997947"
-    },
-    {
-      "id": "48000028",
-      "title": "Why TUIs are back",
-      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-      "points": 323,
-      "author": "rickcarlino",
-      "created_at": 1777833748,
-      "num_comments": 336,
-      "hn_url": "https://news.ycombinator.com/item?id=48000028"
-    },
-    {
-      "id": "48002777",
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "points": 316,
-      "author": "bjhess",
-      "created_at": 1777851371,
-      "num_comments": 300,
-      "hn_url": "https://news.ycombinator.com/item?id=48002777"
-    },
-    {
-      "id": "47998790",
-      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
-      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
-      "points": 263,
-      "author": "rishabhd",
-      "created_at": 1777826891,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=47998790"
-    },
-    {
-      "id": "47998946",
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "points": 242,
-      "author": "KatiMichel",
-      "created_at": 1777827733,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=47998946"
-    },
-    {
-      "id": "47998225",
-      "title": "For thirty years I programmed with Phish on, every day",
-      "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
-      "points": 217,
-      "author": "azhenley",
-      "created_at": 1777823759,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=47998225"
-    },
-    {
-      "id": "47997358",
-      "title": "Utah to hold websites liable for users who mask their location with VPNs",
-      "url": "https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law",
-      "points": 216,
-      "author": "GavinAnderegg",
-      "created_at": 1777818974,
-      "num_comments": 249,
-      "hn_url": "https://news.ycombinator.com/item?id=47997358"
-    },
-    {
-      "id": "48002938",
-      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
-      "points": 207,
-      "author": "SpyCoder77",
-      "created_at": 1777852742,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=48002938"
-    },
-    {
       "id": "48007438",
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
@@ -319,16 +189,6 @@
       "created_at": 1777907721,
       "num_comments": 83,
       "hn_url": "https://news.ycombinator.com/item?id=48009747"
-    },
-    {
-      "id": "48004380",
-      "title": "Humanoid Robot Actuators",
-      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-      "points": 167,
-      "author": "ofrzeta",
-      "created_at": 1777866129,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=48004380"
     },
     {
       "id": "48019219",
@@ -15929,7 +15789,207 @@
       "created_at": 1785523187,
       "num_comments": 115,
       "hn_url": "https://news.ycombinator.com/item?id=49127031"
+    },
+    {
+      "id": "49136821",
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "points": 511,
+      "author": "pudgywalsh",
+      "created_at": 1785607627,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49136821"
+    },
+    {
+      "id": "49132058",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "points": 428,
+      "author": "milkshakes",
+      "created_at": 1785569864,
+      "num_comments": 300,
+      "hn_url": "https://news.ycombinator.com/item?id=49132058"
+    },
+    {
+      "id": "49129990",
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "points": 379,
+      "author": "walterbell",
+      "created_at": 1785543900,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=49129990"
+    },
+    {
+      "id": "49135257",
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "points": 323,
+      "author": "EugeneOZ",
+      "created_at": 1785597921,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=49135257"
+    },
+    {
+      "id": "49138188",
+      "title": "Di\u00e1taxis",
+      "url": "https://diataxis.fr/",
+      "points": 315,
+      "author": "ryanseys",
+      "created_at": 1785616407,
+      "num_comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=49138188"
+    },
+    {
+      "id": "49138302",
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "points": 313,
+      "author": "njaremko",
+      "created_at": 1785617112,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=49138302"
+    },
+    {
+      "id": "49139102",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "points": 290,
+      "author": "foxtrot8672",
+      "created_at": 1785623112,
+      "num_comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=49139102"
+    },
+    {
+      "id": "49134694",
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "points": 290,
+      "author": "iamnothere",
+      "created_at": 1785593991,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=49134694"
+    },
+    {
+      "id": "49136736",
+      "title": "NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "points": 272,
+      "author": "jaypatelani",
+      "created_at": 1785607001,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=49136736"
+    },
+    {
+      "id": "49133889",
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "points": 269,
+      "author": "throwaway2037",
+      "created_at": 1785587665,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=49133889"
+    },
+    {
+      "id": "49137681",
+      "title": "Google has abandoned Google News?",
+      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+      "points": 268,
+      "author": "mikelgan",
+      "created_at": 1785613183,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=49137681"
+    },
+    {
+      "id": "49130604",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "points": 262,
+      "author": "vinhnx",
+      "created_at": 1785552309,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=49130604"
+    },
+    {
+      "id": "49132130",
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "points": 255,
+      "author": "smckk",
+      "created_at": 1785570730,
+      "num_comments": 269,
+      "hn_url": "https://news.ycombinator.com/item?id=49132130"
+    },
+    {
+      "id": "49130756",
+      "title": "BMW Spider-Man in-car advertising",
+      "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+      "points": 236,
+      "author": "goplayoutside",
+      "created_at": 1785554712,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=49130756"
+    },
+    {
+      "id": "49132460",
+      "title": "RamenHaus",
+      "url": "https://ramen.haus/",
+      "points": 236,
+      "author": "oler",
+      "created_at": 1785574138,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=49132460"
+    },
+    {
+      "id": "49138045",
+      "title": "The Silicon Valley Founder Meat Grinder",
+      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+      "points": 223,
+      "author": "Kaizeras",
+      "created_at": 1785615658,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=49138045"
+    },
+    {
+      "id": "49134599",
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "points": 221,
+      "author": "0x54MUR41",
+      "created_at": 1785593340,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=49134599"
+    },
+    {
+      "id": "49131367",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "points": 192,
+      "author": "giuliomagnifico",
+      "created_at": 1785562696,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=49131367"
+    },
+    {
+      "id": "49136063",
+      "title": "A directory of people who love RSS",
+      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+      "points": 172,
+      "author": "speckx",
+      "created_at": 1785603161,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49136063"
+    },
+    {
+      "id": "49130726",
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "points": 163,
+      "author": "firefoxd",
+      "created_at": 1785554169,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49130726"
     }
   ],
-  "last_updated": "2026-08-01T08:12:47.915983+00:00"
+  "last_updated": "2026-08-02T08:14:16.343319+00:00"
 }
