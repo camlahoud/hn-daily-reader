@@ -1,216 +1,6 @@
 {
   "posts": [
     {
-      "id": "48007438",
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "points": 1319,
-      "author": "thitran",
-      "created_at": 1777894862,
-      "num_comments": 627,
-      "hn_url": "https://news.ycombinator.com/item?id=48007438"
-    },
-    {
-      "id": "48006402",
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "points": 672,
-      "author": "n1b0m",
-      "created_at": 1777887072,
-      "num_comments": 643,
-      "hn_url": "https://news.ycombinator.com/item?id=48006402"
-    },
-    {
-      "id": "48006445",
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "points": 605,
-      "author": "maxloh",
-      "created_at": 1777887606,
-      "num_comments": 280,
-      "hn_url": "https://news.ycombinator.com/item?id=48006445"
-    },
-    {
-      "id": "48009697",
-      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-      "points": 555,
-      "author": "rdeboo",
-      "created_at": 1777907441,
-      "num_comments": 503,
-      "hn_url": "https://news.ycombinator.com/item?id=48009697"
-    },
-    {
-      "id": "48012735",
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "points": 518,
-      "author": "cft",
-      "created_at": 1777918962,
-      "num_comments": 183,
-      "hn_url": "https://news.ycombinator.com/item?id=48012735"
-    },
-    {
-      "id": "48011689",
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "points": 478,
-      "author": "ZeidJ",
-      "created_at": 1777914996,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=48011689"
-    },
-    {
-      "id": "48011184",
-      "title": "I am worried about Bun",
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "points": 477,
-      "author": "remote-dev",
-      "created_at": 1777913100,
-      "num_comments": 314,
-      "hn_url": "https://news.ycombinator.com/item?id=48011184"
-    },
-    {
-      "id": "48010301",
-      "title": "Incident with Issues and Webhooks \u2013 Resolved",
-      "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
-      "points": 421,
-      "author": "gen220",
-      "created_at": 1777910001,
-      "num_comments": 259,
-      "hn_url": "https://news.ycombinator.com/item?id=48010301"
-    },
-    {
-      "id": "48013919",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "points": 388,
-      "author": "Sean-Der",
-      "created_at": 1777923767,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=48013919"
-    },
-    {
-      "id": "48012022",
-      "title": "Days without GitHub incidents",
-      "url": "https://www.dayswithoutgithubincident.com/",
-      "points": 371,
-      "author": "goalieca",
-      "created_at": 1777916192,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=48012022"
-    },
-    {
-      "id": "48009020",
-      "title": "How Monero\u2019s proof of work works",
-      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "points": 279,
-      "author": "alcazar",
-      "created_at": 1777903850,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=48009020"
-    },
-    {
-      "id": "48009983",
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "url": "https://www.nber.org/papers/w35117",
-      "points": 274,
-      "author": "littlexsparkee",
-      "created_at": 1777908766,
-      "num_comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=48009983"
-    },
-    {
-      "id": "48009172",
-      "title": "Redis array: short story of a long development process",
-      "url": "https://antirez.com/news/164",
-      "points": 274,
-      "author": "antirez",
-      "created_at": 1777904587,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48009172"
-    },
-    {
-      "id": "48008083",
-      "title": "PyInfra 3.8.0",
-      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "points": 266,
-      "author": "wowi42",
-      "created_at": 1777899226,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48008083"
-    },
-    {
-      "id": "48011603",
-      "title": "Stop big tech from making users behave in ways they don't want to",
-      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
-      "points": 265,
-      "author": "andsoitis",
-      "created_at": 1777914657,
-      "num_comments": 168,
-      "hn_url": "https://news.ycombinator.com/item?id=48011603"
-    },
-    {
-      "id": "48012003",
-      "title": "Heat pump sales rise across Europe",
-      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
-      "points": 244,
-      "author": "doener",
-      "created_at": 1777916115,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48012003"
-    },
-    {
-      "id": "48015397",
-      "title": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
-      "points": 232,
-      "author": "BOOSTERHIDROGEN",
-      "created_at": 1777930842,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=48015397"
-    },
-    {
-      "id": "48012162",
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "points": 194,
-      "author": "bearsyankees",
-      "created_at": 1777916792,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=48012162"
-    },
-    {
-      "id": "48009747",
-      "title": "UK Fuel Price Intelligence \u2013 Market analytics from reporting stations",
-      "url": "https://www.fuelinsight.co.uk",
-      "points": 174,
-      "author": "theazureguy",
-      "created_at": 1777907721,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=48009747"
-    },
-    {
-      "id": "48019219",
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "points": 1439,
-      "author": "john-doe",
-      "created_at": 1777966495,
-      "num_comments": 948,
-      "hn_url": "https://news.ycombinator.com/item?id=48019219"
-    },
-    {
-      "id": "48016880",
-      "title": "Zig \u2192 Rust porting guide",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "points": 701,
-      "author": "SergeAx",
-      "created_at": 1777943297,
-      "num_comments": 525,
-      "hn_url": "https://news.ycombinator.com/item?id=48016880"
-    },
-    {
       "id": "48027897",
       "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
       "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
@@ -241,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48022742"
     },
     {
-      "id": "48017948",
-      "title": "Train Your Own LLM from Scratch",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "points": 446,
-      "author": "kristianpaul",
-      "created_at": 1777954157,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=48017948"
-    },
-    {
       "id": "48023861",
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
@@ -259,16 +39,6 @@
       "created_at": 1777994838,
       "num_comments": 307,
       "hn_url": "https://news.ycombinator.com/item?id=48023861"
-    },
-    {
-      "id": "48019163",
-      "title": "Async Rust never left the MVP state",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "points": 434,
-      "author": "pjmlp",
-      "created_at": 1777965963,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=48019163"
     },
     {
       "id": "48021561",
@@ -301,26 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48026207"
     },
     {
-      "id": "48016534",
-      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
-      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-      "points": 375,
-      "author": "gyomu",
-      "created_at": 1777939741,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=48016534"
-    },
-    {
-      "id": "48020063",
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "points": 361,
-      "author": "youngbrioche",
-      "created_at": 1777973422,
-      "num_comments": 235,
-      "hn_url": "https://news.ycombinator.com/item?id=48020063"
-    },
-    {
       "id": "48021368",
       "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
       "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
@@ -349,16 +99,6 @@
       "created_at": 1778004827,
       "num_comments": 389,
       "hn_url": "https://news.ycombinator.com/item?id=48026349"
-    },
-    {
-      "id": "48018066",
-      "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
-      "url": "https://walzr.com/empty-screenings",
-      "points": 319,
-      "author": "MrBuddyCasino",
-      "created_at": 1777955602,
-      "num_comments": 262,
-      "hn_url": "https://news.ycombinator.com/item?id=48018066"
     },
     {
       "id": "48022992",
@@ -15989,7 +15729,207 @@
       "created_at": 1785554169,
       "num_comments": 85,
       "hn_url": "https://news.ycombinator.com/item?id=49130726"
+    },
+    {
+      "id": "49140998",
+      "title": "Karpathy\u2019s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "points": 566,
+      "author": "delichon",
+      "created_at": 1785643556,
+      "num_comments": 388,
+      "hn_url": "https://news.ycombinator.com/item?id=49140998"
+    },
+    {
+      "id": "49140218",
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "points": 352,
+      "author": "Hixon10",
+      "created_at": 1785634551,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=49140218"
+    },
+    {
+      "id": "49143414",
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "points": 335,
+      "author": "akolbe",
+      "created_at": 1785669860,
+      "num_comments": 316,
+      "hn_url": "https://news.ycombinator.com/item?id=49143414"
+    },
+    {
+      "id": "49140396",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "points": 324,
+      "author": "tomilan",
+      "created_at": 1785636429,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=49140396"
+    },
+    {
+      "id": "49147435",
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "points": 236,
+      "author": "JumpCrisscross",
+      "created_at": 1785698364,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49147435"
+    },
+    {
+      "id": "49145590",
+      "title": "How the words we teach English language learners changed",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "points": 219,
+      "author": "c-oreills",
+      "created_at": 1785685268,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49145590"
+    },
+    {
+      "id": "49145937",
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "points": 217,
+      "author": "vlad_kalinkin",
+      "created_at": 1785688000,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49145937"
+    },
+    {
+      "id": "49141073",
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "points": 207,
+      "author": "ilreb",
+      "created_at": 1785644474,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=49141073"
+    },
+    {
+      "id": "49148128",
+      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+      "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+      "points": 203,
+      "author": "RobotToaster",
+      "created_at": 1785703464,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49148128"
+    },
+    {
+      "id": "49143188",
+      "title": "US Treasury undertakes historic intervention in yen market",
+      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+      "points": 193,
+      "author": "23pointsNorth",
+      "created_at": 1785667588,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=49143188"
+    },
+    {
+      "id": "49147263",
+      "title": "SwiftUI After 7 Years",
+      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+      "points": 192,
+      "author": "mpweiher",
+      "created_at": 1785697145,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49147263"
+    },
+    {
+      "id": "49143479",
+      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+      "url": "https://meshdiff.com/",
+      "points": 191,
+      "author": "projscope",
+      "created_at": 1785670481,
+      "num_comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49143479"
+    },
+    {
+      "id": "49143925",
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "points": 179,
+      "author": "ducktective",
+      "created_at": 1785673876,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=49143925"
+    },
+    {
+      "id": "49140696",
+      "title": "Linux desktop market share has hit over 10% in North America",
+      "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+      "points": 178,
+      "author": "dviola",
+      "created_at": 1785640200,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49140696"
+    },
+    {
+      "id": "49142569",
+      "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "points": 176,
+      "author": "eniac111",
+      "created_at": 1785661593,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49142569"
+    },
+    {
+      "id": "49143967",
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "points": 158,
+      "author": "AlexeyBrin",
+      "created_at": 1785674167,
+      "num_comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49143967"
+    },
+    {
+      "id": "49141891",
+      "title": "I don't recommend Tailwind CSS",
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "points": 154,
+      "author": "andros",
+      "created_at": 1785654578,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=49141891"
+    },
+    {
+      "id": "49145201",
+      "title": "A Rant About \u201cTechnology\u201d (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "points": 145,
+      "author": "jamesgill",
+      "created_at": 1785682278,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49145201"
+    },
+    {
+      "id": "49149326",
+      "title": "Show HN: Shitty \u2013 fast terminal. Memory-unsafe and faster than yours",
+      "url": "https://github.com/pg83/shitty",
+      "points": 142,
+      "author": "pshirshov",
+      "created_at": 1785711941,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49149326"
+    },
+    {
+      "id": "49147622",
+      "title": "My personal AI benchmark: \u201cGenerate an SVG of a frog with a Habsburg jaw\u201d",
+      "url": "https://frogs.vaguespac.es/",
+      "points": 140,
+      "author": "thebigship",
+      "created_at": 1785699728,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=49147622"
     }
   ],
-  "last_updated": "2026-08-02T08:14:16.343319+00:00"
+  "last_updated": "2026-08-03T09:34:23.465526+00:00"
 }
