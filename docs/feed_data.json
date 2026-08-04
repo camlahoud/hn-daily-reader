@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "48027897",
-      "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
-      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "points": 662,
-      "author": "warpspin",
-      "created_at": 1778012195,
-      "num_comments": 329,
-      "hn_url": "https://news.ycombinator.com/item?id=48027897"
-    },
-    {
-      "id": "48024540",
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "points": 561,
-      "author": "amrrs",
-      "created_at": 1777997657,
-      "num_comments": 267,
-      "hn_url": "https://news.ycombinator.com/item?id=48024540"
-    },
-    {
-      "id": "48022742",
-      "title": "AI didn't delete your database, you did",
-      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "points": 522,
-      "author": "Brajeshwar",
-      "created_at": 1777990070,
-      "num_comments": 290,
-      "hn_url": "https://news.ycombinator.com/item?id=48022742"
-    },
-    {
-      "id": "48023861",
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "points": 441,
-      "author": "blenderob",
-      "created_at": 1777994838,
-      "num_comments": 307,
-      "hn_url": "https://news.ycombinator.com/item?id=48023861"
-    },
-    {
-      "id": "48021561",
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "points": 405,
-      "author": "alentodorov",
-      "created_at": 1777984108,
-      "num_comments": 304,
-      "hn_url": "https://news.ycombinator.com/item?id=48021561"
-    },
-    {
-      "id": "48024859",
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "points": 391,
-      "author": "palashawas",
-      "created_at": 1777998888,
-      "num_comments": 227,
-      "hn_url": "https://news.ycombinator.com/item?id=48024859"
-    },
-    {
-      "id": "48026207",
-      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "points": 383,
-      "author": "spankibalt",
-      "created_at": 1778004265,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=48026207"
-    },
-    {
-      "id": "48021368",
-      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "points": 360,
-      "author": "adrianmsmith",
-      "created_at": 1777983024,
-      "num_comments": 557,
-      "hn_url": "https://news.ycombinator.com/item?id=48021368"
-    },
-    {
-      "id": "48025687",
-      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-      "points": 341,
-      "author": "SeenNotHeard",
-      "created_at": 1778002098,
-      "num_comments": 200,
-      "hn_url": "https://news.ycombinator.com/item?id=48025687"
-    },
-    {
-      "id": "48026349",
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "points": 333,
-      "author": "littlexsparkee",
-      "created_at": 1778004827,
-      "num_comments": 389,
-      "hn_url": "https://news.ycombinator.com/item?id=48026349"
-    },
-    {
-      "id": "48022992",
-      "title": "The fun has been optimized out of the Internet",
-      "url": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
-      "points": 305,
-      "author": "jprs",
-      "created_at": 1777991364,
-      "num_comments": 269,
-      "hn_url": "https://news.ycombinator.com/item?id=48022992"
-    },
-    {
-      "id": "48024129",
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "points": 287,
-      "author": "brudgers",
-      "created_at": 1777996038,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=48024129"
-    },
-    {
-      "id": "48028842",
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "points": 258,
-      "author": "nohell",
-      "created_at": 1778016410,
-      "num_comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=48028842"
-    },
-    {
       "id": "48037555",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
@@ -161,26 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48034587"
     },
     {
-      "id": "48031261",
-      "title": "StarFighter 16-Inch",
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "points": 654,
-      "author": "signa11",
-      "created_at": 1778033024,
-      "num_comments": 358,
-      "hn_url": "https://news.ycombinator.com/item?id=48031261"
-    },
-    {
-      "id": "48031684",
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "points": 635,
-      "author": "rolph",
-      "created_at": 1778037033,
-      "num_comments": 357,
-      "hn_url": "https://news.ycombinator.com/item?id=48031684"
-    },
-    {
       "id": "48037128",
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
@@ -201,36 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48037986"
     },
     {
-      "id": "48032461",
-      "title": "Knitting bullshit",
-      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "points": 447,
-      "author": "ColinEberhardt",
-      "created_at": 1778044438,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48032461"
-    },
-    {
-      "id": "48032265",
-      "title": "Multi-stroke text effect in CSS",
-      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
-      "points": 346,
-      "author": "cheeaun",
-      "created_at": 1778042605,
-      "num_comments": 44,
-      "hn_url": "https://news.ycombinator.com/item?id=48032265"
-    },
-    {
-      "id": "48031769",
-      "title": "Ombudsman column: The Pentagon is trying to silence me",
-      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
-      "points": 341,
-      "author": "petethomas",
-      "created_at": 1778037889,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=48031769"
-    },
-    {
       "id": "48040269",
       "title": "Programming Still Sucks",
       "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
@@ -239,16 +59,6 @@
       "created_at": 1778094401,
       "num_comments": 147,
       "hn_url": "https://news.ycombinator.com/item?id=48040269"
-    },
-    {
-      "id": "48030964",
-      "title": "YouTube, your RSS feeds are broken",
-      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-      "points": 331,
-      "author": "veeti",
-      "created_at": 1778030131,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=48030964"
     },
     {
       "id": "48040622",
@@ -281,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48037009"
     },
     {
-      "id": "48031867",
-      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "points": 254,
-      "author": "neilfrndes",
-      "created_at": 1778038671,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=48031867"
-    },
-    {
       "id": "48038827",
       "title": "From Supabase to Clerk to Better Auth",
       "url": "https://blog.val.town/better-auth",
@@ -309,26 +109,6 @@
       "created_at": 1778091906,
       "num_comments": 403,
       "hn_url": "https://news.ycombinator.com/item?id=48039739"
-    },
-    {
-      "id": "48032976",
-      "title": "Reverse-engineering the 1998 Ultima Online demo server",
-      "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-      "points": 237,
-      "author": "notsentient",
-      "created_at": 1778049089,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=48032976"
-    },
-    {
-      "id": "48031109",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "points": 232,
-      "author": "debo_",
-      "created_at": 1778031524,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=48031109"
     },
     {
       "id": "48049653",
@@ -15929,7 +15709,207 @@
       "created_at": 1785699728,
       "num_comments": 75,
       "hn_url": "https://news.ycombinator.com/item?id=49147622"
+    },
+    {
+      "id": "49151933",
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "points": 1733,
+      "author": "ngruhn",
+      "created_at": 1785738481,
+      "num_comments": 701,
+      "hn_url": "https://news.ycombinator.com/item?id=49151933"
+    },
+    {
+      "id": "49150470",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "points": 1071,
+      "author": "ai2027",
+      "created_at": 1785723369,
+      "num_comments": 576,
+      "hn_url": "https://news.ycombinator.com/item?id=49150470"
+    },
+    {
+      "id": "49161518",
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "points": 868,
+      "author": "MaxMussio",
+      "created_at": 1785791633,
+      "num_comments": 356,
+      "hn_url": "https://news.ycombinator.com/item?id=49161518"
+    },
+    {
+      "id": "49154332",
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "points": 709,
+      "author": "ymir_e",
+      "created_at": 1785756534,
+      "num_comments": 361,
+      "hn_url": "https://news.ycombinator.com/item?id=49154332"
+    },
+    {
+      "id": "49156111",
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "points": 589,
+      "author": "bryanmikaelian",
+      "created_at": 1785766547,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=49156111"
+    },
+    {
+      "id": "49157930",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "points": 525,
+      "author": "milkshakes",
+      "created_at": 1785774432,
+      "num_comments": 806,
+      "hn_url": "https://news.ycombinator.com/item?id=49157930"
+    },
+    {
+      "id": "49151734",
+      "title": "More German than many Germans",
+      "url": "https://mertbulan.com/more-german-than-many-germans/",
+      "points": 514,
+      "author": "mertbio",
+      "created_at": 1785736814,
+      "num_comments": 358,
+      "hn_url": "https://news.ycombinator.com/item?id=49151734"
+    },
+    {
+      "id": "49153374",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "points": 472,
+      "author": "mpweiher",
+      "created_at": 1785749527,
+      "num_comments": 382,
+      "hn_url": "https://news.ycombinator.com/item?id=49153374"
+    },
+    {
+      "id": "49155359",
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+      "points": 349,
+      "author": "just_some_user",
+      "created_at": 1785762782,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=49155359"
+    },
+    {
+      "id": "49152842",
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
+      "points": 345,
+      "author": "KolmogorovComp",
+      "created_at": 1785745797,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=49152842"
+    },
+    {
+      "id": "49149966",
+      "title": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "points": 335,
+      "author": "nuwandavek",
+      "created_at": 1785717998,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=49149966"
+    },
+    {
+      "id": "49156011",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "points": 307,
+      "author": "nikolay_sivko",
+      "created_at": 1785766140,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49156011"
+    },
+    {
+      "id": "49155629",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "points": 293,
+      "author": "vblanco",
+      "created_at": 1785764083,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49155629"
+    },
+    {
+      "id": "49157128",
+      "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+      "points": 289,
+      "author": "speckx",
+      "created_at": 1785771092,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=49157128"
+    },
+    {
+      "id": "49154237",
+      "title": "ICE Collected Nearly 1M People's DNA Last Year\u2013Including Young Children",
+      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "points": 245,
+      "author": "BlueBerry2001",
+      "created_at": 1785755793,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=49154237"
+    },
+    {
+      "id": "49152023",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "points": 235,
+      "author": "paavohtl",
+      "created_at": 1785739320,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49152023"
+    },
+    {
+      "id": "49156750",
+      "title": "Twenty Years of Pandoc",
+      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+      "points": 231,
+      "author": "fiddlosopher",
+      "created_at": 1785769493,
+      "num_comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49156750"
+    },
+    {
+      "id": "49154228",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "points": 217,
+      "author": "Anon84",
+      "created_at": 1785755748,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49154228"
+    },
+    {
+      "id": "49158581",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "points": 209,
+      "author": "ascorbic",
+      "created_at": 1785776926,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49158581"
+    },
+    {
+      "id": "49150561",
+      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "points": 205,
+      "author": "JSR_FDED",
+      "created_at": 1785724230,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49150561"
     }
   ],
-  "last_updated": "2026-08-03T09:34:23.465526+00:00"
+  "last_updated": "2026-08-04T08:29:12.297495+00:00"
 }
