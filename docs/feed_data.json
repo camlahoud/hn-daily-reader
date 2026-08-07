@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48062117",
-      "title": "Poland is now among the 20 largest economies",
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "points": 962,
-      "author": "surprisetalk",
-      "created_at": 1778243405,
-      "num_comments": 760,
-      "hn_url": "https://news.ycombinator.com/item?id=48062117"
-    },
-    {
-      "id": "48067119",
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "points": 925,
-      "author": "anonymousiam",
-      "created_at": 1778265958,
-      "num_comments": 305,
-      "hn_url": "https://news.ycombinator.com/item?id=48067119"
-    },
-    {
-      "id": "48063199",
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "points": 668,
-      "author": "ribtoks",
-      "created_at": 1778248570,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=48063199"
-    },
-    {
-      "id": "48061884",
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "points": 588,
-      "author": "defrost",
-      "created_at": 1778241806,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=48061884"
-    },
-    {
-      "id": "48062178",
-      "title": "A web page that shows you everything the browser told it without asking",
-      "url": "https://sinceyouarrived.world/taken",
-      "points": 563,
-      "author": "mwheelz",
-      "created_at": 1778243825,
-      "num_comments": 278,
-      "hn_url": "https://news.ycombinator.com/item?id=48062178"
-    },
-    {
-      "id": "48061566",
-      "title": "An Introduction to Meshtastic",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "points": 430,
-      "author": "ColinWright",
-      "created_at": 1778239331,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=48061566"
-    },
-    {
-      "id": "48065360",
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "points": 330,
-      "author": "willmeyers",
-      "created_at": 1778257792,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=48065360"
-    },
-    {
-      "id": "48066524",
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "points": 315,
-      "author": "speckx",
-      "created_at": 1778262908,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=48066524"
-    },
-    {
-      "id": "48061938",
-      "title": "US Government releases first batch of UAP documents and videos",
-      "url": "https://www.war.gov/UFO/",
-      "points": 283,
-      "author": "david-gpu",
-      "created_at": 1778242225,
-      "num_comments": 423,
-      "hn_url": "https://news.ycombinator.com/item?id=48061938"
-    },
-    {
-      "id": "48069192",
-      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-      "points": 246,
-      "author": "tcp_handshaker",
-      "created_at": 1778276867,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48069192"
-    },
-    {
-      "id": "48064312",
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "url": "https://btxx.org/posts/memory/",
-      "points": 215,
-      "author": "xngbuilds",
-      "created_at": 1778253035,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48064312"
-    },
-    {
-      "id": "48066169",
-      "title": "Apple, Intel have reached preliminary chip-making deal",
-      "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
-      "points": 210,
-      "author": "scrlk",
-      "created_at": 1778261121,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=48066169"
-    },
-    {
-      "id": "48063240",
-      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
-      "points": 205,
-      "author": "droidjj",
-      "created_at": 1778248712,
-      "num_comments": 254,
-      "hn_url": "https://news.ycombinator.com/item?id=48063240"
-    },
-    {
-      "id": "48062997",
-      "title": "Just Use Go",
-      "url": "https://blainsmith.com/articles/just-fucking-use-go/",
-      "points": 194,
-      "author": "xngbuilds",
-      "created_at": 1778247622,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=48062997"
-    },
-    {
-      "id": "48071262",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "points": 627,
-      "author": "_alternator_",
-      "created_at": 1778294502,
-      "num_comments": 458,
-      "hn_url": "https://news.ycombinator.com/item?id=48071262"
-    },
-    {
       "id": "48074265",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
@@ -169,26 +19,6 @@
       "created_at": 1778321575,
       "num_comments": 493,
       "hn_url": "https://news.ycombinator.com/item?id=48073680"
-    },
-    {
-      "id": "48072190",
-      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "points": 516,
-      "author": "muse900",
-      "created_at": 1778305932,
-      "num_comments": 351,
-      "hn_url": "https://news.ycombinator.com/item?id=48072190"
-    },
-    {
-      "id": "48071940",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "points": 451,
-      "author": "pretext",
-      "created_at": 1778302432,
-      "num_comments": 253,
-      "hn_url": "https://news.ycombinator.com/item?id=48071940"
     },
     {
       "id": "48073246",
@@ -291,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48078811"
     },
     {
-      "id": "48071496",
-      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-      "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
-      "points": 163,
-      "author": "esaym",
-      "created_at": 1778296866,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=48071496"
-    },
-    {
       "id": "48076815",
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "url": "https://github.com/nooga/let-go",
@@ -309,16 +129,6 @@
       "created_at": 1778349133,
       "num_comments": 39,
       "hn_url": "https://news.ycombinator.com/item?id=48076815"
-    },
-    {
-      "id": "48070548",
-      "title": "People Hate AI Art",
-      "url": "https://mccue.dev/pages/5-8-26-ai-art",
-      "points": 140,
-      "author": "3dedb728-3f77",
-      "created_at": 1778287198,
-      "num_comments": 168,
-      "hn_url": "https://news.ycombinator.com/item?id=48070548"
     },
     {
       "id": "48077971",
@@ -15939,7 +15749,207 @@
       "created_at": 1785943326,
       "num_comments": 83,
       "hn_url": "https://news.ycombinator.com/item?id=49184216"
+    },
+    {
+      "id": "49195231",
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "points": 1002,
+      "author": "theanonymousone",
+      "created_at": 1786015493,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=49195231"
+    },
+    {
+      "id": "49192566",
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "points": 664,
+      "author": "DarkContinent",
+      "created_at": 1785991595,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=49192566"
+    },
+    {
+      "id": "49201970",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "points": 574,
+      "author": "itvision",
+      "created_at": 1786047791,
+      "num_comments": 436,
+      "hn_url": "https://news.ycombinator.com/item?id=49201970"
+    },
+    {
+      "id": "49200652",
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "points": 484,
+      "author": "apitman",
+      "created_at": 1786041889,
+      "num_comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=49200652"
+    },
+    {
+      "id": "49198302",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "points": 376,
+      "author": "Footkerchief",
+      "created_at": 1786031378,
+      "num_comments": 305,
+      "hn_url": "https://news.ycombinator.com/item?id=49198302"
+    },
+    {
+      "id": "49199346",
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "points": 350,
+      "author": "tsak",
+      "created_at": 1786035693,
+      "num_comments": 265,
+      "hn_url": "https://news.ycombinator.com/item?id=49199346"
+    },
+    {
+      "id": "49198069",
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "points": 344,
+      "author": "yusyd",
+      "created_at": 1786030248,
+      "num_comments": 374,
+      "hn_url": "https://news.ycombinator.com/item?id=49198069"
+    },
+    {
+      "id": "49191624",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "points": 319,
+      "author": "mapping365",
+      "created_at": 1785982514,
+      "num_comments": 473,
+      "hn_url": "https://news.ycombinator.com/item?id=49191624"
+    },
+    {
+      "id": "49195468",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "points": 287,
+      "author": "Wirbelwind",
+      "created_at": 1786017487,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=49195468"
+    },
+    {
+      "id": "49201930",
+      "title": "Quake \u2013 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "points": 273,
+      "author": "dsubburam",
+      "created_at": 1786047679,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=49201930"
+    },
+    {
+      "id": "49197137",
+      "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+      "url": "https://electronicmaterialsoffice.com/",
+      "points": 268,
+      "author": "aemerson_",
+      "created_at": 1786026374,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=49197137"
+    },
+    {
+      "id": "49193173",
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "points": 217,
+      "author": "microtonal",
+      "created_at": 1785997482,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49193173"
+    },
+    {
+      "id": "49199357",
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "points": 214,
+      "author": "tedsanders",
+      "created_at": 1786035724,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49199357"
+    },
+    {
+      "id": "49198464",
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "points": 197,
+      "author": "willcarkner",
+      "created_at": 1786031955,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49198464"
+    },
+    {
+      "id": "49201003",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "points": 189,
+      "author": "collinmanderson",
+      "created_at": 1786043661,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=49201003"
+    },
+    {
+      "id": "49200390",
+      "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
+      "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
+      "points": 149,
+      "author": "pseudolus",
+      "created_at": 1786040536,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49200390"
+    },
+    {
+      "id": "49201342",
+      "title": "xAI, SpaceX, and the Race for AI Buildout",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "points": 139,
+      "author": "speckx",
+      "created_at": 1786045125,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49201342"
+    },
+    {
+      "id": "49203105",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "points": 136,
+      "author": "gnabgib",
+      "created_at": 1786053136,
+      "num_comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49203105"
+    },
+    {
+      "id": "49193673",
+      "title": "What I love about Django",
+      "url": "https://buttondown.com/blog/what-i-love-about-django",
+      "points": 131,
+      "author": "j4mie",
+      "created_at": 1786001646,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=49193673"
+    },
+    {
+      "id": "49192829",
+      "title": "France is banning unsolicited telemarketing calls starting next week",
+      "url": "https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da",
+      "points": 124,
+      "author": "geox",
+      "created_at": 1785994091,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=49192829"
     }
   ],
-  "last_updated": "2026-08-06T08:26:57.623438+00:00"
+  "last_updated": "2026-08-07T07:07:12.480846+00:00"
 }
