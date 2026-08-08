@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48074265",
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "points": 597,
-      "author": "hggh",
-      "created_at": 1778328030,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=48074265"
-    },
-    {
-      "id": "48073680",
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "points": 530,
-      "author": "heldrida",
-      "created_at": 1778321575,
-      "num_comments": 493,
-      "hn_url": "https://news.ycombinator.com/item?id=48073680"
-    },
-    {
-      "id": "48073246",
-      "title": "LLMs corrupt your documents when you delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "points": 397,
-      "author": "rbanffy",
-      "created_at": 1778316274,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48073246"
-    },
-    {
-      "id": "48077126",
-      "title": "Meta's embrace of AI is making its employees miserable",
-      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "points": 383,
-      "author": "JumpCrisscross",
-      "created_at": 1778351616,
-      "num_comments": 412,
-      "hn_url": "https://news.ycombinator.com/item?id=48077126"
-    },
-    {
-      "id": "48076173",
-      "title": "I\u2019ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "points": 375,
-      "author": "susam",
-      "created_at": 1778344116,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=48076173"
-    },
-    {
-      "id": "48074952",
-      "title": "The hypocrisy of cyberlibertarianism",
-      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "points": 318,
-      "author": "ColinWright",
-      "created_at": 1778334512,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=48074952"
-    },
-    {
-      "id": "48075144",
-      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-      "points": 285,
-      "author": "Georgelemental",
-      "created_at": 1778335870,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=48075144"
-    },
-    {
-      "id": "48075366",
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "points": 277,
-      "author": "LorenDB",
-      "created_at": 1778337658,
-      "num_comments": 183,
-      "hn_url": "https://news.ycombinator.com/item?id=48075366"
-    },
-    {
-      "id": "48076651",
-      "title": "Zed Editor Theme-Builder",
-      "url": "https://zed.dev/theme-builder",
-      "points": 203,
-      "author": "cuechan",
-      "created_at": 1778347839,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48076651"
-    },
-    {
-      "id": "48078647",
-      "title": "Getting arrested in Japan",
-      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-      "points": 196,
-      "author": "bane",
-      "created_at": 1778363779,
-      "num_comments": 237,
-      "hn_url": "https://news.ycombinator.com/item?id=48078647"
-    },
-    {
-      "id": "48072720",
-      "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-      "points": 181,
-      "author": "edent",
-      "created_at": 1778311420,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=48072720"
-    },
-    {
-      "id": "48078811",
-      "title": "France moves to break encrypted messaging",
-      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-      "points": 180,
-      "author": "Cider9986",
-      "created_at": 1778364875,
-      "num_comments": 94,
-      "hn_url": "https://news.ycombinator.com/item?id=48078811"
-    },
-    {
-      "id": "48076815",
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "url": "https://github.com/nooga/let-go",
-      "points": 152,
-      "author": "marcingas",
-      "created_at": 1778349133,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=48076815"
-    },
-    {
-      "id": "48077971",
-      "title": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "points": 137,
-      "author": "Deeg9rie9usi",
-      "created_at": 1778358681,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=48077971"
-    },
-    {
-      "id": "48074087",
-      "title": "Forking the Web",
-      "url": "https://dillo-browser.org/lab/web-fork/",
-      "points": 126,
-      "author": "wrxd",
-      "created_at": 1778326387,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=48074087"
-    },
-    {
       "id": "48086190",
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
@@ -191,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48086082"
     },
     {
-      "id": "48080587",
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "url": "https://github.com/imtomt/ymawky",
-      "points": 399,
-      "author": "imtomt",
-      "created_at": 1778382104,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=48080587"
-    },
-    {
       "id": "48085384",
       "title": "Remind HN: Today is Mother's Day, call your moms",
       "url": "https://news.ycombinator.com/item?id=48085384",
@@ -209,16 +49,6 @@
       "created_at": 1778431024,
       "num_comments": 151,
       "hn_url": "https://news.ycombinator.com/item?id=48085384"
-    },
-    {
-      "id": "48081245",
-      "title": "Debian must ship reproducible packages",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-      "points": 353,
-      "author": "robalni",
-      "created_at": 1778390763,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=48081245"
     },
     {
       "id": "48082968",
@@ -259,16 +89,6 @@
       "created_at": 1778447818,
       "num_comments": 140,
       "hn_url": "https://news.ycombinator.com/item?id=48088151"
-    },
-    {
-      "id": "48081469",
-      "title": "Task Paralysis and AI",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "points": 237,
-      "author": "MrGilbert",
-      "created_at": 1778394050,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=48081469"
     },
     {
       "id": "48085095",
@@ -15949,7 +15769,207 @@
       "created_at": 1785994091,
       "num_comments": 51,
       "hn_url": "https://news.ycombinator.com/item?id=49192829"
+    },
+    {
+      "id": "49208314",
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "points": 866,
+      "author": "defrost",
+      "created_at": 1786098535,
+      "num_comments": 828,
+      "hn_url": "https://news.ycombinator.com/item?id=49208314"
+    },
+    {
+      "id": "49204352",
+      "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "points": 753,
+      "author": "boplicity",
+      "created_at": 1786061188,
+      "num_comments": 402,
+      "hn_url": "https://news.ycombinator.com/item?id=49204352"
+    },
+    {
+      "id": "49214008",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "points": 561,
+      "author": "tosh",
+      "created_at": 1786125380,
+      "num_comments": 336,
+      "hn_url": "https://news.ycombinator.com/item?id=49214008"
+    },
+    {
+      "id": "49209539",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "points": 543,
+      "author": "RickJWagner",
+      "created_at": 1786106547,
+      "num_comments": 632,
+      "hn_url": "https://news.ycombinator.com/item?id=49209539"
+    },
+    {
+      "id": "49213754",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "points": 442,
+      "author": "delduca",
+      "created_at": 1786124190,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=49213754"
+    },
+    {
+      "id": "49211386",
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "points": 410,
+      "author": "petercooper",
+      "created_at": 1786114317,
+      "num_comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=49211386"
+    },
+    {
+      "id": "49209546",
+      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "points": 343,
+      "author": "ceejayoz",
+      "created_at": 1786106578,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=49209546"
+    },
+    {
+      "id": "49207236",
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "points": 313,
+      "author": "inigyou",
+      "created_at": 1786089504,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=49207236"
+    },
+    {
+      "id": "49214863",
+      "title": "App Store Rejection of the Week: Dark Hours",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "points": 310,
+      "author": "_da_",
+      "created_at": 1786129148,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=49214863"
+    },
+    {
+      "id": "49214098",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "points": 306,
+      "author": "piotrgrabowski",
+      "created_at": 1786125690,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=49214098"
+    },
+    {
+      "id": "49208535",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "points": 270,
+      "author": "poly2it",
+      "created_at": 1786100435,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49208535"
+    },
+    {
+      "id": "49214468",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "points": 213,
+      "author": "moonikakiss",
+      "created_at": 1786127117,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=49214468"
+    },
+    {
+      "id": "49211438",
+      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+      "points": 204,
+      "author": "Bender",
+      "created_at": 1786114508,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=49211438"
+    },
+    {
+      "id": "49216946",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "points": 192,
+      "author": "moelf",
+      "created_at": 1786141467,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49216946"
+    },
+    {
+      "id": "49209385",
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "points": 188,
+      "author": "v0id_isgood",
+      "created_at": 1786105735,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49209385"
+    },
+    {
+      "id": "49210589",
+      "title": "USA Today Co., partners with Palantir to analyze audience data",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "points": 188,
+      "author": "cdrnsf",
+      "created_at": 1786111335,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=49210589"
+    },
+    {
+      "id": "49214770",
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "points": 183,
+      "author": "aagha",
+      "created_at": 1786128674,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49214770"
+    },
+    {
+      "id": "49208393",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "points": 183,
+      "author": "m3h",
+      "created_at": 1786099327,
+      "num_comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=49208393"
+    },
+    {
+      "id": "49213097",
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+      "points": 178,
+      "author": "mooreds",
+      "created_at": 1786121068,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=49213097"
+    },
+    {
+      "id": "49213029",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "points": 175,
+      "author": "artninja1988",
+      "created_at": 1786120776,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=49213029"
     }
   ],
-  "last_updated": "2026-08-07T07:07:12.480846+00:00"
+  "last_updated": "2026-08-08T06:42:35.529065+00:00"
 }
