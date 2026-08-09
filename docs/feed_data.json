@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "48086190",
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "points": 1510,
-      "author": "ChuckMcM",
-      "created_at": 1778435642,
-      "num_comments": 489,
-      "hn_url": "https://news.ycombinator.com/item?id=48086190"
-    },
-    {
-      "id": "48085821",
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "points": 1116,
-      "author": "cylo",
-      "created_at": 1778433568,
-      "num_comments": 479,
-      "hn_url": "https://news.ycombinator.com/item?id=48085821"
-    },
-    {
-      "id": "48084432",
-      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "points": 542,
-      "author": "iancmceachern",
-      "created_at": 1778424425,
-      "num_comments": 291,
-      "hn_url": "https://news.ycombinator.com/item?id=48084432"
-    },
-    {
-      "id": "48086082",
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "points": 528,
-      "author": "miniBill",
-      "created_at": 1778434990,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=48086082"
-    },
-    {
-      "id": "48085384",
-      "title": "Remind HN: Today is Mother's Day, call your moms",
-      "url": "https://news.ycombinator.com/item?id=48085384",
-      "points": 356,
-      "author": "rationalist",
-      "created_at": 1778431024,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48085384"
-    },
-    {
-      "id": "48082968",
-      "title": "Space Cadet Pinball on Linux",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "points": 333,
-      "author": "jandeboevrie",
-      "created_at": 1778412122,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=48082968"
-    },
-    {
-      "id": "48089091",
-      "title": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "points": 300,
-      "author": "shintoist",
-      "created_at": 1778454550,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=48089091"
-    },
-    {
-      "id": "48085314",
-      "title": "YC's Biggest Scandals",
-      "url": "https://ycombinator.fyi/",
-      "points": 250,
-      "author": "laserduck",
-      "created_at": 1778430634,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=48085314"
-    },
-    {
-      "id": "48088151",
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-      "points": 247,
-      "author": "lemonberry",
-      "created_at": 1778447818,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=48088151"
-    },
-    {
-      "id": "48085095",
-      "title": "GitHub is sinking",
-      "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
-      "points": 230,
-      "author": "herbertl",
-      "created_at": 1778429246,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=48085095"
-    },
-    {
-      "id": "48088576",
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "points": 208,
-      "author": "cmbailey",
-      "created_at": 1778450563,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=48088576"
-    },
-    {
-      "id": "48082396",
-      "title": "Think Linear Algebra (2023)",
-      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "points": 203,
-      "author": "tamnd",
-      "created_at": 1778406033,
-      "num_comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=48082396"
-    },
-    {
-      "id": "48085993",
-      "title": "Ask HN: What are you working on? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=48085993",
-      "points": 184,
-      "author": "david927",
-      "created_at": 1778434481,
-      "num_comments": 669,
-      "hn_url": "https://news.ycombinator.com/item?id=48085993"
-    },
-    {
-      "id": "48082676",
-      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
-      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
-      "points": 175,
-      "author": "hiAndrewQuinn",
-      "created_at": 1778409186,
-      "num_comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=48082676"
-    },
-    {
-      "id": "48084836",
-      "title": "Scientists warn Atlantic current at risk of shutting down",
-      "url": "https://e360.yale.edu/features/amoc-climate-change",
-      "points": 163,
-      "author": "ambigious7777",
-      "created_at": 1778427593,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=48084836"
-    },
-    {
-      "id": "48089263",
-      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "points": 163,
-      "author": "stalfosknight",
-      "created_at": 1778456208,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=48089263"
-    },
-    {
-      "id": "48083007",
-      "title": "What's a mathematician to do? (2010)",
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "points": 163,
-      "author": "ipnon",
-      "created_at": 1778412410,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48083007"
-    },
-    {
-      "id": "48090029",
-      "title": "I'm going back to writing code by hand",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "points": 947,
-      "author": "dropbox_miner",
-      "created_at": 1778462631,
-      "num_comments": 577,
-      "hn_url": "https://news.ycombinator.com/item?id=48090029"
-    },
-    {
       "id": "48100706",
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
@@ -189,16 +9,6 @@
       "created_at": 1778533705,
       "num_comments": 306,
       "hn_url": "https://news.ycombinator.com/item?id=48100706"
-    },
-    {
-      "id": "48091737",
-      "title": "Mythos Finds a Curl Vulnerability",
-      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "points": 644,
-      "author": "TangerineDream",
-      "created_at": 1778481548,
-      "num_comments": 264,
-      "hn_url": "https://news.ycombinator.com/item?id=48091737"
     },
     {
       "id": "48093100",
@@ -259,16 +69,6 @@
       "created_at": 1778514907,
       "num_comments": 113,
       "hn_url": "https://news.ycombinator.com/item?id=48096692"
-    },
-    {
-      "id": "48090521",
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "points": 354,
-      "author": "susam",
-      "created_at": 1778467414,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=48090521"
     },
     {
       "id": "48098261",
@@ -15969,7 +15769,207 @@
       "created_at": 1786120776,
       "num_comments": 173,
       "hn_url": "https://news.ycombinator.com/item?id=49213029"
+    },
+    {
+      "id": "49222189",
+      "title": "\u201cCode was never the hard part\u201d is an insult to all programmers",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "points": 684,
+      "author": "senko",
+      "created_at": 1786199553,
+      "num_comments": 414,
+      "hn_url": "https://news.ycombinator.com/item?id=49222189"
+    },
+    {
+      "id": "49224294",
+      "title": "Danish high schoolers will have to verbally defend written assignments",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "points": 557,
+      "author": "theanonymousone",
+      "created_at": 1786212571,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=49224294"
+    },
+    {
+      "id": "49220126",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "points": 409,
+      "author": "bhavansig",
+      "created_at": 1786180730,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=49220126"
+    },
+    {
+      "id": "49217993",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "points": 390,
+      "author": "Meleagris",
+      "created_at": 1786151565,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=49217993"
+    },
+    {
+      "id": "49220609",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "points": 384,
+      "author": "882542F3884314B",
+      "created_at": 1786186664,
+      "num_comments": 371,
+      "hn_url": "https://news.ycombinator.com/item?id=49220609"
+    },
+    {
+      "id": "49221668",
+      "title": "_for-sale DNS records",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "points": 379,
+      "author": "shaunpud",
+      "created_at": 1786195611,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49221668"
+    },
+    {
+      "id": "49223082",
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "points": 370,
+      "author": "groomlake",
+      "created_at": 1786205091,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=49223082"
+    },
+    {
+      "id": "49218179",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "points": 366,
+      "author": "wglb",
+      "created_at": 1786153751,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=49218179"
+    },
+    {
+      "id": "49219508",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "points": 357,
+      "author": "epestr",
+      "created_at": 1786172691,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=49219508"
+    },
+    {
+      "id": "49220339",
+      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "points": 280,
+      "author": "rbanffy",
+      "created_at": 1786183465,
+      "num_comments": 429,
+      "hn_url": "https://news.ycombinator.com/item?id=49220339"
+    },
+    {
+      "id": "49226636",
+      "title": "My server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "points": 247,
+      "author": "seg6",
+      "created_at": 1786229363,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49226636"
+    },
+    {
+      "id": "49220350",
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "points": 221,
+      "author": "sbulaev",
+      "created_at": 1786183626,
+      "num_comments": 294,
+      "hn_url": "https://news.ycombinator.com/item?id=49220350"
+    },
+    {
+      "id": "49223845",
+      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+      "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+      "points": 220,
+      "author": "geox",
+      "created_at": 1786210072,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49223845"
+    },
+    {
+      "id": "49221939",
+      "title": "Don't use your phone while you poop",
+      "url": "https://nate.spot/no-phone-while-poop/",
+      "points": 189,
+      "author": "ExMachina73",
+      "created_at": 1786197956,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=49221939"
+    },
+    {
+      "id": "49223079",
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "points": 185,
+      "author": "gumby",
+      "created_at": 1786205076,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49223079"
+    },
+    {
+      "id": "49220392",
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "points": 182,
+      "author": "eternalreturn",
+      "created_at": 1786184167,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=49220392"
+    },
+    {
+      "id": "49223475",
+      "title": "LinkedIn Feed Blocker",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "points": 172,
+      "author": "andrewpollack",
+      "created_at": 1786207747,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49223475"
+    },
+    {
+      "id": "49221711",
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "points": 163,
+      "author": "electricant",
+      "created_at": 1786195986,
+      "num_comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49221711"
+    },
+    {
+      "id": "49221864",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "points": 159,
+      "author": "happosai",
+      "created_at": 1786197342,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49221864"
+    },
+    {
+      "id": "49220313",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "points": 156,
+      "author": "01-_-",
+      "created_at": 1786183121,
+      "num_comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49220313"
     }
   ],
-  "last_updated": "2026-08-08T06:42:35.529065+00:00"
+  "last_updated": "2026-08-09T06:47:55.596063+00:00"
 }
