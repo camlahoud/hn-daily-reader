@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 06:58:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:16:47 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[198 pts] WorldClaw Agentic 3D open-world generation at scale</title>
+      <link>https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</link>
+      <description>&lt;p&gt;&lt;strong&gt;198 points&lt;/strong&gt; by EwanG | &lt;strong&gt;58 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49265051&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49265051</guid>
+      <pubDate>Tue, 11 Aug 2026 21:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[460 pts] Compression is prediction</title>
+      <link>https://ngrok.com/blog/compression-is-prediction</link>
+      <description>&lt;p&gt;&lt;strong&gt;460 points&lt;/strong&gt; by nikolay | &lt;strong&gt;196 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49263497&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49263497</guid>
+      <pubDate>Tue, 11 Aug 2026 19:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[215 pts] Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</link>
+      <description>&lt;p&gt;&lt;strong&gt;215 points&lt;/strong&gt; by droidjj | &lt;strong&gt;111 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49263340&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49263340</guid>
+      <pubDate>Tue, 11 Aug 2026 19:35:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[151 pts] Making holograms with a pen plotter</title>
+      <link>https://blog.jordan.matelsky.com/Penplotter-holography/</link>
+      <description>&lt;p&gt;&lt;strong&gt;151 points&lt;/strong&gt; by DemiGuru | &lt;strong&gt;15 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49262811&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49262811</guid>
+      <pubDate>Tue, 11 Aug 2026 18:51:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[250 pts] Grok Bot</title>
+      <link>https://x.ai/bot</link>
+      <description>&lt;p&gt;&lt;strong&gt;250 points&lt;/strong&gt; by rvz | &lt;strong&gt;203 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49261514&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49261514</guid>
+      <pubDate>Tue, 11 Aug 2026 17:23:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[252 pts] Woman pulled over twice after Flock-linked software connected her to homicide</title>
+      <link>https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</link>
+      <description>&lt;p&gt;&lt;strong&gt;252 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;230 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49261218&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49261218</guid>
+      <pubDate>Tue, 11 Aug 2026 17:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[337 pts] Go is an ideal language for AI-assisted software engineering</title>
+      <link>https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</link>
+      <description>&lt;p&gt;&lt;strong&gt;337 points&lt;/strong&gt; by 0xedb | &lt;strong&gt;403 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49261133&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49261133</guid>
+      <pubDate>Tue, 11 Aug 2026 16:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[367 pts] Mojo 1.0</title>
+      <link>https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</link>
+      <description>&lt;p&gt;&lt;strong&gt;367 points&lt;/strong&gt; by dayanruben | &lt;strong&gt;170 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49261128&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49261128</guid>
+      <pubDate>Tue, 11 Aug 2026 16:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[289 pts] Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
+      <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
+      <description>&lt;p&gt;&lt;strong&gt;289 points&lt;/strong&gt; by frabonacci | &lt;strong&gt;43 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49259339&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49259339</guid>
+      <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[153 pts] Manus will return to operating as an independent company</title>
+      <link>https://manus.im/blog/a-note-to-our-users</link>
+      <description>&lt;p&gt;&lt;strong&gt;153 points&lt;/strong&gt; by thm | &lt;strong&gt;75 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49258764&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49258764</guid>
+      <pubDate>Tue, 11 Aug 2026 14:14:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[594 pts] Stealing Reasoning Traces from Proprietary LLM APIs</title>
+      <link>https://stolen-thoughts.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;594 points&lt;/strong&gt; by quantumgarbage | &lt;strong&gt;268 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49257876&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49257876</guid>
+      <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[523 pts] England set to be one of the first countries to eliminate hepatitis C</title>
+      <link>https://www.bbc.com/news/articles/c75gk620r22o</link>
+      <description>&lt;p&gt;&lt;strong&gt;523 points&lt;/strong&gt; by stevekemp | &lt;strong&gt;374 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49257377&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49257377</guid>
+      <pubDate>Tue, 11 Aug 2026 12:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[393 pts] OpenAI’s head of ethics leaves less than a year after joining</title>
+      <link>https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</link>
+      <description>&lt;p&gt;&lt;strong&gt;393 points&lt;/strong&gt; by ilamont | &lt;strong&gt;395 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49257160&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49257160</guid>
+      <pubDate>Tue, 11 Aug 2026 12:23:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[177 pts] What I learned by putting GitHub Copilot behind a MitM proxy</title>
+      <link>https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm</link>
+      <description>&lt;p&gt;&lt;strong&gt;177 points&lt;/strong&gt; by j0selit0 | &lt;strong&gt;24 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49256057&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49256057</guid>
+      <pubDate>Tue, 11 Aug 2026 10:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[328 pts] Nvidia's Risky Business</title>
+      <link>https://stratechery.com/2026/nvidias-risky-business/</link>
+      <description>&lt;p&gt;&lt;strong&gt;328 points&lt;/strong&gt; by jonbaer | &lt;strong&gt;163 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49255710&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49255710</guid>
+      <pubDate>Tue, 11 Aug 2026 10:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[255 pts] More than 10 firms pay up to $100k a month for access to Truth Social posts</title>
+      <link>https://www.bbc.com/news/articles/ce3q5nxpgk1o</link>
+      <description>&lt;p&gt;&lt;strong&gt;255 points&lt;/strong&gt; by whosgotch | &lt;strong&gt;287 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49255672&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49255672</guid>
+      <pubDate>Tue, 11 Aug 2026 09:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[299 pts] London Underground begins scanning passengers' faces</title>
+      <link>https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</link>
+      <description>&lt;p&gt;&lt;strong&gt;299 points&lt;/strong&gt; by BlueBerry2001 | &lt;strong&gt;316 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49255496&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49255496</guid>
+      <pubDate>Tue, 11 Aug 2026 09:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1012 pts] France to ban unsolicited telemarketing calls</title>
+      <link>https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;1012 points&lt;/strong&gt; by aziaziazi | &lt;strong&gt;481 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49254880&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49254880</guid>
+      <pubDate>Tue, 11 Aug 2026 08:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[428 pts] H3-metal – Native MiniMax-H3 inference for Apple Silicon</title>
+      <link>https://github.com/antirez/h3.c</link>
+      <description>&lt;p&gt;&lt;strong&gt;428 points&lt;/strong&gt; by swyx | &lt;strong&gt;93 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49252179&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49252179</guid>
+      <pubDate>Tue, 11 Aug 2026 01:22:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[296 pts] Chicken Scheme 6.0</title>
+      <link>https://code.call-cc.org/releases/6.0.0/NEWS</link>
+      <description>&lt;p&gt;&lt;strong&gt;296 points&lt;/strong&gt; by eatonphil | &lt;strong&gt;53 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49251702&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49251702</guid>
+      <pubDate>Tue, 11 Aug 2026 00:24:15 +0000</pubDate>
+    </item>
     <item>
       <title>[432 pts] The UK's war on anonymity has come to America</title>
       <link>https://www.effort.news/uk-lobby</link>
@@ -12606,182 +12766,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48132488&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=48132488</guid>
       <pubDate>Thu, 14 May 2026 08:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[520 pts] Claude for Small Business</title>
-      <link>https://www.anthropic.com/news/claude-for-small-business</link>
-      <description>&lt;p&gt;&lt;strong&gt;520 points&lt;/strong&gt; by neilfrndes | &lt;strong&gt;458 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48130950&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48130950</guid>
-      <pubDate>Thu, 14 May 2026 03:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[232 pts] A Claude Code and Codex Skill for Deliberate Skill Development</title>
-      <link>https://github.com/DrCatHicks/learning-opportunities</link>
-      <description>&lt;p&gt;&lt;strong&gt;232 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;46 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48130679&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48130679</guid>
-      <pubDate>Thu, 14 May 2026 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[251 pts] Microsoft BitLocker – YellowKey zero-day exploit</title>
-      <link>https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor</link>
-      <description>&lt;p&gt;&lt;strong&gt;251 points&lt;/strong&gt; by cookiengineer | &lt;strong&gt;139 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48130519&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48130519</guid>
-      <pubDate>Thu, 14 May 2026 02:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[270 pts] Cisco workforce reductions</title>
-      <link>https://blogs.cisco.com/news/our-path-forward</link>
-      <description>&lt;p&gt;&lt;strong&gt;270 points&lt;/strong&gt; by ahmedomran8 | &lt;strong&gt;305 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48130123&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48130123</guid>
-      <pubDate>Thu, 14 May 2026 01:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[375 pts] Scorched Earth 2000 – Web</title>
-      <link>http://www.scorch2000.com/web/</link>
-      <description>&lt;p&gt;&lt;strong&gt;375 points&lt;/strong&gt; by meshko | &lt;strong&gt;146 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48129694&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48129694</guid>
-      <pubDate>Thu, 14 May 2026 00:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[250 pts] Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing</title>
-      <link>https://news.ycombinator.com/item?id=48128003</link>
-      <description>&lt;p&gt;&lt;strong&gt;250 points&lt;/strong&gt; by pycassa | &lt;strong&gt;70 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48128003&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48128003</guid>
-      <pubDate>Wed, 13 May 2026 21:40:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[163 pts] Meta won't let you block its AI account on Threads</title>
-      <link>https://www.theverge.com/tech/929091/meta-ai-threads-account-block</link>
-      <description>&lt;p&gt;&lt;strong&gt;163 points&lt;/strong&gt; by logickkk1 | &lt;strong&gt;74 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48126981&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48126981</guid>
-      <pubDate>Wed, 13 May 2026 20:22:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[322 pts] Princeton mandates proctoring for in-person exams, upending 133 year precedent</title>
-      <link>https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent</link>
-      <description>&lt;p&gt;&lt;strong&gt;322 points&lt;/strong&gt; by bookofjoe | &lt;strong&gt;475 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48126848&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48126848</guid>
-      <pubDate>Wed, 13 May 2026 20:12:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[125 pts] Making the news available at no cost is a victory</title>
-      <link>https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/</link>
-      <description>&lt;p&gt;&lt;strong&gt;125 points&lt;/strong&gt; by danso | &lt;strong&gt;121 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48126156&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48126156</guid>
-      <pubDate>Wed, 13 May 2026 19:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[194 pts] &quot;Not Medically Necessary&quot;: Helping America's Health Insurers Deny Coverage</title>
-      <link>https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations</link>
-      <description>&lt;p&gt;&lt;strong&gt;194 points&lt;/strong&gt; by ceejayoz | &lt;strong&gt;179 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48126000&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48126000</guid>
-      <pubDate>Wed, 13 May 2026 19:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[205 pts] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</title>
-      <link>https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/</link>
-      <description>&lt;p&gt;&lt;strong&gt;205 points&lt;/strong&gt; by tosh | &lt;strong&gt;213 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48125617&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48125617</guid>
-      <pubDate>Wed, 13 May 2026 18:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[166 pts] Haiku</title>
-      <link>https://www.haiku-os.org</link>
-      <description>&lt;p&gt;&lt;strong&gt;166 points&lt;/strong&gt; by tosh | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48124002&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48124002</guid>
-      <pubDate>Wed, 13 May 2026 16:22:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[371 pts] Kickstarter is forced to ban adult content by payment processors</title>
-      <link>https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648</link>
-      <description>&lt;p&gt;&lt;strong&gt;371 points&lt;/strong&gt; by stalfosknight | &lt;strong&gt;261 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48123198&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48123198</guid>
-      <pubDate>Wed, 13 May 2026 15:26:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[142 pts] 50K Tahoe residents need power as utility eyes redirecting lines to data centers</title>
-      <link>https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/</link>
-      <description>&lt;p&gt;&lt;strong&gt;142 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;146 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48123090&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48123090</guid>
-      <pubDate>Wed, 13 May 2026 15:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[259 pts] Open Source Resistance: keep OSS alive on company time</title>
-      <link>https://ossresistance.com/</link>
-      <description>&lt;p&gt;&lt;strong&gt;259 points&lt;/strong&gt; by mikemcquaid | &lt;strong&gt;80 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48123015&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48123015</guid>
-      <pubDate>Wed, 13 May 2026 15:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[553 pts] Setting up a free *.city.state.us locality domain (2025)</title>
-      <link>https://fredchan.org/blog/locality-domains-guide/</link>
-      <description>&lt;p&gt;&lt;strong&gt;553 points&lt;/strong&gt; by speckx | &lt;strong&gt;173 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48122635&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48122635</guid>
-      <pubDate>Wed, 13 May 2026 14:45:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[196 pts] The US is winning the AI race where it matters most: commercialization</title>
-      <link>https://avkcode.github.io/blog/us-winning-ai-race.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;196 points&lt;/strong&gt; by akrylov | &lt;strong&gt;534 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48121929&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48121929</guid>
-      <pubDate>Wed, 13 May 2026 13:53:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[248 pts] Dutch suicide prevention website shares data with tech companies without consent</title>
-      <link>https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies</link>
-      <description>&lt;p&gt;&lt;strong&gt;248 points&lt;/strong&gt; by giuliomagnifico | &lt;strong&gt;183 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48121299&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48121299</guid>
-      <pubDate>Wed, 13 May 2026 12:57:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[575 pts] Leaving GitHub for Forgejo</title>
-      <link>https://jorijn.com/en/blog/leaving-github-for-forgejo/</link>
-      <description>&lt;p&gt;&lt;strong&gt;575 points&lt;/strong&gt; by jorijn | &lt;strong&gt;296 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48121266&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48121266</guid>
-      <pubDate>Wed, 13 May 2026 12:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[945 pts] I moved my digital stack to Europe</title>
-      <link>https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/</link>
-      <description>&lt;p&gt;&lt;strong&gt;945 points&lt;/strong&gt; by monokai_nl | &lt;strong&gt;558 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48120629&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48120629</guid>
-      <pubDate>Wed, 13 May 2026 11:42:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[226 pts] SecurityBaseline.eu</title>
-      <link>https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/</link>
-      <description>&lt;p&gt;&lt;strong&gt;226 points&lt;/strong&gt; by aequitas | &lt;strong&gt;104 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48118763&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48118763</guid>
-      <pubDate>Wed, 13 May 2026 07:11:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[288 pts] The Emacsification of Software</title>
-      <link>https://sockpuppet.org/blog/2026/05/12/emacsification/</link>
-      <description>&lt;p&gt;&lt;strong&gt;288 points&lt;/strong&gt; by rdslw | &lt;strong&gt;188 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48118727&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48118727</guid>
-      <pubDate>Wed, 13 May 2026 07:06:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
