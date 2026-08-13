@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48138136",
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "points": 824,
-      "author": "arkadiyt",
-      "created_at": 1778778480,
-      "num_comments": 421,
-      "hn_url": "https://news.ycombinator.com/item?id=48138136"
-    },
-    {
-      "id": "48132488",
-      "title": "Rewrite Bun in Rust has been merged",
-      "url": "https://github.com/oven-sh/bun/pull/30412",
-      "points": 633,
-      "author": "Chaoses",
-      "created_at": 1778746531,
-      "num_comments": 697,
-      "hn_url": "https://news.ycombinator.com/item?id=48132488"
-    },
-    {
-      "id": "48136262",
-      "title": "A message from President Kornbluth about funding and the talent pipeline",
-      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "points": 602,
-      "author": "dmayo",
-      "created_at": 1778770274,
-      "num_comments": 668,
-      "hn_url": "https://news.ycombinator.com/item?id=48136262"
-    },
-    {
-      "id": "48137145",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "points": 582,
-      "author": "allenleee",
-      "created_at": 1778773651,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=48137145"
-    },
-    {
-      "id": "48140922",
-      "title": "New arXiv policy: 1-year ban for hallucinated references",
-      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
-      "points": 483,
-      "author": "gjuggler",
-      "created_at": 1778791152,
-      "num_comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=48140922"
-    },
-    {
-      "id": "48139148",
-      "title": "AI is making me dumb",
-      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "points": 482,
-      "author": "Eighth",
-      "created_at": 1778782768,
-      "num_comments": 286,
-      "hn_url": "https://news.ycombinator.com/item?id=48139148"
-    },
-    {
-      "id": "48138268",
-      "title": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "points": 366,
-      "author": "hetsaraiya",
-      "created_at": 1778779068,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=48138268"
-    },
-    {
-      "id": "48139219",
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "points": 353,
-      "author": "quadrige",
-      "created_at": 1778783109,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48139219"
-    },
-    {
-      "id": "48136240",
-      "title": "Bitcoin trader recovers wallet with help of Claude",
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-      "points": 322,
-      "author": "cednore",
-      "created_at": 1778770188,
-      "num_comments": 168,
-      "hn_url": "https://news.ycombinator.com/item?id=48136240"
-    },
-    {
-      "id": "48140529",
-      "title": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "points": 319,
-      "author": "mikeevans",
-      "created_at": 1778789174,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=48140529"
-    },
-    {
-      "id": "48142108",
-      "title": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "points": 293,
-      "author": "caust1c",
-      "created_at": 1778797752,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=48142108"
-    },
-    {
-      "id": "48134993",
-      "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-      "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
-      "points": 247,
-      "author": "littlexsparkee",
-      "created_at": 1778764677,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=48134993"
-    },
-    {
-      "id": "48142188",
-      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-      "points": 224,
-      "author": "sohkamyung",
-      "created_at": 1778798260,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=48142188"
-    },
-    {
-      "id": "48134743",
-      "title": "Computer Hobby Movement in Canada",
-      "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-      "points": 200,
-      "author": "rbanffy",
-      "created_at": 1778763447,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=48134743"
-    },
-    {
-      "id": "48134429",
-      "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-      "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
-      "points": 196,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1778761649,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=48134429"
-    },
-    {
       "id": "48153379",
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
@@ -169,16 +19,6 @@
       "created_at": 1778861736,
       "num_comments": 189,
       "hn_url": "https://news.ycombinator.com/item?id=48150431"
-    },
-    {
-      "id": "48143880",
-      "title": "Mullvad exit IPs are surprisingly identifying",
-      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "points": 573,
-      "author": "RGBCube",
-      "created_at": 1778812535,
-      "num_comments": 364,
-      "hn_url": "https://news.ycombinator.com/item?id=48143880"
     },
     {
       "id": "48146129",
@@ -281,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48152168"
     },
     {
-      "id": "48144380",
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "points": 260,
-      "author": "kspacewalk2",
-      "created_at": 1778817374,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=48144380"
-    },
-    {
       "id": "48147603",
       "title": "Radicle: Sovereign {code forge} built on Git",
       "url": "https://radicle.dev/",
@@ -299,16 +129,6 @@
       "created_at": 1778846875,
       "num_comments": 81,
       "hn_url": "https://news.ycombinator.com/item?id=48147603"
-    },
-    {
-      "id": "48144494",
-      "title": "How Claude Code works in large codebases",
-      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "points": 234,
-      "author": "shenli3514",
-      "created_at": 1778818531,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48144494"
     },
     {
       "id": "48147058",
@@ -329,16 +149,6 @@
       "created_at": 1778847098,
       "num_comments": 126,
       "hn_url": "https://news.ycombinator.com/item?id=48147637"
-    },
-    {
-      "id": "48143284",
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "url": "https://writing.antonleicht.me/p/cut-off",
-      "points": 214,
-      "author": "thoughtpeddler",
-      "created_at": 1778807284,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=48143284"
     },
     {
       "id": "48146908",
@@ -15949,7 +15759,207 @@
       "created_at": 1786474295,
       "num_comments": 15,
       "hn_url": "https://news.ycombinator.com/item?id=49262811"
+    },
+    {
+      "id": "49272832",
+      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "points": 978,
+      "author": "ropbear",
+      "created_at": 1786544550,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=49272832"
+    },
+    {
+      "id": "49274600",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "points": 876,
+      "author": "explosion-s",
+      "created_at": 1786550690,
+      "num_comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=49274600"
+    },
+    {
+      "id": "49271994",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "points": 843,
+      "author": "florianherrengt",
+      "created_at": 1786540805,
+      "num_comments": 768,
+      "hn_url": "https://news.ycombinator.com/item?id=49271994"
+    },
+    {
+      "id": "49273478",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "points": 588,
+      "author": "Philpax",
+      "created_at": 1786546877,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=49273478"
+    },
+    {
+      "id": "49273165",
+      "title": "License plate reader searches should require a warrant",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "points": 575,
+      "author": "apwheele",
+      "created_at": 1786545819,
+      "num_comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=49273165"
+    },
+    {
+      "id": "49276574",
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "points": 511,
+      "author": "khy",
+      "created_at": 1786558799,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49276574"
+    },
+    {
+      "id": "49274027",
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "points": 508,
+      "author": "iLuddite",
+      "created_at": 1786548770,
+      "num_comments": 462,
+      "hn_url": "https://news.ycombinator.com/item?id=49274027"
+    },
+    {
+      "id": "49270953",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "points": 476,
+      "author": "zoenolan",
+      "created_at": 1786535581,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=49270953"
+    },
+    {
+      "id": "49269818",
+      "title": "Controversial creators are benefiting from monetization programs run by Meta",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "points": 468,
+      "author": "robtherobber",
+      "created_at": 1786527330,
+      "num_comments": 321,
+      "hn_url": "https://news.ycombinator.com/item?id=49269818"
+    },
+    {
+      "id": "49268564",
+      "title": "LinkedIn CringeBot 3000",
+      "url": "https://www.cringebot3000.com/",
+      "points": 468,
+      "author": "theanonymousone",
+      "created_at": 1786516249,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=49268564"
+    },
+    {
+      "id": "49270726",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "points": 424,
+      "author": "Markoff",
+      "created_at": 1786534107,
+      "num_comments": 544,
+      "hn_url": "https://news.ycombinator.com/item?id=49270726"
+    },
+    {
+      "id": "49267928",
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "points": 352,
+      "author": "kristianpaul",
+      "created_at": 1786510319,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49267928"
+    },
+    {
+      "id": "49275385",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "points": 327,
+      "author": "wertyk",
+      "created_at": 1786553665,
+      "num_comments": 357,
+      "hn_url": "https://news.ycombinator.com/item?id=49275385"
+    },
+    {
+      "id": "49272549",
+      "title": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "points": 290,
+      "author": "gutechh",
+      "created_at": 1786543254,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=49272549"
+    },
+    {
+      "id": "49270040",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "points": 287,
+      "author": "adius",
+      "created_at": 1786529189,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49270040"
+    },
+    {
+      "id": "49272569",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "points": 267,
+      "author": "gavinhking",
+      "created_at": 1786543366,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=49272569"
+    },
+    {
+      "id": "49272655",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "points": 263,
+      "author": "doener",
+      "created_at": 1786543751,
+      "num_comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49272655"
+    },
+    {
+      "id": "49270022",
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "points": 254,
+      "author": "ColinWright",
+      "created_at": 1786529065,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49270022"
+    },
+    {
+      "id": "49266277",
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "points": 215,
+      "author": "michaefe",
+      "created_at": 1786493879,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49266277"
+    },
+    {
+      "id": "49266899",
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "points": 200,
+      "author": "newsomix9xl",
+      "created_at": 1786498966,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=49266899"
     }
   ],
-  "last_updated": "2026-08-12T07:16:47.908294+00:00"
+  "last_updated": "2026-08-13T07:19:13.748951+00:00"
 }
