@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "48158400",
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "points": 520,
-      "author": "mpweiher",
-      "created_at": 1778922866,
-      "num_comments": 311,
-      "hn_url": "https://news.ycombinator.com/item?id=48158400"
-    },
-    {
-      "id": "48164287",
-      "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "points": 353,
-      "author": "gidellav",
-      "created_at": 1778970230,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48164287"
-    },
-    {
-      "id": "48159445",
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "url": "https://nvlabs.github.io/Sana/WM/",
-      "points": 331,
-      "author": "mjgil",
-      "created_at": 1778933181,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=48159445"
-    },
-    {
-      "id": "48161861",
-      "title": "HTML Lists",
-      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-      "points": 318,
-      "author": "speckx",
-      "created_at": 1778950706,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=48161861"
-    },
-    {
-      "id": "48158494",
-      "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
-      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "points": 300,
-      "author": "breve",
-      "created_at": 1778923679,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=48158494"
-    },
-    {
-      "id": "48158065",
-      "title": "We've made the world too complicated",
-      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "points": 281,
-      "author": "James72689",
-      "created_at": 1778919917,
-      "num_comments": 253,
-      "hn_url": "https://news.ycombinator.com/item?id=48158065"
-    },
-    {
-      "id": "48159241",
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "points": 279,
-      "author": "eamag",
-      "created_at": 1778931392,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48159241"
-    },
-    {
-      "id": "48158130",
-      "title": "Where to buy a non-Apple, non-Google smartphone",
-      "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
-      "points": 249,
-      "author": "_____k",
-      "created_at": 1778920468,
-      "num_comments": 238,
-      "hn_url": "https://news.ycombinator.com/item?id=48158130"
-    },
-    {
-      "id": "48160807",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "points": 233,
-      "author": "Brajeshwar",
-      "created_at": 1778943496,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=48160807"
-    },
-    {
-      "id": "48158506",
-      "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "points": 210,
-      "author": "44za12",
-      "created_at": 1778923806,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=48158506"
-    },
-    {
-      "id": "48163392",
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "points": 162,
-      "author": "bookofjoe",
-      "created_at": 1778962446,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=48163392"
-    },
-    {
-      "id": "48164432",
-      "title": "A nicer voltmeter clock",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "points": 158,
-      "author": "surprisetalk",
-      "created_at": 1778971516,
-      "num_comments": 22,
-      "hn_url": "https://news.ycombinator.com/item?id=48164432"
-    },
-    {
-      "id": "48162354",
-      "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
-      "points": 154,
-      "author": "elsewhen",
-      "created_at": 1778954385,
-      "num_comments": 238,
-      "hn_url": "https://news.ycombinator.com/item?id=48162354"
-    },
-    {
-      "id": "48159227",
-      "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-      "url": "https://twitter.com/steipete/status/2055346265869721905",
-      "points": 150,
-      "author": "eamag",
-      "created_at": 1778931244,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=48159227"
-    },
-    {
-      "id": "48161974",
-      "title": "Technofascism",
-      "url": "https://third-bit.com/2026/05/15/technofascism/",
-      "points": 137,
-      "author": "speckx",
-      "created_at": 1778951456,
-      "num_comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=48161974"
-    },
-    {
-      "id": "48162468",
-      "title": "Halt and Catch Fire",
-      "url": "https://unstack.io/halt-and-catch-fire",
-      "points": 126,
-      "author": "ScottWRobinson",
-      "created_at": 1778955389,
-      "num_comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=48162468"
-    },
-    {
-      "id": "48161997",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "points": 125,
-      "author": "rbanffy",
-      "created_at": 1778951578,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=48161997"
-    },
-    {
-      "id": "48164891",
-      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
-      "points": 125,
-      "author": "breve",
-      "created_at": 1778975987,
-      "num_comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=48164891"
-    },
-    {
-      "id": "48166459",
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "points": 745,
-      "author": "WithinReason",
-      "created_at": 1778998646,
-      "num_comments": 319,
-      "hn_url": "https://news.ycombinator.com/item?id=48166459"
-    },
-    {
       "id": "48168221",
       "title": "I don't think AI will make your processes go faster",
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
@@ -299,26 +109,6 @@
       "created_at": 1779024134,
       "num_comments": 190,
       "hn_url": "https://news.ycombinator.com/item?id=48168708"
-    },
-    {
-      "id": "48165980",
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
-      "points": 256,
-      "author": "celsoazevedo",
-      "created_at": 1778990992,
-      "num_comments": 264,
-      "hn_url": "https://news.ycombinator.com/item?id=48165980"
-    },
-    {
-      "id": "48165295",
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "points": 239,
-      "author": "zdw",
-      "created_at": 1778981126,
-      "num_comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=48165295"
     },
     {
       "id": "48168485",
@@ -15979,7 +15769,207 @@
       "created_at": 1786627725,
       "num_comments": 197,
       "hn_url": "https://news.ycombinator.com/item?id=49285604"
+    },
+    {
+      "id": "49294997",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "points": 1071,
+      "author": "pella",
+      "created_at": 1786684799,
+      "num_comments": 525,
+      "hn_url": "https://news.ycombinator.com/item?id=49294997"
+    },
+    {
+      "id": "49299605",
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "points": 1037,
+      "author": "erdaltoprak",
+      "created_at": 1786719600,
+      "num_comments": 660,
+      "hn_url": "https://news.ycombinator.com/item?id=49299605"
+    },
+    {
+      "id": "49296740",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "points": 835,
+      "author": "numeri",
+      "created_at": 1786702368,
+      "num_comments": 758,
+      "hn_url": "https://news.ycombinator.com/item?id=49296740"
+    },
+    {
+      "id": "49299222",
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "points": 776,
+      "author": "doubletwoyou",
+      "created_at": 1786717868,
+      "num_comments": 453,
+      "hn_url": "https://news.ycombinator.com/item?id=49299222"
+    },
+    {
+      "id": "49303202",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "points": 745,
+      "author": "DemiGuru",
+      "created_at": 1786734200,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=49303202"
+    },
+    {
+      "id": "49301260",
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "points": 439,
+      "author": "tcp_handshaker",
+      "created_at": 1786725949,
+      "num_comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=49301260"
+    },
+    {
+      "id": "49300314",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "points": 348,
+      "author": "u1hcw9nx",
+      "created_at": 1786722190,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=49300314"
+    },
+    {
+      "id": "49299675",
+      "title": "Seven books I keep close because I love them",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "points": 340,
+      "author": "surprisetalk",
+      "created_at": 1786719806,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=49299675"
+    },
+    {
+      "id": "49298910",
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
+      "points": 330,
+      "author": "speckx",
+      "created_at": 1786716472,
+      "num_comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=49298910"
+    },
+    {
+      "id": "49299684",
+      "title": "Qwen3.8-27B",
+      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "points": 297,
+      "author": "mfiguiere",
+      "created_at": 1786719834,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49299684"
+    },
+    {
+      "id": "49304447",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "points": 291,
+      "author": "vslira",
+      "created_at": 1786740764,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=49304447"
+    },
+    {
+      "id": "49300568",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "points": 267,
+      "author": "sans_souse",
+      "created_at": 1786723139,
+      "num_comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49300568"
+    },
+    {
+      "id": "49300759",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "points": 259,
+      "author": "rustdesk",
+      "created_at": 1786723972,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=49300759"
+    },
+    {
+      "id": "49294199",
+      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+      "points": 251,
+      "author": "magic_interface",
+      "created_at": 1786675150,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49294199"
+    },
+    {
+      "id": "49296627",
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "points": 237,
+      "author": "fagnerbrack",
+      "created_at": 1786701333,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49296627"
+    },
+    {
+      "id": "49300671",
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "points": 216,
+      "author": "BlueBerry2001",
+      "created_at": 1786723609,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49300671"
+    },
+    {
+      "id": "49293324",
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "points": 206,
+      "author": "danabramov",
+      "created_at": 1786666468,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49293324"
+    },
+    {
+      "id": "49297801",
+      "title": "Dear people who work at the airport",
+      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "points": 198,
+      "author": "nivethan",
+      "created_at": 1786710202,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=49297801"
+    },
+    {
+      "id": "49299746",
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "points": 192,
+      "author": "mplappert",
+      "created_at": 1786720077,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=49299746"
+    },
+    {
+      "id": "49300800",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "points": 177,
+      "author": "twapi",
+      "created_at": 1786724121,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=49300800"
     }
   ],
-  "last_updated": "2026-08-14T07:16:33.740587+00:00"
+  "last_updated": "2026-08-15T06:29:32.034559+00:00"
 }
