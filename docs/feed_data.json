@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48168221",
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "points": 593,
-      "author": "TheEdonian",
-      "created_at": 1779020025,
-      "num_comments": 406,
-      "hn_url": "https://news.ycombinator.com/item?id=48168221"
-    },
-    {
-      "id": "48168856",
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "points": 566,
-      "author": "nolok",
-      "created_at": 1779025350,
-      "num_comments": 258,
-      "hn_url": "https://news.ycombinator.com/item?id=48168856"
-    },
-    {
-      "id": "48170798",
-      "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
-      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "points": 426,
-      "author": "rolph",
-      "created_at": 1779037755,
-      "num_comments": 304,
-      "hn_url": "https://news.ycombinator.com/item?id=48170798"
-    },
-    {
-      "id": "48168058",
-      "title": "Native all the way, until you need text",
-      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "points": 420,
-      "author": "dive",
-      "created_at": 1779018586,
-      "num_comments": 280,
-      "hn_url": "https://news.ycombinator.com/item?id=48168058"
-    },
-    {
-      "id": "48168626",
-      "title": "AI is a technology not a product",
-      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "points": 408,
-      "author": "ch_sm",
-      "created_at": 1779023480,
-      "num_comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=48168626"
-    },
-    {
-      "id": "48168056",
-      "title": "AI subscriptions are a ticking time bomb for enterprise",
-      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "points": 395,
-      "author": "mooreds",
-      "created_at": 1779018571,
-      "num_comments": 388,
-      "hn_url": "https://news.ycombinator.com/item?id=48168056"
-    },
-    {
-      "id": "48168668",
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "points": 365,
-      "author": "tech4bot",
-      "created_at": 1779023787,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=48168668"
-    },
-    {
-      "id": "48169874",
-      "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
-      "url": "https://github.com/MinishLab/semble",
-      "points": 327,
-      "author": "Bibabomas",
-      "created_at": 1779032227,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48169874"
-    },
-    {
-      "id": "48168198",
-      "title": "Apple Silicon costs more than OpenRouter",
-      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "points": 316,
-      "author": "datadrivenangel",
-      "created_at": 1779019763,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=48168198"
-    },
-    {
-      "id": "48173429",
-      "title": "GenCAD",
-      "url": "https://gencad.github.io/",
-      "points": 312,
-      "author": "dagenix",
-      "created_at": 1779054035,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=48173429"
-    },
-    {
-      "id": "48168708",
-      "title": "WHO declares Ebola outbreak a global health emergency",
-      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-      "points": 303,
-      "author": "zzzeek",
-      "created_at": 1779024134,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=48168708"
-    },
-    {
-      "id": "48168485",
-      "title": "CUDA Books",
-      "url": "https://github.com/alternbits/awesome-cuda-books",
-      "points": 196,
-      "author": "dariubs",
-      "created_at": 1779022326,
-      "num_comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=48168485"
-    },
-    {
-      "id": "48170810",
-      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
-      "url": "https://twitter.com/ryangrim/status/2055992439031185782",
-      "points": 195,
-      "author": "bhouston",
-      "created_at": 1779037848,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=48170810"
-    },
-    {
-      "id": "48166877",
-      "title": "Ten Signs of Fascism. America has all of them",
-      "url": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
-      "points": 195,
-      "author": "fredski42",
-      "created_at": 1779004257,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=48166877"
-    },
-    {
-      "id": "48173468",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "points": 193,
-      "author": "ChrisArchitect",
-      "created_at": 1779054330,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=48173468"
-    },
-    {
-      "id": "48172505",
-      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-      "url": "https://spectrum.ieee.org/payphone-voip",
-      "points": 154,
-      "author": "bookofjoe",
-      "created_at": 1779046750,
-      "num_comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=48172505"
-    },
-    {
-      "id": "48171015",
-      "title": "EU weighs restricting use of US cloud platforms to process government data",
-      "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
-      "points": 144,
-      "author": "abdelhousni",
-      "created_at": 1779038978,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=48171015"
-    },
-    {
       "id": "48182754",
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
@@ -289,16 +119,6 @@
       "created_at": 1779145382,
       "num_comments": 71,
       "hn_url": "https://news.ycombinator.com/item?id=48187054"
-    },
-    {
-      "id": "48175140",
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "points": 288,
-      "author": "ahalbert4",
-      "created_at": 1779073174,
-      "num_comments": 710,
-      "hn_url": "https://news.ycombinator.com/item?id=48175140"
     },
     {
       "id": "48184350",
@@ -15969,7 +15789,207 @@
       "created_at": 1786724121,
       "num_comments": 112,
       "hn_url": "https://news.ycombinator.com/item?id=49300800"
+    },
+    {
+      "id": "49312845",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "points": 465,
+      "author": "rzk",
+      "created_at": 1786817582,
+      "num_comments": 403,
+      "hn_url": "https://news.ycombinator.com/item?id=49312845"
+    },
+    {
+      "id": "49309549",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "points": 414,
+      "author": "tosh",
+      "created_at": 1786791602,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49309549"
+    },
+    {
+      "id": "49311651",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "points": 399,
+      "author": "randycupertino",
+      "created_at": 1786809533,
+      "num_comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=49311651"
+    },
+    {
+      "id": "49307592",
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "points": 377,
+      "author": "rdl",
+      "created_at": 1786767524,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=49307592"
+    },
+    {
+      "id": "49309451",
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "points": 294,
+      "author": "allenb",
+      "created_at": 1786790381,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=49309451"
+    },
+    {
+      "id": "49310682",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "points": 245,
+      "author": "gmays",
+      "created_at": 1786802689,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49310682"
+    },
+    {
+      "id": "49314403",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "points": 221,
+      "author": "theanonymousone",
+      "created_at": 1786828474,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49314403"
+    },
+    {
+      "id": "49306577",
+      "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "points": 216,
+      "author": "Bender",
+      "created_at": 1786756445,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49306577"
+    },
+    {
+      "id": "49310926",
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "points": 205,
+      "author": "sensanaty",
+      "created_at": 1786804444,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49310926"
+    },
+    {
+      "id": "49313428",
+      "title": "Super El Ni\u00f1o Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "points": 166,
+      "author": "dgellow",
+      "created_at": 1786821651,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49313428"
+    },
+    {
+      "id": "49312008",
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "points": 165,
+      "author": "jeffreyrogers",
+      "created_at": 1786811914,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=49312008"
+    },
+    {
+      "id": "49314744",
+      "title": "Engineers will do anything to avoid learning from history",
+      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+      "points": 151,
+      "author": "madrox",
+      "created_at": 1786831702,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49314744"
+    },
+    {
+      "id": "49306443",
+      "title": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "points": 139,
+      "author": "big_toast",
+      "created_at": 1786755331,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=49306443"
+    },
+    {
+      "id": "49306196",
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "points": 138,
+      "author": "E-Reverance",
+      "created_at": 1786752923,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49306196"
+    },
+    {
+      "id": "49314235",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "points": 135,
+      "author": "felixbraun",
+      "created_at": 1786827251,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49314235"
+    },
+    {
+      "id": "49313367",
+      "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "points": 126,
+      "author": "AnodicElegy",
+      "created_at": 1786821173,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=49313367"
+    },
+    {
+      "id": "49312165",
+      "title": "The Dutch community where people live on strips of land in a lake",
+      "url": "https://www.core77.com/posts/144869",
+      "points": 120,
+      "author": "Bowes-Lyon",
+      "created_at": 1786812827,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49312165"
+    },
+    {
+      "id": "49307700",
+      "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "points": 115,
+      "author": "chatchan",
+      "created_at": 1786768927,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49307700"
+    },
+    {
+      "id": "49310719",
+      "title": "Cloudflare's AI Psychosis",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "points": 107,
+      "author": "gregzeng95",
+      "created_at": 1786802920,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49310719"
+    },
+    {
+      "id": "49312413",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+      "points": 105,
+      "author": "blondie9x",
+      "created_at": 1786814486,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=49312413"
     }
   ],
-  "last_updated": "2026-08-15T06:29:32.034559+00:00"
+  "last_updated": "2026-08-16T06:31:28.437193+00:00"
 }
