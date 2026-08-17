@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "48182754",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "points": 952,
-      "author": "nycdatasci",
-      "created_at": 1779125902,
-      "num_comments": 468,
-      "hn_url": "https://news.ycombinator.com/item?id=48182754"
-    },
-    {
-      "id": "48179677",
-      "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
-      "points": 632,
-      "author": "zakirullin",
-      "created_at": 1779111213,
-      "num_comments": 309,
-      "hn_url": "https://news.ycombinator.com/item?id=48179677"
-    },
-    {
-      "id": "48181041",
-      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
-      "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-      "points": 519,
-      "author": "gok",
-      "created_at": 1779117499,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48181041"
-    },
-    {
-      "id": "48181125",
-      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "points": 468,
-      "author": "ildari",
-      "created_at": 1779117859,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=48181125"
-    },
-    {
-      "id": "48182281",
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "points": 452,
-      "author": "tomeraberbach",
-      "created_at": 1779123681,
-      "num_comments": 301,
-      "hn_url": "https://news.ycombinator.com/item?id=48182281"
-    },
-    {
-      "id": "48177785",
-      "title": "Eric Schmidt speech about AI booed during graduation",
-      "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
-      "points": 354,
-      "author": "nothrowaways",
-      "created_at": 1779101425,
-      "num_comments": 375,
-      "hn_url": "https://news.ycombinator.com/item?id=48177785"
-    },
-    {
-      "id": "48179732",
-      "title": "Project Glasswing: what Mythos showed us",
-      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "points": 329,
-      "author": "Fysi",
-      "created_at": 1779111431,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=48179732"
-    },
-    {
-      "id": "48178184",
-      "title": "Show HN: Auto-identity-remove \u2013 Automated data broker opt-out runner for macOS",
-      "url": "https://github.com/stephenlthorn/auto-identity-remove",
-      "points": 321,
-      "author": "stephenlthorn",
-      "created_at": 1779103962,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=48178184"
-    },
-    {
-      "id": "48182592",
-      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-      "points": 313,
-      "author": "srameshc",
-      "created_at": 1779125154,
-      "num_comments": 543,
-      "hn_url": "https://news.ycombinator.com/item?id=48182592"
-    },
-    {
-      "id": "48180091",
-      "title": "Actually, democracy dies in H.R.",
-      "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
-      "points": 307,
-      "author": "mitchbob",
-      "created_at": 1779113066,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=48180091"
-    },
-    {
-      "id": "48183579",
-      "title": "Haiku OS runs on M1 Macs now",
-      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-      "points": 304,
-      "author": "tekkertje",
-      "created_at": 1779129055,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=48183579"
-    },
-    {
-      "id": "48187054",
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "points": 298,
-      "author": "andrewzeno",
-      "created_at": 1779145382,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=48187054"
-    },
-    {
-      "id": "48184350",
-      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-      "points": 282,
-      "author": "cdrnsf",
-      "created_at": 1779132539,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=48184350"
-    },
-    {
-      "id": "48177228",
-      "title": "Where Are the Vibecoded Photoshops?",
-      "url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
-      "points": 266,
-      "author": "gizmo64k",
-      "created_at": 1779096536,
-      "num_comments": 353,
-      "hn_url": "https://news.ycombinator.com/item?id=48177228"
-    },
-    {
-      "id": "48183301",
-      "title": "We let AIs run radio stations",
-      "url": "https://andonlabs.com/blog/andon-fm",
-      "points": 260,
-      "author": "lukaspetersson",
-      "created_at": 1779127938,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=48183301"
-    },
-    {
-      "id": "48185789",
-      "title": "Who will buy your services if you fire us all?",
-      "url": "https://carette.xyz/posts/who_will_buy_your_services/",
-      "points": 235,
-      "author": "LucidLynx",
-      "created_at": 1779139105,
-      "num_comments": 275,
-      "hn_url": "https://news.ycombinator.com/item?id=48185789"
-    },
-    {
-      "id": "48181877",
-      "title": "Qwen 3.7 Preview",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
-      "points": 232,
-      "author": "theanonymousone",
-      "created_at": 1779121451,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=48181877"
-    },
-    {
-      "id": "48179021",
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "points": 225,
-      "author": "topherjaynes",
-      "created_at": 1779108568,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=48179021"
-    },
-    {
-      "id": "48187201",
-      "title": "Pope Leo XIV\u2019s first encyclical Magnifica humanitas to be published May 25",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "points": 222,
-      "author": "cucho",
-      "created_at": 1779146290,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=48187201"
-    },
-    {
       "id": "48194352",
       "title": "I\u2019ve joined Anthropic",
       "url": "https://twitter.com/karpathy/status/2056753169888334312",
@@ -219,16 +29,6 @@
       "created_at": 1779206018,
       "num_comments": 170,
       "hn_url": "https://news.ycombinator.com/item?id=48195009"
-    },
-    {
-      "id": "48188183",
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "points": 754,
-      "author": "yakkomajuri",
-      "created_at": 1779154242,
-      "num_comments": 572,
-      "hn_url": "https://news.ycombinator.com/item?id=48188183"
     },
     {
       "id": "48192224",
@@ -319,26 +119,6 @@
       "created_at": 1779196311,
       "num_comments": 285,
       "hn_url": "https://news.ycombinator.com/item?id=48192882"
-    },
-    {
-      "id": "48189368",
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "points": 376,
-      "author": "theanonymousone",
-      "created_at": 1779167089,
-      "num_comments": 288,
-      "hn_url": "https://news.ycombinator.com/item?id=48189368"
-    },
-    {
-      "id": "48188787",
-      "title": "Peter Neumann has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "points": 308,
-      "author": "pabs3",
-      "created_at": 1779160665,
-      "num_comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=48188787"
     },
     {
       "id": "48196609",
@@ -15989,7 +15769,207 @@
       "created_at": 1786814486,
       "num_comments": 98,
       "hn_url": "https://news.ycombinator.com/item?id=49312413"
+    },
+    {
+      "id": "49319633",
+      "title": "Firefox for iOS now has a native adblocker",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "points": 621,
+      "author": "pentagrama",
+      "created_at": 1786885090,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=49319633"
+    },
+    {
+      "id": "49319556",
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "points": 614,
+      "author": "tosh",
+      "created_at": 1786884501,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=49319556"
+    },
+    {
+      "id": "49321717",
+      "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "points": 452,
+      "author": "Narishma",
+      "created_at": 1786899667,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=49321717"
+    },
+    {
+      "id": "49322107",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "points": 408,
+      "author": "stagas",
+      "created_at": 1786902586,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49322107"
+    },
+    {
+      "id": "49319389",
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "points": 383,
+      "author": "Alifatisk",
+      "created_at": 1786882940,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=49319389"
+    },
+    {
+      "id": "49322695",
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "points": 302,
+      "author": "hruvhwe",
+      "created_at": 1786907066,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=49322695"
+    },
+    {
+      "id": "49324985",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "points": 296,
+      "author": "bilsbie",
+      "created_at": 1786923909,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=49324985"
+    },
+    {
+      "id": "49323381",
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "points": 286,
+      "author": "zacharyozer",
+      "created_at": 1786912276,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=49323381"
+    },
+    {
+      "id": "49320611",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "points": 265,
+      "author": "mlenhard",
+      "created_at": 1786891495,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=49320611"
+    },
+    {
+      "id": "49317760",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "points": 239,
+      "author": "porridgeraisin",
+      "created_at": 1786865873,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=49317760"
+    },
+    {
+      "id": "49320984",
+      "title": "The weekend is 100 years old",
+      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+      "points": 191,
+      "author": "lentil_soup",
+      "created_at": 1786894215,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49320984"
+    },
+    {
+      "id": "49323686",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "points": 185,
+      "author": "root-parent",
+      "created_at": 1786914430,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=49323686"
+    },
+    {
+      "id": "49316271",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "points": 183,
+      "author": "maxutility",
+      "created_at": 1786846373,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=49316271"
+    },
+    {
+      "id": "49320856",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "points": 182,
+      "author": "toomuchtodo",
+      "created_at": 1786893366,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=49320856"
+    },
+    {
+      "id": "49324087",
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "points": 175,
+      "author": "ropbear",
+      "created_at": 1786917223,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49324087"
+    },
+    {
+      "id": "49321353",
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "points": 149,
+      "author": "brandonb",
+      "created_at": 1786896895,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49321353"
+    },
+    {
+      "id": "49322573",
+      "title": "Protobuf has LSP support. You're welcome",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "points": 139,
+      "author": "theanonymousone",
+      "created_at": 1786906107,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49322573"
+    },
+    {
+      "id": "49319727",
+      "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+      "points": 122,
+      "author": "thunderbong",
+      "created_at": 1786885781,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49319727"
+    },
+    {
+      "id": "49323157",
+      "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
+      "url": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+      "points": 121,
+      "author": "Jimmc414",
+      "created_at": 1786910724,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49323157"
+    },
+    {
+      "id": "49319573",
+      "title": "Banned Words List",
+      "url": "https://pen.org/banned-words-list/",
+      "points": 114,
+      "author": "structuredPizza",
+      "created_at": 1786884631,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49319573"
     }
   ],
-  "last_updated": "2026-08-16T06:31:28.437193+00:00"
+  "last_updated": "2026-08-17T06:43:15.957867+00:00"
 }
