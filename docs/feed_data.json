@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48194352",
-      "title": "I\u2019ve joined Anthropic",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "points": 1314,
-      "author": "dmarcos",
-      "created_at": 1779203265,
-      "num_comments": 550,
-      "hn_url": "https://news.ycombinator.com/item?id=48194352"
-    },
-    {
-      "id": "48196570",
-      "title": "Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "points": 772,
-      "author": "spectraldrift",
-      "created_at": 1779212625,
-      "num_comments": 546,
-      "hn_url": "https://news.ycombinator.com/item?id=48196570"
-    },
-    {
-      "id": "48195009",
-      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "url": "https://virtualosmuseum.org/",
-      "points": 768,
-      "author": "andreww591",
-      "created_at": 1779206018,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=48195009"
-    },
-    {
-      "id": "48192224",
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "points": 672,
-      "author": "interpol_p",
-      "created_at": 1779192258,
-      "num_comments": 345,
-      "hn_url": "https://news.ycombinator.com/item?id=48192224"
-    },
-    {
-      "id": "48197980",
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "points": 646,
-      "author": "ortusdux",
-      "created_at": 1779218006,
-      "num_comments": 200,
-      "hn_url": "https://news.ycombinator.com/item?id=48197980"
-    },
-    {
-      "id": "48197370",
-      "title": "Google changes its search box",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "points": 536,
-      "author": "berkeleyjunk",
-      "created_at": 1779215667,
-      "num_comments": 711,
-      "hn_url": "https://news.ycombinator.com/item?id=48197370"
-    },
-    {
-      "id": "48191602",
-      "title": "Show HN: Gaussian Splat of a Strawberry",
-      "url": "https://superspl.at/scene/84df8849",
-      "points": 498,
-      "author": "danybittel",
-      "created_at": 1779187127,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=48191602"
-    },
-    {
-      "id": "48192383",
-      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "points": 469,
-      "author": "zambelli",
-      "created_at": 1779193387,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=48192383"
-    },
-    {
-      "id": "48198551",
-      "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
-      "url": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
-      "points": 467,
-      "author": "atombender",
-      "created_at": 1779220369,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=48198551"
-    },
-    {
-      "id": "48190454",
-      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "points": 443,
-      "author": "LelouBil",
-      "created_at": 1779176753,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48190454"
-    },
-    {
-      "id": "48197703",
-      "title": "Disney erased FiveThirtyEight",
-      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
-      "points": 408,
-      "author": "7777777phil",
-      "created_at": 1779216985,
-      "num_comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=48197703"
-    },
-    {
-      "id": "48192882",
-      "title": "OpenBSD 7.9",
-      "url": "https://www.openbsd.org/79.html",
-      "points": 394,
-      "author": "bradley_taunt",
-      "created_at": 1779196311,
-      "num_comments": 285,
-      "hn_url": "https://news.ycombinator.com/item?id=48192882"
-    },
-    {
-      "id": "48196609",
-      "title": "Gemini Omni",
-      "url": "https://deepmind.google/models/gemini-omni/",
-      "points": 306,
-      "author": "meetpateltech",
-      "created_at": 1779212779,
-      "num_comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=48196609"
-    },
-    {
-      "id": "48198291",
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "points": 277,
-      "author": "smooke",
-      "created_at": 1779219270,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=48198291"
-    },
-    {
-      "id": "48200569",
-      "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
-      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "points": 273,
-      "author": "janalsncm",
-      "created_at": 1779229831,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=48200569"
-    },
-    {
-      "id": "48197995",
-      "title": "Mistral AI acquires Emmi AI",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "points": 258,
-      "author": "doener",
-      "created_at": 1779218052,
-      "num_comments": 74,
-      "hn_url": "https://news.ycombinator.com/item?id=48197995"
-    },
-    {
-      "id": "48196867",
-      "title": "Gemini CLI will stop working from June 18, 2026",
-      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "points": 206,
-      "author": "primaprashant",
-      "created_at": 1779213790,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=48196867"
-    },
-    {
       "id": "48212493",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
@@ -231,26 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48205626"
     },
     {
-      "id": "48201316",
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "url": "https://twitter.com/github/status/2056884788179726685",
-      "points": 619,
-      "author": "splenditer",
-      "created_at": 1779235278,
-      "num_comments": 330,
-      "hn_url": "https://news.ycombinator.com/item?id=48201316"
-    },
-    {
-      "id": "48201484",
-      "title": "Incident Report: Railway Blocked by Google Cloud [resolved]",
-      "url": "https://status.railway.com/incident/I23M92U0",
-      "points": 551,
-      "author": "aarondf",
-      "created_at": 1779236634,
-      "num_comments": 350,
-      "hn_url": "https://news.ycombinator.com/item?id=48201484"
-    },
-    {
       "id": "48214449",
       "title": "Google Declaring War on the Web",
       "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
@@ -259,16 +69,6 @@
       "created_at": 1779312798,
       "num_comments": 356,
       "hn_url": "https://news.ycombinator.com/item?id=48214449"
-    },
-    {
-      "id": "48203698",
-      "title": "Everything in C is undefined behavior",
-      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-      "points": 486,
-      "author": "lycopodiopsida",
-      "created_at": 1779257242,
-      "num_comments": 665,
-      "hn_url": "https://news.ycombinator.com/item?id=48203698"
     },
     {
       "id": "48210263",
@@ -321,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48212046"
     },
     {
-      "id": "48201973",
-      "title": "FiveThirtyEight articles on the Internet Archive",
-      "url": "https://fivethirtyeightindex.com/",
-      "points": 368,
-      "author": "ChocMontePy",
-      "created_at": 1779240859,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=48201973"
-    },
-    {
       "id": "48213933",
       "title": "SpaceX S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
@@ -349,16 +139,6 @@
       "created_at": 1779277892,
       "num_comments": 364,
       "hn_url": "https://news.ycombinator.com/item?id=48206241"
-    },
-    {
-      "id": "48202047",
-      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
-      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
-      "points": 351,
-      "author": "ranit",
-      "created_at": 1779241386,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=48202047"
     },
     {
       "id": "48205782",
@@ -15969,7 +15749,207 @@
       "created_at": 1786884631,
       "num_comments": 50,
       "hn_url": "https://news.ycombinator.com/item?id=49319573"
+    },
+    {
+      "id": "49336573",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "points": 762,
+      "author": "mooreds",
+      "created_at": 1786996035,
+      "num_comments": 490,
+      "hn_url": "https://news.ycombinator.com/item?id=49336573"
+    },
+    {
+      "id": "49330684",
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "points": 698,
+      "author": "kevcampb",
+      "created_at": 1786974055,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49330684"
+    },
+    {
+      "id": "49330781",
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "points": 597,
+      "author": "ibotty",
+      "created_at": 1786974387,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49330781"
+    },
+    {
+      "id": "49331033",
+      "title": "Ask HN: Alternatives to GitHub",
+      "url": "https://news.ycombinator.com/item?id=49331033",
+      "points": 562,
+      "author": "dhruv3006",
+      "created_at": 1786975157,
+      "num_comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=49331033"
+    },
+    {
+      "id": "49330597",
+      "title": "Incident with Github.com [resolved]",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "points": 538,
+      "author": "SpyCoder77",
+      "created_at": 1786973706,
+      "num_comments": 926,
+      "hn_url": "https://news.ycombinator.com/item?id=49330597"
+    },
+    {
+      "id": "49338459",
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "points": 397,
+      "author": "gavide",
+      "created_at": 1787005240,
+      "num_comments": 269,
+      "hn_url": "https://news.ycombinator.com/item?id=49338459"
+    },
+    {
+      "id": "49332981",
+      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "points": 395,
+      "author": "karakoram",
+      "created_at": 1786981797,
+      "num_comments": 531,
+      "hn_url": "https://news.ycombinator.com/item?id=49332981"
+    },
+    {
+      "id": "49331423",
+      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "points": 352,
+      "author": "galnagli",
+      "created_at": 1786976318,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49331423"
+    },
+    {
+      "id": "49337392",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "points": 334,
+      "author": "DeepLogin",
+      "created_at": 1786999570,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=49337392"
+    },
+    {
+      "id": "49337602",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "points": 332,
+      "author": "Topfi",
+      "created_at": 1787000598,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=49337602"
+    },
+    {
+      "id": "49334544",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "points": 332,
+      "author": "anana_",
+      "created_at": 1786987517,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=49334544"
+    },
+    {
+      "id": "49329575",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "points": 327,
+      "author": "plurby",
+      "created_at": 1786968582,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=49329575"
+    },
+    {
+      "id": "49330632",
+      "title": "GitHub down again? no PR access",
+      "url": "https://news.ycombinator.com/item?id=49330632",
+      "points": 288,
+      "author": "yodon",
+      "created_at": 1786973848,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49330632"
+    },
+    {
+      "id": "49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "points": 281,
+      "author": "ColinWright",
+      "created_at": 1786975676,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=49331220"
+    },
+    {
+      "id": "49325159",
+      "title": "The federal keyword lists that canceled billions in research funding",
+      "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+      "points": 278,
+      "author": "walrus01",
+      "created_at": 1786925650,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=49325159"
+    },
+    {
+      "id": "49338328",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "points": 274,
+      "author": "shdon",
+      "created_at": 1787004374,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=49338328"
+    },
+    {
+      "id": "49326816",
+      "title": "Linear algebra done right",
+      "url": "https://linear.axler.net/",
+      "points": 261,
+      "author": "the-mitr",
+      "created_at": 1786944094,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49326816"
+    },
+    {
+      "id": "49326156",
+      "title": "GIMP Development Update",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "points": 257,
+      "author": "lumpa",
+      "created_at": 1786936127,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=49326156"
+    },
+    {
+      "id": "49331222",
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "points": 244,
+      "author": "nyku",
+      "created_at": 1786975679,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=49331222"
+    },
+    {
+      "id": "49325789",
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "points": 239,
+      "author": "jacquesm",
+      "created_at": 1786931996,
+      "num_comments": 509,
+      "hn_url": "https://news.ycombinator.com/item?id=49325789"
     }
   ],
-  "last_updated": "2026-08-17T06:43:15.957867+00:00"
+  "last_updated": "2026-08-18T06:34:23.482233+00:00"
 }
