@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48212493",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "points": 1148,
-      "author": "tedsanders",
-      "created_at": 1779303930,
-      "num_comments": 830,
-      "hn_url": "https://news.ycombinator.com/item?id=48212493"
-    },
-    {
-      "id": "48206768",
-      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-      "url": "https://www.alqst.org/ar/posts/1190",
-      "points": 1020,
-      "author": "giuliomagnifico",
-      "created_at": 1779281021,
-      "num_comments": 430,
-      "hn_url": "https://news.ycombinator.com/item?id=48206768"
-    },
-    {
-      "id": "48207004",
-      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-      "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-      "points": 920,
-      "author": "healsdata",
-      "created_at": 1779282150,
-      "num_comments": 728,
-      "hn_url": "https://news.ycombinator.com/item?id=48207004"
-    },
-    {
-      "id": "48207660",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "points": 827,
-      "author": "Timofeibu",
-      "created_at": 1779284617,
-      "num_comments": 343,
-      "hn_url": "https://news.ycombinator.com/item?id=48207660"
-    },
-    {
-      "id": "48208502",
-      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "points": 730,
-      "author": "ceejayoz",
-      "created_at": 1779287447,
-      "num_comments": 467,
-      "hn_url": "https://news.ycombinator.com/item?id=48208502"
-    },
-    {
-      "id": "48205626",
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "url": "https://qwen.ai/blog?id=qwen3.7",
-      "points": 663,
-      "author": "kevinsimper",
-      "created_at": 1779273302,
-      "num_comments": 261,
-      "hn_url": "https://news.ycombinator.com/item?id=48205626"
-    },
-    {
-      "id": "48214449",
-      "title": "Google Declaring War on the Web",
-      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-      "points": 523,
-      "author": "cdrnsf",
-      "created_at": 1779312798,
-      "num_comments": 356,
-      "hn_url": "https://news.ycombinator.com/item?id=48214449"
-    },
-    {
-      "id": "48210263",
-      "title": "Apparently Google hates us now",
-      "url": "https://twitter.com/pokemoncentral/status/2057123807404638250",
-      "points": 471,
-      "author": "zeitg3ist",
-      "created_at": 1779294445,
-      "num_comments": 238,
-      "hn_url": "https://news.ycombinator.com/item?id=48210263"
-    },
-    {
-      "id": "48204770",
-      "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
-      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-      "points": 433,
-      "author": "0xedb",
-      "created_at": 1779266275,
-      "num_comments": 245,
-      "hn_url": "https://news.ycombinator.com/item?id=48204770"
-    },
-    {
-      "id": "48205699",
-      "title": "Map of Metal",
-      "url": "https://mapofmetal.com/",
-      "points": 420,
-      "author": "robin_reala",
-      "created_at": 1779274040,
-      "num_comments": 161,
-      "hn_url": "https://news.ycombinator.com/item?id=48205699"
-    },
-    {
-      "id": "48206340",
-      "title": "Saying goodbye to asm.js",
-      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-      "points": 375,
-      "author": "eqrion",
-      "created_at": 1779278516,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=48206340"
-    },
-    {
-      "id": "48212046",
-      "title": "Flipper One Tech Specs",
-      "url": "https://docs.flipper.net/one/general/tech-specs",
-      "points": 368,
-      "author": "gregsadetsky",
-      "created_at": 1779302036,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=48212046"
-    },
-    {
-      "id": "48213933",
-      "title": "SpaceX S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
-      "points": 365,
-      "author": "cachecow",
-      "created_at": 1779310199,
-      "num_comments": 291,
-      "hn_url": "https://news.ycombinator.com/item?id=48213933"
-    },
-    {
-      "id": "48206241",
-      "title": "College students drown out AI-praising commencement speeches with boos",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
-      "points": 362,
-      "author": "iancmceachern",
-      "created_at": 1779277892,
-      "num_comments": 364,
-      "hn_url": "https://news.ycombinator.com/item?id=48206241"
-    },
-    {
-      "id": "48205782",
-      "title": "Google\u2019s AI is being manipulated. The search giant is quietly fighting back",
-      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "points": 312,
-      "author": "tigerlily",
-      "created_at": 1779274629,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=48205782"
-    },
-    {
       "id": "48220647",
       "title": "Flipper One \u2013 we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
@@ -319,16 +169,6 @@
       "created_at": 1779389695,
       "num_comments": 148,
       "hn_url": "https://news.ycombinator.com/item?id=48227397"
-    },
-    {
-      "id": "48216278",
-      "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "points": 255,
-      "author": "wapasta",
-      "created_at": 1779323761,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48216278"
     },
     {
       "id": "48222241",
@@ -15949,7 +15789,207 @@
       "created_at": 1786931996,
       "num_comments": 509,
       "hn_url": "https://news.ycombinator.com/item?id=49325789"
+    },
+    {
+      "id": "49345263",
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "points": 1104,
+      "author": "herbertl",
+      "created_at": 1787059358,
+      "num_comments": 610,
+      "hn_url": "https://news.ycombinator.com/item?id=49345263"
+    },
+    {
+      "id": "49343559",
+      "title": "Google has acquired the data of failed US airline Spirit",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "points": 572,
+      "author": "pseudolus",
+      "created_at": 1787048008,
+      "num_comments": 395,
+      "hn_url": "https://news.ycombinator.com/item?id=49343559"
+    },
+    {
+      "id": "49342719",
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "points": 518,
+      "author": "flaburgan",
+      "created_at": 1787039510,
+      "num_comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=49342719"
+    },
+    {
+      "id": "49351324",
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "points": 507,
+      "author": "KolmogorovComp",
+      "created_at": 1787081391,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=49351324"
+    },
+    {
+      "id": "49344825",
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "points": 423,
+      "author": "otherayden",
+      "created_at": 1787057034,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49344825"
+    },
+    {
+      "id": "49345220",
+      "title": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "points": 397,
+      "author": "jp_sc",
+      "created_at": 1787059120,
+      "num_comments": 266,
+      "hn_url": "https://news.ycombinator.com/item?id=49345220"
+    },
+    {
+      "id": "49344811",
+      "title": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "points": 365,
+      "author": "Vinnl",
+      "created_at": 1787056973,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=49344811"
+    },
+    {
+      "id": "49349984",
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "points": 300,
+      "author": "NaOH",
+      "created_at": 1787076713,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49349984"
+    },
+    {
+      "id": "49349147",
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "points": 296,
+      "author": "cwwc",
+      "created_at": 1787073893,
+      "num_comments": 447,
+      "hn_url": "https://news.ycombinator.com/item?id=49349147"
+    },
+    {
+      "id": "49345843",
+      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+      "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+      "points": 270,
+      "author": "zeristor",
+      "created_at": 1787062010,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=49345843"
+    },
+    {
+      "id": "49348751",
+      "title": "Claude Code May\u2013August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "points": 268,
+      "author": "tyre",
+      "created_at": 1787072535,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=49348751"
+    },
+    {
+      "id": "49348912",
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "points": 264,
+      "author": "_djo_",
+      "created_at": 1787073088,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=49348912"
+    },
+    {
+      "id": "49340013",
+      "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
+      "url": "https://news.ycombinator.com/item?id=49340013",
+      "points": 255,
+      "author": "ramesh31",
+      "created_at": 1787016528,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=49340013"
+    },
+    {
+      "id": "49344654",
+      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+      "points": 249,
+      "author": "DeepLogin",
+      "created_at": 1787055835,
+      "num_comments": 166,
+      "hn_url": "https://news.ycombinator.com/item?id=49344654"
+    },
+    {
+      "id": "49342530",
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "points": 236,
+      "author": "honungsburk",
+      "created_at": 1787038107,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49342530"
+    },
+    {
+      "id": "49353221",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "points": 234,
+      "author": "phoenix120",
+      "created_at": 1787089833,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49353221"
+    },
+    {
+      "id": "49351330",
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "points": 231,
+      "author": "alexeigannon",
+      "created_at": 1787081429,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=49351330"
+    },
+    {
+      "id": "49349898",
+      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "points": 230,
+      "author": "fittingopposite",
+      "created_at": 1787076441,
+      "num_comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49349898"
+    },
+    {
+      "id": "49342472",
+      "title": "Finger: the 1971 social network that never died",
+      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+      "points": 176,
+      "author": "andros",
+      "created_at": 1787037695,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49342472"
+    },
+    {
+      "id": "49345476",
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "points": 171,
+      "author": "jeroenjanssens",
+      "created_at": 1787060303,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49345476"
     }
   ],
-  "last_updated": "2026-08-18T06:34:23.482233+00:00"
+  "last_updated": "2026-08-19T06:35:40.409090+00:00"
 }
