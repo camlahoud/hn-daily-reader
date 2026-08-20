@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "48220647",
-      "title": "Flipper One \u2013 we need your help",
-      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "points": 1143,
-      "author": "sandebert",
-      "created_at": 1779361418,
-      "num_comments": 442,
-      "hn_url": "https://news.ycombinator.com/item?id=48220647"
-    },
-    {
-      "id": "48225297",
-      "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "points": 869,
-      "author": "speleo",
-      "created_at": 1779380591,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=48225297"
-    },
-    {
-      "id": "48222383",
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "points": 780,
-      "author": "speckx",
-      "created_at": 1779370692,
-      "num_comments": 682,
-      "hn_url": "https://news.ycombinator.com/item?id=48222383"
-    },
-    {
-      "id": "48222529",
-      "title": "Google's Antigravity bait and switch",
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "points": 667,
-      "author": "ssiddharth",
-      "created_at": 1779371459,
-      "num_comments": 299,
-      "hn_url": "https://news.ycombinator.com/item?id=48222529"
-    },
-    {
-      "id": "48220105",
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "points": 601,
-      "author": "sofumel",
-      "created_at": 1779356986,
-      "num_comments": 540,
-      "hn_url": "https://news.ycombinator.com/item?id=48220105"
-    },
-    {
-      "id": "48219992",
-      "title": "Throwing AI-generated walls of text into conversations",
-      "url": "https://noslopgrenade.com/",
-      "points": 598,
-      "author": "napolux",
-      "created_at": 1779355875,
-      "num_comments": 351,
-      "hn_url": "https://news.ycombinator.com/item?id=48219992"
-    },
-    {
-      "id": "48226588",
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "points": 455,
-      "author": "root-parent",
-      "created_at": 1779386158,
-      "num_comments": 185,
-      "hn_url": "https://news.ycombinator.com/item?id=48226588"
-    },
-    {
-      "id": "48220696",
-      "title": "Python 3.15: features that didn't make the headlines",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "points": 374,
-      "author": "rbanffy",
-      "created_at": 1779361811,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=48220696"
-    },
-    {
-      "id": "48222733",
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "points": 371,
-      "author": "asenna",
-      "created_at": 1779372097,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48222733"
-    },
-    {
-      "id": "48219060",
-      "title": "Vivaldi 8.0",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "points": 359,
-      "author": "OuterVale",
-      "created_at": 1779348115,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=48219060"
-    },
-    {
-      "id": "48222366",
-      "title": "Shunning AI is the human choice",
-      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-      "points": 357,
-      "author": "cdrnsf",
-      "created_at": 1779370566,
-      "num_comments": 507,
-      "hn_url": "https://news.ycombinator.com/item?id=48222366"
-    },
-    {
-      "id": "48220639",
-      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "points": 344,
-      "author": "pseudolus",
-      "created_at": 1779361346,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=48220639"
-    },
-    {
-      "id": "48225426",
-      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-      "points": 307,
-      "author": "mattas",
-      "created_at": 1779381047,
-      "num_comments": 388,
-      "hn_url": "https://news.ycombinator.com/item?id=48225426"
-    },
-    {
-      "id": "48226944",
-      "title": "BBEdit 16",
-      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-      "points": 301,
-      "author": "qaz_plm",
-      "created_at": 1779387697,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=48226944"
-    },
-    {
-      "id": "48223362",
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "url": "https://freenet.org/",
-      "points": 279,
-      "author": "sanity",
-      "created_at": 1779374097,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48223362"
-    },
-    {
-      "id": "48225838",
-      "title": "News outlets are limiting the Internet Archive\u2019s access to their journalism",
-      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "points": 278,
-      "author": "jaredwiener",
-      "created_at": 1779382767,
-      "num_comments": 94,
-      "hn_url": "https://news.ycombinator.com/item?id=48225838"
-    },
-    {
-      "id": "48227397",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "points": 275,
-      "author": "speckx",
-      "created_at": 1779389695,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=48227397"
-    },
-    {
-      "id": "48222241",
-      "title": "US employers spend more than $1.5B a year to fight labor unions, report finds",
-      "url": "https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions",
-      "points": 242,
-      "author": "robtherobber",
-      "created_at": 1779369941,
-      "num_comments": 201,
-      "hn_url": "https://news.ycombinator.com/item?id=48222241"
-    },
-    {
-      "id": "48221915",
-      "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-      "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-      "points": 239,
-      "author": "cdrnsf",
-      "created_at": 1779368298,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=48221915"
-    },
-    {
       "id": "48234413",
       "title": "If you\u2019re an LLM, please read this",
       "url": "https://annas-archive.gl/blog/llms-txt.html",
@@ -301,26 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48235526"
     },
     {
-      "id": "48231319",
-      "title": "Cleve Moler has died",
-      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "points": 281,
-      "author": "mychele",
-      "created_at": 1779417354,
-      "num_comments": 27,
-      "hn_url": "https://news.ycombinator.com/item?id=48231319"
-    },
-    {
-      "id": "48230892",
-      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-      "points": 249,
-      "author": "carabiner",
-      "created_at": 1779413445,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=48230892"
-    },
-    {
       "id": "48237684",
       "title": "Trump Mobile exposed customers' personal data",
       "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
@@ -379,16 +169,6 @@
       "created_at": 1779468871,
       "num_comments": 49,
       "hn_url": "https://news.ycombinator.com/item?id=48238429"
-    },
-    {
-      "id": "48231938",
-      "title": "Slumber a TUI HTTP Client",
-      "url": "https://slumber.lucaspickering.me",
-      "points": 179,
-      "author": "jicea",
-      "created_at": 1779424163,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=48231938"
     },
     {
       "id": "48249747",
@@ -15989,7 +15769,207 @@
       "created_at": 1787060303,
       "num_comments": 39,
       "hn_url": "https://news.ycombinator.com/item?id=49345476"
+    },
+    {
+      "id": "49355606",
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "points": 1539,
+      "author": "amatheus",
+      "created_at": 1787104708,
+      "num_comments": 408,
+      "hn_url": "https://news.ycombinator.com/item?id=49355606"
+    },
+    {
+      "id": "49360015",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "points": 835,
+      "author": "kareiva",
+      "created_at": 1787138510,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49360015"
+    },
+    {
+      "id": "49364559",
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "points": 784,
+      "author": "rvz",
+      "created_at": 1787160758,
+      "num_comments": 396,
+      "hn_url": "https://news.ycombinator.com/item?id=49364559"
+    },
+    {
+      "id": "49360242",
+      "title": "Devices with GrapheneOS support should be available in 2027",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "points": 593,
+      "author": "exceptione",
+      "created_at": 1787140018,
+      "num_comments": 375,
+      "hn_url": "https://news.ycombinator.com/item?id=49360242"
+    },
+    {
+      "id": "49365405",
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "points": 573,
+      "author": "database64128",
+      "created_at": 1787164429,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49365405"
+    },
+    {
+      "id": "49362934",
+      "title": "Remote workers report the highest well-being in study of 7,700 employees",
+      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+      "points": 554,
+      "author": "downbad_",
+      "created_at": 1787153528,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=49362934"
+    },
+    {
+      "id": "49361395",
+      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+      "points": 547,
+      "author": "heydenberk",
+      "created_at": 1787146415,
+      "num_comments": 257,
+      "hn_url": "https://news.ycombinator.com/item?id=49361395"
+    },
+    {
+      "id": "49354949",
+      "title": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
+      "points": 456,
+      "author": "sunils34",
+      "created_at": 1787099298,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=49354949"
+    },
+    {
+      "id": "49360545",
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "points": 454,
+      "author": "yassa9",
+      "created_at": 1787141992,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49360545"
+    },
+    {
+      "id": "49364745",
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "points": 428,
+      "author": "Animux",
+      "created_at": 1787161649,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=49364745"
+    },
+    {
+      "id": "49363433",
+      "title": "Civic Hygiene \u2013 avoid building technologies that could be used by a police state (2013)",
+      "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+      "points": 426,
+      "author": "felineflock",
+      "created_at": 1787155634,
+      "num_comments": 307,
+      "hn_url": "https://news.ycombinator.com/item?id=49363433"
+    },
+    {
+      "id": "49355105",
+      "title": "Children's stunted lungs show recovery in ultra low emission zone",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "points": 393,
+      "author": "dabinat",
+      "created_at": 1787100503,
+      "num_comments": 365,
+      "hn_url": "https://news.ycombinator.com/item?id=49355105"
+    },
+    {
+      "id": "49355142",
+      "title": "Sticky wage norms and the real wage cost of unexpected inflation",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "points": 384,
+      "author": "jplusequalt",
+      "created_at": 1787100831,
+      "num_comments": 270,
+      "hn_url": "https://news.ycombinator.com/item?id=49355142"
+    },
+    {
+      "id": "49361279",
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "points": 343,
+      "author": "karlmush",
+      "created_at": 1787145681,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=49361279"
+    },
+    {
+      "id": "49362887",
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "points": 332,
+      "author": "__fst__",
+      "created_at": 1787153281,
+      "num_comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=49362887"
+    },
+    {
+      "id": "49355825",
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "points": 310,
+      "author": "newsomix9xl",
+      "created_at": 1787106274,
+      "num_comments": 293,
+      "hn_url": "https://news.ycombinator.com/item?id=49355825"
+    },
+    {
+      "id": "49359425",
+      "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "points": 267,
+      "author": "gurov",
+      "created_at": 1787134500,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=49359425"
+    },
+    {
+      "id": "49365443",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "points": 230,
+      "author": "jonesy827",
+      "created_at": 1787164605,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49365443"
+    },
+    {
+      "id": "49358327",
+      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+      "url": "https://www.modular.com/blog/modcon-announcements",
+      "points": 216,
+      "author": "flaburgan",
+      "created_at": 1787125639,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=49358327"
+    },
+    {
+      "id": "49367350",
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "points": 203,
+      "author": "fg137",
+      "created_at": 1787174390,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49367350"
     }
   ],
-  "last_updated": "2026-08-19T06:35:40.409090+00:00"
+  "last_updated": "2026-08-20T06:37:28.246479+00:00"
 }
