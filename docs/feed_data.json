@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48234413",
-      "title": "If you\u2019re an LLM, please read this",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "points": 795,
-      "author": "janandonly",
-      "created_at": 1779449288,
-      "num_comments": 420,
-      "hn_url": "https://news.ycombinator.com/item?id=48234413"
-    },
-    {
-      "id": "48237163",
-      "title": "Why Japanese companies do so many different things",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "points": 634,
-      "author": "d0ks",
-      "created_at": 1779463324,
-      "num_comments": 313,
-      "hn_url": "https://news.ycombinator.com/item?id=48237163"
-    },
-    {
-      "id": "48233563",
-      "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "points": 623,
-      "author": "signa11",
-      "created_at": 1779440694,
-      "num_comments": 513,
-      "hn_url": "https://news.ycombinator.com/item?id=48233563"
-    },
-    {
-      "id": "48238789",
-      "title": "Bun support is now limited and deprecated",
-      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "points": 462,
-      "author": "tamnd",
-      "created_at": 1779470652,
-      "num_comments": 468,
-      "hn_url": "https://news.ycombinator.com/item?id=48238789"
-    },
-    {
-      "id": "48240419",
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "points": 412,
-      "author": "louiereederson",
-      "created_at": 1779478305,
-      "num_comments": 249,
-      "hn_url": "https://news.ycombinator.com/item?id=48240419"
-    },
-    {
-      "id": "48238025",
-      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-      "points": 391,
-      "author": "ceejayoz",
-      "created_at": 1779466988,
-      "num_comments": 242,
-      "hn_url": "https://news.ycombinator.com/item?id=48238025"
-    },
-    {
-      "id": "48241997",
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "points": 390,
-      "author": "lexandstuff",
-      "created_at": 1779485815,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=48241997"
-    },
-    {
-      "id": "48234090",
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "points": 381,
-      "author": "jetter",
-      "created_at": 1779446306,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=48234090"
-    },
-    {
-      "id": "48237663",
-      "title": "DeepSeek makes the V4 Pro price discount permanent",
-      "url": "https://api-docs.deepseek.com/quick_start/pricing",
-      "points": 375,
-      "author": "Tiberium",
-      "created_at": 1779465566,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=48237663"
-    },
-    {
-      "id": "48234380",
-      "title": "Deno 2.8",
-      "url": "https://deno.com/blog/v2.8",
-      "points": 349,
-      "author": "roflcopter69",
-      "created_at": 1779449010,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=48234380"
-    },
-    {
-      "id": "48235526",
-      "title": "AI has a multiplying effect on existing technical skills",
-      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-      "points": 304,
-      "author": "moebrowne",
-      "created_at": 1779456162,
-      "num_comments": 287,
-      "hn_url": "https://news.ycombinator.com/item?id=48235526"
-    },
-    {
-      "id": "48237684",
-      "title": "Trump Mobile exposed customers' personal data",
-      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-      "points": 242,
-      "author": "rippeltippel",
-      "created_at": 1779465635,
-      "num_comments": 117,
-      "hn_url": "https://news.ycombinator.com/item?id=48237684"
-    },
-    {
-      "id": "48242959",
-      "title": "SpaceX launches Starship v3 rocket",
-      "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-      "points": 231,
-      "author": "busymom0",
-      "created_at": 1779493315,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48242959"
-    },
-    {
-      "id": "48238896",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "points": 213,
-      "author": "robertkarl",
-      "created_at": 1779471124,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48238896"
-    },
-    {
-      "id": "48239413",
-      "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "url": "https://www.kanbots.dev/",
-      "points": 213,
-      "author": "vitriapp",
-      "created_at": 1779473877,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=48239413"
-    },
-    {
-      "id": "48234547",
-      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-      "points": 199,
-      "author": "soft-research",
-      "created_at": 1779450324,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=48234547"
-    },
-    {
-      "id": "48238429",
-      "title": "CISA tries to contain data leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "points": 189,
-      "author": "speckx",
-      "created_at": 1779468871,
-      "num_comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=48238429"
-    },
-    {
       "id": "48249747",
       "title": "Texas woman arrested for Facebook post about town water quality",
       "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
@@ -241,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48248775"
     },
     {
-      "id": "48243863",
-      "title": "Is AI Profitable Yet?",
-      "url": "https://isaiprofitable.com/",
-      "points": 250,
-      "author": "poyu",
-      "created_at": 1779502238,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=48243863"
-    },
-    {
       "id": "48247004",
       "title": "80386 microcode disassembled",
       "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
@@ -281,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48247127"
     },
     {
-      "id": "48244434",
-      "title": "Microsoft reports AI is more expensive than paying human employees",
-      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "points": 224,
-      "author": "nreece",
-      "created_at": 1779507856,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=48244434"
-    },
-    {
       "id": "48246614",
       "title": "US tech firms share Dutch regulator officials' names with Senate",
       "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
@@ -309,26 +119,6 @@
       "created_at": 1779544622,
       "num_comments": 87,
       "hn_url": "https://news.ycombinator.com/item?id=48247737"
-    },
-    {
-      "id": "48243293",
-      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
-      "points": 189,
-      "author": "bilalq",
-      "created_at": 1779496465,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48243293"
-    },
-    {
-      "id": "48245262",
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "url": "https://github.com/amatsuda/rubish",
-      "points": 175,
-      "author": "winebarrel",
-      "created_at": 1779517920,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=48245262"
     },
     {
       "id": "48246889",
@@ -15969,7 +15759,207 @@
       "created_at": 1787174390,
       "num_comments": 114,
       "hn_url": "https://news.ycombinator.com/item?id=49367350"
+    },
+    {
+      "id": "49379550",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "points": 1358,
+      "author": "speckx",
+      "created_at": 1787256446,
+      "num_comments": 294,
+      "hn_url": "https://news.ycombinator.com/item?id=49379550"
+    },
+    {
+      "id": "49371857",
+      "title": "Don't paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "points": 1006,
+      "author": "pjerem",
+      "created_at": 1787214044,
+      "num_comments": 554,
+      "hn_url": "https://news.ycombinator.com/item?id=49371857"
+    },
+    {
+      "id": "49372583",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "points": 942,
+      "author": "emctech",
+      "created_at": 1787220532,
+      "num_comments": 297,
+      "hn_url": "https://news.ycombinator.com/item?id=49372583"
+    },
+    {
+      "id": "49373456",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "points": 542,
+      "author": "simedw",
+      "created_at": 1787227478,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=49373456"
+    },
+    {
+      "id": "49374269",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "points": 461,
+      "author": "abhisek",
+      "created_at": 1787232192,
+      "num_comments": 394,
+      "hn_url": "https://news.ycombinator.com/item?id=49374269"
+    },
+    {
+      "id": "49378957",
+      "title": "The August 17 outage",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "points": 444,
+      "author": "0xedb",
+      "created_at": 1787253744,
+      "num_comments": 511,
+      "hn_url": "https://news.ycombinator.com/item?id=49378957"
+    },
+    {
+      "id": "49368886",
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "points": 387,
+      "author": "EwanG",
+      "created_at": 1787184901,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=49368886"
+    },
+    {
+      "id": "49371006",
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "points": 342,
+      "author": "luu",
+      "created_at": 1787206600,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49371006"
+    },
+    {
+      "id": "49369408",
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "points": 337,
+      "author": "mayoff",
+      "created_at": 1787189352,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=49369408"
+    },
+    {
+      "id": "49378630",
+      "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
+      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+      "points": 325,
+      "author": "Akasci",
+      "created_at": 1787252072,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49378630"
+    },
+    {
+      "id": "49378768",
+      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "points": 279,
+      "author": "danielvaughn",
+      "created_at": 1787252736,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=49378768"
+    },
+    {
+      "id": "49378243",
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "points": 264,
+      "author": "gregsadetsky",
+      "created_at": 1787249991,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49378243"
+    },
+    {
+      "id": "49377853",
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "points": 244,
+      "author": "tyre",
+      "created_at": 1787248202,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49377853"
+    },
+    {
+      "id": "49374797",
+      "title": "Bun 1.4",
+      "url": "https://bun.com/blog/bun-v1.4",
+      "points": 239,
+      "author": "meetpateltech",
+      "created_at": 1787235012,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=49374797"
+    },
+    {
+      "id": "49375996",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "points": 230,
+      "author": "Bluestein",
+      "created_at": 1787239562,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=49375996"
+    },
+    {
+      "id": "49376265",
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "points": 228,
+      "author": "mariuz",
+      "created_at": 1787240778,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49376265"
+    },
+    {
+      "id": "49374738",
+      "title": "Stwipe Acquires OpenWouter",
+      "url": "https://stwipe.com/",
+      "points": 211,
+      "author": "eatonphil",
+      "created_at": 1787234686,
+      "num_comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=49374738"
+    },
+    {
+      "id": "49379253",
+      "title": "Stop eating Lady Gaga's Oreos",
+      "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+      "points": 183,
+      "author": "cwal37",
+      "created_at": 1787255166,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=49379253"
+    },
+    {
+      "id": "49376332",
+      "title": "How to compromise your system with a job interview",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "points": 149,
+      "author": "codedge",
+      "created_at": 1787241057,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=49376332"
+    },
+    {
+      "id": "49374287",
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "points": 146,
+      "author": "gmays",
+      "created_at": 1787232272,
+      "num_comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=49374287"
     }
   ],
-  "last_updated": "2026-08-20T06:37:28.246479+00:00"
+  "last_updated": "2026-08-21T06:37:27.968714+00:00"
 }
