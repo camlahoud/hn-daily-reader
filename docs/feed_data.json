@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "48249747",
-      "title": "Texas woman arrested for Facebook post about town water quality",
-      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "points": 705,
-      "author": "abawany",
-      "created_at": 1779559362,
-      "num_comments": 290,
-      "hn_url": "https://news.ycombinator.com/item?id=48249747"
-    },
-    {
-      "id": "48245862",
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "url": "https://twitter.com/josefprusa/status/2054602354851254330",
-      "points": 398,
-      "author": "Tomte",
-      "created_at": 1779524697,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48245862"
-    },
-    {
-      "id": "48247325",
-      "title": "On The <dl> (2021)",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "points": 387,
-      "author": "ravenical",
-      "created_at": 1779541423,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=48247325"
-    },
-    {
-      "id": "48250144",
-      "title": "Time to talk about my writerdeck",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "points": 365,
-      "author": "hggh",
-      "created_at": 1779561937,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=48250144"
-    },
-    {
-      "id": "48247208",
-      "title": "The Art of Money Getting",
-      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "points": 275,
-      "author": "dxs",
-      "created_at": 1779540482,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=48247208"
-    },
-    {
-      "id": "48247876",
-      "title": "Oura says it gets government demands for user data",
-      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "points": 271,
-      "author": "donohoe",
-      "created_at": 1779545397,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=48247876"
-    },
-    {
-      "id": "48248775",
-      "title": "Italy moves to Airbus A330 tankers",
-      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-      "points": 255,
-      "author": "embedding-shape",
-      "created_at": 1779552163,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=48248775"
-    },
-    {
-      "id": "48247004",
-      "title": "80386 microcode disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "points": 247,
-      "author": "nand2mario",
-      "created_at": 1779538303,
-      "num_comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=48247004"
-    },
-    {
-      "id": "48245571",
-      "title": "Experience: We found a baby on the subway \u2013 now he's our 26-year-old son",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-      "points": 246,
-      "author": "Michelangelo11",
-      "created_at": 1779521673,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=48245571"
-    },
-    {
-      "id": "48247127",
-      "title": "I Miss Terry Pratchett",
-      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "points": 232,
-      "author": "gorgmah",
-      "created_at": 1779539728,
-      "num_comments": 232,
-      "hn_url": "https://news.ycombinator.com/item?id=48247127"
-    },
-    {
-      "id": "48246614",
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "points": 211,
-      "author": "zqna",
-      "created_at": 1779533834,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48246614"
-    },
-    {
-      "id": "48247737",
-      "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
-      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
-      "points": 193,
-      "author": "Brajeshwar",
-      "created_at": 1779544622,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=48247737"
-    },
-    {
-      "id": "48246889",
-      "title": "Making deep learning go brrrr from first principles (2022)",
-      "url": "https://horace.io/brrr_intro.html",
-      "points": 169,
-      "author": "tosh",
-      "created_at": 1779537022,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=48246889"
-    },
-    {
-      "id": "48245362",
-      "title": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
-      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
-      "points": 153,
-      "author": "gslin",
-      "created_at": 1779519289,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=48245362"
-    },
-    {
-      "id": "48252060",
-      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
-      "points": 151,
-      "author": "borski",
-      "created_at": 1779574145,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=48252060"
-    },
-    {
-      "id": "48246735",
-      "title": "DHS Quits Granting Green Cards\u2013Almost",
-      "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
-      "points": 141,
-      "author": "malshe",
-      "created_at": 1779535103,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=48246735"
-    },
-    {
       "id": "48256953",
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
@@ -169,26 +9,6 @@
       "created_at": 1779627726,
       "num_comments": 233,
       "hn_url": "https://news.ycombinator.com/item?id=48256953"
-    },
-    {
-      "id": "48253386",
-      "title": "Microsoft open-sources \u201cthe earliest DOS source code discovered to date\u201d",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "points": 474,
-      "author": "DamnInteresting",
-      "created_at": 1779585673,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=48253386"
-    },
-    {
-      "id": "48253060",
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "points": 421,
-      "author": "MaximilianEmel",
-      "created_at": 1779582650,
-      "num_comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=48253060"
     },
     {
       "id": "48258684",
@@ -209,36 +29,6 @@
       "created_at": 1779636343,
       "num_comments": 81,
       "hn_url": "https://news.ycombinator.com/item?id=48258015"
-    },
-    {
-      "id": "48254309",
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "points": 324,
-      "author": "zdw",
-      "created_at": 1779596092,
-      "num_comments": 199,
-      "hn_url": "https://news.ycombinator.com/item?id=48254309"
-    },
-    {
-      "id": "48254475",
-      "title": "Amazon Web Services \u2013 Four Years and Out",
-      "url": "https://www.adventuresinoss.com/aws-four-years/",
-      "points": 314,
-      "author": "RyeCombinator",
-      "created_at": 1779598282,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=48254475"
-    },
-    {
-      "id": "48253186",
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "points": 289,
-      "author": "spike021",
-      "created_at": 1779583892,
-      "num_comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=48253186"
     },
     {
       "id": "48259808",
@@ -15959,7 +15749,207 @@
       "created_at": 1787232272,
       "num_comments": 35,
       "hn_url": "https://news.ycombinator.com/item?id=49374287"
+    },
+    {
+      "id": "49388154",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "points": 1079,
+      "author": "speckx",
+      "created_at": 1787320597,
+      "num_comments": 356,
+      "hn_url": "https://news.ycombinator.com/item?id=49388154"
+    },
+    {
+      "id": "49385994",
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "points": 703,
+      "author": "darccio",
+      "created_at": 1787306746,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49385994"
+    },
+    {
+      "id": "49386895",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "points": 691,
+      "author": "floathub",
+      "created_at": 1787314213,
+      "num_comments": 835,
+      "hn_url": "https://news.ycombinator.com/item?id=49386895"
+    },
+    {
+      "id": "49387497",
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+      "points": 654,
+      "author": "throw7",
+      "created_at": 1787317471,
+      "num_comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=49387497"
+    },
+    {
+      "id": "49389430",
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "points": 616,
+      "author": "colinprince",
+      "created_at": 1787325424,
+      "num_comments": 256,
+      "hn_url": "https://news.ycombinator.com/item?id=49389430"
+    },
+    {
+      "id": "49383026",
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "points": 553,
+      "author": "Cider9986",
+      "created_at": 1787279867,
+      "num_comments": 852,
+      "hn_url": "https://news.ycombinator.com/item?id=49383026"
+    },
+    {
+      "id": "49387570",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "points": 494,
+      "author": "gavide",
+      "created_at": 1787317888,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49387570"
+    },
+    {
+      "id": "49390427",
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "points": 487,
+      "author": "thepoet",
+      "created_at": 1787329525,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49390427"
+    },
+    {
+      "id": "49386163",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "points": 474,
+      "author": "dares2573",
+      "created_at": 1787308436,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=49386163"
+    },
+    {
+      "id": "49384180",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "points": 359,
+      "author": "rdmuser",
+      "created_at": 1787290294,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=49384180"
+    },
+    {
+      "id": "49386699",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "points": 330,
+      "author": "rcymerys",
+      "created_at": 1787312885,
+      "num_comments": 337,
+      "hn_url": "https://news.ycombinator.com/item?id=49386699"
+    },
+    {
+      "id": "49384896",
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "points": 257,
+      "author": "spankibalt",
+      "created_at": 1787297007,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49384896"
+    },
+    {
+      "id": "49388752",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "points": 241,
+      "author": "aakil",
+      "created_at": 1787322712,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=49388752"
+    },
+    {
+      "id": "49387525",
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "points": 228,
+      "author": "speckx",
+      "created_at": 1787317646,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=49387525"
+    },
+    {
+      "id": "49385860",
+      "title": "Small, native web tricks worth remembering",
+      "url": "https://htmlcat.net/",
+      "points": 216,
+      "author": "marcomezzavilla",
+      "created_at": 1787305514,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49385860"
+    },
+    {
+      "id": "49382041",
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "points": 186,
+      "author": "u1hcw9nx",
+      "created_at": 1787271312,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=49382041"
+    },
+    {
+      "id": "49392200",
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "points": 178,
+      "author": "NKosmatos",
+      "created_at": 1787337394,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49392200"
+    },
+    {
+      "id": "49390132",
+      "title": "Omacom Foundation launches with $8M",
+      "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+      "points": 165,
+      "author": "djfergus",
+      "created_at": 1787328227,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=49390132"
+    },
+    {
+      "id": "49389565",
+      "title": "AI boosted homework scores, then exam scores dropped: Study",
+      "url": "https://canews24.online/?p=71",
+      "points": 165,
+      "author": "Edymilson",
+      "created_at": 1787325942,
+      "num_comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49389565"
+    },
+    {
+      "id": "49383326",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "points": 146,
+      "author": "TheP1000",
+      "created_at": 1787282263,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=49383326"
     }
   ],
-  "last_updated": "2026-08-21T06:37:27.968714+00:00"
+  "last_updated": "2026-08-22T06:31:17.949287+00:00"
 }
