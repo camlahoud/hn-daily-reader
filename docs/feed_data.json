@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48256953",
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "points": 563,
-      "author": "Alifatisk",
-      "created_at": 1779627726,
-      "num_comments": 233,
-      "hn_url": "https://news.ycombinator.com/item?id=48256953"
-    },
-    {
-      "id": "48258684",
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "points": 387,
-      "author": "intelkishan",
-      "created_at": 1779640289,
-      "num_comments": 396,
-      "hn_url": "https://news.ycombinator.com/item?id=48258684"
-    },
-    {
-      "id": "48258015",
-      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "points": 366,
-      "author": "pantelisk",
-      "created_at": 1779636343,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=48258015"
-    },
-    {
-      "id": "48259808",
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "points": 281,
-      "author": "jabits",
-      "created_at": 1779647502,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=48259808"
-    },
-    {
-      "id": "48259784",
-      "title": "Claude is not your architect. Stop letting it pretend",
-      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
-      "points": 251,
-      "author": "cdrnsf",
-      "created_at": 1779647291,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=48259784"
-    },
-    {
-      "id": "48259990",
-      "title": "The four-day workweek in Australia: insights from early adopters of 100:80:100",
-      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
-      "points": 242,
-      "author": "randycupertino",
-      "created_at": 1779648969,
-      "num_comments": 227,
-      "hn_url": "https://news.ycombinator.com/item?id=48259990"
-    },
-    {
-      "id": "48256912",
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "points": 241,
-      "author": "wek",
-      "created_at": 1779627353,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=48256912"
-    },
-    {
-      "id": "48256597",
-      "title": "Childhood Computing",
-      "url": "https://susam.net/childhood-computing.html",
-      "points": 211,
-      "author": "blenderob",
-      "created_at": 1779624454,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=48256597"
-    },
-    {
-      "id": "48257410",
-      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-      "points": 207,
-      "author": "moh_maya",
-      "created_at": 1779631773,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=48257410"
-    },
-    {
-      "id": "48255593",
-      "title": "Greg Brockman interview [video]",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "points": 198,
-      "author": "prakashqwerty",
-      "created_at": 1779611378,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=48255593"
-    },
-    {
-      "id": "48258194",
-      "title": "Usborne 1980s Computer Books",
-      "url": "https://usborne.com/us/books/computer-and-coding-books",
-      "points": 177,
-      "author": "ngram",
-      "created_at": 1779637380,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=48258194"
-    },
-    {
-      "id": "48257612",
-      "title": "Omarchy Is Not A Distro",
-      "url": "https://abyss.fish/your_dotfiles_are_not_a_distro",
-      "points": 170,
-      "author": "j3s",
-      "created_at": 1779633441,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=48257612"
-    },
-    {
-      "id": "48257980",
-      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-      "points": 163,
-      "author": "Brajeshwar",
-      "created_at": 1779636088,
-      "num_comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=48257980"
-    },
-    {
-      "id": "48260117",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "points": 163,
-      "author": "littlexsparkee",
-      "created_at": 1779649826,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48260117"
-    },
-    {
-      "id": "48257532",
-      "title": "The seed oil panic is hurting my cardiac patients",
-      "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
-      "points": 155,
-      "author": "randycupertino",
-      "created_at": 1779632846,
-      "num_comments": 222,
-      "hn_url": "https://news.ycombinator.com/item?id=48257532"
-    },
-    {
       "id": "48265206",
       "title": "Magnifica Humanitas",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
@@ -191,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48266051"
     },
     {
-      "id": "48263238",
-      "title": "The Eternal Sloptember",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "points": 460,
-      "author": "razin",
-      "created_at": 1779680844,
-      "num_comments": 359,
-      "hn_url": "https://news.ycombinator.com/item?id=48263238"
-    },
-    {
       "id": "48269580",
       "title": "Exit IP VPN servers mitigation rollout",
       "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
@@ -229,16 +69,6 @@
       "created_at": 1779710634,
       "num_comments": 297,
       "hn_url": "https://news.ycombinator.com/item?id=48265876"
-    },
-    {
-      "id": "48263253",
-      "title": "Jira Is Turing-Complete",
-      "url": "https://seriot.ch/computation/jira.html",
-      "points": 300,
-      "author": "vinhnx",
-      "created_at": 1779681254,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=48263253"
     },
     {
       "id": "48272670",
@@ -15949,7 +15779,177 @@
       "created_at": 1787282263,
       "num_comments": 62,
       "hn_url": "https://news.ycombinator.com/item?id=49383326"
+    },
+    {
+      "id": "49395628",
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "points": 626,
+      "author": "Jach",
+      "created_at": 1787360777,
+      "num_comments": 481,
+      "hn_url": "https://news.ycombinator.com/item?id=49395628"
+    },
+    {
+      "id": "49397074",
+      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "points": 595,
+      "author": "tartoran",
+      "created_at": 1787379417,
+      "num_comments": 1376,
+      "hn_url": "https://news.ycombinator.com/item?id=49397074"
+    },
+    {
+      "id": "49402189",
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "points": 364,
+      "author": "tosh",
+      "created_at": 1787422136,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=49402189"
+    },
+    {
+      "id": "49400408",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "points": 363,
+      "author": "jemoka",
+      "created_at": 1787410447,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=49400408"
+    },
+    {
+      "id": "49402232",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "points": 276,
+      "author": "felineflock",
+      "created_at": 1787422456,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=49402232"
+    },
+    {
+      "id": "49398152",
+      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "points": 273,
+      "author": "simonpure",
+      "created_at": 1787392154,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49398152"
+    },
+    {
+      "id": "49399898",
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "points": 217,
+      "author": "signa11",
+      "created_at": 1787407699,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=49399898"
+    },
+    {
+      "id": "49399524",
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "points": 211,
+      "author": "altmanaltman",
+      "created_at": 1787405046,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49399524"
+    },
+    {
+      "id": "49398904",
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "points": 209,
+      "author": "sbulaev",
+      "created_at": 1787400426,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=49398904"
+    },
+    {
+      "id": "49399591",
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "points": 193,
+      "author": "pentagrama",
+      "created_at": 1787405494,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49399591"
+    },
+    {
+      "id": "49401549",
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "points": 181,
+      "author": "matthieu_bl",
+      "created_at": 1787417929,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=49401549"
+    },
+    {
+      "id": "49402741",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "points": 179,
+      "author": "zdw",
+      "created_at": 1787425481,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=49402741"
+    },
+    {
+      "id": "49395605",
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "points": 140,
+      "author": "Cider9986",
+      "created_at": 1787360529,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=49395605"
+    },
+    {
+      "id": "49398158",
+      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "points": 133,
+      "author": "asdefghyk",
+      "created_at": 1787392197,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=49398158"
+    },
+    {
+      "id": "49402202",
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "points": 126,
+      "author": "pjacotg",
+      "created_at": 1787422249,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49402202"
+    },
+    {
+      "id": "49402781",
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "points": 111,
+      "author": "gnyeki",
+      "created_at": 1787425666,
+      "num_comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49402781"
+    },
+    {
+      "id": "49401621",
+      "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+      "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+      "points": 103,
+      "author": "MilnerRoute",
+      "created_at": 1787418567,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=49401621"
     }
   ],
-  "last_updated": "2026-08-22T06:31:17.949287+00:00"
+  "last_updated": "2026-08-23T06:32:31.113541+00:00"
 }

@@ -5,8 +5,144 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:32:31 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[111 pts] NetBSD and my life (2005)</title>
+      <link>https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;111 points&lt;/strong&gt; by gnyeki | &lt;strong&gt;28 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49402781&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49402781</guid>
+      <pubDate>Sat, 22 Aug 2026 19:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[179 pts] hdiutil is deprecated in macOS 27 Golden Gate</title>
+      <link>https://lapcatsoftware.com/articles/2026/8/7.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;179 points&lt;/strong&gt; by zdw | &lt;strong&gt;72 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49402741&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49402741</guid>
+      <pubDate>Sat, 22 Aug 2026 19:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[276 pts] Why your local LLM feels dumber than it is</title>
+      <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
+      <description>&lt;p&gt;&lt;strong&gt;276 points&lt;/strong&gt; by felineflock | &lt;strong&gt;90 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49402232&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49402232</guid>
+      <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[126 pts] Thinking in Python</title>
+      <link>https://thinkinginpython.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;126 points&lt;/strong&gt; by pjacotg | &lt;strong&gt;23 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49402202&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49402202</guid>
+      <pubDate>Sat, 22 Aug 2026 18:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[364 pts] Scrap (2006)</title>
+      <link>https://twitter.com/moxie/status/2091218652133732491</link>
+      <description>&lt;p&gt;&lt;strong&gt;364 points&lt;/strong&gt; by tosh | &lt;strong&gt;193 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49402189&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49402189</guid>
+      <pubDate>Sat, 22 Aug 2026 18:08:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[103 pts] Belgian car salesman becomes prince after DNA test proves royal parentage</title>
+      <link>https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</link>
+      <description>&lt;p&gt;&lt;strong&gt;103 points&lt;/strong&gt; by MilnerRoute | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49401621&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49401621</guid>
+      <pubDate>Sat, 22 Aug 2026 17:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[181 pts] Anthropic appears to be A/B testing reduced effort levels in Claude Code</title>
+      <link>https://twitter.com/argofowl/status/2091150597374537729</link>
+      <description>&lt;p&gt;&lt;strong&gt;181 points&lt;/strong&gt; by matthieu_bl | &lt;strong&gt;164 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49401549&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49401549</guid>
+      <pubDate>Sat, 22 Aug 2026 16:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[363 pts] ElevenLabs, TwelveLabs, ThirteenLabs</title>
+      <link>https://quantumi.sh/public/labs.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;363 points&lt;/strong&gt; by jemoka | &lt;strong&gt;113 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49400408&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49400408</guid>
+      <pubDate>Sat, 22 Aug 2026 14:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[217 pts] A Friendly Introduction to Racket</title>
+      <link>https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</link>
+      <description>&lt;p&gt;&lt;strong&gt;217 points&lt;/strong&gt; by signa11 | &lt;strong&gt;115 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49399898&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49399898</guid>
+      <pubDate>Sat, 22 Aug 2026 14:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[193 pts] New MCP Roadmap</title>
+      <link>https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</link>
+      <description>&lt;p&gt;&lt;strong&gt;193 points&lt;/strong&gt; by pentagrama | &lt;strong&gt;129 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49399591&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49399591</guid>
+      <pubDate>Sat, 22 Aug 2026 13:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[211 pts] A Kantian Critique of &quot;Sorry&quot; by Justin Bieber</title>
+      <link>https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/</link>
+      <description>&lt;p&gt;&lt;strong&gt;211 points&lt;/strong&gt; by altmanaltman | &lt;strong&gt;89 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49399524&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49399524</guid>
+      <pubDate>Sat, 22 Aug 2026 13:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[209 pts] Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week</title>
+      <link>https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</link>
+      <description>&lt;p&gt;&lt;strong&gt;209 points&lt;/strong&gt; by sbulaev | &lt;strong&gt;172 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49398904&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49398904</guid>
+      <pubDate>Sat, 22 Aug 2026 12:07:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[133 pts] Z80 – The 1970s Microprocessor Still Alive (2021)</title>
+      <link>https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</link>
+      <description>&lt;p&gt;&lt;strong&gt;133 points&lt;/strong&gt; by asdefghyk | &lt;strong&gt;63 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49398158&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49398158</guid>
+      <pubDate>Sat, 22 Aug 2026 09:49:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[273 pts] Munder Difflin – Agent harness to run an office of your clones</title>
+      <link>https://munderdiffl.in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;273 points&lt;/strong&gt; by simonpure | &lt;strong&gt;118 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49398152&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49398152</guid>
+      <pubDate>Sat, 22 Aug 2026 09:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[595 pts] Canada will match US tariffs 'dollar for dollar' as trade talks break down</title>
+      <link>https://www.bbc.com/news/articles/cvgvyy4x2mvo</link>
+      <description>&lt;p&gt;&lt;strong&gt;595 points&lt;/strong&gt; by tartoran | &lt;strong&gt;1376 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49397074&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49397074</guid>
+      <pubDate>Sat, 22 Aug 2026 06:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[626 pts] There's no reason for software to be slow anymore</title>
+      <link>https://danluu.com/perf-opt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;626 points&lt;/strong&gt; by Jach | &lt;strong&gt;481 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49395628&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49395628</guid>
+      <pubDate>Sat, 22 Aug 2026 01:06:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[140 pts] Initial focus for our partnership with Motorola is a regular non-folding device</title>
+      <link>https://grapheneos.social/@GrapheneOS/117136278553665985</link>
+      <description>&lt;p&gt;&lt;strong&gt;140 points&lt;/strong&gt; by Cider9986 | &lt;strong&gt;57 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49395605&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49395605</guid>
+      <pubDate>Sat, 22 Aug 2026 01:02:09 +0000</pubDate>
+    </item>
     <item>
       <title>[178 pts] Scientists release biggest 2D map of the universe</title>
       <link>https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/</link>
@@ -12630,142 +12766,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48265206&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=48265206</guid>
       <pubDate>Mon, 25 May 2026 10:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[300 pts] Jira Is Turing-Complete</title>
-      <link>https://seriot.ch/computation/jira.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;300 points&lt;/strong&gt; by vinhnx | &lt;strong&gt;143 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48263253&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48263253</guid>
-      <pubDate>Mon, 25 May 2026 03:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[460 pts] The Eternal Sloptember</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;460 points&lt;/strong&gt; by razin | &lt;strong&gt;359 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48263238&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48263238</guid>
-      <pubDate>Mon, 25 May 2026 03:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[163 pts] A fundamental principle of aeronautical engineering has been overturned</title>
-      <link>https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/</link>
-      <description>&lt;p&gt;&lt;strong&gt;163 points&lt;/strong&gt; by littlexsparkee | &lt;strong&gt;79 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48260117&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48260117</guid>
-      <pubDate>Sun, 24 May 2026 19:10:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[242 pts] The four-day workweek in Australia: insights from early adopters of 100:80:100</title>
-      <link>https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/</link>
-      <description>&lt;p&gt;&lt;strong&gt;242 points&lt;/strong&gt; by randycupertino | &lt;strong&gt;227 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48259990&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48259990</guid>
-      <pubDate>Sun, 24 May 2026 18:56:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[281 pts] Migrating from Go to Rust</title>
-      <link>https://corrode.dev/learn/migration-guides/go-to-rust/</link>
-      <description>&lt;p&gt;&lt;strong&gt;281 points&lt;/strong&gt; by jabits | &lt;strong&gt;274 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48259808&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48259808</guid>
-      <pubDate>Sun, 24 May 2026 18:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[251 pts] Claude is not your architect. Stop letting it pretend</title>
-      <link>https://www.hollandtech.net/claude-is-not-your-architect/</link>
-      <description>&lt;p&gt;&lt;strong&gt;251 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;177 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48259784&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48259784</guid>
-      <pubDate>Sun, 24 May 2026 18:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[387 pts] Memory has grown to nearly two-thirds of AI chip component costs</title>
-      <link>https://epoch.ai/data-insights/ai-chip-component-cost-shares</link>
-      <description>&lt;p&gt;&lt;strong&gt;387 points&lt;/strong&gt; by intelkishan | &lt;strong&gt;396 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48258684&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48258684</guid>
-      <pubDate>Sun, 24 May 2026 16:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[177 pts] Usborne 1980s Computer Books</title>
-      <link>https://usborne.com/us/books/computer-and-coding-books</link>
-      <description>&lt;p&gt;&lt;strong&gt;177 points&lt;/strong&gt; by ngram | &lt;strong&gt;57 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48258194&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48258194</guid>
-      <pubDate>Sun, 24 May 2026 15:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[366 pts] Show HN: Audiomass – a free, open-source multitrack audio editor for the web</title>
-      <link>https://audiomass.co/?multitrack=1</link>
-      <description>&lt;p&gt;&lt;strong&gt;366 points&lt;/strong&gt; by pantelisk | &lt;strong&gt;81 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48258015&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48258015</guid>
-      <pubDate>Sun, 24 May 2026 15:25:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[163 pts] 'AI washing': firms are scrambling to rebrand themselves as tech-focused</title>
-      <link>https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand</link>
-      <description>&lt;p&gt;&lt;strong&gt;163 points&lt;/strong&gt; by Brajeshwar | &lt;strong&gt;150 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48257980&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48257980</guid>
-      <pubDate>Sun, 24 May 2026 15:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[170 pts] Omarchy Is Not A Distro</title>
-      <link>https://abyss.fish/your_dotfiles_are_not_a_distro</link>
-      <description>&lt;p&gt;&lt;strong&gt;170 points&lt;/strong&gt; by j3s | &lt;strong&gt;157 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48257612&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48257612</guid>
-      <pubDate>Sun, 24 May 2026 14:37:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[155 pts] The seed oil panic is hurting my cardiac patients</title>
-      <link>https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/</link>
-      <description>&lt;p&gt;&lt;strong&gt;155 points&lt;/strong&gt; by randycupertino | &lt;strong&gt;222 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48257532&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48257532</guid>
-      <pubDate>Sun, 24 May 2026 14:27:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[207 pts] DeepSeek to Make Permanent 75% Discount on Flagship AI Model</title>
-      <link>https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model</link>
-      <description>&lt;p&gt;&lt;strong&gt;207 points&lt;/strong&gt; by moh_maya | &lt;strong&gt;2 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48257410&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48257410</guid>
-      <pubDate>Sun, 24 May 2026 14:09:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[563 pts] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</title>
-      <link>https://esengine.github.io/DeepSeek-Reasonix/</link>
-      <description>&lt;p&gt;&lt;strong&gt;563 points&lt;/strong&gt; by Alifatisk | &lt;strong&gt;233 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48256953&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48256953</guid>
-      <pubDate>Sun, 24 May 2026 13:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[241 pts] Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</title>
-      <link>https://arxiv.org/abs/2605.06445</link>
-      <description>&lt;p&gt;&lt;strong&gt;241 points&lt;/strong&gt; by wek | &lt;strong&gt;137 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48256912&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48256912</guid>
-      <pubDate>Sun, 24 May 2026 12:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[211 pts] Childhood Computing</title>
-      <link>https://susam.net/childhood-computing.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;211 points&lt;/strong&gt; by blenderob | &lt;strong&gt;99 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48256597&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48256597</guid>
-      <pubDate>Sun, 24 May 2026 12:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[198 pts] Greg Brockman interview [video]</title>
-      <link>https://fs.blog/knowledge-project-podcast/greg-brockman/</link>
-      <description>&lt;p&gt;&lt;strong&gt;198 points&lt;/strong&gt; by prakashqwerty | &lt;strong&gt;212 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48255593&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48255593</guid>
-      <pubDate>Sun, 24 May 2026 08:29:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
