@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "48292224",
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "points": 1913,
-      "author": "theorchid",
-      "created_at": 1779878605,
-      "num_comments": 913,
-      "hn_url": "https://news.ycombinator.com/item?id=48292224"
-    },
-    {
-      "id": "48296794",
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "points": 869,
-      "author": "simonw",
-      "created_at": 1779899953,
-      "num_comments": 992,
-      "hn_url": "https://news.ycombinator.com/item?id=48296794"
-    },
-    {
-      "id": "48299753",
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "points": 869,
-      "author": "nopg",
-      "created_at": 1779912051,
-      "num_comments": 536,
-      "hn_url": "https://news.ycombinator.com/item?id=48299753"
-    },
-    {
-      "id": "48296649",
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "points": 863,
-      "author": "HelloUsername",
-      "created_at": 1779899321,
-      "num_comments": 408,
-      "hn_url": "https://news.ycombinator.com/item?id=48296649"
-    },
-    {
-      "id": "48295892",
-      "title": "Last.fm is now independent",
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "points": 744,
-      "author": "twistslider",
-      "created_at": 1779896169,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=48295892"
-    },
-    {
-      "id": "48295679",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "points": 648,
-      "author": "IAmGraydon",
-      "created_at": 1779895247,
-      "num_comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=48295679"
-    },
-    {
-      "id": "48296994",
-      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-      "points": 550,
-      "author": "tosh",
-      "created_at": 1779900805,
-      "num_comments": 391,
-      "hn_url": "https://news.ycombinator.com/item?id=48296994"
-    },
-    {
-      "id": "48292941",
-      "title": "Private equity bought America's essential services",
-      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-      "points": 511,
-      "author": "NoRagrets",
-      "created_at": 1779883253,
-      "num_comments": 520,
-      "hn_url": "https://news.ycombinator.com/item?id=48292941"
-    },
-    {
-      "id": "48291225",
-      "title": "All of human cooking compressed into 2 megabytes",
-      "url": "https://arxiv.org/abs/2605.22391",
-      "points": 410,
-      "author": "josefchen",
-      "created_at": 1779869680,
-      "num_comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=48291225"
-    },
-    {
-      "id": "48297645",
-      "title": "SimCity 3k in 4k (2025)",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "points": 366,
-      "author": "speckx",
-      "created_at": 1779903389,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=48297645"
-    },
-    {
-      "id": "48302151",
-      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-      "points": 328,
-      "author": "cwwc",
-      "created_at": 1779924209,
-      "num_comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=48302151"
-    },
-    {
-      "id": "48293080",
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "points": 302,
-      "author": "maxnoe",
-      "created_at": 1779884114,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=48293080"
-    },
-    {
-      "id": "48299220",
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "points": 284,
-      "author": "iamacyborg",
-      "created_at": 1779909850,
-      "num_comments": 287,
-      "hn_url": "https://news.ycombinator.com/item?id=48299220"
-    },
-    {
-      "id": "48297976",
-      "title": "Valve raises Steam Deck prices",
-      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
-      "points": 258,
-      "author": "droidjj",
-      "created_at": 1779904727,
-      "num_comments": 257,
-      "hn_url": "https://news.ycombinator.com/item?id=48297976"
-    },
-    {
-      "id": "48291947",
-      "title": "Mini Micro Fantasy Computer",
-      "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "points": 255,
-      "author": "nicoloren",
-      "created_at": 1779875762,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=48291947"
-    },
-    {
-      "id": "48291575",
-      "title": "Go: Support for Generic Methods",
-      "url": "https://github.com/golang/go/issues/77273",
-      "points": 248,
-      "author": "f311a",
-      "created_at": 1779872579,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=48291575"
-    },
-    {
       "id": "48311647",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
@@ -169,16 +9,6 @@
       "created_at": 1779986954,
       "num_comments": 1189,
       "hn_url": "https://news.ycombinator.com/item?id=48311647"
-    },
-    {
-      "id": "48302745",
-      "title": "Can we have the day off?",
-      "url": "https://mlsu.io/posts/day-off/",
-      "points": 1327,
-      "author": "mlsu",
-      "created_at": 1779928826,
-      "num_comments": 745,
-      "hn_url": "https://news.ycombinator.com/item?id=48302745"
     },
     {
       "id": "48314136",
@@ -199,16 +29,6 @@
       "created_at": 1779970819,
       "num_comments": 341,
       "hn_url": "https://news.ycombinator.com/item?id=48307887"
-    },
-    {
-      "id": "48304260",
-      "title": "Show HN: Hallucinate \u2013 Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "points": 423,
-      "author": "stagas",
-      "created_at": 1779940201,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48304260"
     },
     {
       "id": "48314951",
@@ -299,16 +119,6 @@
       "created_at": 1779994938,
       "num_comments": 241,
       "hn_url": "https://news.ycombinator.com/item?id=48313810"
-    },
-    {
-      "id": "48302822",
-      "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-      "points": 305,
-      "author": "pseudolus",
-      "created_at": 1779929398,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=48302822"
     },
     {
       "id": "48309584",
@@ -15799,7 +15609,207 @@
       "created_at": 1787605386,
       "num_comments": 140,
       "hn_url": "https://news.ycombinator.com/item?id=49425819"
+    },
+    {
+      "id": "49438052",
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "points": 1389,
+      "author": "helsinkiandrew",
+      "created_at": 1787680942,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=49438052"
+    },
+    {
+      "id": "49433292",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "points": 1069,
+      "author": "interpol_p",
+      "created_at": 1787662882,
+      "num_comments": 1014,
+      "hn_url": "https://news.ycombinator.com/item?id=49433292"
+    },
+    {
+      "id": "49437283",
+      "title": "Nitter and XCancel receive cease and desist notices",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "points": 796,
+      "author": "Banditoz",
+      "created_at": 1787677701,
+      "num_comments": 674,
+      "hn_url": "https://news.ycombinator.com/item?id=49437283"
+    },
+    {
+      "id": "49433316",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "points": 744,
+      "author": "interpol_p",
+      "created_at": 1787662997,
+      "num_comments": 487,
+      "hn_url": "https://news.ycombinator.com/item?id=49433316"
+    },
+    {
+      "id": "49437069",
+      "title": "My Friend Aaron",
+      "url": "https://rorz.io/writing/my-friend-aaron",
+      "points": 519,
+      "author": "sarreph",
+      "created_at": 1787676813,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=49437069"
+    },
+    {
+      "id": "49433450",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "points": 474,
+      "author": "runako",
+      "created_at": 1787663580,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=49433450"
+    },
+    {
+      "id": "49434378",
+      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "points": 420,
+      "author": "bmulholland",
+      "created_at": 1787666762,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=49434378"
+    },
+    {
+      "id": "49439017",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "points": 350,
+      "author": "sunnynagra",
+      "created_at": 1787684821,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=49439017"
+    },
+    {
+      "id": "49437946",
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "points": 342,
+      "author": "yboris",
+      "created_at": 1787680523,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49437946"
+    },
+    {
+      "id": "49432319",
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "points": 336,
+      "author": "Hbruz0",
+      "created_at": 1787658588,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49432319"
+    },
+    {
+      "id": "49434645",
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "points": 316,
+      "author": "surprisetalk",
+      "created_at": 1787667636,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=49434645"
+    },
+    {
+      "id": "49432317",
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "points": 314,
+      "author": "garo-pro",
+      "created_at": 1787658583,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=49432317"
+    },
+    {
+      "id": "49434820",
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "points": 298,
+      "author": "speckx",
+      "created_at": 1787668172,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=49434820"
+    },
+    {
+      "id": "49436822",
+      "title": "Starbase, LA",
+      "url": "https://www.spacex.com/sites/starbase-la",
+      "points": 260,
+      "author": "bilsbie",
+      "created_at": 1787675872,
+      "num_comments": 472,
+      "hn_url": "https://news.ycombinator.com/item?id=49436822"
+    },
+    {
+      "id": "49435728",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "points": 257,
+      "author": "surprisetalk",
+      "created_at": 1787671421,
+      "num_comments": 311,
+      "hn_url": "https://news.ycombinator.com/item?id=49435728"
+    },
+    {
+      "id": "49428121",
+      "title": "How Universities Should Prepare Founders",
+      "url": "https://paulgraham.com/prepare.html",
+      "points": 241,
+      "author": "gmays",
+      "created_at": 1787622039,
+      "num_comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=49428121"
+    },
+    {
+      "id": "49440786",
+      "title": "XCancel also down, at least for time being",
+      "url": "https://news.ycombinator.com/item?id=49440786",
+      "points": 226,
+      "author": "orange999",
+      "created_at": 1787692703,
+      "num_comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49440786"
+    },
+    {
+      "id": "49437210",
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "points": 221,
+      "author": "raattgift",
+      "created_at": 1787677369,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=49437210"
+    },
+    {
+      "id": "49431364",
+      "title": "Why some US restaurants are banning tips",
+      "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+      "points": 190,
+      "author": "rock_artist",
+      "created_at": 1787652587,
+      "num_comments": 389,
+      "hn_url": "https://news.ycombinator.com/item?id=49431364"
+    },
+    {
+      "id": "49441033",
+      "title": "Python's pre-declared constants are kinda weird",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "points": 167,
+      "author": "rbanffy",
+      "created_at": 1787693942,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49441033"
     }
   ],
-  "last_updated": "2026-08-25T06:37:31.910028+00:00"
+  "last_updated": "2026-08-26T06:39:07.737457+00:00"
 }
