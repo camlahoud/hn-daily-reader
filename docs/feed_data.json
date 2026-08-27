@@ -1,216 +1,6 @@
 {
   "posts": [
     {
-      "id": "48311647",
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "points": 1524,
-      "author": "craigmart",
-      "created_at": 1779986954,
-      "num_comments": 1189,
-      "hn_url": "https://news.ycombinator.com/item?id=48311647"
-    },
-    {
-      "id": "48314136",
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "points": 945,
-      "author": "philips",
-      "created_at": 1779996249,
-      "num_comments": 432,
-      "hn_url": "https://news.ycombinator.com/item?id=48314136"
-    },
-    {
-      "id": "48307887",
-      "title": "Disagreement among frontier LLMs on real-world fact-checks",
-      "url": "https://lenz.io/research/llm-disagreement",
-      "points": 489,
-      "author": "kostaj",
-      "created_at": 1779970819,
-      "num_comments": 341,
-      "hn_url": "https://news.ycombinator.com/item?id=48307887"
-    },
-    {
-      "id": "48314951",
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "points": 396,
-      "author": "mattrighetti",
-      "created_at": 1779999921,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=48314951"
-    },
-    {
-      "id": "48309233",
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "points": 395,
-      "author": "brandonb",
-      "created_at": 1779977580,
-      "num_comments": 610,
-      "hn_url": "https://news.ycombinator.com/item?id=48309233"
-    },
-    {
-      "id": "48315968",
-      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "points": 391,
-      "author": "possibilistic",
-      "created_at": 1780004754,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=48315968"
-    },
-    {
-      "id": "48313048",
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "points": 342,
-      "author": "meetpateltech",
-      "created_at": 1779991784,
-      "num_comments": 361,
-      "hn_url": "https://news.ycombinator.com/item?id=48313048"
-    },
-    {
-      "id": "48307231",
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "points": 330,
-      "author": "teleforce",
-      "created_at": 1779965815,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=48307231"
-    },
-    {
-      "id": "48309302",
-      "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
-      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "points": 328,
-      "author": "jjp",
-      "created_at": 1779977898,
-      "num_comments": 329,
-      "hn_url": "https://news.ycombinator.com/item?id=48309302"
-    },
-    {
-      "id": "48308376",
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "points": 322,
-      "author": "Wirbelwind",
-      "created_at": 1779973320,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=48308376"
-    },
-    {
-      "id": "48313530",
-      "title": "Building durable workflows on Postgres",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "points": 311,
-      "author": "KraftyOne",
-      "created_at": 1779993706,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=48313530"
-    },
-    {
-      "id": "48313810",
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "points": 306,
-      "author": "speckx",
-      "created_at": 1779994938,
-      "num_comments": 241,
-      "hn_url": "https://news.ycombinator.com/item?id=48313810"
-    },
-    {
-      "id": "48309584",
-      "title": "New York passes pied-a-terre tax",
-      "url": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
-      "points": 269,
-      "author": "proofofcontempt",
-      "created_at": 1779979071,
-      "num_comments": 424,
-      "hn_url": "https://news.ycombinator.com/item?id=48309584"
-    },
-    {
-      "id": "48314002",
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "points": 247,
-      "author": "speckx",
-      "created_at": 1779995754,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=48314002"
-    },
-    {
-      "id": "48312528",
-      "title": "I hated writing until I learned there\u2019s a science to it (2024)",
-      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "points": 221,
-      "author": "o4c",
-      "created_at": 1779989807,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48312528"
-    },
-    {
-      "id": "48314363",
-      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-      "points": 212,
-      "author": "ianrahman",
-      "created_at": 1779997394,
-      "num_comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=48314363"
-    },
-    {
-      "id": "48317093",
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "points": 208,
-      "author": "drewda",
-      "created_at": 1780011767,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=48317093"
-    },
-    {
-      "id": "48324712",
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "points": 952,
-      "author": "WillDaSilva",
-      "created_at": 1780069584,
-      "num_comments": 1103,
-      "hn_url": "https://news.ycombinator.com/item?id=48324712"
-    },
-    {
-      "id": "48323683",
-      "title": "I am retiring from tech to live offline",
-      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "points": 788,
-      "author": "PinkG",
-      "created_at": 1780065647,
-      "num_comments": 537,
-      "hn_url": "https://news.ycombinator.com/item?id=48323683"
-    },
-    {
-      "id": "48323101",
-      "title": "Please Use AI",
-      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
-      "points": 740,
-      "author": "garycomtois",
-      "created_at": 1780062625,
-      "num_comments": 380,
-      "hn_url": "https://news.ycombinator.com/item?id=48323101"
-    },
-    {
-      "id": "48324499",
-      "title": "GTA 6 Developers Unionize",
-      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "points": 670,
-      "author": "AndrewKemendo",
-      "created_at": 1780068775,
-      "num_comments": 450,
-      "hn_url": "https://news.ycombinator.com/item?id=48324499"
-    },
-    {
       "id": "48326802",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
@@ -221,76 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48326802"
     },
     {
-      "id": "48318481",
-      "title": "Cars collect a startling amount of data about you",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "points": 487,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1780023660,
-      "num_comments": 284,
-      "hn_url": "https://news.ycombinator.com/item?id=48318481"
-    },
-    {
-      "id": "48317774",
-      "title": "Blue Origin's New Glenn blows up during static fire test",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "points": 482,
-      "author": "enraged_camel",
-      "created_at": 1780017398,
-      "num_comments": 534,
-      "hn_url": "https://news.ycombinator.com/item?id=48317774"
-    },
-    {
-      "id": "48319509",
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "points": 376,
-      "author": "Kwastie",
-      "created_at": 1780033536,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=48319509"
-    },
-    {
-      "id": "48325340",
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "points": 361,
-      "author": "vnglst",
-      "created_at": 1780071721,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=48325340"
-    },
-    {
-      "id": "48321631",
-      "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "points": 337,
-      "author": "xyzal",
-      "created_at": 1780052972,
-      "num_comments": 290,
-      "hn_url": "https://news.ycombinator.com/item?id=48321631"
-    },
-    {
-      "id": "48318174",
-      "title": "Claude Code \u2013 Everything you can configure that the docs don't tell you",
-      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "points": 324,
-      "author": "ankitg12",
-      "created_at": 1780020800,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=48318174"
-    },
-    {
-      "id": "48324853",
-      "title": "You can just say it",
-      "url": "https://noperator.dev/posts/you-can-just-say-it/",
-      "points": 315,
-      "author": "antirez",
-      "created_at": 1780070068,
-      "num_comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=48324853"
-    },
-    {
       "id": "48330882",
       "title": "What Is a Dickover?",
       "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
@@ -299,26 +19,6 @@
       "created_at": 1780098862,
       "num_comments": 121,
       "hn_url": "https://news.ycombinator.com/item?id=48330882"
-    },
-    {
-      "id": "48323869",
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "points": 283,
-      "author": "watermelon0",
-      "created_at": 1780066531,
-      "num_comments": 474,
-      "hn_url": "https://news.ycombinator.com/item?id=48323869"
-    },
-    {
-      "id": "48324097",
-      "title": "Danish Pension Blacklists SpaceX over 'Catastrophic Governance'",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
-      "points": 247,
-      "author": "leopoldj",
-      "created_at": 1780067483,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=48324097"
     },
     {
       "id": "48328175",
@@ -339,36 +39,6 @@
       "created_at": 1780084556,
       "num_comments": 232,
       "hn_url": "https://news.ycombinator.com/item?id=48328365"
-    },
-    {
-      "id": "48323992",
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "points": 223,
-      "author": "justinweiss",
-      "created_at": 1780067012,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48323992"
-    },
-    {
-      "id": "48318678",
-      "title": "Blue Origin\u2019s New Glenn rocket exploded during a static fire test",
-      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-      "points": 209,
-      "author": "benbreen",
-      "created_at": 1780025535,
-      "num_comments": 8,
-      "hn_url": "https://news.ycombinator.com/item?id=48318678"
-    },
-    {
-      "id": "48318522",
-      "title": "Let's compile Quake like it's 1997",
-      "url": "https://fabiensanglard.net/compile_like_1997/",
-      "points": 208,
-      "author": "goranmoomin",
-      "created_at": 1780024042,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=48318522"
     },
     {
       "id": "48341578",
@@ -15809,7 +15479,207 @@
       "created_at": 1787693942,
       "num_comments": 168,
       "hn_url": "https://news.ycombinator.com/item?id=49441033"
+    },
+    {
+      "id": "49449507",
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "points": 1097,
+      "author": "Philpax",
+      "created_at": 1787753330,
+      "num_comments": 546,
+      "hn_url": "https://news.ycombinator.com/item?id=49449507"
+    },
+    {
+      "id": "49448321",
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "points": 1074,
+      "author": "onderkalaci",
+      "created_at": 1787749166,
+      "num_comments": 308,
+      "hn_url": "https://news.ycombinator.com/item?id=49448321"
+    },
+    {
+      "id": "49452709",
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "points": 757,
+      "author": "sss111",
+      "created_at": 1787764936,
+      "num_comments": 1164,
+      "hn_url": "https://news.ycombinator.com/item?id=49452709"
+    },
+    {
+      "id": "49451448",
+      "title": "Tim Curry has died",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "points": 705,
+      "author": "mykowebhn",
+      "created_at": 1787760217,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=49451448"
+    },
+    {
+      "id": "49448210",
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "points": 681,
+      "author": "tosh",
+      "created_at": 1787748732,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=49448210"
+    },
+    {
+      "id": "49452990",
+      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "points": 641,
+      "author": "nderjung",
+      "created_at": 1787766142,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49452990"
+    },
+    {
+      "id": "49449576",
+      "title": "Twitter Viewer \u2013 View Twitter Without Account",
+      "url": "https://twitterwebviewer.com/",
+      "points": 550,
+      "author": "motownphilly",
+      "created_at": 1787753499,
+      "num_comments": 365,
+      "hn_url": "https://news.ycombinator.com/item?id=49449576"
+    },
+    {
+      "id": "49448819",
+      "title": "Meta reaches $17B settlement over social media harms to children",
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "points": 525,
+      "author": "bhouston",
+      "created_at": 1787750912,
+      "num_comments": 526,
+      "hn_url": "https://news.ycombinator.com/item?id=49448819"
+    },
+    {
+      "id": "49457545",
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "points": 501,
+      "author": "tmp10423288442",
+      "created_at": 1787788544,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=49457545"
+    },
+    {
+      "id": "49445727",
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "points": 482,
+      "author": "j0selit0",
+      "created_at": 1787733557,
+      "num_comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=49445727"
+    },
+    {
+      "id": "49452980",
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "points": 467,
+      "author": "Velocifyer",
+      "created_at": 1787766100,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=49452980"
+    },
+    {
+      "id": "49450448",
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "points": 455,
+      "author": "GavinAnderegg",
+      "created_at": 1787756632,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=49450448"
+    },
+    {
+      "id": "49446422",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "points": 429,
+      "author": "garo-pro",
+      "created_at": 1787738695,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49446422"
+    },
+    {
+      "id": "49456851",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "points": 379,
+      "author": "pizzaiolo",
+      "created_at": 1787783702,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=49456851"
+    },
+    {
+      "id": "49451313",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "points": 328,
+      "author": "LVB",
+      "created_at": 1787759715,
+      "num_comments": 328,
+      "hn_url": "https://news.ycombinator.com/item?id=49451313"
+    },
+    {
+      "id": "49442589",
+      "title": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "points": 328,
+      "author": "rguiscard",
+      "created_at": 1787703649,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49442589"
+    },
+    {
+      "id": "49452671",
+      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+      "points": 324,
+      "author": "gedankenstuecke",
+      "created_at": 1787764812,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=49452671"
+    },
+    {
+      "id": "49454314",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "points": 322,
+      "author": "amrrs",
+      "created_at": 1787771723,
+      "num_comments": 415,
+      "hn_url": "https://news.ycombinator.com/item?id=49454314"
+    },
+    {
+      "id": "49448872",
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "url": "https://cartefibre.arcep.fr",
+      "points": 311,
+      "author": "nehalem501",
+      "created_at": 1787751155,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=49448872"
+    },
+    {
+      "id": "49449749",
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "points": 294,
+      "author": "speckx",
+      "created_at": 1787754104,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=49449749"
     }
   ],
-  "last_updated": "2026-08-26T06:39:07.737457+00:00"
+  "last_updated": "2026-08-27T17:15:10.982403+00:00"
 }
