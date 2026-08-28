@@ -1,46 +1,6 @@
 {
   "posts": [
     {
-      "id": "48326802",
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "points": 503,
-      "author": "tomasol",
-      "created_at": 1780077290,
-      "num_comments": 253,
-      "hn_url": "https://news.ycombinator.com/item?id=48326802"
-    },
-    {
-      "id": "48330882",
-      "title": "What Is a Dickover?",
-      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-      "points": 312,
-      "author": "tambourine_man",
-      "created_at": 1780098862,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=48330882"
-    },
-    {
-      "id": "48328175",
-      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
-      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-      "points": 233,
-      "author": "Cider9986",
-      "created_at": 1780083461,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=48328175"
-    },
-    {
-      "id": "48328365",
-      "title": "The California state assembly has passed the 'Protect Our Games Act'",
-      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "points": 228,
-      "author": "TechTechTech",
-      "created_at": 1780084556,
-      "num_comments": 232,
-      "hn_url": "https://news.ycombinator.com/item?id=48328365"
-    },
-    {
       "id": "48341578",
       "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
@@ -61,76 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48340411"
     },
     {
-      "id": "48333820",
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "points": 458,
-      "author": "vrganj",
-      "created_at": 1780128020,
-      "num_comments": 12,
-      "hn_url": "https://news.ycombinator.com/item?id=48333820"
-    },
-    {
-      "id": "48338660",
-      "title": "OpenRouter raises $113M Series B",
-      "url": "https://openrouter.ai/announcements/series-b",
-      "points": 413,
-      "author": "freeCandy",
-      "created_at": 1780162048,
-      "num_comments": 198,
-      "hn_url": "https://news.ycombinator.com/item?id=48338660"
-    },
-    {
-      "id": "48336233",
-      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-      "points": 402,
-      "author": "Bolat14",
-      "created_at": 1780149394,
-      "num_comments": 457,
-      "hn_url": "https://news.ycombinator.com/item?id=48336233"
-    },
-    {
-      "id": "48334515",
-      "title": "Pandoc Templates",
-      "url": "https://pandoc-templates.org/",
-      "points": 391,
-      "author": "ankitg12",
-      "created_at": 1780135002,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=48334515"
-    },
-    {
-      "id": "48334854",
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "url": "https://github.com/kristapsdz/openrsync",
-      "points": 387,
-      "author": "sph",
-      "created_at": 1780138308,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48334854"
-    },
-    {
-      "id": "48334048",
-      "title": "Zig: Build System Reworked",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "points": 350,
-      "author": "tosh",
-      "created_at": 1780130308,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=48334048"
-    },
-    {
-      "id": "48335135",
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "points": 315,
-      "author": "mhalle",
-      "created_at": 1780141289,
-      "num_comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=48335135"
-    },
-    {
       "id": "48339580",
       "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
       "url": "https://gptzero.me/investigations/ey",
@@ -141,36 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48339580"
     },
     {
-      "id": "48336564",
-      "title": "Voxel Space (2017)",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "points": 282,
-      "author": "davikr",
-      "created_at": 1780151150,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48336564"
-    },
-    {
-      "id": "48337987",
-      "title": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "points": 278,
-      "author": "Garbage",
-      "created_at": 1780158538,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=48337987"
-    },
-    {
-      "id": "48331511",
-      "title": "WH proposes rules giving political appointees final approval on research grants",
-      "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-      "points": 232,
-      "author": "jordanpg",
-      "created_at": 1780105192,
-      "num_comments": 527,
-      "hn_url": "https://news.ycombinator.com/item?id=48331511"
-    },
-    {
       "id": "48341062",
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
@@ -179,26 +39,6 @@
       "created_at": 1780178798,
       "num_comments": 20,
       "hn_url": "https://news.ycombinator.com/item?id=48341062"
-    },
-    {
-      "id": "48334710",
-      "title": "Leo's first encyclical attacks technological messianism",
-      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "points": 214,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1780137050,
-      "num_comments": 259,
-      "hn_url": "https://news.ycombinator.com/item?id=48334710"
-    },
-    {
-      "id": "48338673",
-      "title": "Zig ELF Linker Improvements Devlog",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "points": 200,
-      "author": "kristoff_it",
-      "created_at": 1780162162,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=48338673"
     },
     {
       "id": "48339180",
@@ -219,26 +59,6 @@
       "created_at": 1780177578,
       "num_comments": 63,
       "hn_url": "https://news.ycombinator.com/item?id=48340910"
-    },
-    {
-      "id": "48335388",
-      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-      "points": 166,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1780143453,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=48335388"
-    },
-    {
-      "id": "48331786",
-      "title": "Naphtha shortages in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "points": 158,
-      "author": "takakaze",
-      "created_at": 1780107640,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=48331786"
     },
     {
       "id": "48345840",
@@ -15679,7 +15499,207 @@
       "created_at": 1787754104,
       "num_comments": 197,
       "hn_url": "https://news.ycombinator.com/item?id=49449749"
+    },
+    {
+      "id": "49458161",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "points": 1937,
+      "author": "mfiguiere",
+      "created_at": 1787793175,
+      "num_comments": 896,
+      "hn_url": "https://news.ycombinator.com/item?id=49458161"
+    },
+    {
+      "id": "49458418",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "points": 998,
+      "author": "GrumpySciGuy",
+      "created_at": 1787795182,
+      "num_comments": 692,
+      "hn_url": "https://news.ycombinator.com/item?id=49458418"
+    },
+    {
+      "id": "49468083",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "points": 867,
+      "author": "TangerineDream",
+      "created_at": 1787851077,
+      "num_comments": 261,
+      "hn_url": "https://news.ycombinator.com/item?id=49468083"
+    },
+    {
+      "id": "49466917",
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "points": 753,
+      "author": "tosh",
+      "created_at": 1787846218,
+      "num_comments": 327,
+      "hn_url": "https://news.ycombinator.com/item?id=49466917"
+    },
+    {
+      "id": "49462763",
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "points": 735,
+      "author": "robotswantdata",
+      "created_at": 1787828276,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=49462763"
+    },
+    {
+      "id": "49465169",
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "points": 647,
+      "author": "helloplanets",
+      "created_at": 1787839698,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49465169"
+    },
+    {
+      "id": "49461817",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "points": 631,
+      "author": "Labo333",
+      "created_at": 1787821189,
+      "num_comments": 309,
+      "hn_url": "https://news.ycombinator.com/item?id=49461817"
+    },
+    {
+      "id": "49464896",
+      "title": "Trade (and Tariffs)",
+      "url": "https://xkcd.com/3290/",
+      "points": 532,
+      "author": "throw0101d",
+      "created_at": 1787838569,
+      "num_comments": 259,
+      "hn_url": "https://news.ycombinator.com/item?id=49464896"
+    },
+    {
+      "id": "49462253",
+      "title": "Tell HN: PayPal blocks GrapheneOS",
+      "url": "https://news.ycombinator.com/item?id=49462253",
+      "points": 498,
+      "author": "leumon",
+      "created_at": 1787824614,
+      "num_comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=49462253"
+    },
+    {
+      "id": "49468818",
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "points": 343,
+      "author": "k9294",
+      "created_at": 1787853822,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=49468818"
+    },
+    {
+      "id": "49467922",
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "points": 290,
+      "author": "saretup",
+      "created_at": 1787850392,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=49467922"
+    },
+    {
+      "id": "49468642",
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "points": 284,
+      "author": "dclavijo",
+      "created_at": 1787853220,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=49468642"
+    },
+    {
+      "id": "49466894",
+      "title": "Suica, Japan's First IC Transit Card",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "points": 267,
+      "author": "zdw",
+      "created_at": 1787846112,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=49466894"
+    },
+    {
+      "id": "49458709",
+      "title": "Kusama Yayoi has died",
+      "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+      "points": 266,
+      "author": "phantomathkg",
+      "created_at": 1787797278,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49458709"
+    },
+    {
+      "id": "49466006",
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "points": 265,
+      "author": "knackers",
+      "created_at": 1787842871,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=49466006"
+    },
+    {
+      "id": "49472090",
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "points": 245,
+      "author": "eutropheon",
+      "created_at": 1787869564,
+      "num_comments": 308,
+      "hn_url": "https://news.ycombinator.com/item?id=49472090"
+    },
+    {
+      "id": "49464391",
+      "title": "US Government designates host of noblogs.org a \"global terrorist\"",
+      "url": "https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist",
+      "points": 240,
+      "author": "robtherobber",
+      "created_at": 1787836330,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=49464391"
+    },
+    {
+      "id": "49471965",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "points": 210,
+      "author": "elyosh",
+      "created_at": 1787868647,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49471965"
+    },
+    {
+      "id": "49471407",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "points": 203,
+      "author": "SilenN",
+      "created_at": 1787865515,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49471407"
+    },
+    {
+      "id": "49464543",
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "points": 193,
+      "author": "RahulMJ",
+      "created_at": 1787836956,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49464543"
     }
   ],
-  "last_updated": "2026-08-27T17:15:10.982403+00:00"
+  "last_updated": "2026-08-28T18:07:45.385391+00:00"
 }
