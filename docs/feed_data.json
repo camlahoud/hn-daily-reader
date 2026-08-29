@@ -1,66 +1,6 @@
 {
   "posts": [
     {
-      "id": "48341578",
-      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "points": 824,
-      "author": "antipurist",
-      "created_at": 1780183573,
-      "num_comments": 292,
-      "hn_url": "https://news.ycombinator.com/item?id=48341578"
-    },
-    {
-      "id": "48340411",
-      "title": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "points": 551,
-      "author": "aaronbrethorst",
-      "created_at": 1780173657,
-      "num_comments": 320,
-      "hn_url": "https://news.ycombinator.com/item?id=48340411"
-    },
-    {
-      "id": "48339580",
-      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
-      "url": "https://gptzero.me/investigations/ey",
-      "points": 296,
-      "author": "smartmic",
-      "created_at": 1780167774,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=48339580"
-    },
-    {
-      "id": "48341062",
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "points": 223,
-      "author": "aleda145",
-      "created_at": 1780178798,
-      "num_comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=48341062"
-    },
-    {
-      "id": "48339180",
-      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
-      "points": 185,
-      "author": "mooreds",
-      "created_at": 1780165163,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=48339180"
-    },
-    {
-      "id": "48340910",
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "points": 179,
-      "author": "ksec",
-      "created_at": 1780177578,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=48340910"
-    },
-    {
       "id": "48345840",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
@@ -91,36 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48346947"
     },
     {
-      "id": "48343683",
-      "title": "The Website Specification",
-      "url": "https://specification.website/",
-      "points": 506,
-      "author": "k1m",
-      "created_at": 1780211390,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=48343683"
-    },
-    {
-      "id": "48344961",
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "points": 500,
-      "author": "captain_bender",
-      "created_at": 1780227885,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=48344961"
-    },
-    {
-      "id": "48342705",
-      "title": "Please Do Not Vibe Fuck Up This Software",
-      "url": "https://github.com/RsyncProject/rsync/issues/929",
-      "points": 495,
-      "author": "justdotJS",
-      "created_at": 1780197408,
-      "num_comments": 449,
-      "hn_url": "https://news.ycombinator.com/item?id=48342705"
-    },
-    {
       "id": "48346257",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
@@ -149,16 +59,6 @@
       "created_at": 1780237410,
       "num_comments": 229,
       "hn_url": "https://news.ycombinator.com/item?id=48345896"
-    },
-    {
-      "id": "48343714",
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "points": 308,
-      "author": "zeristor",
-      "created_at": 1780211778,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48343714"
     },
     {
       "id": "48345694",
@@ -249,16 +149,6 @@
       "created_at": 1780229487,
       "num_comments": 104,
       "hn_url": "https://news.ycombinator.com/item?id=48345090"
-    },
-    {
-      "id": "48341932",
-      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
-      "url": "https://mechanical-pencil.com/",
-      "points": 186,
-      "author": "Muhammad523",
-      "created_at": 1780187112,
-      "num_comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=48341932"
     },
     {
       "id": "48359102",
@@ -15699,7 +15589,207 @@
       "created_at": 1787836956,
       "num_comments": 78,
       "hn_url": "https://news.ycombinator.com/item?id=49464543"
+    },
+    {
+      "id": "49479837",
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "points": 860,
+      "author": "ckardaris",
+      "created_at": 1787930229,
+      "num_comments": 427,
+      "hn_url": "https://news.ycombinator.com/item?id=49479837"
+    },
+    {
+      "id": "49479878",
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "points": 717,
+      "author": "jeudesprits",
+      "created_at": 1787930413,
+      "num_comments": 240,
+      "hn_url": "https://news.ycombinator.com/item?id=49479878"
+    },
+    {
+      "id": "49478178",
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "points": 695,
+      "author": "rmsaksida",
+      "created_at": 1787923736,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49478178"
+    },
+    {
+      "id": "49478340",
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "points": 691,
+      "author": "smartmic",
+      "created_at": 1787924560,
+      "num_comments": 290,
+      "hn_url": "https://news.ycombinator.com/item?id=49478340"
+    },
+    {
+      "id": "49477600",
+      "title": "\u201cIt works better in the app\u201d",
+      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "points": 662,
+      "author": "blenderob",
+      "created_at": 1787920336,
+      "num_comments": 447,
+      "hn_url": "https://news.ycombinator.com/item?id=49477600"
+    },
+    {
+      "id": "49477854",
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "points": 628,
+      "author": "exiguus",
+      "created_at": 1787921933,
+      "num_comments": 615,
+      "hn_url": "https://news.ycombinator.com/item?id=49477854"
+    },
+    {
+      "id": "49473522",
+      "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "points": 579,
+      "author": "jbegley",
+      "created_at": 1787882618,
+      "num_comments": 415,
+      "hn_url": "https://news.ycombinator.com/item?id=49473522"
+    },
+    {
+      "id": "49477564",
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "points": 522,
+      "author": "smoser",
+      "created_at": 1787920145,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49477564"
+    },
+    {
+      "id": "49475079",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "points": 492,
+      "author": "miniBill",
+      "created_at": 1787898837,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=49475079"
+    },
+    {
+      "id": "49480466",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "points": 339,
+      "author": "avsm",
+      "created_at": 1787932726,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=49480466"
+    },
+    {
+      "id": "49477055",
+      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+      "points": 324,
+      "author": "softwaredoug",
+      "created_at": 1787916330,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49477055"
+    },
+    {
+      "id": "49485267",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "points": 297,
+      "author": "hentrep",
+      "created_at": 1787958141,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49485267"
+    },
+    {
+      "id": "49474786",
+      "title": "Sovereign Tech Agency invests \u20ac500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "points": 259,
+      "author": "eigenspace",
+      "created_at": 1787895767,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49474786"
+    },
+    {
+      "id": "49476143",
+      "title": "Hilariously fast volume computation with the divergence theorem (2018)",
+      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "points": 257,
+      "author": "luu",
+      "created_at": 1787907646,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49476143"
+    },
+    {
+      "id": "49478103",
+      "title": "EPA says power for data centers can sidestep pollution laws",
+      "url": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
+      "points": 246,
+      "author": "Levitating",
+      "created_at": 1787923307,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=49478103"
+    },
+    {
+      "id": "49474143",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "points": 212,
+      "author": "signa11",
+      "created_at": 1787888973,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49474143"
+    },
+    {
+      "id": "49477212",
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "points": 198,
+      "author": "tosh",
+      "created_at": 1787917880,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49477212"
+    },
+    {
+      "id": "49483182",
+      "title": "Chicken products recalled in five states due to \u201cfalse marks of inspection\u201d",
+      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
+      "points": 194,
+      "author": "randycupertino",
+      "created_at": 1787945415,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=49483182"
+    },
+    {
+      "id": "49473483",
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "points": 190,
+      "author": "1986",
+      "created_at": 1787882246,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=49473483"
+    },
+    {
+      "id": "49483816",
+      "title": "Stopping the smart TV from being used against you",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "points": 183,
+      "author": "speckx",
+      "created_at": 1787948877,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49483816"
     }
   ],
-  "last_updated": "2026-08-28T18:07:45.385391+00:00"
+  "last_updated": "2026-08-29T12:11:00.921796+00:00"
 }
