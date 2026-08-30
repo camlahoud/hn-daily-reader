@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48345840",
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "points": 689,
-      "author": "HypnoticOcelot",
-      "created_at": 1780236800,
-      "num_comments": 389,
-      "hn_url": "https://news.ycombinator.com/item?id=48345840"
-    },
-    {
-      "id": "48348578",
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "url": "https://twitter.com/i/status/2060746160558543217",
-      "points": 567,
-      "author": "thunderbong",
-      "created_at": 1780253868,
-      "num_comments": 270,
-      "hn_url": "https://news.ycombinator.com/item?id=48348578"
-    },
-    {
-      "id": "48346947",
-      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "points": 516,
-      "author": "MrJagil",
-      "created_at": 1780244374,
-      "num_comments": 350,
-      "hn_url": "https://news.ycombinator.com/item?id=48346947"
-    },
-    {
-      "id": "48346257",
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "points": 402,
-      "author": "modinfo",
-      "created_at": 1780239892,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=48346257"
-    },
-    {
-      "id": "48345248",
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "points": 368,
-      "author": "Eridanus2",
-      "created_at": 1780231279,
-      "num_comments": 716,
-      "hn_url": "https://news.ycombinator.com/item?id=48345248"
-    },
-    {
-      "id": "48345896",
-      "title": "The solution might be cancelling my AI subscription",
-      "url": "https://thoughts.hmmz.org/2026-05-31.html",
-      "points": 362,
-      "author": "dmw_ng",
-      "created_at": 1780237410,
-      "num_comments": 229,
-      "hn_url": "https://news.ycombinator.com/item?id=48345896"
-    },
-    {
-      "id": "48345694",
-      "title": "I put a datacenter GPU in my gaming PC",
-      "url": "https://blog.tymscar.com/posts/v100localllm/",
-      "points": 307,
-      "author": "birdculture",
-      "created_at": 1780235596,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=48345694"
-    },
-    {
-      "id": "48350598",
-      "title": "Chuwi Minibook X",
-      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "points": 301,
-      "author": "thcipriani",
-      "created_at": 1780268390,
-      "num_comments": 226,
-      "hn_url": "https://news.ycombinator.com/item?id=48350598"
-    },
-    {
-      "id": "48347354",
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "points": 236,
-      "author": "tambourine_man",
-      "created_at": 1780246943,
-      "num_comments": 376,
-      "hn_url": "https://news.ycombinator.com/item?id=48347354"
-    },
-    {
-      "id": "48349487",
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "points": 236,
-      "author": "hackerBanana",
-      "created_at": 1780259738,
-      "num_comments": 84,
-      "hn_url": "https://news.ycombinator.com/item?id=48349487"
-    },
-    {
-      "id": "48346019",
-      "title": "Restartable Sequences",
-      "url": "https://justine.lol/rseq/",
-      "points": 234,
-      "author": "grappler",
-      "created_at": 1780238328,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48346019"
-    },
-    {
-      "id": "48347370",
-      "title": "Deflock hits 100k ALPRs Mapped in USA",
-      "url": "https://deflock.org/",
-      "points": 213,
-      "author": "pilingual",
-      "created_at": 1780247050,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=48347370"
-    },
-    {
-      "id": "48348864",
-      "title": "'Backrooms' Stuns with $81M Debut",
-      "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
-      "points": 203,
-      "author": "mindcrime",
-      "created_at": 1780255664,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=48348864"
-    },
-    {
-      "id": "48350131",
-      "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
-      "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
-      "points": 196,
-      "author": "mslate",
-      "created_at": 1780264533,
-      "num_comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=48350131"
-    },
-    {
-      "id": "48345090",
-      "title": "Backpressure is all you need",
-      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "points": 192,
-      "author": "lucasfcosta",
-      "created_at": 1780229487,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=48345090"
-    },
-    {
       "id": "48359102",
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
@@ -169,16 +19,6 @@
       "created_at": 1780320621,
       "num_comments": 429,
       "hn_url": "https://news.ycombinator.com/item?id=48356625"
-    },
-    {
-      "id": "48353348",
-      "title": "A 10 year old Xeon is all you need",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "points": 695,
-      "author": "cafkafk",
-      "created_at": 1780295922,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=48353348"
     },
     {
       "id": "48357154",
@@ -219,16 +59,6 @@
       "created_at": 1780332109,
       "num_comments": 138,
       "hn_url": "https://news.ycombinator.com/item?id=48359232"
-    },
-    {
-      "id": "48352939",
-      "title": "Nvidia RTX Spark",
-      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-      "points": 392,
-      "author": "shenli3514",
-      "created_at": 1780291480,
-      "num_comments": 382,
-      "hn_url": "https://news.ycombinator.com/item?id=48352939"
     },
     {
       "id": "48364055",
@@ -15789,7 +15619,207 @@
       "created_at": 1787948877,
       "num_comments": 141,
       "hn_url": "https://news.ycombinator.com/item?id=49483816"
+    },
+    {
+      "id": "49486172",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "points": 816,
+      "author": "meetpateltech",
+      "created_at": 1787968073,
+      "num_comments": 507,
+      "hn_url": "https://news.ycombinator.com/item?id=49486172"
+    },
+    {
+      "id": "49489982",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "points": 489,
+      "author": "pluc",
+      "created_at": 1788012130,
+      "num_comments": 454,
+      "hn_url": "https://news.ycombinator.com/item?id=49489982"
+    },
+    {
+      "id": "49492193",
+      "title": "The internet is kind of a predatory cesspit now",
+      "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+      "points": 427,
+      "author": "ibobev",
+      "created_at": 1788028856,
+      "num_comments": 290,
+      "hn_url": "https://news.ycombinator.com/item?id=49492193"
+    },
+    {
+      "id": "49492219",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "points": 408,
+      "author": "firefax",
+      "created_at": 1788029077,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=49492219"
+    },
+    {
+      "id": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "points": 403,
+      "author": "gpi",
+      "created_at": 1788023987,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49491568"
+    },
+    {
+      "id": "49489057",
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "points": 331,
+      "author": "tosh",
+      "created_at": 1788003578,
+      "num_comments": 441,
+      "hn_url": "https://news.ycombinator.com/item?id=49489057"
+    },
+    {
+      "id": "49494182",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "points": 314,
+      "author": "DeepLogin",
+      "created_at": 1788045437,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49494182"
+    },
+    {
+      "id": "49492632",
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "points": 312,
+      "author": "shenli3514",
+      "created_at": 1788032003,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=49492632"
+    },
+    {
+      "id": "49490702",
+      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "points": 297,
+      "author": "400thecat",
+      "created_at": 1788017188,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=49490702"
+    },
+    {
+      "id": "49487341",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "points": 266,
+      "author": "ingve",
+      "created_at": 1787983611,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=49487341"
+    },
+    {
+      "id": "49486081",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "points": 227,
+      "author": "thclpr",
+      "created_at": 1787966653,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=49486081"
+    },
+    {
+      "id": "49490870",
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "points": 201,
+      "author": "JumpCrisscross",
+      "created_at": 1788018482,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=49490870"
+    },
+    {
+      "id": "49486334",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "points": 173,
+      "author": "rgbimbochamp",
+      "created_at": 1787970217,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49486334"
+    },
+    {
+      "id": "49491714",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "points": 165,
+      "author": "tuckerwales",
+      "created_at": 1788025158,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49491714"
+    },
+    {
+      "id": "49494231",
+      "title": "Highest-ever ocean temperature measured as powerful El Ni\u00f1o forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "points": 158,
+      "author": "measurablefunc",
+      "created_at": 1788046004,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49494231"
+    },
+    {
+      "id": "49488282",
+      "title": "You Know GDPR Is Good Based on Who Hates It",
+      "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+      "points": 156,
+      "author": "latexr",
+      "created_at": 1787995162,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=49488282"
+    },
+    {
+      "id": "49494151",
+      "title": "I co-founded Burning Man. The festival has lost its soul",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "points": 146,
+      "author": "lisper",
+      "created_at": 1788045145,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=49494151"
+    },
+    {
+      "id": "49494301",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "points": 123,
+      "author": "consumer451",
+      "created_at": 1788047004,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49494301"
+    },
+    {
+      "id": "49494036",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "url": "https://defrag98.com",
+      "points": 120,
+      "author": "throw0101a",
+      "created_at": 1788043877,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=49494036"
+    },
+    {
+      "id": "49487786",
+      "title": "Manifesto \u2013 who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "points": 106,
+      "author": "wise_blood",
+      "created_at": 1787989111,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49487786"
     }
   ],
-  "last_updated": "2026-08-29T12:11:00.921796+00:00"
+  "last_updated": "2026-08-30T11:07:11.920764+00:00"
 }
