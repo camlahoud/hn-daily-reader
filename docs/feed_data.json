@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "48359102",
-      "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "points": 1822,
-      "author": "ssiddharth",
-      "created_at": 1780331502,
-      "num_comments": 415,
-      "hn_url": "https://news.ycombinator.com/item?id=48359102"
-    },
-    {
-      "id": "48356625",
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "points": 751,
-      "author": "kurmiashish",
-      "created_at": 1780320621,
-      "num_comments": 429,
-      "hn_url": "https://news.ycombinator.com/item?id=48356625"
-    },
-    {
-      "id": "48357154",
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "points": 579,
-      "author": "speckx",
-      "created_at": 1780323401,
-      "num_comments": 269,
-      "hn_url": "https://news.ycombinator.com/item?id=48357154"
-    },
-    {
-      "id": "48358646",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "points": 498,
-      "author": "surprisetalk",
-      "created_at": 1780329640,
-      "num_comments": 405,
-      "hn_url": "https://news.ycombinator.com/item?id=48358646"
-    },
-    {
-      "id": "48357075",
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "points": 466,
-      "author": "kristianpaul",
-      "created_at": 1780323032,
-      "num_comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=48357075"
-    },
-    {
-      "id": "48359232",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "points": 418,
-      "author": "prakashqwerty",
-      "created_at": 1780332109,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=48359232"
-    },
-    {
-      "id": "48364055",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "points": 377,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1780357546,
-      "num_comments": 658,
-      "hn_url": "https://news.ycombinator.com/item?id=48364055"
-    },
-    {
-      "id": "48359130",
-      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "points": 299,
-      "author": "jaredwiener",
-      "created_at": 1780331639,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48359130"
-    },
-    {
-      "id": "48363132",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "points": 274,
-      "author": "typpo",
-      "created_at": 1780350602,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=48363132"
-    },
-    {
-      "id": "48363882",
-      "title": "Age verification for social media, the beginning of the end for a free internet?",
-      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-      "points": 272,
-      "author": "StrLght",
-      "created_at": 1780356148,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=48363882"
-    },
-    {
-      "id": "48360054",
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "points": 266,
-      "author": "pplanu",
-      "created_at": 1780335440,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48360054"
-    },
-    {
-      "id": "48357355",
-      "title": "KDE at 30",
-      "url": "https://kde.org/anniversaries/30/",
-      "points": 239,
-      "author": "Kye",
-      "created_at": 1780324286,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=48357355"
-    },
-    {
-      "id": "48357905",
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "points": 238,
-      "author": "speckx",
-      "created_at": 1780326695,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=48357905"
-    },
-    {
-      "id": "48363765",
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "points": 232,
-      "author": "nigelgutzmann",
-      "created_at": 1780355195,
-      "num_comments": 38,
-      "hn_url": "https://news.ycombinator.com/item?id=48363765"
-    },
-    {
-      "id": "48358667",
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "points": 228,
-      "author": "cyunker",
-      "created_at": 1780329724,
-      "num_comments": 179,
-      "hn_url": "https://news.ycombinator.com/item?id=48358667"
-    },
-    {
-      "id": "48362347",
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "points": 225,
-      "author": "Eridanus2",
-      "created_at": 1780346413,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=48362347"
-    },
-    {
-      "id": "48361064",
-      "title": "GitHub and the crime against software",
-      "url": "https://eblog.fly.dev/githubbad.html",
-      "points": 222,
-      "author": "pplanu",
-      "created_at": 1780340095,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=48361064"
-    },
-    {
-      "id": "48355720",
-      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "points": 217,
-      "author": "jbk",
-      "created_at": 1780315469,
-      "num_comments": 460,
-      "hn_url": "https://news.ycombinator.com/item?id=48355720"
-    },
-    {
       "id": "48375016",
       "title": "Gmail thinks I'm stupid, so I left",
       "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
@@ -201,16 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48370330"
     },
     {
-      "id": "48368121",
-      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "url": "https://blog.adafruit.com/",
-      "points": 652,
-      "author": "semanser",
-      "created_at": 1780394456,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=48368121"
-    },
-    {
       "id": "48374466",
       "title": "MAI-Code-1-Flash",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
@@ -219,16 +29,6 @@
       "created_at": 1780426027,
       "num_comments": 212,
       "hn_url": "https://news.ycombinator.com/item?id=48374466"
-    },
-    {
-      "id": "48367907",
-      "title": "Why Janet? (2023)",
-      "url": "https://ianthehenry.com/posts/why-janet/",
-      "points": 464,
-      "author": "yacin",
-      "created_at": 1780392871,
-      "num_comments": 249,
-      "hn_url": "https://news.ycombinator.com/item?id=48367907"
     },
     {
       "id": "48371562",
@@ -261,26 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48375824"
     },
     {
-      "id": "48364800",
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "points": 389,
-      "author": "ranebo",
-      "created_at": 1780363714,
-      "num_comments": 258,
-      "hn_url": "https://news.ycombinator.com/item?id=48364800"
-    },
-    {
-      "id": "48367904",
-      "title": "Love systemd timers",
-      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "points": 372,
-      "author": "yacin",
-      "created_at": 1780392851,
-      "num_comments": 259,
-      "hn_url": "https://news.ycombinator.com/item?id=48367904"
-    },
-    {
       "id": "48377404",
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
       "url": "https://github.com/c0dejedi/nbd-vram",
@@ -301,26 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48373391"
     },
     {
-      "id": "48369088",
-      "title": "Apple rejected my dictation app for using the accessibility API",
-      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
-      "points": 302,
-      "author": "RZelaya",
-      "created_at": 1780401603,
-      "num_comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=48369088"
-    },
-    {
-      "id": "48368059",
-      "title": "Stop Ruining It",
-      "url": "https://seths.blog/2026/06/stop-ruining-it/",
-      "points": 280,
-      "author": "herbertl",
-      "created_at": 1780393962,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=48368059"
-    },
-    {
       "id": "48377761",
       "title": "AI outperforms law professors in Stanford Law study",
       "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
@@ -329,16 +89,6 @@
       "created_at": 1780443792,
       "num_comments": 204,
       "hn_url": "https://news.ycombinator.com/item?id=48377761"
-    },
-    {
-      "id": "48367723",
-      "title": "Show HN: Eyeball",
-      "url": "https://eyeball.rory.codes/",
-      "points": 257,
-      "author": "mrroryflint",
-      "created_at": 1780391089,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=48367723"
     },
     {
       "id": "48375393",
@@ -15819,7 +15569,207 @@
       "created_at": 1787989111,
       "num_comments": 58,
       "hn_url": "https://news.ycombinator.com/item?id=49487786"
+    },
+    {
+      "id": "49503601",
+      "title": "\u201cI just chose words carefully\u201d",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "points": 899,
+      "author": "zdw",
+      "created_at": 1788130188,
+      "num_comments": 240,
+      "hn_url": "https://news.ycombinator.com/item?id=49503601"
+    },
+    {
+      "id": "49495372",
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "points": 755,
+      "author": "shscs911",
+      "created_at": 1788059736,
+      "num_comments": 371,
+      "hn_url": "https://news.ycombinator.com/item?id=49495372"
+    },
+    {
+      "id": "49499854",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "points": 504,
+      "author": "trap0xcc",
+      "created_at": 1788105589,
+      "num_comments": 495,
+      "hn_url": "https://news.ycombinator.com/item?id=49499854"
+    },
+    {
+      "id": "49499394",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "points": 432,
+      "author": "nickslaughter02",
+      "created_at": 1788102760,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=49499394"
+    },
+    {
+      "id": "49494520",
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "points": 391,
+      "author": "davidmckenna",
+      "created_at": 1788049300,
+      "num_comments": 267,
+      "hn_url": "https://news.ycombinator.com/item?id=49494520"
+    },
+    {
+      "id": "49497063",
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "points": 340,
+      "author": "defrost",
+      "created_at": 1788081968,
+      "num_comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=49497063"
+    },
+    {
+      "id": "49499867",
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "points": 340,
+      "author": "metrofun",
+      "created_at": 1788105670,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49499867"
+    },
+    {
+      "id": "49497810",
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "points": 335,
+      "author": "greenlightning",
+      "created_at": 1788089983,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=49497810"
+    },
+    {
+      "id": "49498978",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "points": 315,
+      "author": "Brajeshwar",
+      "created_at": 1788100165,
+      "num_comments": 391,
+      "hn_url": "https://news.ycombinator.com/item?id=49498978"
+    },
+    {
+      "id": "49498095",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "points": 276,
+      "author": "xendo",
+      "created_at": 1788093065,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=49498095"
+    },
+    {
+      "id": "49498787",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "points": 256,
+      "author": "catbird",
+      "created_at": 1788098814,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=49498787"
+    },
+    {
+      "id": "49496918",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "points": 241,
+      "author": "vntok",
+      "created_at": 1788079899,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49496918"
+    },
+    {
+      "id": "49496782",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "points": 206,
+      "author": "joebig",
+      "created_at": 1788078206,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=49496782"
+    },
+    {
+      "id": "49498201",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "points": 203,
+      "author": "sparsesignal",
+      "created_at": 1788094254,
+      "num_comments": 224,
+      "hn_url": "https://news.ycombinator.com/item?id=49498201"
+    },
+    {
+      "id": "49494856",
+      "title": "FreeCORE TrueNAS Core \u2013 Continued",
+      "url": "https://freecore.org/",
+      "points": 173,
+      "author": "sashk",
+      "created_at": 1788053492,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=49494856"
+    },
+    {
+      "id": "49499831",
+      "title": "Startup Anti-Patterns",
+      "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+      "points": 168,
+      "author": "rzk",
+      "created_at": 1788105450,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=49499831"
+    },
+    {
+      "id": "49499891",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "points": 166,
+      "author": "rzk",
+      "created_at": 1788105797,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=49499891"
+    },
+    {
+      "id": "49503934",
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "points": 144,
+      "author": "BirAdam",
+      "created_at": 1788133175,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=49503934"
+    },
+    {
+      "id": "49501791",
+      "title": "The world may have less time than it thinks on climate change",
+      "url": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+      "points": 128,
+      "author": "andsoitis",
+      "created_at": 1788116905,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49501791"
+    },
+    {
+      "id": "49503956",
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "points": 121,
+      "author": "volodia",
+      "created_at": 1788133292,
+      "num_comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49503956"
     }
   ],
-  "last_updated": "2026-08-30T11:07:11.920764+00:00"
+  "last_updated": "2026-08-31T12:31:37.020860+00:00"
 }
