@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "48375016",
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "points": 982,
-      "author": "speckx",
-      "created_at": 1780428460,
-      "num_comments": 648,
-      "hn_url": "https://news.ycombinator.com/item?id=48375016"
-    },
-    {
-      "id": "48370330",
-      "title": "Please don't spam people looking for employment. It's just cruel",
-      "url": "https://news.ycombinator.com/item?id=48370330",
-      "points": 927,
-      "author": "IliaLitviak",
-      "created_at": 1780408606,
-      "num_comments": 260,
-      "hn_url": "https://news.ycombinator.com/item?id=48370330"
-    },
-    {
-      "id": "48374466",
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "points": 477,
-      "author": "EvanZhouDev",
-      "created_at": 1780426027,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=48374466"
-    },
-    {
-      "id": "48371562",
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "points": 431,
-      "author": "ammar2",
-      "created_at": 1780414145,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=48371562"
-    },
-    {
-      "id": "48369980",
-      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "points": 397,
-      "author": "eustoria",
-      "created_at": 1780406672,
-      "num_comments": 272,
-      "hn_url": "https://news.ycombinator.com/item?id=48369980"
-    },
-    {
-      "id": "48375824",
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "points": 392,
-      "author": "viasfo",
-      "created_at": 1780432208,
-      "num_comments": 236,
-      "hn_url": "https://news.ycombinator.com/item?id=48375824"
-    },
-    {
-      "id": "48377404",
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "points": 326,
-      "author": "tanelpoder",
-      "created_at": 1780440933,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=48377404"
-    },
-    {
-      "id": "48373391",
-      "title": "Larry Ellison: \"Citizens will be on their best behavior because we\u2019re recording\"",
-      "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
-      "points": 308,
-      "author": "CharlesW",
-      "created_at": 1780421650,
-      "num_comments": 244,
-      "hn_url": "https://news.ycombinator.com/item?id=48373391"
-    },
-    {
-      "id": "48377761",
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "points": 261,
-      "author": "berlianta",
-      "created_at": 1780443792,
-      "num_comments": 204,
-      "hn_url": "https://news.ycombinator.com/item?id=48377761"
-    },
-    {
-      "id": "48375393",
-      "title": "My thoughts after using Clojure for about a month",
-      "url": "https://www.acdw.net/clojure/",
-      "points": 225,
-      "author": "speckx",
-      "created_at": 1780430206,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48375393"
-    },
-    {
-      "id": "48372628",
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "points": 214,
-      "author": "_alternator_",
-      "created_at": 1780418416,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=48372628"
-    },
-    {
-      "id": "48373054",
-      "title": "Three Ways to Get Paid (2018)",
-      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-      "points": 214,
-      "author": "nate",
-      "created_at": 1780420144,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=48373054"
-    },
-    {
-      "id": "48375175",
-      "title": "The advertising cartel coming to your web browser",
-      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-      "points": 211,
-      "author": "speckx",
-      "created_at": 1780429165,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48375175"
-    },
-    {
       "id": "48385906",
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
@@ -169,16 +39,6 @@
       "created_at": 1780529838,
       "num_comments": 254,
       "hn_url": "https://news.ycombinator.com/item?id=48391611"
-    },
-    {
-      "id": "48382310",
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "points": 667,
-      "author": "xx_ns",
-      "created_at": 1780483980,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=48382310"
     },
     {
       "id": "48384355",
@@ -241,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48386238"
     },
     {
-      "id": "48382142",
-      "title": "PlayStation Architecture",
-      "url": "https://www.copetti.org/writings/consoles/playstation/",
-      "points": 305,
-      "author": "gregsadetsky",
-      "created_at": 1780482265,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=48382142"
-    },
-    {
       "id": "48385965",
       "title": "ESP32-S31",
       "url": "https://www.espressif.com/en/products/socs/esp32-s31",
@@ -281,16 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48382382"
     },
     {
-      "id": "48382052",
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-      "points": 238,
-      "author": "pseudolus",
-      "created_at": 1780481148,
-      "num_comments": 271,
-      "hn_url": "https://news.ycombinator.com/item?id=48382052"
-    },
-    {
       "id": "48386551",
       "title": "The Public Should Own Half of the Big A.I. Companies",
       "url": "https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/",
@@ -309,16 +149,6 @@
       "created_at": 1780493580,
       "num_comments": 32,
       "hn_url": "https://news.ycombinator.com/item?id=48383823"
-    },
-    {
-      "id": "48379203",
-      "title": "Agentic Mfw",
-      "url": "https://agenticmotherfucking.website",
-      "points": 208,
-      "author": "elmerland",
-      "created_at": 1780453968,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=48379203"
     },
     {
       "id": "48386725",
@@ -15769,7 +15599,207 @@
       "created_at": 1788133292,
       "num_comments": 14,
       "hn_url": "https://news.ycombinator.com/item?id=49503956"
+    },
+    {
+      "id": "49514878",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "points": 683,
+      "author": "twapi",
+      "created_at": 1788210658,
+      "num_comments": 526,
+      "hn_url": "https://news.ycombinator.com/item?id=49514878"
+    },
+    {
+      "id": "49510514",
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "points": 644,
+      "author": "cutoff",
+      "created_at": 1788187946,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=49510514"
+    },
+    {
+      "id": "49507822",
+      "title": "OpenShot 4.0 \u2013 Open-source video editor",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "points": 567,
+      "author": "metrofun",
+      "created_at": 1788170345,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49507822"
+    },
+    {
+      "id": "49511856",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "points": 511,
+      "author": "speckx",
+      "created_at": 1788194831,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=49511856"
+    },
+    {
+      "id": "49508982",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "points": 420,
+      "author": "thm",
+      "created_at": 1788180082,
+      "num_comments": 464,
+      "hn_url": "https://news.ycombinator.com/item?id=49508982"
+    },
+    {
+      "id": "49506182",
+      "title": "A 12TB Steam \u201cteraleak\u201d spills more than a decade of lost PC gaming history",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "points": 376,
+      "author": "WithinReason",
+      "created_at": 1788156644,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=49506182"
+    },
+    {
+      "id": "49506819",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "points": 373,
+      "author": "Recursing",
+      "created_at": 1788162558,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49506819"
+    },
+    {
+      "id": "49508506",
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "points": 353,
+      "author": "jcurbo",
+      "created_at": 1788176748,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49508506"
+    },
+    {
+      "id": "49512975",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "points": 335,
+      "author": "keithcarolus",
+      "created_at": 1788200493,
+      "num_comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49512975"
+    },
+    {
+      "id": "49504625",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "points": 334,
+      "author": "gmays",
+      "created_at": 1788139702,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=49504625"
+    },
+    {
+      "id": "49516199",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "points": 251,
+      "author": "Anon84",
+      "created_at": 1788219956,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=49516199"
+    },
+    {
+      "id": "49515830",
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
+      "points": 235,
+      "author": "Bluestein",
+      "created_at": 1788216825,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49515830"
+    },
+    {
+      "id": "49510000",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "points": 221,
+      "author": "ijidak",
+      "created_at": 1788185235,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49510000"
+    },
+    {
+      "id": "49505219",
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "points": 220,
+      "author": "dbalatero",
+      "created_at": 1788146433,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49505219"
+    },
+    {
+      "id": "49506142",
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "points": 217,
+      "author": "tosh",
+      "created_at": 1788156182,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=49506142"
+    },
+    {
+      "id": "49504905",
+      "title": "Internet centralization and the original sin of NAT",
+      "url": "https://dreamstation.systems/personal/ntppost.html",
+      "points": 214,
+      "author": "robinpie",
+      "created_at": 1788142983,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=49504905"
+    },
+    {
+      "id": "49511534",
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "points": 202,
+      "author": "Bluestein",
+      "created_at": 1788193176,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=49511534"
+    },
+    {
+      "id": "49508290",
+      "title": "A CVE Dispute",
+      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+      "points": 186,
+      "author": "theanonymousone",
+      "created_at": 1788174797,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49508290"
+    },
+    {
+      "id": "49508317",
+      "title": "Agent memory as a file format",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "points": 176,
+      "author": "ingve",
+      "created_at": 1788175045,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49508317"
+    },
+    {
+      "id": "49505217",
+      "title": "Transfer files over an Ethernet patch cable",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "points": 173,
+      "author": "jllyhill",
+      "created_at": 1788146382,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49505217"
     }
   ],
-  "last_updated": "2026-08-31T12:31:37.020860+00:00"
+  "last_updated": "2026-09-01T10:59:39.069559+00:00"
 }
