@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48385906",
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "points": 833,
-      "author": "rvz",
-      "created_at": 1780502682,
-      "num_comments": 324,
-      "hn_url": "https://news.ycombinator.com/item?id=48385906"
-    },
-    {
-      "id": "48388324",
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "points": 766,
-      "author": "cloud8421",
-      "created_at": 1780513346,
-      "num_comments": 279,
-      "hn_url": "https://news.ycombinator.com/item?id=48388324"
-    },
-    {
-      "id": "48383220",
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "points": 732,
-      "author": "reconnecting",
-      "created_at": 1780490527,
-      "num_comments": 697,
-      "hn_url": "https://news.ycombinator.com/item?id=48383220"
-    },
-    {
-      "id": "48391611",
-      "title": "They\u2019re made out of weights",
-      "url": "https://maxleiter.com/blog/weights",
-      "points": 686,
-      "author": "MaxLeiter",
-      "created_at": 1780529838,
-      "num_comments": 254,
-      "hn_url": "https://news.ycombinator.com/item?id=48391611"
-    },
-    {
-      "id": "48384355",
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
-      "points": 615,
-      "author": "Tomte",
-      "created_at": 1780495806,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=48384355"
-    },
-    {
-      "id": "48383056",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "points": 484,
-      "author": "pdyc",
-      "created_at": 1780489514,
-      "num_comments": 604,
-      "hn_url": "https://news.ycombinator.com/item?id=48383056"
-    },
-    {
-      "id": "48384482",
-      "title": "DaVinci Resolve 21",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "points": 457,
-      "author": "pentagrama",
-      "created_at": 1780496319,
-      "num_comments": 205,
-      "hn_url": "https://news.ycombinator.com/item?id=48384482"
-    },
-    {
-      "id": "48387270",
-      "title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "points": 434,
-      "author": "lordleft",
-      "created_at": 1780509097,
-      "num_comments": 762,
-      "hn_url": "https://news.ycombinator.com/item?id=48387270"
-    },
-    {
-      "id": "48383241",
-      "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-      "points": 400,
-      "author": "papersail",
-      "created_at": 1780490623,
-      "num_comments": 359,
-      "hn_url": "https://news.ycombinator.com/item?id=48383241"
-    },
-    {
-      "id": "48386238",
-      "title": "MacBook Neo is so popular that Apple doubled production",
-      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-      "points": 375,
-      "author": "tosh",
-      "created_at": 1780504397,
-      "num_comments": 410,
-      "hn_url": "https://news.ycombinator.com/item?id=48386238"
-    },
-    {
-      "id": "48385965",
-      "title": "ESP32-S31",
-      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-      "points": 299,
-      "author": "volemo",
-      "created_at": 1780503025,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=48385965"
-    },
-    {
-      "id": "48385114",
-      "title": "A Post-Quantum Future for Let's Encrypt",
-      "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "points": 264,
-      "author": "SGran",
-      "created_at": 1780499169,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48385114"
-    },
-    {
-      "id": "48382382",
-      "title": "Every Byte Matters",
-      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "points": 251,
-      "author": "ingve",
-      "created_at": 1780484644,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=48382382"
-    },
-    {
-      "id": "48386551",
-      "title": "The Public Should Own Half of the Big A.I. Companies",
-      "url": "https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/",
-      "points": 217,
-      "author": "droidjj",
-      "created_at": 1780505919,
-      "num_comments": 252,
-      "hn_url": "https://news.ycombinator.com/item?id=48386551"
-    },
-    {
-      "id": "48383823",
-      "title": "I built a ceiling projection mapping of the planes flying over my house",
-      "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
-      "points": 216,
-      "author": "frereubu",
-      "created_at": 1780493580,
-      "num_comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=48383823"
-    },
-    {
-      "id": "48386725",
-      "title": "Gooey: A GPU-accelerated UI framework for Zig",
-      "url": "https://github.com/duanebester/gooey",
-      "points": 178,
-      "author": "ksec",
-      "created_at": 1780506747,
-      "num_comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=48386725"
-    },
-    {
-      "id": "48392004",
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "points": 773,
-      "author": "littlexsparkee",
-      "created_at": 1780532282,
-      "num_comments": 738,
-      "hn_url": "https://news.ycombinator.com/item?id=48392004"
-    },
-    {
       "id": "48398055",
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
@@ -179,16 +9,6 @@
       "created_at": 1780578051,
       "num_comments": 277,
       "hn_url": "https://news.ycombinator.com/item?id=48398055"
-    },
-    {
-      "id": "48392232",
-      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
-      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-      "points": 620,
-      "author": "rguiscard",
-      "created_at": 1780533853,
-      "num_comments": 460,
-      "hn_url": "https://news.ycombinator.com/item?id=48392232"
     },
     {
       "id": "48405718",
@@ -251,26 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48399332"
     },
     {
-      "id": "48392343",
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "points": 387,
-      "author": "jc4p",
-      "created_at": 1780534592,
-      "num_comments": 210,
-      "hn_url": "https://news.ycombinator.com/item?id=48392343"
-    },
-    {
-      "id": "48395938",
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "points": 370,
-      "author": "XzetaU8",
-      "created_at": 1780562736,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=48395938"
-    },
-    {
       "id": "48401965",
       "title": "The desperation of NYTimes",
       "url": "https://rozumem.xyz/posts/16",
@@ -301,26 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48403588"
     },
     {
-      "id": "48396004",
-      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-      "url": "https://uruky.com/?il=en",
-      "points": 223,
-      "author": "BrunoBernardino",
-      "created_at": 1780563370,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=48396004"
-    },
-    {
-      "id": "48392082",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "points": 223,
-      "author": "jbredeche",
-      "created_at": 1780532872,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=48392082"
-    },
-    {
       "id": "48400918",
       "title": "Sagrada Fam\u00edlia Lego set",
       "url": "https://www.lego.com/en-us/product/sagrada-familia-21065",
@@ -339,16 +119,6 @@
       "created_at": 1780570093,
       "num_comments": 68,
       "hn_url": "https://news.ycombinator.com/item?id=48396792"
-    },
-    {
-      "id": "48393043",
-      "title": "American capitalism has taken an apocalyptic turn",
-      "url": "https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn",
-      "points": 175,
-      "author": "andsoitis",
-      "created_at": 1780541080,
-      "num_comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=48393043"
     },
     {
       "id": "48405931",
@@ -15799,7 +15569,207 @@
       "created_at": 1788146382,
       "num_comments": 176,
       "hn_url": "https://news.ycombinator.com/item?id=49505217"
+    },
+    {
+      "id": "49525378",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "points": 1259,
+      "author": "denysvitali",
+      "created_at": 1788285233,
+      "num_comments": 1176,
+      "hn_url": "https://news.ycombinator.com/item?id=49525378"
+    },
+    {
+      "id": "49520022",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "points": 885,
+      "author": "hexa555",
+      "created_at": 1788257462,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=49520022"
+    },
+    {
+      "id": "49527748",
+      "title": "Hang on to Your Firefox",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "points": 835,
+      "author": "speckx",
+      "created_at": 1788294651,
+      "num_comments": 426,
+      "hn_url": "https://news.ycombinator.com/item?id=49527748"
+    },
+    {
+      "id": "49517448",
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "points": 822,
+      "author": "nreece",
+      "created_at": 1788231134,
+      "num_comments": 544,
+      "hn_url": "https://news.ycombinator.com/item?id=49517448"
+    },
+    {
+      "id": "49526069",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "points": 715,
+      "author": "jatins",
+      "created_at": 1788287715,
+      "num_comments": 789,
+      "hn_url": "https://news.ycombinator.com/item?id=49526069"
+    },
+    {
+      "id": "49519939",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "points": 621,
+      "author": "porridgeraisin",
+      "created_at": 1788256365,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=49519939"
+    },
+    {
+      "id": "49523754",
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "points": 529,
+      "author": "erikvanoosten",
+      "created_at": 1788278153,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=49523754"
+    },
+    {
+      "id": "49521973",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "points": 481,
+      "author": "HieronymusBosch",
+      "created_at": 1788270409,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=49521973"
+    },
+    {
+      "id": "49527396",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "points": 416,
+      "author": "timpera",
+      "created_at": 1788293277,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=49527396"
+    },
+    {
+      "id": "49517584",
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "points": 398,
+      "author": "simonpure",
+      "created_at": 1788232596,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=49517584"
+    },
+    {
+      "id": "49517624",
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "points": 371,
+      "author": "jcalx",
+      "created_at": 1788233028,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=49517624"
+    },
+    {
+      "id": "49523387",
+      "title": "Ambient CSS v3 \u2013 Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "points": 276,
+      "author": "kikkupico",
+      "created_at": 1788276911,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=49523387"
+    },
+    {
+      "id": "49524320",
+      "title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga",
+      "url": "https://moviescenemap.com/",
+      "points": 259,
+      "author": "Flightmussy",
+      "created_at": 1788280485,
+      "num_comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49524320"
+    },
+    {
+      "id": "49525297",
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "points": 238,
+      "author": "steveklabnik",
+      "created_at": 1788284781,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49525297"
+    },
+    {
+      "id": "49523720",
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "points": 227,
+      "author": "Limb",
+      "created_at": 1788278022,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=49523720"
+    },
+    {
+      "id": "49529621",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "points": 227,
+      "author": "tatersolid",
+      "created_at": 1788304663,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49529621"
+    },
+    {
+      "id": "49525160",
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "points": 223,
+      "author": "johnsutor",
+      "created_at": 1788284162,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49525160"
+    },
+    {
+      "id": "49522897",
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49522897",
+      "points": 218,
+      "author": "whoishiring",
+      "created_at": 1788274877,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=49522897"
+    },
+    {
+      "id": "49527573",
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "points": 217,
+      "author": "colinprince",
+      "created_at": 1788293951,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49527573"
+    },
+    {
+      "id": "49524447",
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "points": 213,
+      "author": "carloslfu",
+      "created_at": 1788280966,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=49524447"
     }
   ],
-  "last_updated": "2026-09-01T10:59:39.069559+00:00"
+  "last_updated": "2026-09-02T10:29:38.918386+00:00"
 }
