@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "48398055",
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "points": 637,
-      "author": "coloneltcb",
-      "created_at": 1780578051,
-      "num_comments": 277,
-      "hn_url": "https://news.ycombinator.com/item?id=48398055"
-    },
-    {
-      "id": "48405718",
-      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "points": 554,
-      "author": "tristanj",
-      "created_at": 1780613299,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=48405718"
-    },
-    {
-      "id": "48397028",
-      "title": "Ian's Secure Shoelace Knot",
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "points": 551,
-      "author": "mooreds",
-      "created_at": 1780571854,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=48397028"
-    },
-    {
-      "id": "48400842",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "points": 453,
-      "author": "meetpateltech",
-      "created_at": 1780590017,
-      "num_comments": 611,
-      "hn_url": "https://news.ycombinator.com/item?id=48400842"
-    },
-    {
-      "id": "48397233",
-      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
-      "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "points": 433,
-      "author": "fidotron",
-      "created_at": 1780573168,
-      "num_comments": 120,
-      "hn_url": "https://news.ycombinator.com/item?id=48397233"
-    },
-    {
-      "id": "48403980",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "points": 416,
-      "author": "binyu",
-      "created_at": 1780603880,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=48403980"
-    },
-    {
-      "id": "48399332",
-      "title": "Wind and solar generated more power than gas globally in April 2026",
-      "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-      "points": 387,
-      "author": "speckx",
-      "created_at": 1780583799,
-      "num_comments": 354,
-      "hn_url": "https://news.ycombinator.com/item?id=48399332"
-    },
-    {
-      "id": "48401965",
-      "title": "The desperation of NYTimes",
-      "url": "https://rozumem.xyz/posts/16",
-      "points": 361,
-      "author": "rozumem",
-      "created_at": 1780594753,
-      "num_comments": 297,
-      "hn_url": "https://news.ycombinator.com/item?id=48401965"
-    },
-    {
-      "id": "48400588",
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "points": 298,
-      "author": "mawise",
-      "created_at": 1780588955,
-      "num_comments": 205,
-      "hn_url": "https://news.ycombinator.com/item?id=48400588"
-    },
-    {
-      "id": "48403588",
-      "title": "Meta's ships facial recognition on smart glasses",
-      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-      "points": 271,
-      "author": "buchodi",
-      "created_at": 1780601808,
-      "num_comments": 230,
-      "hn_url": "https://news.ycombinator.com/item?id=48403588"
-    },
-    {
-      "id": "48400918",
-      "title": "Sagrada Fam\u00edlia Lego set",
-      "url": "https://www.lego.com/en-us/product/sagrada-familia-21065",
-      "points": 188,
-      "author": "speckx",
-      "created_at": 1780590320,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=48400918"
-    },
-    {
-      "id": "48396792",
-      "title": "Gaussian Point Splatting",
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "points": 187,
-      "author": "ibobev",
-      "created_at": 1780570093,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=48396792"
-    },
-    {
-      "id": "48405931",
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "points": 166,
-      "author": "Anon84",
-      "created_at": 1780614716,
-      "num_comments": 34,
-      "hn_url": "https://news.ycombinator.com/item?id=48405931"
-    },
-    {
-      "id": "48409191",
-      "title": "Changing how we develop Ladybird",
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "points": 834,
-      "author": "EdwinHoksberg",
-      "created_at": 1780644393,
-      "num_comments": 530,
-      "hn_url": "https://news.ycombinator.com/item?id=48409191"
-    },
-    {
       "id": "48415217",
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
@@ -159,26 +19,6 @@
       "created_at": 1780663413,
       "num_comments": 401,
       "hn_url": "https://news.ycombinator.com/item?id=48411635"
-    },
-    {
-      "id": "48408016",
-      "title": "C++: The Documentary",
-      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "points": 394,
-      "author": "ingve",
-      "created_at": 1780634221,
-      "num_comments": 289,
-      "hn_url": "https://news.ycombinator.com/item?id=48408016"
-    },
-    {
-      "id": "48409664",
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "url": "https://arxiv.org/abs/2606.03673",
-      "points": 391,
-      "author": "mimorigasaka",
-      "created_at": 1780648336,
-      "num_comments": 202,
-      "hn_url": "https://news.ycombinator.com/item?id=48409664"
     },
     {
       "id": "48413464",
@@ -221,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48414653"
     },
     {
-      "id": "48406640",
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "points": 299,
-      "author": "jenders",
-      "created_at": 1780620278,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=48406640"
-    },
-    {
       "id": "48414027",
       "title": "Conventional Commits encourages focus on the wrong things",
       "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
@@ -261,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48413295"
     },
     {
-      "id": "48406358",
-      "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "points": 264,
-      "author": "geoffbp",
-      "created_at": 1780617869,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=48406358"
-    },
-    {
       "id": "48416845",
       "title": "Three of our worst VC stories",
       "url": "https://twitter.com/eastdakota/status/2062860530360959273",
@@ -289,36 +109,6 @@
       "created_at": 1780660587,
       "num_comments": 281,
       "hn_url": "https://news.ycombinator.com/item?id=48411190"
-    },
-    {
-      "id": "48407499",
-      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-      "points": 201,
-      "author": "haydenbarnes",
-      "created_at": 1780629268,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=48407499"
-    },
-    {
-      "id": "48409306",
-      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "points": 191,
-      "author": "geotp",
-      "created_at": 1780645204,
-      "num_comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=48409306"
-    },
-    {
-      "id": "48408442",
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "points": 184,
-      "author": "taubek",
-      "created_at": 1780638366,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=48408442"
     },
     {
       "id": "48411510",
@@ -15769,7 +15559,207 @@
       "created_at": 1788280966,
       "num_comments": 97,
       "hn_url": "https://news.ycombinator.com/item?id=49524447"
+    },
+    {
+      "id": "49537553",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "points": 1035,
+      "author": "bratao",
+      "created_at": 1788361960,
+      "num_comments": 578,
+      "hn_url": "https://news.ycombinator.com/item?id=49537553"
+    },
+    {
+      "id": "49535752",
+      "title": "A note on subscription prices from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "points": 706,
+      "author": "rwky",
+      "created_at": 1788355032,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49535752"
+    },
+    {
+      "id": "49541256",
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "points": 590,
+      "author": "bvaldivielso",
+      "created_at": 1788377704,
+      "num_comments": 390,
+      "hn_url": "https://news.ycombinator.com/item?id=49541256"
+    },
+    {
+      "id": "49535284",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "points": 447,
+      "author": "teekert",
+      "created_at": 1788352239,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=49535284"
+    },
+    {
+      "id": "49536375",
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "points": 426,
+      "author": "jakobgreenfeld",
+      "created_at": 1788357599,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=49536375"
+    },
+    {
+      "id": "49537131",
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "points": 396,
+      "author": "donohoe",
+      "created_at": 1788360376,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=49537131"
+    },
+    {
+      "id": "49533497",
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "points": 342,
+      "author": "giuliomagnifico",
+      "created_at": 1788338203,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=49533497"
+    },
+    {
+      "id": "49530989",
+      "title": "True Rate of Unemployment",
+      "url": "https://www.lisep.org/tru",
+      "points": 304,
+      "author": "ptrhvns",
+      "created_at": 1788315670,
+      "num_comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=49530989"
+    },
+    {
+      "id": "49536079",
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "points": 302,
+      "author": "randycupertino",
+      "created_at": 1788356429,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49536079"
+    },
+    {
+      "id": "49535548",
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "points": 288,
+      "author": "mdp2021",
+      "created_at": 1788353949,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=49535548"
+    },
+    {
+      "id": "49531651",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "points": 287,
+      "author": "schmuhblaster",
+      "created_at": 1788322556,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=49531651"
+    },
+    {
+      "id": "49536606",
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "points": 269,
+      "author": "akkartik",
+      "created_at": 1788358605,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49536606"
+    },
+    {
+      "id": "49541519",
+      "title": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "points": 259,
+      "author": "conferza",
+      "created_at": 1788378773,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=49541519"
+    },
+    {
+      "id": "49541458",
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "points": 257,
+      "author": "surreal_",
+      "created_at": 1788378541,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49541458"
+    },
+    {
+      "id": "49535526",
+      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "points": 232,
+      "author": "TechTechTech",
+      "created_at": 1788353740,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=49535526"
+    },
+    {
+      "id": "49539872",
+      "title": "I Don't Have a Smartphone",
+      "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+      "points": 228,
+      "author": "speckx",
+      "created_at": 1788371489,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=49539872"
+    },
+    {
+      "id": "49539389",
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "points": 194,
+      "author": "judah",
+      "created_at": 1788369519,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=49539389"
+    },
+    {
+      "id": "49536384",
+      "title": "GrapheneOS says Pixel 11 has MTE support after all",
+      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+      "points": 187,
+      "author": "user_7832",
+      "created_at": 1788357628,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=49536384"
+    },
+    {
+      "id": "49534132",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "points": 181,
+      "author": "amunozo",
+      "created_at": 1788343361,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=49534132"
+    },
+    {
+      "id": "49542443",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "points": 177,
+      "author": "handfuloflight",
+      "created_at": 1788382624,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49542443"
     }
   ],
-  "last_updated": "2026-09-02T10:29:38.918386+00:00"
+  "last_updated": "2026-09-03T10:35:12.481433+00:00"
 }
