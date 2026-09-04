@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "48415217",
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "points": 429,
-      "author": "toomuchtodo",
-      "created_at": 1780678530,
-      "num_comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=48415217"
-    },
-    {
-      "id": "48411635",
-      "title": "Did Claude increase bugs in rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "points": 399,
-      "author": "logicprog",
-      "created_at": 1780663413,
-      "num_comments": 401,
-      "hn_url": "https://news.ycombinator.com/item?id=48411635"
-    },
-    {
-      "id": "48413464",
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "points": 387,
-      "author": "janpot",
-      "created_at": 1780671631,
-      "num_comments": 249,
-      "hn_url": "https://news.ycombinator.com/item?id=48413464"
-    },
-    {
-      "id": "48414367",
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "points": 387,
-      "author": "coffeemug",
-      "created_at": 1780675197,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=48414367"
-    },
-    {
-      "id": "48413500",
-      "title": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "points": 348,
-      "author": "speckx",
-      "created_at": 1780671843,
-      "num_comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=48413500"
-    },
-    {
-      "id": "48414653",
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "points": 343,
-      "author": "theanonymousone",
-      "created_at": 1780676328,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=48414653"
-    },
-    {
-      "id": "48414027",
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "points": 298,
-      "author": "jsve",
-      "created_at": 1780673978,
-      "num_comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=48414027"
-    },
-    {
-      "id": "48413072",
-      "title": "I tested every IP KVM in my Homelab",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "points": 269,
-      "author": "vquemener",
-      "created_at": 1780669850,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=48413072"
-    },
-    {
-      "id": "48413295",
-      "title": "Dutch gov't will only allow European company to operate DigiD platform",
-      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
-      "points": 264,
-      "author": "TechTechTech",
-      "created_at": 1780670924,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48413295"
-    },
-    {
-      "id": "48416845",
-      "title": "Three of our worst VC stories",
-      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
-      "points": 226,
-      "author": "orgonon",
-      "created_at": 1780686492,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48416845"
-    },
-    {
-      "id": "48411190",
-      "title": "Ultra-processed foods in the global food system: The role of tobacco companies",
-      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-      "points": 215,
-      "author": "giuliomagnifico",
-      "created_at": 1780660587,
-      "num_comments": 281,
-      "hn_url": "https://news.ycombinator.com/item?id=48411190"
-    },
-    {
-      "id": "48411510",
-      "title": "Programmers will document for Claude, but not for each other",
-      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-      "points": 180,
-      "author": "surprisetalk",
-      "created_at": 1780662617,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=48411510"
-    },
-    {
-      "id": "48421442",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "points": 1408,
-      "author": "maltalex",
-      "created_at": 1780720716,
-      "num_comments": 481,
-      "hn_url": "https://news.ycombinator.com/item?id=48421442"
-    },
-    {
       "id": "48427643",
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
@@ -149,26 +19,6 @@
       "created_at": 1780770066,
       "num_comments": 396,
       "hn_url": "https://news.ycombinator.com/item?id=48427523"
-    },
-    {
-      "id": "48422798",
-      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
-      "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-      "points": 438,
-      "author": "Cider9986",
-      "created_at": 1780735439,
-      "num_comments": 456,
-      "hn_url": "https://news.ycombinator.com/item?id=48422798"
-    },
-    {
-      "id": "48420827",
-      "title": "Ask HN: Why is the HN crowd so anti-AI?",
-      "url": "https://news.ycombinator.com/item?id=48420827",
-      "points": 411,
-      "author": "Ekami",
-      "created_at": 1780713111,
-      "num_comments": 676,
-      "hn_url": "https://news.ycombinator.com/item?id=48420827"
     },
     {
       "id": "48423990",
@@ -221,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48424605"
     },
     {
-      "id": "48420148",
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "points": 249,
-      "author": "transistor-man",
-      "created_at": 1780706006,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=48420148"
-    },
-    {
       "id": "48425723",
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "url": "https://su3.io/posts/introducing-zeroserve",
@@ -241,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48425723"
     },
     {
-      "id": "48422993",
-      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-      "points": 208,
-      "author": "nikcub",
-      "created_at": 1780737469,
-      "num_comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=48422993"
-    },
-    {
       "id": "48428763",
       "title": "New U.S. college grads now have higher unemployment than the average worker",
       "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
@@ -259,16 +89,6 @@
       "created_at": 1780778140,
       "num_comments": 233,
       "hn_url": "https://news.ycombinator.com/item?id=48428763"
-    },
-    {
-      "id": "48421171",
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "points": 178,
-      "author": "gostsamo",
-      "created_at": 1780717292,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=48421171"
     },
     {
       "id": "48428356",
@@ -299,16 +119,6 @@
       "created_at": 1780760149,
       "num_comments": 46,
       "hn_url": "https://news.ycombinator.com/item?id=48426022"
-    },
-    {
-      "id": "48421079",
-      "title": "The back cover of C++: The Language raises questions not answered by front cover",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "points": 147,
-      "author": "paulmooreparks",
-      "created_at": 1780716227,
-      "num_comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=48421079"
     },
     {
       "id": "48425611",
@@ -15759,7 +15569,207 @@
       "created_at": 1788382624,
       "num_comments": 137,
       "hn_url": "https://news.ycombinator.com/item?id=49542443"
+    },
+    {
+      "id": "49550772",
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "points": 1842,
+      "author": "pavel_lishin",
+      "created_at": 1788447279,
+      "num_comments": 450,
+      "hn_url": "https://news.ycombinator.com/item?id=49550772"
+    },
+    {
+      "id": "49554643",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "points": 1830,
+      "author": "kibae",
+      "created_at": 1788460865,
+      "num_comments": 1618,
+      "hn_url": "https://news.ycombinator.com/item?id=49554643"
+    },
+    {
+      "id": "49548395",
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "points": 1105,
+      "author": "ClydeN",
+      "created_at": 1788432788,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=49548395"
+    },
+    {
+      "id": "49550698",
+      "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "points": 593,
+      "author": "thinkingemote",
+      "created_at": 1788447070,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=49550698"
+    },
+    {
+      "id": "49554520",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "points": 566,
+      "author": "altertable",
+      "created_at": 1788460333,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=49554520"
+    },
+    {
+      "id": "49546753",
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "points": 394,
+      "author": "komape",
+      "created_at": 1788418748,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49546753"
+    },
+    {
+      "id": "49551096",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "points": 373,
+      "author": "halcdev",
+      "created_at": 1788448021,
+      "num_comments": 535,
+      "hn_url": "https://news.ycombinator.com/item?id=49551096"
+    },
+    {
+      "id": "49550614",
+      "title": "ChatGPT outage \u2013 Resolved",
+      "url": "https://chatgpt.com/",
+      "points": 361,
+      "author": "stacktrace",
+      "created_at": 1788446807,
+      "num_comments": 318,
+      "hn_url": "https://news.ycombinator.com/item?id=49550614"
+    },
+    {
+      "id": "49544762",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "points": 320,
+      "author": "gmays",
+      "created_at": 1788397882,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49544762"
+    },
+    {
+      "id": "49548452",
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "points": 317,
+      "author": "tosh",
+      "created_at": 1788433264,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=49548452"
+    },
+    {
+      "id": "49548952",
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "points": 313,
+      "author": "tosh",
+      "created_at": 1788437433,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49548952"
+    },
+    {
+      "id": "49551760",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "points": 303,
+      "author": "karimf",
+      "created_at": 1788449803,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=49551760"
+    },
+    {
+      "id": "49550375",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "points": 300,
+      "author": "rabahs",
+      "created_at": 1788445698,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=49550375"
+    },
+    {
+      "id": "49554273",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "points": 266,
+      "author": "maskil",
+      "created_at": 1788459502,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=49554273"
+    },
+    {
+      "id": "49552572",
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "points": 261,
+      "author": "speckx",
+      "created_at": 1788452493,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49552572"
+    },
+    {
+      "id": "49550174",
+      "title": "Mom gets 6-month suspended sentence for letting 5-year-old walk to the pond",
+      "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+      "points": 259,
+      "author": "softwaredoug",
+      "created_at": 1788444739,
+      "num_comments": 264,
+      "hn_url": "https://news.ycombinator.com/item?id=49550174"
+    },
+    {
+      "id": "49549919",
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "points": 256,
+      "author": "ChrisArchitect",
+      "created_at": 1788443504,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=49549919"
+    },
+    {
+      "id": "49557206",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "points": 225,
+      "author": "screm",
+      "created_at": 1788470434,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=49557206"
+    },
+    {
+      "id": "49555691",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "points": 212,
+      "author": "vignesh_warar",
+      "created_at": 1788464700,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=49555691"
+    },
+    {
+      "id": "49549676",
+      "title": "Claude outage \u2013 Resolved",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "points": 205,
+      "author": "__vivek",
+      "created_at": 1788442152,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=49549676"
     }
   ],
-  "last_updated": "2026-09-03T10:35:12.481433+00:00"
+  "last_updated": "2026-09-04T10:27:21.514694+00:00"
 }
