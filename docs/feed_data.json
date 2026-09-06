@@ -1,116 +1,6 @@
 {
   "posts": [
     {
-      "id": "48434312",
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "points": 981,
-      "author": "poisonfountain",
-      "created_at": 1780836569,
-      "num_comments": 943,
-      "hn_url": "https://news.ycombinator.com/item?id=48434312"
-    },
-    {
-      "id": "48437406",
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "points": 637,
-      "author": "gavinray",
-      "created_at": 1780857187,
-      "num_comments": 277,
-      "hn_url": "https://news.ycombinator.com/item?id=48437406"
-    },
-    {
-      "id": "48434436",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "points": 498,
-      "author": "predkambrij",
-      "created_at": 1780837612,
-      "num_comments": 283,
-      "hn_url": "https://news.ycombinator.com/item?id=48434436"
-    },
-    {
-      "id": "48437609",
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "points": 416,
-      "author": "howToTestFE",
-      "created_at": 1780858897,
-      "num_comments": 191,
-      "hn_url": "https://news.ycombinator.com/item?id=48437609"
-    },
-    {
-      "id": "48433410",
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "points": 330,
-      "author": "BerislavLopac",
-      "created_at": 1780827033,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=48433410"
-    },
-    {
-      "id": "48433756",
-      "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "points": 322,
-      "author": "devenjarvis",
-      "created_at": 1780831006,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=48433756"
-    },
-    {
-      "id": "48437290",
-      "title": "Making peace with your unlived dreams (2023)",
-      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "points": 231,
-      "author": "herbertl",
-      "created_at": 1780856147,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=48437290"
-    },
-    {
-      "id": "48435584",
-      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
-      "points": 185,
-      "author": "supermatou",
-      "created_at": 1780844890,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=48435584"
-    },
-    {
-      "id": "48435371",
-      "title": "The OnlyFans Economy of American AI",
-      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
-      "points": 142,
-      "author": "futurisold",
-      "created_at": 1780843637,
-      "num_comments": 198,
-      "hn_url": "https://news.ycombinator.com/item?id=48435371"
-    },
-    {
-      "id": "48436246",
-      "title": "The gamers taking on the industry to stop it switching off games",
-      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
-      "points": 139,
-      "author": "Brajeshwar",
-      "created_at": 1780849014,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=48436246"
-    },
-    {
-      "id": "48436863",
-      "title": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
-      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "points": 136,
-      "author": "maxloh",
-      "created_at": 1780852948,
-      "num_comments": 52,
-      "hn_url": "https://news.ycombinator.com/item?id=48436863"
-    },
-    {
       "id": "48445554",
       "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
@@ -119,16 +9,6 @@
       "created_at": 1780927516,
       "num_comments": 179,
       "hn_url": "https://news.ycombinator.com/item?id=48445554"
-    },
-    {
-      "id": "48440792",
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "points": 773,
-      "author": "igmn",
-      "created_at": 1780886544,
-      "num_comments": 400,
-      "hn_url": "https://news.ycombinator.com/item?id=48440792"
     },
     {
       "id": "48444228",
@@ -221,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48446439"
     },
     {
-      "id": "48442075",
-      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
-      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "points": 426,
-      "author": "mhrmsn",
-      "created_at": 1780901766,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48442075"
-    },
-    {
       "id": "48447062",
       "title": "EU-banned pesticides found in rice, tea and spices",
       "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
@@ -239,26 +109,6 @@
       "created_at": 1780934344,
       "num_comments": 182,
       "hn_url": "https://news.ycombinator.com/item?id=48447062"
-    },
-    {
-      "id": "48440448",
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "points": 391,
-      "author": "yogthos",
-      "created_at": 1780882770,
-      "num_comments": 219,
-      "hn_url": "https://news.ycombinator.com/item?id=48440448"
-    },
-    {
-      "id": "48442725",
-      "title": "The Cypherpunk Library",
-      "url": "https://www.cypherpunkbooks.com",
-      "points": 361,
-      "author": "yu3zhou4",
-      "created_at": 1780907572,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=48442725"
     },
     {
       "id": "48452317",
@@ -281,16 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48448012"
     },
     {
-      "id": "48440064",
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "points": 302,
-      "author": "DevarshRanpara",
-      "created_at": 1780878517,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=48440064"
-    },
-    {
       "id": "48449187",
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
       "url": "https://news.ycombinator.com/item?id=48449187",
@@ -299,16 +139,6 @@
       "created_at": 1780942959,
       "num_comments": 487,
       "hn_url": "https://news.ycombinator.com/item?id=48449187"
-    },
-    {
-      "id": "48440952",
-      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "points": 299,
-      "author": "882542F3884314B",
-      "created_at": 1780888630,
-      "num_comments": 120,
-      "hn_url": "https://news.ycombinator.com/item?id=48440952"
     },
     {
       "id": "48463808",
@@ -15749,7 +15579,207 @@
       "created_at": 1788530066,
       "num_comments": 75,
       "hn_url": "https://news.ycombinator.com/item?id=49564714"
+    },
+    {
+      "id": "49571634",
+      "title": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "points": 680,
+      "author": "Cider9986",
+      "created_at": 1788566656,
+      "num_comments": 346,
+      "hn_url": "https://news.ycombinator.com/item?id=49571634"
+    },
+    {
+      "id": "49580369",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "points": 608,
+      "author": "bookmtn",
+      "created_at": 1788640298,
+      "num_comments": 320,
+      "hn_url": "https://news.ycombinator.com/item?id=49580369"
+    },
+    {
+      "id": "49578866",
+      "title": "The Real Luxuries In Life",
+      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+      "points": 482,
+      "author": "tosh",
+      "created_at": 1788630376,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=49578866"
+    },
+    {
+      "id": "49581870",
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "points": 407,
+      "author": "ExMachina73",
+      "created_at": 1788651587,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=49581870"
+    },
+    {
+      "id": "49574167",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "points": 382,
+      "author": "sylvainkalache",
+      "created_at": 1788594770,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=49574167"
+    },
+    {
+      "id": "49578310",
+      "title": "Flock used >100 times to track veteran who recorded traffic stop",
+      "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+      "points": 359,
+      "author": "bbatsell",
+      "created_at": 1788626893,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=49578310"
+    },
+    {
+      "id": "49580939",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "points": 359,
+      "author": "chmaynard",
+      "created_at": 1788644269,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=49580939"
+    },
+    {
+      "id": "49575034",
+      "title": "Netherlands pulls gold out of the US",
+      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "points": 358,
+      "author": "daniel_iversen",
+      "created_at": 1788603268,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=49575034"
+    },
+    {
+      "id": "49576386",
+      "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "points": 346,
+      "author": "networked",
+      "created_at": 1788615398,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=49576386"
+    },
+    {
+      "id": "49573680",
+      "title": "Git hosting that never leaves Europe",
+      "url": "https://pushin.eu",
+      "points": 344,
+      "author": "sevenseacat",
+      "created_at": 1788589909,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=49573680"
+    },
+    {
+      "id": "49576124",
+      "title": "Global warming will exceed 1.5-degree limit, UN says",
+      "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+      "points": 323,
+      "author": "ijidak",
+      "created_at": 1788613334,
+      "num_comments": 368,
+      "hn_url": "https://news.ycombinator.com/item?id=49576124"
+    },
+    {
+      "id": "49576986",
+      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "points": 311,
+      "author": "stevenwoo",
+      "created_at": 1788619252,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49576986"
+    },
+    {
+      "id": "49577975",
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "points": 280,
+      "author": "robin_reala",
+      "created_at": 1788624837,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=49577975"
+    },
+    {
+      "id": "49580164",
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "points": 272,
+      "author": "canjobear",
+      "created_at": 1788638555,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=49580164"
+    },
+    {
+      "id": "49578280",
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "points": 255,
+      "author": "elvis70",
+      "created_at": 1788626702,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=49578280"
+    },
+    {
+      "id": "49573455",
+      "title": "Why are European countries moving their gold out of North America?",
+      "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "points": 194,
+      "author": "ranit",
+      "created_at": 1788587529,
+      "num_comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=49573455"
+    },
+    {
+      "id": "49576343",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "points": 173,
+      "author": "torutofu",
+      "created_at": 1788615065,
+      "num_comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49576343"
+    },
+    {
+      "id": "49576258",
+      "title": ".gitignore Everything by Default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "points": 172,
+      "author": "der_gopher",
+      "created_at": 1788614382,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49576258"
+    },
+    {
+      "id": "49580778",
+      "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
+      "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+      "points": 156,
+      "author": "bookofjoe",
+      "created_at": 1788643020,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=49580778"
+    },
+    {
+      "id": "49571632",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "points": 156,
+      "author": "nojs",
+      "created_at": 1788566654,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49571632"
     }
   ],
-  "last_updated": "2026-09-05T09:52:38.710780+00:00"
+  "last_updated": "2026-09-06T10:10:07.816938+00:00"
 }
