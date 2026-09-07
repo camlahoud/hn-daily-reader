@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "48445554",
-      "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "points": 974,
-      "author": "lizhang",
-      "created_at": 1780927516,
-      "num_comments": 179,
-      "hn_url": "https://news.ycombinator.com/item?id=48445554"
-    },
-    {
-      "id": "48444228",
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "points": 643,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1780919882,
-      "num_comments": 432,
-      "hn_url": "https://news.ycombinator.com/item?id=48444228"
-    },
-    {
-      "id": "48447935",
-      "title": "Stop the Apple Music app from launching",
-      "url": "https://lowtechguys.com/musicdecoy/",
-      "points": 624,
-      "author": "bobbiechen",
-      "created_at": 1780938103,
-      "num_comments": 246,
-      "hn_url": "https://news.ycombinator.com/item?id=48447935"
-    },
-    {
-      "id": "48450142",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "points": 589,
-      "author": "unclefuzzy",
-      "created_at": 1780946087,
-      "num_comments": 448,
-      "hn_url": "https://news.ycombinator.com/item?id=48450142"
-    },
-    {
-      "id": "48449084",
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "points": 572,
-      "author": "0xedb",
-      "created_at": 1780942673,
-      "num_comments": 530,
-      "hn_url": "https://news.ycombinator.com/item?id=48449084"
-    },
-    {
-      "id": "48446639",
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "points": 567,
-      "author": "gainsurier",
-      "created_at": 1780932453,
-      "num_comments": 418,
-      "hn_url": "https://news.ycombinator.com/item?id=48446639"
-    },
-    {
-      "id": "48450646",
-      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-      "points": 564,
-      "author": "g0xA52A2A",
-      "created_at": 1780947748,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=48450646"
-    },
-    {
-      "id": "48446428",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "points": 556,
-      "author": "martinald",
-      "created_at": 1780931623,
-      "num_comments": 436,
-      "hn_url": "https://news.ycombinator.com/item?id=48446428"
-    },
-    {
-      "id": "48446893",
-      "title": "AI is slowing down",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "points": 548,
-      "author": "crescit_eundo",
-      "created_at": 1780933597,
-      "num_comments": 568,
-      "hn_url": "https://news.ycombinator.com/item?id=48446893"
-    },
-    {
-      "id": "48446439",
-      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
-      "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
-      "points": 427,
-      "author": "greedo",
-      "created_at": 1780931669,
-      "num_comments": 237,
-      "hn_url": "https://news.ycombinator.com/item?id=48446439"
-    },
-    {
-      "id": "48447062",
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "points": 409,
-      "author": "john-titor",
-      "created_at": 1780934344,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=48447062"
-    },
-    {
-      "id": "48452317",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "points": 337,
-      "author": "hackerBanana",
-      "created_at": 1780953763,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=48452317"
-    },
-    {
-      "id": "48448012",
-      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
-      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
-      "points": 331,
-      "author": "01-_-",
-      "created_at": 1780938453,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=48448012"
-    },
-    {
-      "id": "48449187",
-      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "url": "https://news.ycombinator.com/item?id=48449187",
-      "points": 300,
-      "author": "aryamaan",
-      "created_at": 1780942959,
-      "num_comments": 487,
-      "hn_url": "https://news.ycombinator.com/item?id=48449187"
-    },
-    {
       "id": "48463808",
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
@@ -149,16 +9,6 @@
       "created_at": 1781024281,
       "num_comments": 1727,
       "hn_url": "https://news.ycombinator.com/item?id=48463808"
-    },
-    {
-      "id": "48459294",
-      "title": "Making Graphics Like it's 1993",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "points": 862,
-      "author": "sklopec",
-      "created_at": 1781001974,
-      "num_comments": 147,
-      "hn_url": "https://news.ycombinator.com/item?id=48459294"
     },
     {
       "id": "48467896",
@@ -181,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48465675"
     },
     {
-      "id": "48457830",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "points": 538,
-      "author": "raffael_de",
-      "created_at": 1780990396,
-      "num_comments": 185,
-      "hn_url": "https://news.ycombinator.com/item?id=48457830"
-    },
-    {
       "id": "48462308",
       "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
       "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
@@ -199,16 +39,6 @@
       "created_at": 1781018506,
       "num_comments": 342,
       "hn_url": "https://news.ycombinator.com/item?id=48462308"
-    },
-    {
-      "id": "48458586",
-      "title": "Cleaning up after AI rockstar developers",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "points": 470,
-      "author": "BrunoBernardino",
-      "created_at": 1780996210,
-      "num_comments": 345,
-      "hn_url": "https://news.ycombinator.com/item?id=48458586"
     },
     {
       "id": "48461012",
@@ -241,26 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48467705"
     },
     {
-      "id": "48458890",
-      "title": "GentleOS \u2013 Classic operating system with a lovely retro GUI",
-      "url": "https://github.com/luke8086/gentleos32",
-      "points": 328,
-      "author": "tekkertje",
-      "created_at": 1780998630,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=48458890"
-    },
-    {
-      "id": "48457181",
-      "title": "Facebook is paying people overseas promoting Alberta separatism",
-      "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-      "points": 301,
-      "author": "vrganj",
-      "created_at": 1780985660,
-      "num_comments": 166,
-      "hn_url": "https://news.ycombinator.com/item?id=48457181"
-    },
-    {
       "id": "48464140",
       "title": "What it feels like to work with Mythos",
       "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
@@ -281,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48465269"
     },
     {
-      "id": "48455233",
-      "title": "We Think the SpaceX IPO Is Overvalued",
-      "url": "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
-      "points": 257,
-      "author": "0xedb",
-      "created_at": 1780970200,
-      "num_comments": 278,
-      "hn_url": "https://news.ycombinator.com/item?id=48455233"
-    },
-    {
       "id": "48461226",
       "title": "WWDC 2026: Apple is Folding",
       "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
@@ -299,16 +99,6 @@
       "created_at": 1781013398,
       "num_comments": 248,
       "hn_url": "https://news.ycombinator.com/item?id=48461226"
-    },
-    {
-      "id": "48455928",
-      "title": "Job: Head of Stonehenge",
-      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
-      "points": 230,
-      "author": "mooreds",
-      "created_at": 1780975240,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=48455928"
     },
     {
       "id": "48466277",
@@ -15779,7 +15569,207 @@
       "created_at": 1788566654,
       "num_comments": 64,
       "hn_url": "https://news.ycombinator.com/item?id=49571632"
+    },
+    {
+      "id": "49586171",
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "url": "https://beige.party/@intransitivelie/117057396732763183",
+      "points": 1277,
+      "author": "mraniki",
+      "created_at": 1788699761,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=49586171"
+    },
+    {
+      "id": "49588988",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "points": 765,
+      "author": "zImPatrick",
+      "created_at": 1788716987,
+      "num_comments": 336,
+      "hn_url": "https://news.ycombinator.com/item?id=49588988"
+    },
+    {
+      "id": "49585644",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "points": 658,
+      "author": "cyb0rg0",
+      "created_at": 1788695803,
+      "num_comments": 409,
+      "hn_url": "https://news.ycombinator.com/item?id=49585644"
+    },
+    {
+      "id": "49582000",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "points": 621,
+      "author": "zplizzi",
+      "created_at": 1788653009,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=49582000"
+    },
+    {
+      "id": "49584083",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "points": 589,
+      "author": "mpweiher",
+      "created_at": 1788679266,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=49584083"
+    },
+    {
+      "id": "49586898",
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "points": 587,
+      "author": "captainmuon",
+      "created_at": 1788705274,
+      "num_comments": 484,
+      "hn_url": "https://news.ycombinator.com/item?id=49586898"
+    },
+    {
+      "id": "49586698",
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "points": 497,
+      "author": "mdp2021",
+      "created_at": 1788703739,
+      "num_comments": 303,
+      "hn_url": "https://news.ycombinator.com/item?id=49586698"
+    },
+    {
+      "id": "49588080",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "points": 419,
+      "author": "tosh",
+      "created_at": 1788712025,
+      "num_comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=49588080"
+    },
+    {
+      "id": "49585627",
+      "title": "Doomscrolling ourselves to death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "points": 396,
+      "author": "shubhamjain",
+      "created_at": 1788695620,
+      "num_comments": 294,
+      "hn_url": "https://news.ycombinator.com/item?id=49585627"
+    },
+    {
+      "id": "49590512",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "points": 306,
+      "author": "Cider9986",
+      "created_at": 1788726240,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=49590512"
+    },
+    {
+      "id": "49590611",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "points": 285,
+      "author": "xena",
+      "created_at": 1788726758,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=49590611"
+    },
+    {
+      "id": "49589003",
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "points": 266,
+      "author": "Cider9986",
+      "created_at": 1788717083,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49589003"
+    },
+    {
+      "id": "49591876",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "points": 243,
+      "author": "azhenley",
+      "created_at": 1788736448,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=49591876"
+    },
+    {
+      "id": "49582582",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "points": 234,
+      "author": "Anon84",
+      "created_at": 1788659565,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=49582582"
+    },
+    {
+      "id": "49584637",
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "points": 223,
+      "author": "vrganj",
+      "created_at": 1788686062,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49584637"
+    },
+    {
+      "id": "49587217",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "points": 184,
+      "author": "iamsyr",
+      "created_at": 1788707324,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49587217"
+    },
+    {
+      "id": "49589914",
+      "title": "Ask HN: How do you manage skills files?",
+      "url": "https://news.ycombinator.com/item?id=49589914",
+      "points": 159,
+      "author": "imadtaieber",
+      "created_at": 1788722830,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49589914"
+    },
+    {
+      "id": "49587128",
+      "title": "How I feel about AI",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "points": 158,
+      "author": "qznc",
+      "created_at": 1788706819,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=49587128"
+    },
+    {
+      "id": "49582656",
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "points": 152,
+      "author": "firexcy",
+      "created_at": 1788660766,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49582656"
+    },
+    {
+      "id": "49585161",
+      "title": "I changed my license",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "points": 150,
+      "author": "jllyhill",
+      "created_at": 1788691184,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=49585161"
     }
   ],
-  "last_updated": "2026-09-06T10:10:07.816938+00:00"
+  "last_updated": "2026-09-07T11:25:50.097738+00:00"
 }
