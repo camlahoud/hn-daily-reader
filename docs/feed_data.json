@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "48463808",
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "points": 2235,
-      "author": "Philpax",
-      "created_at": 1781024281,
-      "num_comments": 1727,
-      "hn_url": "https://news.ycombinator.com/item?id=48463808"
-    },
-    {
-      "id": "48467896",
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "points": 813,
-      "author": "mips_avatar",
-      "created_at": 1781039951,
-      "num_comments": 397,
-      "hn_url": "https://news.ycombinator.com/item?id=48467896"
-    },
-    {
-      "id": "48465675",
-      "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "points": 667,
-      "author": "speckx",
-      "created_at": 1781030759,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=48465675"
-    },
-    {
-      "id": "48462308",
-      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
-      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-      "points": 522,
-      "author": "berlianta",
-      "created_at": 1781018506,
-      "num_comments": 342,
-      "hn_url": "https://news.ycombinator.com/item?id=48462308"
-    },
-    {
-      "id": "48461012",
-      "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
-      "url": "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/",
-      "points": 445,
-      "author": "ortr",
-      "created_at": 1781012371,
-      "num_comments": 207,
-      "hn_url": "https://news.ycombinator.com/item?id=48461012"
-    },
-    {
-      "id": "48463024",
-      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
-      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
-      "points": 400,
-      "author": "flanged",
-      "created_at": 1781021590,
-      "num_comments": 638,
-      "hn_url": "https://news.ycombinator.com/item?id=48463024"
-    },
-    {
-      "id": "48467705",
-      "title": "Upcoming breaking changes for npm v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "points": 367,
-      "author": "plasma",
-      "created_at": 1781038860,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=48467705"
-    },
-    {
-      "id": "48464140",
-      "title": "What it feels like to work with Mythos",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "points": 276,
-      "author": "swolpers",
-      "created_at": 1781025441,
-      "num_comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=48464140"
-    },
-    {
-      "id": "48465269",
-      "title": "GPT-2: Too Dangerous To Release (2019)",
-      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-      "points": 274,
-      "author": "AbuAssar",
-      "created_at": 1781029303,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=48465269"
-    },
-    {
-      "id": "48461226",
-      "title": "WWDC 2026: Apple is Folding",
-      "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-      "points": 234,
-      "author": "brandonb",
-      "created_at": 1781013398,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=48461226"
-    },
-    {
-      "id": "48466277",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "points": 226,
-      "author": "ag2718",
-      "created_at": 1781032905,
-      "num_comments": 33,
-      "hn_url": "https://news.ycombinator.com/item?id=48466277"
-    },
-    {
-      "id": "48463811",
-      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
-      "points": 211,
-      "author": "scrlk",
-      "created_at": 1781024293,
-      "num_comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=48463811"
-    },
-    {
-      "id": "48462823",
-      "title": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
-      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-      "points": 190,
-      "author": "doener",
-      "created_at": 1781020781,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=48462823"
-    },
-    {
-      "id": "48469658",
-      "title": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "points": 1222,
-      "author": "timsneath",
-      "created_at": 1781051341,
-      "num_comments": 425,
-      "hn_url": "https://news.ycombinator.com/item?id=48469658"
-    },
-    {
       "id": "48475483",
       "title": "Building an HTML-first site doubled our users overnight",
       "url": "https://mohkohn.co.uk/writing/html-first/",
@@ -149,16 +9,6 @@
       "created_at": 1781095547,
       "num_comments": 511,
       "hn_url": "https://news.ycombinator.com/item?id=48475483"
-    },
-    {
-      "id": "48470248",
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "points": 982,
-      "author": "ahlCVA",
-      "created_at": 1781055853,
-      "num_comments": 520,
-      "hn_url": "https://news.ycombinator.com/item?id=48470248"
     },
     {
       "id": "48480978",
@@ -179,16 +29,6 @@
       "created_at": 1781102872,
       "num_comments": 490,
       "hn_url": "https://news.ycombinator.com/item?id=48477135"
-    },
-    {
-      "id": "48472877",
-      "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-      "points": 530,
-      "author": "raffael_de",
-      "created_at": 1781077489,
-      "num_comments": 336,
-      "hn_url": "https://news.ycombinator.com/item?id=48472877"
     },
     {
       "id": "48476466",
@@ -229,26 +69,6 @@
       "created_at": 1781111516,
       "num_comments": 282,
       "hn_url": "https://news.ycombinator.com/item?id=48479452"
-    },
-    {
-      "id": "48473166",
-      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-      "url": "https://news.ycombinator.com/item?id=48473166",
-      "points": 403,
-      "author": "TomAnthony",
-      "created_at": 1781079698,
-      "num_comments": 243,
-      "hn_url": "https://news.ycombinator.com/item?id=48473166"
-    },
-    {
-      "id": "48471970",
-      "title": "Chrome is looking to permanently drop MV2 extension",
-      "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-      "points": 397,
-      "author": "d3Xt3r",
-      "created_at": 1781070607,
-      "num_comments": 404,
-      "hn_url": "https://news.ycombinator.com/item?id=48471970"
     },
     {
       "id": "48478471",
@@ -15769,7 +15589,207 @@
       "created_at": 1788691184,
       "num_comments": 180,
       "hn_url": "https://news.ycombinator.com/item?id=49585161"
+    },
+    {
+      "id": "49594878",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "points": 1139,
+      "author": "chris_overseas",
+      "created_at": 1788764600,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49594878"
+    },
+    {
+      "id": "49593563",
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "points": 991,
+      "author": "sonicrocketman",
+      "created_at": 1788751791,
+      "num_comments": 257,
+      "hn_url": "https://news.ycombinator.com/item?id=49593563"
+    },
+    {
+      "id": "49592375",
+      "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "points": 770,
+      "author": "treve",
+      "created_at": 1788740524,
+      "num_comments": 915,
+      "hn_url": "https://news.ycombinator.com/item?id=49592375"
+    },
+    {
+      "id": "49597907",
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "points": 486,
+      "author": "DanielVZ",
+      "created_at": 1788786048,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49597907"
+    },
+    {
+      "id": "49598291",
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "points": 408,
+      "author": "tosh",
+      "created_at": 1788788113,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=49598291"
+    },
+    {
+      "id": "49599481",
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "points": 397,
+      "author": "highfrequency",
+      "created_at": 1788794823,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=49599481"
+    },
+    {
+      "id": "49594251",
+      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+      "points": 348,
+      "author": "ivell",
+      "created_at": 1788759205,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=49594251"
+    },
+    {
+      "id": "49596119",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "points": 310,
+      "author": "cianmm",
+      "created_at": 1788773619,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=49596119"
+    },
+    {
+      "id": "49601655",
+      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "points": 297,
+      "author": "rustywasm",
+      "created_at": 1788807126,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=49601655"
+    },
+    {
+      "id": "49597189",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "points": 291,
+      "author": "mdp2021",
+      "created_at": 1788781597,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=49597189"
+    },
+    {
+      "id": "49596055",
+      "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "points": 259,
+      "author": "astroanax",
+      "created_at": 1788773213,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49596055"
+    },
+    {
+      "id": "49604150",
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "points": 229,
+      "author": "alixanderwang",
+      "created_at": 1788824262,
+      "num_comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49604150"
+    },
+    {
+      "id": "49597895",
+      "title": "Splash-free urinals (2025)",
+      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "points": 225,
+      "author": "u1hcw9nx",
+      "created_at": 1788785937,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=49597895"
+    },
+    {
+      "id": "49596629",
+      "title": "Tiny $70 Xteink X3 e-reader",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "points": 204,
+      "author": "samizdis",
+      "created_at": 1788777689,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=49596629"
+    },
+    {
+      "id": "49602699",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "points": 201,
+      "author": "josephcsible",
+      "created_at": 1788813175,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49602699"
+    },
+    {
+      "id": "49595865",
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "points": 193,
+      "author": "coinfused",
+      "created_at": 1788771767,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49595865"
+    },
+    {
+      "id": "49595360",
+      "title": "Programming is Art",
+      "url": "https://orchidfiles.com/programming-is-art/",
+      "points": 188,
+      "author": "theorchid",
+      "created_at": 1788768300,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=49595360"
+    },
+    {
+      "id": "49593971",
+      "title": "TiVo to charge money for skipping commercials in your own recordings",
+      "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+      "points": 177,
+      "author": "dmitrygr",
+      "created_at": 1788756061,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49593971"
+    },
+    {
+      "id": "49602582",
+      "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
+      "url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+      "points": 164,
+      "author": "FabHK",
+      "created_at": 1788812472,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49602582"
+    },
+    {
+      "id": "49603546",
+      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "points": 156,
+      "author": "CMDDestory",
+      "created_at": 1788819158,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49603546"
     }
   ],
-  "last_updated": "2026-09-07T11:25:50.097738+00:00"
+  "last_updated": "2026-09-08T10:28:56.053818+00:00"
 }
