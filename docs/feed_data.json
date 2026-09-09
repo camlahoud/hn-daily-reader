@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48475483",
-      "title": "Building an HTML-first site doubled our users overnight",
-      "url": "https://mohkohn.co.uk/writing/html-first/",
-      "points": 1133,
-      "author": "edent",
-      "created_at": 1781095547,
-      "num_comments": 511,
-      "hn_url": "https://news.ycombinator.com/item?id=48475483"
-    },
-    {
-      "id": "48480978",
-      "title": "\u03c0FS",
-      "url": "https://github.com/philipl/pifs",
-      "points": 755,
-      "author": "helterskelter",
-      "created_at": 1781117694,
-      "num_comments": 180,
-      "hn_url": "https://news.ycombinator.com/item?id=48480978"
-    },
-    {
-      "id": "48477135",
-      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
-      "url": "https://news.ycombinator.com/item?id=48477135",
-      "points": 671,
-      "author": "eries",
-      "created_at": 1781102872,
-      "num_comments": 490,
-      "hn_url": "https://news.ycombinator.com/item?id=48477135"
-    },
-    {
-      "id": "48476466",
-      "title": "PgDog is funded and coming to a database near you",
-      "url": "https://pgdog.dev/blog/our-funding-announcement",
-      "points": 468,
-      "author": "levkk",
-      "created_at": 1781100179,
-      "num_comments": 223,
-      "hn_url": "https://news.ycombinator.com/item?id=48476466"
-    },
-    {
-      "id": "48481126",
-      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
-      "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
-      "points": 456,
-      "author": "maxloh",
-      "created_at": 1781118410,
-      "num_comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=48481126"
-    },
-    {
-      "id": "48478969",
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "points": 443,
-      "author": "speckx",
-      "created_at": 1781109720,
-      "num_comments": 386,
-      "hn_url": "https://news.ycombinator.com/item?id=48478969"
-    },
-    {
-      "id": "48479452",
-      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-      "url": "https://github.com/anthropics/claude-code/issues/29045",
-      "points": 403,
-      "author": "tonyrice",
-      "created_at": 1781111516,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=48479452"
-    },
-    {
-      "id": "48478471",
-      "title": "DiffusionGemma: 4x Faster Text Generation",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-      "points": 306,
-      "author": "meetpateltech",
-      "created_at": 1781107777,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=48478471"
-    },
-    {
-      "id": "48480852",
-      "title": "Anthropic's model naming, extrapolated",
-      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-      "points": 305,
-      "author": "sammycdubs",
-      "created_at": 1781117120,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=48480852"
-    },
-    {
-      "id": "48481857",
-      "title": "Raspberry Pi 5 \u2013 16GB RAM",
-      "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
-      "points": 266,
-      "author": "akman",
-      "created_at": 1781121921,
-      "num_comments": 275,
-      "hn_url": "https://news.ycombinator.com/item?id=48481857"
-    },
-    {
-      "id": "48477551",
-      "title": "US Consumer Price Index up 4.2%",
-      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "points": 261,
-      "author": "ortusdux",
-      "created_at": 1781104240,
-      "num_comments": 288,
-      "hn_url": "https://news.ycombinator.com/item?id=48477551"
-    },
-    {
-      "id": "48479852",
-      "title": "GeoLibre 1.0",
-      "url": "https://geolibre.app/",
-      "points": 243,
-      "author": "jonbaer",
-      "created_at": 1781113187,
-      "num_comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=48479852"
-    },
-    {
-      "id": "48475100",
-      "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
-      "url": "https://jivx.com/eki",
-      "points": 239,
-      "author": "momentmaker",
-      "created_at": 1781093488,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48475100"
-    },
-    {
-      "id": "48479705",
-      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-      "points": 236,
-      "author": "pseudolus",
-      "created_at": 1781112648,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=48479705"
-    },
-    {
-      "id": "48475871",
-      "title": "Ask HN: Are most corporate SWE jobs performative?",
-      "url": "https://news.ycombinator.com/item?id=48475871",
-      "points": 224,
-      "author": "hnthrow10282910",
-      "created_at": 1781097514,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=48475871"
-    },
-    {
       "id": "48490024",
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
@@ -169,26 +19,6 @@
       "created_at": 1781218915,
       "num_comments": 242,
       "hn_url": "https://news.ycombinator.com/item?id=48497609"
-    },
-    {
-      "id": "48487029",
-      "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "points": 696,
-      "author": "vrganj",
-      "created_at": 1781160126,
-      "num_comments": 312,
-      "hn_url": "https://news.ycombinator.com/item?id=48487029"
-    },
-    {
-      "id": "48484584",
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "points": 544,
-      "author": "tanelpoder",
-      "created_at": 1781136608,
-      "num_comments": 241,
-      "hn_url": "https://news.ycombinator.com/item?id=48484584"
     },
     {
       "id": "48490826",
@@ -259,26 +89,6 @@
       "created_at": 1781193801,
       "num_comments": 151,
       "hn_url": "https://news.ycombinator.com/item?id=48492210"
-    },
-    {
-      "id": "48487435",
-      "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-      "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-      "points": 310,
-      "author": "epaga",
-      "created_at": 1781163312,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=48487435"
-    },
-    {
-      "id": "48487540",
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "points": 294,
-      "author": "trueduke",
-      "created_at": 1781164277,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=48487540"
     },
     {
       "id": "48496396",
@@ -15789,7 +15599,207 @@
       "created_at": 1788819158,
       "num_comments": 46,
       "hn_url": "https://news.ycombinator.com/item?id=49603546"
+    },
+    {
+      "id": "49605915",
+      "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "points": 1710,
+      "author": "procedurecall",
+      "created_at": 1788846148,
+      "num_comments": 715,
+      "hn_url": "https://news.ycombinator.com/item?id=49605915"
+    },
+    {
+      "id": "49613262",
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "points": 1266,
+      "author": "tedsanders",
+      "created_at": 1788887601,
+      "num_comments": 1016,
+      "hn_url": "https://news.ycombinator.com/item?id=49613262"
+    },
+    {
+      "id": "49605767",
+      "title": "Mistral raises \u20ac3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "points": 823,
+      "author": "kuberwastaken",
+      "created_at": 1788843983,
+      "num_comments": 583,
+      "hn_url": "https://news.ycombinator.com/item?id=49605767"
+    },
+    {
+      "id": "49610538",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "points": 681,
+      "author": "rpgbr",
+      "created_at": 1788876357,
+      "num_comments": 231,
+      "hn_url": "https://news.ycombinator.com/item?id=49610538"
+    },
+    {
+      "id": "49604861",
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "points": 599,
+      "author": "0xC0ncord",
+      "created_at": 1788832595,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=49604861"
+    },
+    {
+      "id": "49611251",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "points": 566,
+      "author": "utiiiD",
+      "created_at": 1788879345,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=49611251"
+    },
+    {
+      "id": "49604870",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "points": 550,
+      "author": "pizzaiolo",
+      "created_at": 1788832643,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=49604870"
+    },
+    {
+      "id": "49612329",
+      "title": "LG TVs caught spying even when offline or on standby",
+      "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "points": 536,
+      "author": "sbulaev",
+      "created_at": 1788883628,
+      "num_comments": 319,
+      "hn_url": "https://news.ycombinator.com/item?id=49612329"
+    },
+    {
+      "id": "49615537",
+      "title": "Muse \u2013 Meta\u2019s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "points": 523,
+      "author": "yks",
+      "created_at": 1788895500,
+      "num_comments": 561,
+      "hn_url": "https://news.ycombinator.com/item?id=49615537"
+    },
+    {
+      "id": "49604637",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "points": 497,
+      "author": "ahlCVA",
+      "created_at": 1788830219,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=49604637"
+    },
+    {
+      "id": "49610631",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "points": 459,
+      "author": "domhudson",
+      "created_at": 1788876806,
+      "num_comments": 311,
+      "hn_url": "https://news.ycombinator.com/item?id=49610631"
+    },
+    {
+      "id": "49610181",
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "points": 407,
+      "author": "tosh",
+      "created_at": 1788874613,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49610181"
+    },
+    {
+      "id": "49607443",
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "points": 379,
+      "author": "adulion",
+      "created_at": 1788856976,
+      "num_comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=49607443"
+    },
+    {
+      "id": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "points": 378,
+      "author": "cainxinth",
+      "created_at": 1788874885,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=49610229"
+    },
+    {
+      "id": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "points": 374,
+      "author": "_alternator_",
+      "created_at": 1788901252,
+      "num_comments": 326,
+      "hn_url": "https://news.ycombinator.com/item?id=49616968"
+    },
+    {
+      "id": "49610900",
+      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+      "points": 367,
+      "author": "hn_acker",
+      "created_at": 1788878032,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49610900"
+    },
+    {
+      "id": "49614720",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "points": 345,
+      "author": "vertigoruntime",
+      "created_at": 1788892671,
+      "num_comments": 421,
+      "hn_url": "https://news.ycombinator.com/item?id=49614720"
+    },
+    {
+      "id": "49617255",
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "points": 344,
+      "author": "cat-whisperer",
+      "created_at": 1788902531,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=49617255"
+    },
+    {
+      "id": "49610988",
+      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+      "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+      "points": 343,
+      "author": "abraham",
+      "created_at": 1788878430,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=49610988"
+    },
+    {
+      "id": "49605691",
+      "title": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "points": 301,
+      "author": "saikatsg",
+      "created_at": 1788842890,
+      "num_comments": 347,
+      "hn_url": "https://news.ycombinator.com/item?id=49605691"
     }
   ],
-  "last_updated": "2026-09-08T10:28:56.053818+00:00"
+  "last_updated": "2026-09-09T10:40:10.499941+00:00"
 }
