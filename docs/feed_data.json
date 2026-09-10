@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48490024",
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "points": 1231,
-      "author": "mikemcquaid",
-      "created_at": 1781184269,
-      "num_comments": 285,
-      "hn_url": "https://news.ycombinator.com/item?id=48490024"
-    },
-    {
-      "id": "48497609",
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "points": 745,
-      "author": "jjfoooo4",
-      "created_at": 1781218915,
-      "num_comments": 242,
-      "hn_url": "https://news.ycombinator.com/item?id=48497609"
-    },
-    {
-      "id": "48490826",
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "points": 496,
-      "author": "apeters",
-      "created_at": 1781188039,
-      "num_comments": 273,
-      "hn_url": "https://news.ycombinator.com/item?id=48490826"
-    },
-    {
-      "id": "48492306",
-      "title": "Solar generates more energy in US than coal for first time",
-      "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-      "points": 462,
-      "author": "neilfrndes",
-      "created_at": 1781194205,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=48492306"
-    },
-    {
-      "id": "48491830",
-      "title": "Petition to Withdraw Canada's Bill C-22",
-      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "points": 437,
-      "author": "hmokiguess",
-      "created_at": 1781192243,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48491830"
-    },
-    {
-      "id": "48489229",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "points": 421,
-      "author": "rarisma",
-      "created_at": 1781179502,
-      "num_comments": 385,
-      "hn_url": "https://news.ycombinator.com/item?id=48489229"
-    },
-    {
-      "id": "48496539",
-      "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "points": 398,
-      "author": "matthewbarras",
-      "created_at": 1781212650,
-      "num_comments": 215,
-      "hn_url": "https://news.ycombinator.com/item?id=48496539"
-    },
-    {
-      "id": "48489402",
-      "title": "Lines of code got a better publicist",
-      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "points": 393,
-      "author": "RyeCombinator",
-      "created_at": 1781180802,
-      "num_comments": 275,
-      "hn_url": "https://news.ycombinator.com/item?id=48489402"
-    },
-    {
-      "id": "48492210",
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "points": 322,
-      "author": "bugvader",
-      "created_at": 1781193801,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48492210"
-    },
-    {
-      "id": "48496396",
-      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-      "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-      "points": 287,
-      "author": "timedude",
-      "created_at": 1781211887,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48496396"
-    },
-    {
-      "id": "48492215",
-      "title": "The RCE that AMD wouldn't fix",
-      "url": "https://mrbruh.com/amd2/",
-      "points": 272,
-      "author": "MrBruh",
-      "created_at": 1781193820,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=48492215"
-    },
-    {
-      "id": "48490057",
-      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-      "points": 269,
-      "author": "ZeidJ",
-      "created_at": 1781184419,
-      "num_comments": 215,
-      "hn_url": "https://news.ycombinator.com/item?id=48490057"
-    },
-    {
-      "id": "48492533",
-      "title": "Software is made between commits",
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "points": 260,
-      "author": "jeremy_k",
-      "created_at": 1781195304,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=48492533"
-    },
-    {
-      "id": "48489917",
-      "title": "Open Reproduction of DeepSeek-R1",
-      "url": "https://github.com/huggingface/open-r1",
-      "points": 231,
-      "author": "yogthos",
-      "created_at": 1781183671,
-      "num_comments": 18,
-      "hn_url": "https://news.ycombinator.com/item?id=48489917"
-    },
-    {
-      "id": "48495575",
-      "title": "Shall we play a game? My AI nuclear simulation",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "points": 194,
-      "author": "nick238",
-      "created_at": 1781207694,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=48495575"
-    },
-    {
-      "id": "48492304",
-      "title": "Waymo Premier",
-      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
-      "points": 190,
-      "author": "boulos",
-      "created_at": 1781194202,
-      "num_comments": 461,
-      "hn_url": "https://news.ycombinator.com/item?id=48492304"
-    },
-    {
-      "id": "48500012",
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "points": 1414,
-      "author": "xiaoyu2006",
-      "created_at": 1781239373,
-      "num_comments": 514,
-      "hn_url": "https://news.ycombinator.com/item?id=48500012"
-    },
-    {
       "id": "48505231",
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
@@ -179,26 +9,6 @@
       "created_at": 1781277324,
       "num_comments": 189,
       "hn_url": "https://news.ycombinator.com/item?id=48505231"
-    },
-    {
-      "id": "48498573",
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "points": 741,
-      "author": "lumpa",
-      "created_at": 1781226411,
-      "num_comments": 637,
-      "hn_url": "https://news.ycombinator.com/item?id=48498573"
-    },
-    {
-      "id": "48498385",
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "points": 738,
-      "author": "sam_bristow",
-      "created_at": 1781224691,
-      "num_comments": 253,
-      "hn_url": "https://news.ycombinator.com/item?id=48498385"
     },
     {
       "id": "48502347",
@@ -261,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48504697"
     },
     {
-      "id": "48500447",
-      "title": "AUR packages compromised with Infostealer and Rootkit",
-      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
-      "points": 290,
-      "author": "keyle",
-      "created_at": 1781243979,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=48500447"
-    },
-    {
       "id": "48507282",
       "title": "I Am Not a Reverse Centaur",
       "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
@@ -309,16 +109,6 @@
       "created_at": 1781272275,
       "num_comments": 91,
       "hn_url": "https://news.ycombinator.com/item?id=48504063"
-    },
-    {
-      "id": "48500404",
-      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
-      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
-      "points": 235,
-      "author": "dotcoma",
-      "created_at": 1781243599,
-      "num_comments": 220,
-      "hn_url": "https://news.ycombinator.com/item?id=48500404"
     },
     {
       "id": "48508726",
@@ -15799,7 +15589,207 @@
       "created_at": 1788842890,
       "num_comments": 347,
       "hn_url": "https://news.ycombinator.com/item?id=49605691"
+    },
+    {
+      "id": "49630931",
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "points": 1218,
+      "author": "thecosmicfrog",
+      "created_at": 1788977743,
+      "num_comments": 2136,
+      "hn_url": "https://news.ycombinator.com/item?id=49630931"
+    },
+    {
+      "id": "49623754",
+      "title": "Claude, change the \u201cAdd to Cart\u201d button to blue",
+      "url": "https://opusfived.dev/",
+      "points": 1118,
+      "author": "matthieu_bl",
+      "created_at": 1788946786,
+      "num_comments": 435,
+      "hn_url": "https://news.ycombinator.com/item?id=49623754"
+    },
+    {
+      "id": "49626190",
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "points": 1043,
+      "author": "EdwinHoksberg",
+      "created_at": 1788960431,
+      "num_comments": 399,
+      "hn_url": "https://news.ycombinator.com/item?id=49626190"
+    },
+    {
+      "id": "49619227",
+      "title": "I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "points": 705,
+      "author": "yurivish",
+      "created_at": 1788914440,
+      "num_comments": 984,
+      "hn_url": "https://news.ycombinator.com/item?id=49619227"
+    },
+    {
+      "id": "49624394",
+      "title": "Flock Wants a Closely Surveilled World with No Exit",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+      "points": 560,
+      "author": "pseudolus",
+      "created_at": 1788951258,
+      "num_comments": 534,
+      "hn_url": "https://news.ycombinator.com/item?id=49624394"
+    },
+    {
+      "id": "49630253",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "points": 457,
+      "author": "awad",
+      "created_at": 1788975564,
+      "num_comments": 387,
+      "hn_url": "https://news.ycombinator.com/item?id=49630253"
+    },
+    {
+      "id": "49624823",
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "points": 449,
+      "author": "willwhitedc",
+      "created_at": 1788953986,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49624823"
+    },
+    {
+      "id": "49627370",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "points": 436,
+      "author": "ModelForge",
+      "created_at": 1788964667,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=49627370"
+    },
+    {
+      "id": "49624856",
+      "title": "How I advertise malicious software on Google Ads",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "points": 411,
+      "author": "xlii",
+      "created_at": 1788954201,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=49624856"
+    },
+    {
+      "id": "49624603",
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "url": "https://news.ycombinator.com/item?id=49624603",
+      "points": 410,
+      "author": "nickweb",
+      "created_at": 1788952766,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=49624603"
+    },
+    {
+      "id": "49628493",
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "points": 392,
+      "author": "Limb",
+      "created_at": 1788968862,
+      "num_comments": 402,
+      "hn_url": "https://news.ycombinator.com/item?id=49628493"
+    },
+    {
+      "id": "49630151",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "points": 366,
+      "author": "meetpateltech",
+      "created_at": 1788975200,
+      "num_comments": 399,
+      "hn_url": "https://news.ycombinator.com/item?id=49630151"
+    },
+    {
+      "id": "49629886",
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "points": 350,
+      "author": "bookofjoe",
+      "created_at": 1788974099,
+      "num_comments": 608,
+      "hn_url": "https://news.ycombinator.com/item?id=49629886"
+    },
+    {
+      "id": "49630964",
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "points": 322,
+      "author": "an0malous",
+      "created_at": 1788977826,
+      "num_comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49630964"
+    },
+    {
+      "id": "49622042",
+      "title": "Copyright does more harm than good and should be abolished",
+      "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+      "points": 304,
+      "author": "Cider9986",
+      "created_at": 1788935488,
+      "num_comments": 314,
+      "hn_url": "https://news.ycombinator.com/item?id=49622042"
+    },
+    {
+      "id": "49628704",
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+      "points": 292,
+      "author": "dn2k",
+      "created_at": 1788969701,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=49628704"
+    },
+    {
+      "id": "49636283",
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "points": 275,
+      "author": "LeoPanthera",
+      "created_at": 1788997769,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=49636283"
+    },
+    {
+      "id": "49630566",
+      "title": "Apple Watch Series 12",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "points": 258,
+      "author": "Lealen",
+      "created_at": 1788976577,
+      "num_comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=49630566"
+    },
+    {
+      "id": "49621697",
+      "title": "The Navier\u2013Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "points": 225,
+      "author": "tosh",
+      "created_at": 1788933339,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=49621697"
+    },
+    {
+      "id": "49621751",
+      "title": "\u201cTweet\u201d and the bird logo apparently enter the public domain",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "points": 221,
+      "author": "progval",
+      "created_at": 1788933727,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=49621751"
     }
   ],
-  "last_updated": "2026-09-09T10:40:10.499941+00:00"
+  "last_updated": "2026-09-10T10:28:35.325071+00:00"
 }
