@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48505231",
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "points": 809,
-      "author": "gmays",
-      "created_at": 1781277324,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=48505231"
-    },
-    {
-      "id": "48502347",
-      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "points": 427,
-      "author": "nekofneko",
-      "created_at": 1781260970,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=48502347"
-    },
-    {
-      "id": "48510010",
-      "title": "Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "points": 423,
-      "author": "bestouff",
-      "created_at": 1781302083,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=48510010"
-    },
-    {
-      "id": "48507278",
-      "title": "\"Don't You Just Upload It to ChatGPT?\"",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "points": 406,
-      "author": "speckx",
-      "created_at": 1781286766,
-      "num_comments": 332,
-      "hn_url": "https://news.ycombinator.com/item?id=48507278"
-    },
-    {
-      "id": "48507020",
-      "title": "How to setup a local coding agent on macOS",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "points": 358,
-      "author": "kkm",
-      "created_at": 1781285695,
-      "num_comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=48507020"
-    },
-    {
-      "id": "48509182",
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "points": 326,
-      "author": "sschueller",
-      "created_at": 1781296776,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=48509182"
-    },
-    {
-      "id": "48504697",
-      "title": "A Call to Action: Stop the FCC's KYC Regime",
-      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
-      "points": 319,
-      "author": "FergusArgyll",
-      "created_at": 1781274809,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=48504697"
-    },
-    {
-      "id": "48507282",
-      "title": "I Am Not a Reverse Centaur",
-      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-      "points": 263,
-      "author": "ibobev",
-      "created_at": 1781286800,
-      "num_comments": 201,
-      "hn_url": "https://news.ycombinator.com/item?id=48507282"
-    },
-    {
-      "id": "48506659",
-      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-      "url": "https://piwodlaiwo.github.io/pirates/",
-      "points": 252,
-      "author": "iweczek",
-      "created_at": 1781284066,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48506659"
-    },
-    {
-      "id": "48502601",
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "points": 247,
-      "author": "danosull",
-      "created_at": 1781262702,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=48502601"
-    },
-    {
-      "id": "48504063",
-      "title": "WASI 0.3",
-      "url": "https://bytecodealliance.org/articles/WASI-0.3",
-      "points": 245,
-      "author": "mavdol04",
-      "created_at": 1781272275,
-      "num_comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=48504063"
-    },
-    {
-      "id": "48508726",
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "points": 193,
-      "author": "DASD",
-      "created_at": 1781294067,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=48508726"
-    },
-    {
-      "id": "48502321",
-      "title": "The Future of Email",
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
-      "points": 192,
-      "author": "soheilpro",
-      "created_at": 1781260711,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=48502321"
-    },
-    {
-      "id": "48510046",
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "points": 192,
-      "author": "redbell",
-      "created_at": 1781302409,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=48510046"
-    },
-    {
-      "id": "48504912",
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "points": 191,
-      "author": "FergusArgyll",
-      "created_at": 1781275718,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=48504912"
-    },
-    {
-      "id": "48511072",
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "points": 3079,
-      "author": "Dylan1312",
-      "created_at": 1781311890,
-      "num_comments": 2242,
-      "hn_url": "https://news.ycombinator.com/item?id=48511072"
-    },
-    {
-      "id": "48511908",
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "points": 1537,
-      "author": "vednig",
-      "created_at": 1781316864,
-      "num_comments": 467,
-      "hn_url": "https://news.ycombinator.com/item?id=48511908"
-    },
-    {
       "id": "48517377",
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
@@ -201,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48519092"
     },
     {
-      "id": "48514560",
-      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-      "points": 644,
-      "author": "pera",
-      "created_at": 1781336739,
-      "num_comments": 370,
-      "hn_url": "https://news.ycombinator.com/item?id=48514560"
-    },
-    {
       "id": "48518684",
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
@@ -219,26 +39,6 @@
       "created_at": 1781367511,
       "num_comments": 307,
       "hn_url": "https://news.ycombinator.com/item?id=48518684"
-    },
-    {
-      "id": "48513806",
-      "title": "Leaving Mozilla",
-      "url": "https://blog.unitedheroes.net/5751",
-      "points": 481,
-      "author": "martey",
-      "created_at": 1781330234,
-      "num_comments": 295,
-      "hn_url": "https://news.ycombinator.com/item?id=48513806"
-    },
-    {
-      "id": "48513536",
-      "title": "There is a shadow hanging over this Fable thing",
-      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
-      "points": 472,
-      "author": "theahura",
-      "created_at": 1781327801,
-      "num_comments": 465,
-      "hn_url": "https://news.ycombinator.com/item?id=48513536"
     },
     {
       "id": "48517199",
@@ -271,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48516379"
     },
     {
-      "id": "48515336",
-      "title": "A low-carbon computing platform from your retired phones",
-      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "points": 289,
-      "author": "vikas-sharma",
-      "created_at": 1781343512,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=48515336"
-    },
-    {
       "id": "48518969",
       "title": "AI coding at home without going broke",
       "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
@@ -299,26 +89,6 @@
       "created_at": 1781352647,
       "num_comments": 163,
       "hn_url": "https://news.ycombinator.com/item?id=48516504"
-    },
-    {
-      "id": "48511121",
-      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
-      "points": 251,
-      "author": "jesse_dot_id",
-      "created_at": 1781312286,
-      "num_comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=48511121"
-    },
-    {
-      "id": "48515454",
-      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "points": 246,
-      "author": "iMil",
-      "created_at": 1781344532,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=48515454"
     },
     {
       "id": "48516710",
@@ -15789,7 +15559,207 @@
       "created_at": 1788933727,
       "num_comments": 127,
       "hn_url": "https://news.ycombinator.com/item?id=49621751"
+    },
+    {
+      "id": "49643982",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "points": 1078,
+      "author": "fnthawar2",
+      "created_at": 1789049371,
+      "num_comments": 757,
+      "hn_url": "https://news.ycombinator.com/item?id=49643982"
+    },
+    {
+      "id": "49639090",
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "points": 972,
+      "author": "Liwink",
+      "created_at": 1789020665,
+      "num_comments": 549,
+      "hn_url": "https://news.ycombinator.com/item?id=49639090"
+    },
+    {
+      "id": "49639408",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "points": 818,
+      "author": "pred_",
+      "created_at": 1789022983,
+      "num_comments": 751,
+      "hn_url": "https://news.ycombinator.com/item?id=49639408"
+    },
+    {
+      "id": "49643546",
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "points": 679,
+      "author": "mmastrac",
+      "created_at": 1789047556,
+      "num_comments": 429,
+      "hn_url": "https://news.ycombinator.com/item?id=49643546"
+    },
+    {
+      "id": "49637385",
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "points": 585,
+      "author": "dmitrybrant",
+      "created_at": 1789005480,
+      "num_comments": 266,
+      "hn_url": "https://news.ycombinator.com/item?id=49637385"
+    },
+    {
+      "id": "49645393",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "points": 542,
+      "author": "Brajeshwar",
+      "created_at": 1789054042,
+      "num_comments": 353,
+      "hn_url": "https://news.ycombinator.com/item?id=49645393"
+    },
+    {
+      "id": "49643556",
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "points": 456,
+      "author": "jacquesm",
+      "created_at": 1789047593,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=49643556"
+    },
+    {
+      "id": "49646181",
+      "title": "I have a theory that software drives people insane",
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "points": 441,
+      "author": "rglover",
+      "created_at": 1789056822,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49646181"
+    },
+    {
+      "id": "49645443",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "points": 419,
+      "author": "seelos",
+      "created_at": 1789054187,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=49645443"
+    },
+    {
+      "id": "49642531",
+      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "points": 397,
+      "author": "haunter",
+      "created_at": 1789042686,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=49642531"
+    },
+    {
+      "id": "49641215",
+      "title": "The same nine streaming subscriptions cost $702/year more than in 2021",
+      "url": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "points": 376,
+      "author": "honestlyranked",
+      "created_at": 1789035239,
+      "num_comments": 376,
+      "hn_url": "https://news.ycombinator.com/item?id=49641215"
+    },
+    {
+      "id": "49640646",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "points": 351,
+      "author": "soheilpro",
+      "created_at": 1789031054,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=49640646"
+    },
+    {
+      "id": "49645437",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "points": 341,
+      "author": "gumby",
+      "created_at": 1789054170,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=49645437"
+    },
+    {
+      "id": "49638353",
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "points": 294,
+      "author": "tamnd",
+      "created_at": 1789013988,
+      "num_comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49638353"
+    },
+    {
+      "id": "49649213",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "points": 272,
+      "author": "aquir",
+      "created_at": 1789069402,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=49649213"
+    },
+    {
+      "id": "49638280",
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "points": 263,
+      "author": "yurivish",
+      "created_at": 1789013078,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=49638280"
+    },
+    {
+      "id": "49643112",
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "points": 257,
+      "author": "ColinWright",
+      "created_at": 1789045634,
+      "num_comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49643112"
+    },
+    {
+      "id": "49645686",
+      "title": "Neki \u2013 Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "points": 247,
+      "author": "simon_weber",
+      "created_at": 1789055029,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=49645686"
+    },
+    {
+      "id": "49647134",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "points": 230,
+      "author": "aanet",
+      "created_at": 1789060452,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49647134"
+    },
+    {
+      "id": "49649124",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "points": 202,
+      "author": "auberonedu",
+      "created_at": 1789068860,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=49649124"
     }
   ],
-  "last_updated": "2026-09-10T10:28:35.325071+00:00"
+  "last_updated": "2026-09-11T10:30:22.429493+00:00"
 }
