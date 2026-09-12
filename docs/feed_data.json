@@ -1,126 +1,6 @@
 {
   "posts": [
     {
-      "id": "48517377",
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "points": 821,
-      "author": "nl",
-      "created_at": 1781358896,
-      "num_comments": 509,
-      "hn_url": "https://news.ycombinator.com/item?id=48517377"
-    },
-    {
-      "id": "48516251",
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "points": 702,
-      "author": "ravenical",
-      "created_at": 1781350820,
-      "num_comments": 226,
-      "hn_url": "https://news.ycombinator.com/item?id=48516251"
-    },
-    {
-      "id": "48519092",
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "points": 683,
-      "author": "ls612",
-      "created_at": 1781369869,
-      "num_comments": 501,
-      "hn_url": "https://news.ycombinator.com/item?id=48519092"
-    },
-    {
-      "id": "48518684",
-      "title": "GLM 5.2 Is Out",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "points": 568,
-      "author": "aloknnikhil",
-      "created_at": 1781367511,
-      "num_comments": 307,
-      "hn_url": "https://news.ycombinator.com/item?id=48518684"
-    },
-    {
-      "id": "48517199",
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "points": 360,
-      "author": "andsoitis",
-      "created_at": 1781357640,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=48517199"
-    },
-    {
-      "id": "48520807",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "points": 319,
-      "author": "austinallegro",
-      "created_at": 1781380495,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48520807"
-    },
-    {
-      "id": "48516379",
-      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
-      "points": 296,
-      "author": "qwertox",
-      "created_at": 1781351730,
-      "num_comments": 186,
-      "hn_url": "https://news.ycombinator.com/item?id=48516379"
-    },
-    {
-      "id": "48518969",
-      "title": "AI coding at home without going broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "points": 287,
-      "author": "sbochins",
-      "created_at": 1781369103,
-      "num_comments": 237,
-      "hn_url": "https://news.ycombinator.com/item?id=48518969"
-    },
-    {
-      "id": "48516504",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "points": 259,
-      "author": "hek2sch",
-      "created_at": 1781352647,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=48516504"
-    },
-    {
-      "id": "48516710",
-      "title": "The experience of rendering Arabic typography and its technical debt",
-      "url": "https://lr0.org/blog/p/arabic/",
-      "points": 228,
-      "author": "bookofjoe",
-      "created_at": 1781354416,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=48516710"
-    },
-    {
-      "id": "48522486",
-      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
-      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-      "points": 217,
-      "author": "jeditobe",
-      "created_at": 1781392925,
-      "num_comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=48522486"
-    },
-    {
-      "id": "48519552",
-      "title": "GameBoy Workboy",
-      "url": "https://tcrf.net/Workboy",
-      "points": 186,
-      "author": "tosh",
-      "created_at": 1781372582,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=48519552"
-    },
-    {
       "id": "48533848",
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
@@ -161,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48527700"
     },
     {
-      "id": "48523080",
-      "title": "Honda Civics and the Evil Valet",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "points": 397,
-      "author": "librick",
-      "created_at": 1781398186,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=48523080"
-    },
-    {
       "id": "48533101",
       "title": "Windows 11 users are tired of MS account requirements creeping into everything",
       "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
@@ -201,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48528371"
     },
     {
-      "id": "48523992",
-      "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
-      "url": "https://sqltoerdiagram.com/",
-      "points": 347,
-      "author": "robhati",
-      "created_at": 1781408610,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=48523992"
-    },
-    {
       "id": "48528729",
       "title": "Linux 7.1",
       "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
@@ -229,16 +89,6 @@
       "created_at": 1781440527,
       "num_comments": 95,
       "hn_url": "https://news.ycombinator.com/item?id=48526633"
-    },
-    {
-      "id": "48524620",
-      "title": "Don't trust large context windows",
-      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-      "points": 254,
-      "author": "computersuck",
-      "created_at": 1781417229,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=48524620"
     },
     {
       "id": "48528779",
@@ -269,26 +119,6 @@
       "created_at": 1781448033,
       "num_comments": 342,
       "hn_url": "https://news.ycombinator.com/item?id=48527658"
-    },
-    {
-      "id": "48524135",
-      "title": "Pac-Man, but you're the ghost",
-      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "points": 206,
-      "author": "mindracer",
-      "created_at": 1781410725,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=48524135"
-    },
-    {
-      "id": "48524293",
-      "title": "Phoenix LiveView 1.2",
-      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
-      "points": 200,
-      "author": "ksec",
-      "created_at": 1781412831,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=48524293"
     },
     {
       "id": "48527145",
@@ -15759,7 +15589,207 @@
       "created_at": 1789068860,
       "num_comments": 125,
       "hn_url": "https://news.ycombinator.com/item?id=49649124"
+    },
+    {
+      "id": "49662371",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "points": 928,
+      "author": "meredydd",
+      "created_at": 1789148712,
+      "num_comments": 892,
+      "hn_url": "https://news.ycombinator.com/item?id=49662371"
+    },
+    {
+      "id": "49657850",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "points": 790,
+      "author": "cromka",
+      "created_at": 1789132264,
+      "num_comments": 373,
+      "hn_url": "https://news.ycombinator.com/item?id=49657850"
+    },
+    {
+      "id": "49666735",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "points": 704,
+      "author": "chao-",
+      "created_at": 1789168662,
+      "num_comments": 395,
+      "hn_url": "https://news.ycombinator.com/item?id=49666735"
+    },
+    {
+      "id": "49656225",
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "points": 644,
+      "author": "Muhammad523",
+      "created_at": 1789123680,
+      "num_comments": 628,
+      "hn_url": "https://news.ycombinator.com/item?id=49656225"
+    },
+    {
+      "id": "49662990",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "points": 530,
+      "author": "nickabe",
+      "created_at": 1789151095,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=49662990"
+    },
+    {
+      "id": "49662672",
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "points": 463,
+      "author": "doener",
+      "created_at": 1789149921,
+      "num_comments": 335,
+      "hn_url": "https://news.ycombinator.com/item?id=49662672"
+    },
+    {
+      "id": "49654229",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "points": 432,
+      "author": "manojbajaj95",
+      "created_at": 1789107786,
+      "num_comments": 325,
+      "hn_url": "https://news.ycombinator.com/item?id=49654229"
+    },
+    {
+      "id": "49652237",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "points": 379,
+      "author": "rguiscard",
+      "created_at": 1789088456,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=49652237"
+    },
+    {
+      "id": "49658299",
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "points": 376,
+      "author": "consumer451",
+      "created_at": 1789134098,
+      "num_comments": 663,
+      "hn_url": "https://news.ycombinator.com/item?id=49658299"
+    },
+    {
+      "id": "49652105",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "points": 362,
+      "author": "lukaspetersson",
+      "created_at": 1789087361,
+      "num_comments": 324,
+      "hn_url": "https://news.ycombinator.com/item?id=49652105"
+    },
+    {
+      "id": "49656496",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "points": 324,
+      "author": "JohnHammersley",
+      "created_at": 1789125470,
+      "num_comments": 297,
+      "hn_url": "https://news.ycombinator.com/item?id=49656496"
+    },
+    {
+      "id": "49663373",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "points": 278,
+      "author": "microtonal",
+      "created_at": 1789152636,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=49663373"
+    },
+    {
+      "id": "49659245",
+      "title": "HuggingFace: Security.txt",
+      "url": "https://huggingface.co/security.txt",
+      "points": 264,
+      "author": "yarapavan",
+      "created_at": 1789137493,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=49659245"
+    },
+    {
+      "id": "49658311",
+      "title": "Measuring the sloppiness of code",
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "points": 262,
+      "author": "doppp",
+      "created_at": 1789134148,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=49658311"
+    },
+    {
+      "id": "49655286",
+      "title": "Cherenkov Radiation",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "points": 224,
+      "author": "andsoitis",
+      "created_at": 1789116124,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=49655286"
+    },
+    {
+      "id": "49659647",
+      "title": "Show HN: Hacker News, without AI",
+      "url": "https://hcker.news/?ai=exclude",
+      "points": 190,
+      "author": "postalcoder",
+      "created_at": 1789138879,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49659647"
+    },
+    {
+      "id": "49660783",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "points": 186,
+      "author": "otherayden",
+      "created_at": 1789142930,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=49660783"
+    },
+    {
+      "id": "49660149",
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "points": 186,
+      "author": "ernestrc",
+      "created_at": 1789140707,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49660149"
+    },
+    {
+      "id": "49662367",
+      "title": "Room 641A",
+      "url": "https://en.wikipedia.org/wiki/Room_641A",
+      "points": 173,
+      "author": "paimapi",
+      "created_at": 1789148703,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=49662367"
+    },
+    {
+      "id": "49661506",
+      "title": "Feeling Sad about AI",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "points": 172,
+      "author": "encyclopedism",
+      "created_at": 1789145451,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=49661506"
     }
   ],
-  "last_updated": "2026-09-11T10:30:22.429493+00:00"
+  "last_updated": "2026-09-12T09:58:45.423535+00:00"
 }
