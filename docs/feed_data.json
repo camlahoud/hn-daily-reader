@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48533848",
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "points": 676,
-      "author": "sohkamyung",
-      "created_at": 1781477695,
-      "num_comments": 222,
-      "hn_url": "https://news.ycombinator.com/item?id=48533848"
-    },
-    {
-      "id": "48526360",
-      "title": "How to earn a billion dollars",
-      "url": "https://paulgraham.com/earn.html",
-      "points": 654,
-      "author": "kingstoned",
-      "created_at": 1781437848,
-      "num_comments": 1677,
-      "hn_url": "https://news.ycombinator.com/item?id=48526360"
-    },
-    {
-      "id": "48529990",
-      "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
-      "url": "https://github.com/tamnd/kage",
-      "points": 584,
-      "author": "tamnd",
-      "created_at": 1781457938,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=48529990"
-    },
-    {
-      "id": "48527700",
-      "title": "Not everyone is using AI for everything",
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "points": 471,
-      "author": "yegg",
-      "created_at": 1781448269,
-      "num_comments": 504,
-      "hn_url": "https://news.ycombinator.com/item?id=48527700"
-    },
-    {
-      "id": "48533101",
-      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-      "points": 395,
-      "author": "josephcsible",
-      "created_at": 1781473332,
-      "num_comments": 265,
-      "hn_url": "https://news.ycombinator.com/item?id=48533101"
-    },
-    {
-      "id": "48528029",
-      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-      "url": "https://news.ycombinator.com/item?id=48528029",
-      "points": 378,
-      "author": "iliashad",
-      "created_at": 1781450037,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=48528029"
-    },
-    {
-      "id": "48528371",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "points": 361,
-      "author": "unrvl22",
-      "created_at": 1781451451,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=48528371"
-    },
-    {
-      "id": "48528729",
-      "title": "Linux 7.1",
-      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-      "points": 296,
-      "author": "berlianta",
-      "created_at": 1781452890,
-      "num_comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=48528729"
-    },
-    {
-      "id": "48526633",
-      "title": "Formal methods and the future of programming",
-      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-      "points": 285,
-      "author": "eatonphil",
-      "created_at": 1781440527,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=48526633"
-    },
-    {
-      "id": "48528779",
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "url": "https://news.ycombinator.com/item?id=48528779",
-      "points": 251,
-      "author": "david927",
-      "created_at": 1781453128,
-      "num_comments": 911,
-      "hn_url": "https://news.ycombinator.com/item?id=48528779"
-    },
-    {
-      "id": "48526661",
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "points": 225,
-      "author": "subset",
-      "created_at": 1781440711,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=48526661"
-    },
-    {
-      "id": "48527658",
-      "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown",
-      "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
-      "points": 220,
-      "author": "tambourine_man",
-      "created_at": 1781448033,
-      "num_comments": 342,
-      "hn_url": "https://news.ycombinator.com/item?id=48527658"
-    },
-    {
-      "id": "48527145",
-      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "url": "https://su3.io/posts/zeroserve-caddy-compat",
-      "points": 195,
-      "author": "losfair",
-      "created_at": 1781444588,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=48527145"
-    },
-    {
-      "id": "48529149",
-      "title": "Swiss voters reject proposal to cap population at ten million",
-      "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-      "points": 193,
-      "author": "FabCH",
-      "created_at": 1781454534,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=48529149"
-    },
-    {
-      "id": "48533504",
-      "title": "Did Anthropic ask for this?",
-      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-      "points": 186,
-      "author": "ad8e",
-      "created_at": 1781475785,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=48533504"
-    },
-    {
       "id": "48546294",
       "title": "A backdoor in a LinkedIn job offer",
       "url": "https://roman.pt/posts/linkedin-backdoor/",
@@ -191,26 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48543475"
     },
     {
-      "id": "48537165",
-      "title": "Curl will not accept vulnerability reports during July 2026",
-      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "points": 769,
-      "author": "secret-noun",
-      "created_at": 1781503377,
-      "num_comments": 307,
-      "hn_url": "https://news.ycombinator.com/item?id=48537165"
-    },
-    {
-      "id": "48538229",
-      "title": "What happened to nerds?",
-      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "points": 725,
-      "author": "vrnvu",
-      "created_at": 1781511832,
-      "num_comments": 489,
-      "hn_url": "https://news.ycombinator.com/item?id=48538229"
-    },
-    {
       "id": "48540854",
       "title": "CrankGPT",
       "url": "https://crankgpt.com",
@@ -219,16 +49,6 @@
       "created_at": 1781529613,
       "num_comments": 223,
       "hn_url": "https://news.ycombinator.com/item?id=48540854"
-    },
-    {
-      "id": "48536776",
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "points": 473,
-      "author": "MehrdadKhnzd",
-      "created_at": 1781499334,
-      "num_comments": 219,
-      "hn_url": "https://news.ycombinator.com/item?id=48536776"
     },
     {
       "id": "48540844",
@@ -249,16 +69,6 @@
       "created_at": 1781563075,
       "num_comments": 213,
       "hn_url": "https://news.ycombinator.com/item?id=48547985"
-    },
-    {
-      "id": "48535886",
-      "title": "Even more batteries included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "points": 350,
-      "author": "signa11",
-      "created_at": 1781490625,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=48535886"
     },
     {
       "id": "48540499",
@@ -339,16 +149,6 @@
       "created_at": 1781545959,
       "num_comments": 70,
       "hn_url": "https://news.ycombinator.com/item?id=48544781"
-    },
-    {
-      "id": "48539078",
-      "title": "Anthropic's Safety Superpower",
-      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-      "points": 209,
-      "author": "swolpers",
-      "created_at": 1781517995,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=48539078"
     },
     {
       "id": "48675179",
@@ -15789,7 +15589,207 @@
       "created_at": 1789145451,
       "num_comments": 280,
       "hn_url": "https://news.ycombinator.com/item?id=49661506"
+    },
+    {
+      "id": "49672510",
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "points": 656,
+      "author": "apsec112",
+      "created_at": 1789222249,
+      "num_comments": 923,
+      "hn_url": "https://news.ycombinator.com/item?id=49672510"
+    },
+    {
+      "id": "49668386",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "points": 648,
+      "author": "1e1a",
+      "created_at": 1789182860,
+      "num_comments": 507,
+      "hn_url": "https://news.ycombinator.com/item?id=49668386"
+    },
+    {
+      "id": "49671329",
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "points": 569,
+      "author": "JayOtter",
+      "created_at": 1789213352,
+      "num_comments": 576,
+      "hn_url": "https://news.ycombinator.com/item?id=49671329"
+    },
+    {
+      "id": "49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "points": 490,
+      "author": "tolugenius",
+      "created_at": 1789225707,
+      "num_comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=49673098"
+    },
+    {
+      "id": "49674050",
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "points": 474,
+      "author": "juliantigler",
+      "created_at": 1789230308,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49674050"
+    },
+    {
+      "id": "49675902",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "points": 341,
+      "author": "encyclopedism",
+      "created_at": 1789239537,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=49675902"
+    },
+    {
+      "id": "49668706",
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "points": 324,
+      "author": "rvz",
+      "created_at": 1789186183,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=49668706"
+    },
+    {
+      "id": "49676085",
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "points": 287,
+      "author": "routelastresort",
+      "created_at": 1789240532,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49676085"
+    },
+    {
+      "id": "49676324",
+      "title": "LG Says We're Fake News [video]",
+      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "points": 274,
+      "author": "HelloUsername",
+      "created_at": 1789241736,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=49676324"
+    },
+    {
+      "id": "49676820",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "points": 246,
+      "author": "theanonymousone",
+      "created_at": 1789244748,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=49676820"
+    },
+    {
+      "id": "49670032",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "points": 229,
+      "author": "zdw",
+      "created_at": 1789199643,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49670032"
+    },
+    {
+      "id": "49668198",
+      "title": "Pandas Should Go Extinct",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "points": 187,
+      "author": "__eddie__",
+      "created_at": 1789180928,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49668198"
+    },
+    {
+      "id": "49667375",
+      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+      "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+      "points": 143,
+      "author": "upofadown",
+      "created_at": 1789173632,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49667375"
+    },
+    {
+      "id": "49667762",
+      "title": "How to buy a good car for $1000",
+      "url": "https://abio.substack.com/p/how-poor-people-buy-cars",
+      "points": 138,
+      "author": "barry-cotter",
+      "created_at": 1789177026,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=49667762"
+    },
+    {
+      "id": "49668181",
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "points": 136,
+      "author": "MysteryPancake",
+      "created_at": 1789180779,
+      "num_comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=49668181"
+    },
+    {
+      "id": "49672842",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "points": 136,
+      "author": "lalitmaganti",
+      "created_at": 1789224328,
+      "num_comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49672842"
+    },
+    {
+      "id": "49677577",
+      "title": "Don't be the out of touch Kung Fu master",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "points": 135,
+      "author": "dsubburam",
+      "created_at": 1789249903,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=49677577"
+    },
+    {
+      "id": "49668777",
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "points": 129,
+      "author": "cstadler1869",
+      "created_at": 1789186792,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=49668777"
+    },
+    {
+      "id": "49670981",
+      "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+      "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+      "points": 128,
+      "author": "mellosouls",
+      "created_at": 1789209543,
+      "num_comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=49670981"
+    },
+    {
+      "id": "49672549",
+      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+      "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+      "points": 125,
+      "author": "mmayberry",
+      "created_at": 1789222584,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=49672549"
     }
   ],
-  "last_updated": "2026-09-12T09:58:45.423535+00:00"
+  "last_updated": "2026-09-13T10:59:43.296204+00:00"
 }
