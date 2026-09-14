@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48546294",
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "points": 1230,
-      "author": "lwhsiao",
-      "created_at": 1781553657,
-      "num_comments": 223,
-      "hn_url": "https://news.ycombinator.com/item?id=48546294"
-    },
-    {
-      "id": "48542480",
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "points": 1211,
-      "author": "chadfowler",
-      "created_at": 1781536386,
-      "num_comments": 368,
-      "hn_url": "https://news.ycombinator.com/item?id=48542480"
-    },
-    {
-      "id": "48542100",
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "url": "https://news.ycombinator.com/item?id=48542100",
-      "points": 1035,
-      "author": "cloudking",
-      "created_at": 1781534813,
-      "num_comments": 455,
-      "hn_url": "https://news.ycombinator.com/item?id=48542100"
-    },
-    {
-      "id": "48543475",
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "points": 858,
-      "author": "tinywind",
-      "created_at": 1781540153,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=48543475"
-    },
-    {
-      "id": "48540854",
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "points": 580,
-      "author": "rishikeshs",
-      "created_at": 1781529613,
-      "num_comments": 223,
-      "hn_url": "https://news.ycombinator.com/item?id=48540854"
-    },
-    {
-      "id": "48540844",
-      "title": "Hetzner Price Adjustment",
-      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-      "points": 455,
-      "author": "tuhtah",
-      "created_at": 1781529579,
-      "num_comments": 625,
-      "hn_url": "https://news.ycombinator.com/item?id=48540844"
-    },
-    {
-      "id": "48547985",
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "points": 401,
-      "author": "sohkamyung",
-      "created_at": 1781563075,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=48547985"
-    },
-    {
-      "id": "48540499",
-      "title": "Fox to buy Roku",
-      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-      "points": 325,
-      "author": "thm",
-      "created_at": 1781527803,
-      "num_comments": 395,
-      "hn_url": "https://news.ycombinator.com/item?id=48540499"
-    },
-    {
-      "id": "48542433",
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "points": 319,
-      "author": "rsgm",
-      "created_at": 1781536180,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=48542433"
-    },
-    {
-      "id": "48544396",
-      "title": "Typst 0.15.0",
-      "url": "https://typst.app/docs/changelog/0.15.0/",
-      "points": 318,
-      "author": "schu",
-      "created_at": 1781544257,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=48544396"
-    },
-    {
-      "id": "48540126",
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "points": 314,
-      "author": "colesantiago",
-      "created_at": 1781525339,
-      "num_comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=48540126"
-    },
-    {
-      "id": "48542132",
-      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "points": 314,
-      "author": "bookofjoe",
-      "created_at": 1781534927,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48542132"
-    },
-    {
-      "id": "48542064",
-      "title": "Hetzner increased dedicated server prices 3-4x",
-      "url": "https://news.ycombinator.com/item?id=48542064",
-      "points": 272,
-      "author": "enescakir",
-      "created_at": 1781534642,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=48542064"
-    },
-    {
-      "id": "48546441",
-      "title": "I Love the Computer",
-      "url": "https://michaelenger.com/blog/i-love-the-computer/",
-      "points": 243,
-      "author": "speckx",
-      "created_at": 1781554455,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=48546441"
-    },
-    {
-      "id": "48544781",
-      "title": "Game Engine White Papers: Commander Keen",
-      "url": "https://forgottenbytes.net/commander_keen.html",
-      "points": 214,
-      "author": "mfiguiere",
-      "created_at": 1781545959,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=48544781"
-    },
-    {
       "id": "48675179",
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
@@ -15789,7 +15639,207 @@
       "created_at": 1789222584,
       "num_comments": 205,
       "hn_url": "https://news.ycombinator.com/item?id=49672549"
+    },
+    {
+      "id": "49688695",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "points": 999,
+      "author": "u1hcw9nx",
+      "created_at": 1789333573,
+      "num_comments": 434,
+      "hn_url": "https://news.ycombinator.com/item?id=49688695"
+    },
+    {
+      "id": "49686445",
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "points": 849,
+      "author": "iamflimflam1",
+      "created_at": 1789321064,
+      "num_comments": 376,
+      "hn_url": "https://news.ycombinator.com/item?id=49686445"
+    },
+    {
+      "id": "49678683",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "points": 777,
+      "author": "xena",
+      "created_at": 1789259444,
+      "num_comments": 443,
+      "hn_url": "https://news.ycombinator.com/item?id=49678683"
+    },
+    {
+      "id": "49678969",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "points": 622,
+      "author": "jonifico",
+      "created_at": 1789262551,
+      "num_comments": 676,
+      "hn_url": "https://news.ycombinator.com/item?id=49678969"
+    },
+    {
+      "id": "49681545",
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "points": 604,
+      "author": "mikemcquaid",
+      "created_at": 1789288877,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=49681545"
+    },
+    {
+      "id": "49681152",
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "points": 550,
+      "author": "taubek",
+      "created_at": 1789285786,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=49681152"
+    },
+    {
+      "id": "49684393",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "points": 444,
+      "author": "Levitating",
+      "created_at": 1789309716,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=49684393"
+    },
+    {
+      "id": "49686766",
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "url": "https://dreamstation.systems/personal/tesla.html",
+      "points": 436,
+      "author": "robinpie",
+      "created_at": 1789322589,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49686766"
+    },
+    {
+      "id": "49683953",
+      "title": "Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "points": 435,
+      "author": "bookofjoe",
+      "created_at": 1789307108,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=49683953"
+    },
+    {
+      "id": "49685253",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "points": 390,
+      "author": "TheJCDenton",
+      "created_at": 1789314278,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=49685253"
+    },
+    {
+      "id": "49683853",
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "points": 347,
+      "author": "SanjayMehta",
+      "created_at": 1789306531,
+      "num_comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=49683853"
+    },
+    {
+      "id": "49685991",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "points": 306,
+      "author": "kolanos",
+      "created_at": 1789318353,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=49685991"
+    },
+    {
+      "id": "49688157",
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "points": 299,
+      "author": "mfiguiere",
+      "created_at": 1789330125,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49688157"
+    },
+    {
+      "id": "49689048",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "points": 292,
+      "author": "Cider9986",
+      "created_at": 1789336024,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=49689048"
+    },
+    {
+      "id": "49683262",
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "points": 253,
+      "author": "ibobev",
+      "created_at": 1789302615,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49683262"
+    },
+    {
+      "id": "49689460",
+      "title": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "points": 227,
+      "author": "elffjs",
+      "created_at": 1789339098,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=49689460"
+    },
+    {
+      "id": "49684196",
+      "title": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "points": 210,
+      "author": "tosh",
+      "created_at": 1789308593,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49684196"
+    },
+    {
+      "id": "49686697",
+      "title": "Global shortage has led to motor oil rationing at Costco",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "points": 207,
+      "author": "mikhael",
+      "created_at": 1789322279,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=49686697"
+    },
+    {
+      "id": "49686380",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "points": 194,
+      "author": "david927",
+      "created_at": 1789320698,
+      "num_comments": 584,
+      "hn_url": "https://news.ycombinator.com/item?id=49686380"
+    },
+    {
+      "id": "49688259",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "points": 185,
+      "author": "ilamont",
+      "created_at": 1789330746,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=49688259"
     }
   ],
-  "last_updated": "2026-09-13T10:59:43.296204+00:00"
+  "last_updated": "2026-09-14T11:36:33.954622+00:00"
 }
