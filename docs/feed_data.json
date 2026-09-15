@@ -15839,7 +15839,207 @@
       "created_at": 1789330746,
       "num_comments": 250,
       "hn_url": "https://news.ycombinator.com/item?id=49688259"
+    },
+    {
+      "id": "49700661",
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "points": 680,
+      "author": "bsimpson",
+      "created_at": 1789406875,
+      "num_comments": 524,
+      "hn_url": "https://news.ycombinator.com/item?id=49700661"
+    },
+    {
+      "id": "49694296",
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "points": 653,
+      "author": "gaganyaan",
+      "created_at": 1789379510,
+      "num_comments": 946,
+      "hn_url": "https://news.ycombinator.com/item?id=49694296"
+    },
+    {
+      "id": "49701004",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "points": 618,
+      "author": "throw0101d",
+      "created_at": 1789408229,
+      "num_comments": 707,
+      "hn_url": "https://news.ycombinator.com/item?id=49701004"
+    },
+    {
+      "id": "49697893",
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "points": 551,
+      "author": "0x5FC3",
+      "created_at": 1789397432,
+      "num_comments": 261,
+      "hn_url": "https://news.ycombinator.com/item?id=49697893"
+    },
+    {
+      "id": "49695876",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "points": 469,
+      "author": "gregnavis",
+      "created_at": 1789389657,
+      "num_comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=49695876"
+    },
+    {
+      "id": "49700477",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "points": 417,
+      "author": "lukaspetersson",
+      "created_at": 1789406166,
+      "num_comments": 517,
+      "hn_url": "https://news.ycombinator.com/item?id=49700477"
+    },
+    {
+      "id": "49690174",
+      "title": "Apple's Dimensional Drawings",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "points": 390,
+      "author": "herbertl",
+      "created_at": 1789344681,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49690174"
+    },
+    {
+      "id": "49696125",
+      "title": "How to write an effective software design document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "points": 333,
+      "author": "fagnerbrack",
+      "created_at": 1789390846,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=49696125"
+    },
+    {
+      "id": "49699158",
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "points": 310,
+      "author": "grep_it",
+      "created_at": 1789401721,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=49699158"
+    },
+    {
+      "id": "49691343",
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "points": 301,
+      "author": "andsoitis",
+      "created_at": 1789354240,
+      "num_comments": 420,
+      "hn_url": "https://news.ycombinator.com/item?id=49691343"
+    },
+    {
+      "id": "49695459",
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "url": "https://xcancel.com/twitter",
+      "points": 271,
+      "author": "unfocso",
+      "created_at": 1789387552,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49695459"
+    },
+    {
+      "id": "49690554",
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "points": 270,
+      "author": "contact9879",
+      "created_at": 1789347757,
+      "num_comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=49690554"
+    },
+    {
+      "id": "49699297",
+      "title": "Microsoft patches Windows and Excel \u2013 breaks audio, remote access, and paste",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "points": 244,
+      "author": "Alephinitesimal",
+      "created_at": 1789402185,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=49699297"
+    },
+    {
+      "id": "49704246",
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "points": 235,
+      "author": "thingsilearned",
+      "created_at": 1789420974,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49704246"
+    },
+    {
+      "id": "49698699",
+      "title": "A beginning for mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "points": 228,
+      "author": "robinhouston",
+      "created_at": 1789399987,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=49698699"
+    },
+    {
+      "id": "49695409",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "points": 222,
+      "author": "tosh",
+      "created_at": 1789387292,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=49695409"
+    },
+    {
+      "id": "49693610",
+      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "points": 222,
+      "author": "NKosmatos",
+      "created_at": 1789374347,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=49693610"
+    },
+    {
+      "id": "49698607",
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "points": 218,
+      "author": "carllerche",
+      "created_at": 1789399676,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49698607"
+    },
+    {
+      "id": "49699489",
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "points": 212,
+      "author": "simonmic",
+      "created_at": 1789402996,
+      "num_comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=49699489"
+    },
+    {
+      "id": "49693613",
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "points": 211,
+      "author": "SamuraiLion",
+      "created_at": 1789374357,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=49693613"
     }
   ],
-  "last_updated": "2026-09-14T11:36:33.954622+00:00"
+  "last_updated": "2026-09-15T10:57:34.532691+00:00"
 }
