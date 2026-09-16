@@ -16039,7 +16039,207 @@
       "created_at": 1789374357,
       "num_comments": 79,
       "hn_url": "https://news.ycombinator.com/item?id=49693613"
+    },
+    {
+      "id": "49711544",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "points": 1678,
+      "author": "arnemunthekaas",
+      "created_at": 1789475470,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=49711544"
+    },
+    {
+      "id": "49717558",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "points": 1438,
+      "author": "albelfio",
+      "created_at": 1789500303,
+      "num_comments": 406,
+      "hn_url": "https://news.ycombinator.com/item?id=49717558"
+    },
+    {
+      "id": "49708431",
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "points": 1068,
+      "author": "networked",
+      "created_at": 1789452984,
+      "num_comments": 448,
+      "hn_url": "https://news.ycombinator.com/item?id=49708431"
+    },
+    {
+      "id": "49710883",
+      "title": "25 years of mass surveillance is enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "points": 859,
+      "author": "iamnothere",
+      "created_at": 1789471608,
+      "num_comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=49710883"
+    },
+    {
+      "id": "49716176",
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "points": 546,
+      "author": "ChrisArchitect",
+      "created_at": 1789494738,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=49716176"
+    },
+    {
+      "id": "49710253",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "points": 496,
+      "author": "choult",
+      "created_at": 1789467766,
+      "num_comments": 439,
+      "hn_url": "https://news.ycombinator.com/item?id=49710253"
+    },
+    {
+      "id": "49707473",
+      "title": "US confirms for first time it has deployed space weapons",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "points": 463,
+      "author": "harporoeder",
+      "created_at": 1789444076,
+      "num_comments": 332,
+      "hn_url": "https://news.ycombinator.com/item?id=49707473"
+    },
+    {
+      "id": "49715947",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "points": 424,
+      "author": "leumon",
+      "created_at": 1789493898,
+      "num_comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=49715947"
+    },
+    {
+      "id": "49710109",
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "points": 400,
+      "author": "ingve",
+      "created_at": 1789466416,
+      "num_comments": 414,
+      "hn_url": "https://news.ycombinator.com/item?id=49710109"
+    },
+    {
+      "id": "49707627",
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "points": 370,
+      "author": "sippingabonedry",
+      "created_at": 1789445723,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49707627"
+    },
+    {
+      "id": "49712041",
+      "title": "Java 27",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "points": 337,
+      "author": "mkurz",
+      "created_at": 1789478023,
+      "num_comments": 349,
+      "hn_url": "https://news.ycombinator.com/item?id=49712041"
+    },
+    {
+      "id": "49717638",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "points": 335,
+      "author": "ADevWithAnIdea",
+      "created_at": 1789500603,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=49717638"
+    },
+    {
+      "id": "49712278",
+      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "points": 333,
+      "author": "bashtian",
+      "created_at": 1789479100,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49712278"
+    },
+    {
+      "id": "49714547",
+      "title": "America's Driver's License Breach Is a National Security Disaster",
+      "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+      "points": 293,
+      "author": "hn_acker",
+      "created_at": 1789487928,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=49714547"
+    },
+    {
+      "id": "49713468",
+      "title": "Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary",
+      "url": "https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw",
+      "points": 293,
+      "author": "Markoff",
+      "created_at": 1789483934,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49713468"
+    },
+    {
+      "id": "49716476",
+      "title": "We got admin access to Baseten's production GitHub",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "points": 285,
+      "author": "bearsyankees",
+      "created_at": 1789495884,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=49716476"
+    },
+    {
+      "id": "49709381",
+      "title": "Alternatives to MinIO for single-node local S3",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "points": 257,
+      "author": "rmoff",
+      "created_at": 1789460487,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=49709381"
+    },
+    {
+      "id": "49708993",
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "points": 255,
+      "author": "edent",
+      "created_at": 1789457266,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49708993"
+    },
+    {
+      "id": "49715927",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "points": 240,
+      "author": "jaykru",
+      "created_at": 1789493832,
+      "num_comments": 270,
+      "hn_url": "https://news.ycombinator.com/item?id=49715927"
+    },
+    {
+      "id": "49706223",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "points": 224,
+      "author": "throwworhtthrow",
+      "created_at": 1789432814,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=49706223"
     }
   ],
-  "last_updated": "2026-09-15T10:57:34.532691+00:00"
+  "last_updated": "2026-09-16T10:44:54.031152+00:00"
 }

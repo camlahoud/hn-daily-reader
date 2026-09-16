@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:57:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:44:54 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[335 pts] Building a Linux GPU Driver for the M4 Mac Mini in One Month</title>
+      <link>https://codyho.dev/blog/gpu-driver/</link>
+      <description>&lt;p&gt;&lt;strong&gt;335 points&lt;/strong&gt; by ADevWithAnIdea | &lt;strong&gt;192 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49717638&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49717638</guid>
+      <pubDate>Tue, 15 Sep 2026 19:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1438 pts] Introducing System One Models and Jev</title>
+      <link>https://typesafe.ai/blog/introducing-system-one-models-and-jev</link>
+      <description>&lt;p&gt;&lt;strong&gt;1438 points&lt;/strong&gt; by albelfio | &lt;strong&gt;406 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49717558&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49717558</guid>
+      <pubDate>Tue, 15 Sep 2026 19:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[285 pts] We got admin access to Baseten's production GitHub</title>
+      <link>https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</link>
+      <description>&lt;p&gt;&lt;strong&gt;285 points&lt;/strong&gt; by bearsyankees | &lt;strong&gt;159 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49716476&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49716476</guid>
+      <pubDate>Tue, 15 Sep 2026 18:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[546 pts] An update on Wayback Machine access</title>
+      <link>https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</link>
+      <description>&lt;p&gt;&lt;strong&gt;546 points&lt;/strong&gt; by ChrisArchitect | &lt;strong&gt;274 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49716176&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49716176</guid>
+      <pubDate>Tue, 15 Sep 2026 17:52:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[424 pts] Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
+      <description>&lt;p&gt;&lt;strong&gt;424 points&lt;/strong&gt; by leumon | &lt;strong&gt;273 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49715947&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49715947</guid>
+      <pubDate>Tue, 15 Sep 2026 17:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[240 pts] Why I'm still bearish on LLMs after Navier-Stokes</title>
+      <link>https://dank.systems/posts/2026-09-15-ai-bear.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;240 points&lt;/strong&gt; by jaykru | &lt;strong&gt;270 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49715927&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49715927</guid>
+      <pubDate>Tue, 15 Sep 2026 17:37:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[293 pts] America's Driver's License Breach Is a National Security Disaster</title>
+      <link>https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster</link>
+      <description>&lt;p&gt;&lt;strong&gt;293 points&lt;/strong&gt; by hn_acker | &lt;strong&gt;177 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49714547&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49714547</guid>
+      <pubDate>Tue, 15 Sep 2026 15:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[293 pts] Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary</title>
+      <link>https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw</link>
+      <description>&lt;p&gt;&lt;strong&gt;293 points&lt;/strong&gt; by Markoff | &lt;strong&gt;77 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49713468&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49713468</guid>
+      <pubDate>Tue, 15 Sep 2026 14:52:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[333 pts] Show HN: Capsule – Single-file web apps that save their data into SQLite</title>
+      <link>https://withcapsule.app/</link>
+      <description>&lt;p&gt;&lt;strong&gt;333 points&lt;/strong&gt; by bashtian | &lt;strong&gt;141 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49712278&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49712278</guid>
+      <pubDate>Tue, 15 Sep 2026 13:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[337 pts] Java 27</title>
+      <link>https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</link>
+      <description>&lt;p&gt;&lt;strong&gt;337 points&lt;/strong&gt; by mkurz | &lt;strong&gt;349 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49712041&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49712041</guid>
+      <pubDate>Tue, 15 Sep 2026 13:13:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1678 pts] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</title>
+      <link>https://github.com/arnegiacomo/fugleramme</link>
+      <description>&lt;p&gt;&lt;strong&gt;1678 points&lt;/strong&gt; by arnemunthekaas | &lt;strong&gt;209 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49711544&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49711544</guid>
+      <pubDate>Tue, 15 Sep 2026 12:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[859 pts] 25 years of mass surveillance is enough</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;859 points&lt;/strong&gt; by iamnothere | &lt;strong&gt;317 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49710883&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49710883</guid>
+      <pubDate>Tue, 15 Sep 2026 11:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[496 pts] Suspected sabotage causes major Netherlands rail disruption</title>
+      <link>https://www.bbc.com/news/articles/c8ly49w9g1edo</link>
+      <description>&lt;p&gt;&lt;strong&gt;496 points&lt;/strong&gt; by choult | &lt;strong&gt;439 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49710253&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49710253</guid>
+      <pubDate>Tue, 15 Sep 2026 10:22:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[400 pts] Let's make quality the norm again</title>
+      <link>https://www.forbrukerradet.no/short-life/</link>
+      <description>&lt;p&gt;&lt;strong&gt;400 points&lt;/strong&gt; by ingve | &lt;strong&gt;414 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49710109&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49710109</guid>
+      <pubDate>Tue, 15 Sep 2026 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[257 pts] Alternatives to MinIO for single-node local S3</title>
+      <link>https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</link>
+      <description>&lt;p&gt;&lt;strong&gt;257 points&lt;/strong&gt; by rmoff | &lt;strong&gt;101 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49709381&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49709381</guid>
+      <pubDate>Tue, 15 Sep 2026 08:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[255 pts] CSS-Tricks in Limbo</title>
+      <link>https://vale.rocks/micros/20260915-0135</link>
+      <description>&lt;p&gt;&lt;strong&gt;255 points&lt;/strong&gt; by edent | &lt;strong&gt;118 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49708993&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49708993</guid>
+      <pubDate>Tue, 15 Sep 2026 07:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1068 pts] I can't stop thinking about Papua New Guinea</title>
+      <link>https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</link>
+      <description>&lt;p&gt;&lt;strong&gt;1068 points&lt;/strong&gt; by networked | &lt;strong&gt;448 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49708431&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49708431</guid>
+      <pubDate>Tue, 15 Sep 2026 06:16:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[370 pts] Linux from Scratch</title>
+      <link>https://www.linuxfromscratch.org/</link>
+      <description>&lt;p&gt;&lt;strong&gt;370 points&lt;/strong&gt; by sippingabonedry | &lt;strong&gt;109 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49707627&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49707627</guid>
+      <pubDate>Tue, 15 Sep 2026 04:15:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[463 pts] US confirms for first time it has deployed space weapons</title>
+      <link>https://www.bbc.com/news/articles/ck790xg41ygro</link>
+      <description>&lt;p&gt;&lt;strong&gt;463 points&lt;/strong&gt; by harporoeder | &lt;strong&gt;332 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49707473&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49707473</guid>
+      <pubDate>Tue, 15 Sep 2026 03:47:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[224 pts] Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</link>
+      <description>&lt;p&gt;&lt;strong&gt;224 points&lt;/strong&gt; by throwworhtthrow | &lt;strong&gt;135 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49706223&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49706223</guid>
+      <pubDate>Tue, 15 Sep 2026 00:40:14 +0000</pubDate>
+    </item>
     <item>
       <title>[235 pts] Charts built for Chat</title>
       <link>https://dbtcharts.com/blog/charts-built-for-chat/</link>
