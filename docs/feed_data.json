@@ -16239,7 +16239,207 @@
       "created_at": 1789432814,
       "num_comments": 135,
       "hn_url": "https://news.ycombinator.com/item?id=49706223"
+    },
+    {
+      "id": "49724881",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "points": 710,
+      "author": "nonmaskable",
+      "created_at": 1789557353,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=49724881"
+    },
+    {
+      "id": "49724141",
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "points": 666,
+      "author": "hackernj",
+      "created_at": 1789552445,
+      "num_comments": 850,
+      "hn_url": "https://news.ycombinator.com/item?id=49724141"
+    },
+    {
+      "id": "49723408",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "points": 566,
+      "author": "vertigoruntime",
+      "created_at": 1789546137,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=49723408"
+    },
+    {
+      "id": "49731285",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "points": 561,
+      "author": "polyphilz",
+      "created_at": 1789584600,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49731285"
+    },
+    {
+      "id": "49729000",
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "points": 530,
+      "author": "signa11",
+      "created_at": 1789574207,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=49729000"
+    },
+    {
+      "id": "49726586",
+      "title": "Hackers Got Inside a Flock Camera",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "points": 529,
+      "author": "driverdan",
+      "created_at": 1789564727,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=49726586"
+    },
+    {
+      "id": "49721322",
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "points": 511,
+      "author": "imwally",
+      "created_at": 1789524451,
+      "num_comments": 341,
+      "hn_url": "https://news.ycombinator.com/item?id=49721322"
+    },
+    {
+      "id": "49732270",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "points": 440,
+      "author": "krackers",
+      "created_at": 1789589358,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49732270"
+    },
+    {
+      "id": "49724927",
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "points": 352,
+      "author": "inputmice",
+      "created_at": 1789557551,
+      "num_comments": 337,
+      "hn_url": "https://news.ycombinator.com/item?id=49724927"
+    },
+    {
+      "id": "49727627",
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+      "points": 317,
+      "author": "alexjplant",
+      "created_at": 1789569036,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=49727627"
+    },
+    {
+      "id": "49725356",
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "points": 276,
+      "author": "rbanffy",
+      "created_at": 1789559380,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49725356"
+    },
+    {
+      "id": "49724488",
+      "title": "Salesforce Global Outage",
+      "url": "https://status.salesforce.com/products/all",
+      "points": 271,
+      "author": "mabil",
+      "created_at": 1789555028,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=49724488"
+    },
+    {
+      "id": "49732513",
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "points": 248,
+      "author": "afilipovski",
+      "created_at": 1789590436,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=49732513"
+    },
+    {
+      "id": "49723873",
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "points": 241,
+      "author": "moneroloop2018",
+      "created_at": 1789549954,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=49723873"
+    },
+    {
+      "id": "49729412",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "points": 222,
+      "author": "vertigoruntime",
+      "created_at": 1789575985,
+      "num_comments": 221,
+      "hn_url": "https://news.ycombinator.com/item?id=49729412"
+    },
+    {
+      "id": "49734171",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+      "points": 222,
+      "author": "doener",
+      "created_at": 1789599408,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49734171"
+    },
+    {
+      "id": "49727580",
+      "title": "A warning about 'model welfare'",
+      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+      "points": 216,
+      "author": "andsoitis",
+      "created_at": 1789568867,
+      "num_comments": 611,
+      "hn_url": "https://news.ycombinator.com/item?id=49727580"
+    },
+    {
+      "id": "49732931",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "points": 209,
+      "author": "matt_d",
+      "created_at": 1789592364,
+      "num_comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49732931"
+    },
+    {
+      "id": "49726955",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "points": 205,
+      "author": "bananaflag",
+      "created_at": 1789566280,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49726955"
+    },
+    {
+      "id": "49731356",
+      "title": "Fed hikes rates as inflation worries push up bond yields",
+      "url": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
+      "points": 174,
+      "author": "wslh",
+      "created_at": 1789584921,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=49731356"
     }
   ],
-  "last_updated": "2026-09-16T10:44:54.031152+00:00"
+  "last_updated": "2026-09-17T10:51:46.075594+00:00"
 }
