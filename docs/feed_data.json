@@ -16439,7 +16439,207 @@
       "created_at": 1789584921,
       "num_comments": 216,
       "hn_url": "https://news.ycombinator.com/item?id=49731356"
+    },
+    {
+      "id": "49743097",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "points": 618,
+      "author": "bookofjoe",
+      "created_at": 1789662337,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=49743097"
+    },
+    {
+      "id": "49745940",
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "points": 496,
+      "author": "vertigoruntime",
+      "created_at": 1789676268,
+      "num_comments": 567,
+      "hn_url": "https://news.ycombinator.com/item?id=49745940"
+    },
+    {
+      "id": "49746163",
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "points": 474,
+      "author": "nicolas-siplis",
+      "created_at": 1789677373,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=49746163"
+    },
+    {
+      "id": "49746618",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "points": 458,
+      "author": "JonSchneider",
+      "created_at": 1789679611,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49746618"
+    },
+    {
+      "id": "49737922",
+      "title": "How GLM built its own inference infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "points": 397,
+      "author": "whiteros_e",
+      "created_at": 1789633629,
+      "num_comments": 272,
+      "hn_url": "https://news.ycombinator.com/item?id=49737922"
+    },
+    {
+      "id": "49737787",
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "points": 360,
+      "author": "antonly",
+      "created_at": 1789632234,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=49737787"
+    },
+    {
+      "id": "49737849",
+      "title": "One year of sponsored Servo development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "points": 352,
+      "author": "AshleysBrain",
+      "created_at": 1789632834,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49737849"
+    },
+    {
+      "id": "49739018",
+      "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+      "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+      "points": 330,
+      "author": "hebelehubele",
+      "created_at": 1789642835,
+      "num_comments": 286,
+      "hn_url": "https://news.ycombinator.com/item?id=49739018"
+    },
+    {
+      "id": "49745570",
+      "title": "Everybody's Lost Their Minds",
+      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "points": 327,
+      "author": "ibobev",
+      "created_at": 1789674214,
+      "num_comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=49745570"
+    },
+    {
+      "id": "49738879",
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "points": 305,
+      "author": "jakemanger",
+      "created_at": 1789641889,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=49738879"
+    },
+    {
+      "id": "49737985",
+      "title": "AI safety is mostly a sex cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "points": 295,
+      "author": "Tomte",
+      "created_at": 1789634197,
+      "num_comments": 245,
+      "hn_url": "https://news.ycombinator.com/item?id=49737985"
+    },
+    {
+      "id": "49735930",
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "points": 280,
+      "author": "Ryan5453",
+      "created_at": 1789614203,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=49735930"
+    },
+    {
+      "id": "49740507",
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+      "points": 274,
+      "author": "witweb",
+      "created_at": 1789651837,
+      "num_comments": 338,
+      "hn_url": "https://news.ycombinator.com/item?id=49740507"
+    },
+    {
+      "id": "49738091",
+      "title": "Why I didn\u2019t sign the Fields medallists\u2019 letter",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "points": 257,
+      "author": "simianwords",
+      "created_at": 1789635111,
+      "num_comments": 370,
+      "hn_url": "https://news.ycombinator.com/item?id=49738091"
+    },
+    {
+      "id": "49740260",
+      "title": "The American Religion of Self-Storage Facilities",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "points": 232,
+      "author": "pseudolus",
+      "created_at": 1789650748,
+      "num_comments": 401,
+      "hn_url": "https://news.ycombinator.com/item?id=49740260"
+    },
+    {
+      "id": "49747925",
+      "title": "Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "points": 226,
+      "author": "jjcm",
+      "created_at": 1789686348,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=49747925"
+    },
+    {
+      "id": "49740834",
+      "title": "I Don't Like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "points": 216,
+      "author": "TangerineDream",
+      "created_at": 1789653427,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=49740834"
+    },
+    {
+      "id": "49740105",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "points": 215,
+      "author": "steveybrown",
+      "created_at": 1789650104,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=49740105"
+    },
+    {
+      "id": "49746654",
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "points": 210,
+      "author": "Anon84",
+      "created_at": 1789679752,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=49746654"
+    },
+    {
+      "id": "49736466",
+      "title": "Cloudflare/Security-Audit-Skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "points": 202,
+      "author": "donk8r",
+      "created_at": 1789619815,
+      "num_comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49736466"
     }
   ],
-  "last_updated": "2026-09-17T10:51:46.075594+00:00"
+  "last_updated": "2026-09-18T10:27:15.314149+00:00"
 }

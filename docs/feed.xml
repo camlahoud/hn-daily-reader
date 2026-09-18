@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:51:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:27:15 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[226 pts] Qwen 3.8 Omni Flash</title>
+      <link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
+      <description>&lt;p&gt;&lt;strong&gt;226 points&lt;/strong&gt; by jjcm | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49747925&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49747925</guid>
+      <pubDate>Thu, 17 Sep 2026 23:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[210 pts] Sex, AI, and the Apocalypse</title>
+      <link>https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</link>
+      <description>&lt;p&gt;&lt;strong&gt;210 points&lt;/strong&gt; by Anon84 | &lt;strong&gt;207 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49746654&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49746654</guid>
+      <pubDate>Thu, 17 Sep 2026 21:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[458 pts] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</title>
+      <link>https://prismml.com/news/bonsai-2-27b</link>
+      <description>&lt;p&gt;&lt;strong&gt;458 points&lt;/strong&gt; by JonSchneider | &lt;strong&gt;133 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49746618&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49746618</guid>
+      <pubDate>Thu, 17 Sep 2026 21:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[474 pts] Bend – A language that blocks AI mistakes via proof, on CPU and GPU</title>
+      <link>https://bend-lang.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;474 points&lt;/strong&gt; by nicolas-siplis | &lt;strong&gt;222 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49746163&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49746163</guid>
+      <pubDate>Thu, 17 Sep 2026 20:36:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[496 pts] Astra for Law</title>
+      <link>https://openai.com/index/astra-for-law/</link>
+      <description>&lt;p&gt;&lt;strong&gt;496 points&lt;/strong&gt; by vertigoruntime | &lt;strong&gt;567 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49745940&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49745940</guid>
+      <pubDate>Thu, 17 Sep 2026 20:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[327 pts] Everybody's Lost Their Minds</title>
+      <link>https://www.netmeister.org/blog/everybodys-lost-their-minds.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;327 points&lt;/strong&gt; by ibobev | &lt;strong&gt;276 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49745570&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49745570</guid>
+      <pubDate>Thu, 17 Sep 2026 19:43:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[618 pts] Hister: A private search engine for the pages you visit and the files you keep</title>
+      <link>https://github.com/asciimoo/hister</link>
+      <description>&lt;p&gt;&lt;strong&gt;618 points&lt;/strong&gt; by bookofjoe | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49743097&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49743097</guid>
+      <pubDate>Thu, 17 Sep 2026 16:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[216 pts] I Don't Like LLMs</title>
+      <link>https://martinfowler.com/articles/2026-dont-like-llms.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;216 points&lt;/strong&gt; by TangerineDream | &lt;strong&gt;254 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49740834&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49740834</guid>
+      <pubDate>Thu, 17 Sep 2026 13:57:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[274 pts] Canada welcomes EU proposal to become 'associate member'</title>
+      <link>https://www.bbc.com/news/articles/cwly7vkke4jxo</link>
+      <description>&lt;p&gt;&lt;strong&gt;274 points&lt;/strong&gt; by witweb | &lt;strong&gt;338 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49740507&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49740507</guid>
+      <pubDate>Thu, 17 Sep 2026 13:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[232 pts] The American Religion of Self-Storage Facilities</title>
+      <link>https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities</link>
+      <description>&lt;p&gt;&lt;strong&gt;232 points&lt;/strong&gt; by pseudolus | &lt;strong&gt;401 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49740260&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49740260</guid>
+      <pubDate>Thu, 17 Sep 2026 13:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[215 pts] Show HN: Share your AI Setup, Learn from others</title>
+      <link>https://mysetup.ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;215 points&lt;/strong&gt; by steveybrown | &lt;strong&gt;121 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49740105&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49740105</guid>
+      <pubDate>Thu, 17 Sep 2026 13:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[330 pts] Iran school bombing: grounds to believe US was behind atrocity, UN finds</title>
+      <link>https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack</link>
+      <description>&lt;p&gt;&lt;strong&gt;330 points&lt;/strong&gt; by hebelehubele | &lt;strong&gt;286 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49739018&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49739018</guid>
+      <pubDate>Thu, 17 Sep 2026 11:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[305 pts] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023</title>
+      <link>https://news.ycombinator.com/item?id=49738879</link>
+      <description>&lt;p&gt;&lt;strong&gt;305 points&lt;/strong&gt; by jakemanger | &lt;strong&gt;246 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49738879&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49738879</guid>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[257 pts] Why I didn’t sign the Fields medallists’ letter</title>
+      <link>https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/</link>
+      <description>&lt;p&gt;&lt;strong&gt;257 points&lt;/strong&gt; by simianwords | &lt;strong&gt;370 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49738091&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49738091</guid>
+      <pubDate>Thu, 17 Sep 2026 08:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[295 pts] AI safety is mostly a sex cult</title>
+      <link>https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q</link>
+      <description>&lt;p&gt;&lt;strong&gt;295 points&lt;/strong&gt; by Tomte | &lt;strong&gt;245 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49737985&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49737985</guid>
+      <pubDate>Thu, 17 Sep 2026 08:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[397 pts] How GLM built its own inference infrastructure</title>
+      <link>https://z.ai/blog/glm-built-its-inference-infrastructure</link>
+      <description>&lt;p&gt;&lt;strong&gt;397 points&lt;/strong&gt; by whiteros_e | &lt;strong&gt;272 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49737922&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49737922</guid>
+      <pubDate>Thu, 17 Sep 2026 08:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[352 pts] One year of sponsored Servo development</title>
+      <link>https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</link>
+      <description>&lt;p&gt;&lt;strong&gt;352 points&lt;/strong&gt; by AshleysBrain | &lt;strong&gt;141 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49737849&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49737849</guid>
+      <pubDate>Thu, 17 Sep 2026 08:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[360 pts] CCC invites all model citizens to 40C3</title>
+      <link>https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</link>
+      <description>&lt;p&gt;&lt;strong&gt;360 points&lt;/strong&gt; by antonly | &lt;strong&gt;216 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49737787&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49737787</guid>
+      <pubDate>Thu, 17 Sep 2026 08:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[202 pts] Cloudflare/Security-Audit-Skill</title>
+      <link>https://github.com/cloudflare/security-audit-skill</link>
+      <description>&lt;p&gt;&lt;strong&gt;202 points&lt;/strong&gt; by donk8r | &lt;strong&gt;38 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49736466&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49736466</guid>
+      <pubDate>Thu, 17 Sep 2026 04:36:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[280 pts] Keys Not Included: recovering the signing keys for US driver's license barcodes</title>
+      <link>https://ryan.science/blog/keys-not-included</link>
+      <description>&lt;p&gt;&lt;strong&gt;280 points&lt;/strong&gt; by Ryan5453 | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49735930&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49735930</guid>
+      <pubDate>Thu, 17 Sep 2026 03:03:23 +0000</pubDate>
+    </item>
     <item>
       <title>[222 pts] Australia says it could follow Canada in forging deeper ties with EU</title>
       <link>https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</link>
