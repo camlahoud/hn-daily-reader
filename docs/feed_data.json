@@ -17039,7 +17039,207 @@
       "created_at": 1789853129,
       "num_comments": 73,
       "hn_url": "https://news.ycombinator.com/item?id=49770256"
+    },
+    {
+      "id": "49776729",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "points": 722,
+      "author": "lmbbuchodi",
+      "created_at": 1789917524,
+      "num_comments": 386,
+      "hn_url": "https://news.ycombinator.com/item?id=49776729"
+    },
+    {
+      "id": "49775499",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "points": 661,
+      "author": "jmillikin",
+      "created_at": 1789909765,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=49775499"
+    },
+    {
+      "id": "49776699",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "points": 537,
+      "author": "skepticalgenius",
+      "created_at": 1789917367,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49776699"
+    },
+    {
+      "id": "49780797",
+      "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "points": 530,
+      "author": "blazarquasar",
+      "created_at": 1789943563,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=49780797"
+    },
+    {
+      "id": "49780820",
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "points": 500,
+      "author": "EXHades",
+      "created_at": 1789943749,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=49780820"
+    },
+    {
+      "id": "49778029",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "points": 491,
+      "author": "giuliomagnifico",
+      "created_at": 1789925930,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=49778029"
+    },
+    {
+      "id": "49772961",
+      "title": "Spain orders blocks on Archive.today and its mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "points": 458,
+      "author": "latein",
+      "created_at": 1789885002,
+      "num_comments": 341,
+      "hn_url": "https://news.ycombinator.com/item?id=49772961"
+    },
+    {
+      "id": "49780630",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "points": 449,
+      "author": "paimapi",
+      "created_at": 1789942426,
+      "num_comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=49780630"
+    },
+    {
+      "id": "49777467",
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "points": 256,
+      "author": "bcherny",
+      "created_at": 1789922506,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=49777467"
+    },
+    {
+      "id": "49776717",
+      "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "points": 254,
+      "author": "geox",
+      "created_at": 1789917485,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49776717"
+    },
+    {
+      "id": "49777841",
+      "title": "US Revokes Limits on Power Plants' Climate Pollution",
+      "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+      "points": 241,
+      "author": "DeepLogin",
+      "created_at": 1789924792,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=49777841"
+    },
+    {
+      "id": "49774329",
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "points": 229,
+      "author": "rakel_rakel",
+      "created_at": 1789898871,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=49774329"
+    },
+    {
+      "id": "49776627",
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "points": 225,
+      "author": "tliltocatl",
+      "created_at": 1789916981,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=49776627"
+    },
+    {
+      "id": "49771966",
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "points": 222,
+      "author": "madars",
+      "created_at": 1789870773,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=49771966"
+    },
+    {
+      "id": "49774521",
+      "title": "Why do we need human mathematicians anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "points": 220,
+      "author": "auggierose",
+      "created_at": 1789901398,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=49774521"
+    },
+    {
+      "id": "49776130",
+      "title": "The senior engineer death spiral",
+      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
+      "points": 200,
+      "author": "nsavage",
+      "created_at": 1789913774,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49776130"
+    },
+    {
+      "id": "49775104",
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "points": 199,
+      "author": "jalev",
+      "created_at": 1789906813,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=49775104"
+    },
+    {
+      "id": "49779329",
+      "title": "MCP was always a bad idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "points": 190,
+      "author": "maharshi365",
+      "created_at": 1789933480,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=49779329"
+    },
+    {
+      "id": "49780064",
+      "title": "Nobody pays for FOSS, we can force them to",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "points": 184,
+      "author": "Muhammad523",
+      "created_at": 1789938272,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49780064"
+    },
+    {
+      "id": "49771218",
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "points": 180,
+      "author": "luu",
+      "created_at": 1789862447,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=49771218"
     }
   ],
-  "last_updated": "2026-09-20T10:30:55.661910+00:00"
+  "last_updated": "2026-09-21T11:49:54.862194+00:00"
 }
