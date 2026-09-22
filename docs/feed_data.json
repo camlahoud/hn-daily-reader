@@ -17239,7 +17239,207 @@
       "created_at": 1789862447,
       "num_comments": 152,
       "hn_url": "https://news.ycombinator.com/item?id=49771218"
+    },
+    {
+      "id": "49792730",
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "points": 919,
+      "author": "volf_",
+      "created_at": 1790021532,
+      "num_comments": 412,
+      "hn_url": "https://news.ycombinator.com/item?id=49792730"
+    },
+    {
+      "id": "49787726",
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "points": 827,
+      "author": "zer0tonin",
+      "created_at": 1790000816,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=49787726"
+    },
+    {
+      "id": "49794330",
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "points": 707,
+      "author": "mooreds",
+      "created_at": 1790029841,
+      "num_comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=49794330"
+    },
+    {
+      "id": "49785429",
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "points": 599,
+      "author": "Bluestein",
+      "created_at": 1789986794,
+      "num_comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=49785429"
+    },
+    {
+      "id": "49787436",
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "points": 596,
+      "author": "chmaynard",
+      "created_at": 1789999398,
+      "num_comments": 346,
+      "hn_url": "https://news.ycombinator.com/item?id=49787436"
+    },
+    {
+      "id": "49788838",
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "points": 580,
+      "author": "meetpateltech",
+      "created_at": 1790005815,
+      "num_comments": 489,
+      "hn_url": "https://news.ycombinator.com/item?id=49788838"
+    },
+    {
+      "id": "49784336",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "points": 499,
+      "author": "DeepLogin",
+      "created_at": 1789977328,
+      "num_comments": 354,
+      "hn_url": "https://news.ycombinator.com/item?id=49784336"
+    },
+    {
+      "id": "49794615",
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "points": 460,
+      "author": "possibilistic",
+      "created_at": 1790031829,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=49794615"
+    },
+    {
+      "id": "49783999",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "points": 438,
+      "author": "tosh",
+      "created_at": 1789974715,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49783999"
+    },
+    {
+      "id": "49792342",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "points": 430,
+      "author": "aray07",
+      "created_at": 1790019829,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49792342"
+    },
+    {
+      "id": "49791939",
+      "title": "NASA\u2019s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "points": 392,
+      "author": "Muhammad523",
+      "created_at": 1790018052,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=49791939"
+    },
+    {
+      "id": "49789224",
+      "title": "Fable 5 \u2013 Median thinking declined in August",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "points": 391,
+      "author": "espeed",
+      "created_at": 1790007237,
+      "num_comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=49789224"
+    },
+    {
+      "id": "49785397",
+      "title": "ZuckOff is a free app that sees Meta glasses before they see you",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "points": 390,
+      "author": "choult",
+      "created_at": 1789986470,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=49785397"
+    },
+    {
+      "id": "49783495",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "points": 369,
+      "author": "kelseyfrog",
+      "created_at": 1789970122,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49783495"
+    },
+    {
+      "id": "49790409",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "points": 321,
+      "author": "alwillis",
+      "created_at": 1790011821,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=49790409"
+    },
+    {
+      "id": "49783133",
+      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "points": 263,
+      "author": "volotat",
+      "created_at": 1789965757,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=49783133"
+    },
+    {
+      "id": "49783101",
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "points": 252,
+      "author": "Bluestein",
+      "created_at": 1789965322,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=49783101"
+    },
+    {
+      "id": "49787313",
+      "title": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "points": 250,
+      "author": "piotrgrabowski",
+      "created_at": 1789998807,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=49787313"
+    },
+    {
+      "id": "49792067",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "points": 248,
+      "author": "julian_digital",
+      "created_at": 1790018613,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=49792067"
+    },
+    {
+      "id": "49786689",
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "points": 243,
+      "author": "edandersen",
+      "created_at": 1789995264,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=49786689"
     }
   ],
-  "last_updated": "2026-09-21T11:49:54.862194+00:00"
+  "last_updated": "2026-09-22T10:51:34.377880+00:00"
 }
