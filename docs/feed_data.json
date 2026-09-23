@@ -51,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48679608"
     },
     {
-      "id": "48669534",
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "points": 650,
-      "author": "panza",
-      "created_at": 1782367204,
-      "num_comments": 259,
-      "hn_url": "https://news.ycombinator.com/item?id=48669534"
-    },
-    {
       "id": "48674446",
       "title": "Ford AI hiccups push carmaker to rehire \u2018gray beard\u2019 inspectors",
       "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
@@ -69,26 +59,6 @@
       "created_at": 1782399530,
       "num_comments": 312,
       "hn_url": "https://news.ycombinator.com/item?id=48674446"
-    },
-    {
-      "id": "48671468",
-      "title": "LastPass notifies users of yet another data breach",
-      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "points": 496,
-      "author": "mooreds",
-      "created_at": 1782383296,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=48671468"
-    },
-    {
-      "id": "48668033",
-      "title": "OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "points": 369,
-      "author": "terryds",
-      "created_at": 1782353890,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=48668033"
     },
     {
       "id": "48674967",
@@ -171,16 +141,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48673825"
     },
     {
-      "id": "48667336",
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "points": 228,
-      "author": "phreddypharkus",
-      "created_at": 1782348103,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48667336"
-    },
-    {
       "id": "48674484",
       "title": "OS9Map",
       "url": "https://yllan.org/software/OS9Map/",
@@ -189,16 +149,6 @@
       "created_at": 1782399666,
       "num_comments": 43,
       "hn_url": "https://news.ycombinator.com/item?id=48674484"
-    },
-    {
-      "id": "48671392",
-      "title": "Dolphin Emulator Progress Release 2606",
-      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
-      "points": 218,
-      "author": "exploraz",
-      "created_at": 1782382807,
-      "num_comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=48671392"
     },
     {
       "id": "48690101",
@@ -17439,7 +17389,207 @@
       "created_at": 1789995264,
       "num_comments": 194,
       "hn_url": "https://news.ycombinator.com/item?id=49786689"
+    },
+    {
+      "id": "49803892",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "points": 1564,
+      "author": "km144",
+      "created_at": 1790094545,
+      "num_comments": 970,
+      "hn_url": "https://news.ycombinator.com/item?id=49803892"
+    },
+    {
+      "id": "49805509",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "points": 1553,
+      "author": "OfficialTurkey",
+      "created_at": 1790100034,
+      "num_comments": 746,
+      "hn_url": "https://news.ycombinator.com/item?id=49805509"
+    },
+    {
+      "id": "49797982",
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "points": 827,
+      "author": "thatslast",
+      "created_at": 1790064295,
+      "num_comments": 669,
+      "hn_url": "https://news.ycombinator.com/item?id=49797982"
+    },
+    {
+      "id": "49801939",
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "points": 726,
+      "author": "MC995",
+      "created_at": 1790087412,
+      "num_comments": 532,
+      "hn_url": "https://news.ycombinator.com/item?id=49801939"
+    },
+    {
+      "id": "49806430",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "points": 669,
+      "author": "devonnull",
+      "created_at": 1790103818,
+      "num_comments": 344,
+      "hn_url": "https://news.ycombinator.com/item?id=49806430"
+    },
+    {
+      "id": "49801324",
+      "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "points": 663,
+      "author": "sohkamyung",
+      "created_at": 1790085135,
+      "num_comments": 387,
+      "hn_url": "https://news.ycombinator.com/item?id=49801324"
+    },
+    {
+      "id": "49805278",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "points": 618,
+      "author": "spenvo",
+      "created_at": 1790099162,
+      "num_comments": 450,
+      "hn_url": "https://news.ycombinator.com/item?id=49805278"
+    },
+    {
+      "id": "49797323",
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "points": 390,
+      "author": "networked",
+      "created_at": 1790057319,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=49797323"
+    },
+    {
+      "id": "49799965",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "points": 377,
+      "author": "dimonomid",
+      "created_at": 1790079069,
+      "num_comments": 528,
+      "hn_url": "https://news.ycombinator.com/item?id=49799965"
+    },
+    {
+      "id": "49808023",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "points": 328,
+      "author": "boredjohnny",
+      "created_at": 1790110830,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=49808023"
+    },
+    {
+      "id": "49802871",
+      "title": "I asked Meta\u2019s Muse for its filesystem and it sent me 6.8GB",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "points": 313,
+      "author": "Aeroi",
+      "created_at": 1790090712,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=49802871"
+    },
+    {
+      "id": "49802161",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "points": 294,
+      "author": "JohnBerryman",
+      "created_at": 1790088179,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=49802161"
+    },
+    {
+      "id": "49804316",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "points": 293,
+      "author": "theanonymousone",
+      "created_at": 1790095891,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49804316"
+    },
+    {
+      "id": "49804683",
+      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+      "points": 287,
+      "author": "Cider9986",
+      "created_at": 1790097171,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=49804683"
+    },
+    {
+      "id": "49803863",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "points": 273,
+      "author": "throwaway371647",
+      "created_at": 1790094450,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49803863"
+    },
+    {
+      "id": "49798204",
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "points": 262,
+      "author": "BruceEel",
+      "created_at": 1790066383,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=49798204"
+    },
+    {
+      "id": "49806335",
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "points": 248,
+      "author": "aray07",
+      "created_at": 1790103437,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49806335"
+    },
+    {
+      "id": "49796379",
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "points": 220,
+      "author": "Jtsummers",
+      "created_at": 1790046605,
+      "num_comments": 394,
+      "hn_url": "https://news.ycombinator.com/item?id=49796379"
+    },
+    {
+      "id": "49803959",
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "points": 193,
+      "author": "vntok",
+      "created_at": 1790094825,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=49803959"
+    },
+    {
+      "id": "49795686",
+      "title": "People hooked on vapes try a new way to quit: cigarettes",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+      "points": 191,
+      "author": "alephnerd",
+      "created_at": 1790040080,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=49795686"
     }
   ],
-  "last_updated": "2026-09-22T10:51:34.377880+00:00"
+  "last_updated": "2026-09-23T10:39:55.461046+00:00"
 }

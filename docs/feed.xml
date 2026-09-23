@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:39:55 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[328 pts] Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived</title>
+      <link>https://foxscript.org/</link>
+      <description>&lt;p&gt;&lt;strong&gt;328 points&lt;/strong&gt; by boredjohnny | &lt;strong&gt;190 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49808023&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49808023</guid>
+      <pubDate>Tue, 22 Sep 2026 21:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[669 pts] Pentagon says overreliance on AI contributed to missile strike on Iran school</title>
+      <link>https://www.bloomberg.com/graphics/2026-iran-school-attack/</link>
+      <description>&lt;p&gt;&lt;strong&gt;669 points&lt;/strong&gt; by devonnull | &lt;strong&gt;344 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49806430&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49806430</guid>
+      <pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[248 pts] SAML: A fractal of bad design</title>
+      <link>https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</link>
+      <description>&lt;p&gt;&lt;strong&gt;248 points&lt;/strong&gt; by aray07 | &lt;strong&gt;141 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49806335&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49806335</guid>
+      <pubDate>Tue, 22 Sep 2026 18:57:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1553 pts] GPT-6 Sol and Luna</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1553 points&lt;/strong&gt; by OfficialTurkey | &lt;strong&gt;746 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49805509&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49805509</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[618 pts] 'We hacked the FBI:' Hackers say they have data on all FBI employees</title>
+      <link>https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/</link>
+      <description>&lt;p&gt;&lt;strong&gt;618 points&lt;/strong&gt; by spenvo | &lt;strong&gt;450 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49805278&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49805278</guid>
+      <pubDate>Tue, 22 Sep 2026 17:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[287 pts] There's a high chance of devices being sold with GrapheneOS preinstalled in 2027</title>
+      <link>https://grapheneos.social/@GrapheneOS/117299954135808210</link>
+      <description>&lt;p&gt;&lt;strong&gt;287 points&lt;/strong&gt; by Cider9986 | &lt;strong&gt;130 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49804683&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49804683</guid>
+      <pubDate>Tue, 22 Sep 2026 17:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[293 pts] Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)</title>
+      <link>https://artificialanalysis.ai/models/claude-opus-5-5</link>
+      <description>&lt;p&gt;&lt;strong&gt;293 points&lt;/strong&gt; by theanonymousone | &lt;strong&gt;92 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49804316&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49804316</guid>
+      <pubDate>Tue, 22 Sep 2026 16:51:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[193 pts] WordPress: Unauthenticated path traversal leading to conditional RCE</title>
+      <link>https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp</link>
+      <description>&lt;p&gt;&lt;strong&gt;193 points&lt;/strong&gt; by vntok | &lt;strong&gt;100 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49803959&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49803959</guid>
+      <pubDate>Tue, 22 Sep 2026 16:33:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1564 pts] Claude Opus 5.5</title>
+      <link>https://www.anthropic.com/claude-opus-5-5</link>
+      <description>&lt;p&gt;&lt;strong&gt;1564 points&lt;/strong&gt; by km144 | &lt;strong&gt;970 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49803892&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49803892</guid>
+      <pubDate>Tue, 22 Sep 2026 16:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[273 pts] Claude Opus 5.5</title>
+      <link>https://www.anthropic.com/claude-opus-5-5</link>
+      <description>&lt;p&gt;&lt;strong&gt;273 points&lt;/strong&gt; by throwaway371647 | &lt;strong&gt;2 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49803863&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49803863</guid>
+      <pubDate>Tue, 22 Sep 2026 16:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[313 pts] I asked Meta’s Muse for its filesystem and it sent me 6.8GB</title>
+      <link>https://mouse.dev/blog/muse-runtime-export/</link>
+      <description>&lt;p&gt;&lt;strong&gt;313 points&lt;/strong&gt; by Aeroi | &lt;strong&gt;150 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49802871&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49802871</guid>
+      <pubDate>Tue, 22 Sep 2026 15:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[294 pts] OpenAI is well positioned to fast-follow Jev</title>
+      <link>https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</link>
+      <description>&lt;p&gt;&lt;strong&gt;294 points&lt;/strong&gt; by JohnBerryman | &lt;strong&gt;208 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49802161&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49802161</guid>
+      <pubDate>Tue, 22 Sep 2026 14:42:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[726 pts] Apple has added persistent 'ads' to iOS, and it's driving users crazy</title>
+      <link>https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy</link>
+      <description>&lt;p&gt;&lt;strong&gt;726 points&lt;/strong&gt; by MC995 | &lt;strong&gt;532 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49801939&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49801939</guid>
+      <pubDate>Tue, 22 Sep 2026 14:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[663 pts] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</title>
+      <link>https://www.cryptocellar.org/bgac/the-mvueh-break.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;663 points&lt;/strong&gt; by sohkamyung | &lt;strong&gt;387 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49801324&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49801324</guid>
+      <pubDate>Tue, 22 Sep 2026 13:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[377 pts] AI Has No Wisdom and Neither Will You</title>
+      <link>https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</link>
+      <description>&lt;p&gt;&lt;strong&gt;377 points&lt;/strong&gt; by dimonomid | &lt;strong&gt;528 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49799965&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49799965</guid>
+      <pubDate>Tue, 22 Sep 2026 12:11:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[262 pts] AMD's random number generator can't generate a 0?</title>
+      <link>https://board.flatassembler.net/topic.php?t=24261</link>
+      <description>&lt;p&gt;&lt;strong&gt;262 points&lt;/strong&gt; by BruceEel | &lt;strong&gt;199 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49798204&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49798204</guid>
+      <pubDate>Tue, 22 Sep 2026 08:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[827 pts] I said no and Apple said yes</title>
+      <link>https://dbushell.com/2026/09/22/apple-intelligence/</link>
+      <description>&lt;p&gt;&lt;strong&gt;827 points&lt;/strong&gt; by thatslast | &lt;strong&gt;669 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49797982&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49797982</guid>
+      <pubDate>Tue, 22 Sep 2026 08:04:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[390 pts] Can gzip be a language model?</title>
+      <link>https://nathan.rs/posts/gzip-lm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;390 points&lt;/strong&gt; by networked | &lt;strong&gt;154 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49797323&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49797323</guid>
+      <pubDate>Tue, 22 Sep 2026 06:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[220 pts] What California is learning from solar panels built over irrigation canals</title>
+      <link>https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals</link>
+      <description>&lt;p&gt;&lt;strong&gt;220 points&lt;/strong&gt; by Jtsummers | &lt;strong&gt;394 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49796379&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49796379</guid>
+      <pubDate>Tue, 22 Sep 2026 03:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[191 pts] People hooked on vapes try a new way to quit: cigarettes</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke</link>
+      <description>&lt;p&gt;&lt;strong&gt;191 points&lt;/strong&gt; by alephnerd | &lt;strong&gt;217 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49795686&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49795686</guid>
+      <pubDate>Tue, 22 Sep 2026 01:21:20 +0000</pubDate>
+    </item>
     <item>
       <title>[460 pts] Spymarks, Not Watermarks</title>
       <link>https://brand.io/article/spymarks/</link>
@@ -13918,46 +14078,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48672328&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=48672328</guid>
       <pubDate>Thu, 25 Jun 2026 12:23:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[496 pts] LastPass notifies users of yet another data breach</title>
-      <link>https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/</link>
-      <description>&lt;p&gt;&lt;strong&gt;496 points&lt;/strong&gt; by mooreds | &lt;strong&gt;216 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48671468&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48671468</guid>
-      <pubDate>Thu, 25 Jun 2026 10:28:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[218 pts] Dolphin Emulator Progress Release 2606</title>
-      <link>https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/</link>
-      <description>&lt;p&gt;&lt;strong&gt;218 points&lt;/strong&gt; by exploraz | &lt;strong&gt;35 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48671392&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48671392</guid>
-      <pubDate>Thu, 25 Jun 2026 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[650 pts] Half-Life 2 in a Browser</title>
-      <link>https://hl2.slqnt.dev/</link>
-      <description>&lt;p&gt;&lt;strong&gt;650 points&lt;/strong&gt; by panza | &lt;strong&gt;259 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48669534&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48669534</guid>
-      <pubDate>Thu, 25 Jun 2026 06:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[369 pts] OAuth for all</title>
-      <link>https://blog.cloudflare.com/oauth-for-all/</link>
-      <description>&lt;p&gt;&lt;strong&gt;369 points&lt;/strong&gt; by terryds | &lt;strong&gt;157 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48668033&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48668033</guid>
-      <pubDate>Thu, 25 Jun 2026 02:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[228 pts] LuaJIT 3.0 proposed syntax extensions</title>
-      <link>https://github.com/LuaJIT/LuaJIT/issues/1475</link>
-      <description>&lt;p&gt;&lt;strong&gt;228 points&lt;/strong&gt; by phreddypharkus | &lt;strong&gt;151 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48667336&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48667336</guid>
-      <pubDate>Thu, 25 Jun 2026 00:41:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
