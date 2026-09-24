@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48675179",
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "points": 1256,
-      "author": "verditelabs",
-      "created_at": 1782402487,
-      "num_comments": 261,
-      "hn_url": "https://news.ycombinator.com/item?id=48675179"
-    },
-    {
-      "id": "48678852",
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "points": 836,
-      "author": "minimaxir",
-      "created_at": 1782419617,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=48678852"
-    },
-    {
-      "id": "48673671",
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "url": "https://hackernewstrends.com",
-      "points": 708,
-      "author": "ytkimirti",
-      "created_at": 1782396535,
-      "num_comments": 147,
-      "hn_url": "https://news.ycombinator.com/item?id=48673671"
-    },
-    {
-      "id": "48672732",
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "points": 703,
-      "author": "virgildotcodes",
-      "created_at": 1782392576,
-      "num_comments": 1010,
-      "hn_url": "https://news.ycombinator.com/item?id=48672732"
-    },
-    {
-      "id": "48679608",
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "points": 661,
-      "author": "bilsbie",
-      "created_at": 1782423895,
-      "num_comments": 305,
-      "hn_url": "https://news.ycombinator.com/item?id=48679608"
-    },
-    {
-      "id": "48674446",
-      "title": "Ford AI hiccups push carmaker to rehire \u2018gray beard\u2019 inspectors",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "points": 587,
-      "author": "alanwreath",
-      "created_at": 1782399530,
-      "num_comments": 312,
-      "hn_url": "https://news.ycombinator.com/item?id=48674446"
-    },
-    {
-      "id": "48674967",
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "points": 309,
-      "author": "porridgeraisin",
-      "created_at": 1782401617,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=48674967"
-    },
-    {
-      "id": "48672328",
-      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
-      "url": "https://twitter.com/mfts0/status/2070080422482977095",
-      "points": 306,
-      "author": "mmunj",
-      "created_at": 1782390185,
-      "num_comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=48672328"
-    },
-    {
-      "id": "48672764",
-      "title": "Countries are competing to see which can carry out mass surveillance the best",
-      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-      "points": 298,
-      "author": "Cider9986",
-      "created_at": 1782392827,
-      "num_comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=48672764"
-    },
-    {
-      "id": "48675435",
-      "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "points": 263,
-      "author": "engomez",
-      "created_at": 1782403486,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=48675435"
-    },
-    {
-      "id": "48674096",
-      "title": "Apple increases MacBook and iPad prices by 20%",
-      "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
-      "points": 258,
-      "author": "bazzmt",
-      "created_at": 1782398235,
-      "num_comments": 4,
-      "hn_url": "https://news.ycombinator.com/item?id=48674096"
-    },
-    {
-      "id": "48676795",
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "points": 239,
-      "author": "scrlk",
-      "created_at": 1782409124,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=48676795"
-    },
-    {
-      "id": "48675369",
-      "title": "Windows 10 quietly gets one more year of support and updates",
-      "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
-      "points": 232,
-      "author": "bundie",
-      "created_at": 1782403194,
-      "num_comments": 206,
-      "hn_url": "https://news.ycombinator.com/item?id=48675369"
-    },
-    {
-      "id": "48673825",
-      "title": "Zig's new bitCast semantics and LLVM back end improvements",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "points": 232,
-      "author": "kouosi",
-      "created_at": 1782397168,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=48673825"
-    },
-    {
-      "id": "48674484",
-      "title": "OS9Map",
-      "url": "https://yllan.org/software/OS9Map/",
-      "points": 221,
-      "author": "LaSombra",
-      "created_at": 1782399666,
-      "num_comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=48674484"
-    },
-    {
       "id": "48690101",
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
@@ -179,16 +29,6 @@
       "created_at": 1782478687,
       "num_comments": 86,
       "hn_url": "https://news.ycombinator.com/item?id=48686093"
-    },
-    {
-      "id": "48682737",
-      "title": "We all depend on open source. We will defend it together",
-      "url": "https://akrites.org/letter/",
-      "points": 448,
-      "author": "dhruv3006",
-      "created_at": 1782452436,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=48682737"
     },
     {
       "id": "48692995",
@@ -221,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48686834"
     },
     {
-      "id": "48681687",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "points": 361,
-      "author": "cuchoi",
-      "created_at": 1782440963,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48681687"
-    },
-    {
       "id": "48693391",
       "title": "Om",
       "url": "https://daringfireball.net/2026/06/om",
@@ -241,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48693391"
     },
     {
-      "id": "48681220",
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "points": 316,
-      "author": "Alupis",
-      "created_at": 1782436252,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=48681220"
-    },
-    {
       "id": "48687272",
       "title": "Jolla Phone (October 2026)",
       "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
@@ -259,16 +79,6 @@
       "created_at": 1782485160,
       "num_comments": 162,
       "hn_url": "https://news.ycombinator.com/item?id=48687272"
-    },
-    {
-      "id": "48681949",
-      "title": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
-      "points": 279,
-      "author": "luu",
-      "created_at": 1782443562,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=48681949"
     },
     {
       "id": "48685558",
@@ -301,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48692946"
     },
     {
-      "id": "48681250",
-      "title": "AI children's books, body horror edition",
-      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-      "points": 204,
-      "author": "surprisetalk",
-      "created_at": 1782436514,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=48681250"
-    },
-    {
       "id": "48692058",
       "title": "The gap between open weights LLMs and closed source LLMs",
       "url": "https://blog.doubleword.ai/frontier-os-llm",
@@ -339,16 +139,6 @@
       "created_at": 1782492011,
       "num_comments": 97,
       "hn_url": "https://news.ycombinator.com/item?id=48688700"
-    },
-    {
-      "id": "48683021",
-      "title": "US Govt to individually approve who gets GPT 5.6",
-      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
-      "points": 141,
-      "author": "theanonymousone",
-      "created_at": 1782455079,
-      "num_comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=48683021"
     },
     {
       "id": "48698617",
@@ -17589,7 +17379,207 @@
       "created_at": 1790040080,
       "num_comments": 217,
       "hn_url": "https://news.ycombinator.com/item?id=49795686"
+    },
+    {
+      "id": "49819221",
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "points": 804,
+      "author": "geox",
+      "created_at": 1790183176,
+      "num_comments": 629,
+      "hn_url": "https://news.ycombinator.com/item?id=49819221"
+    },
+    {
+      "id": "49820134",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "points": 663,
+      "author": "raahelb",
+      "created_at": 1790186807,
+      "num_comments": 678,
+      "hn_url": "https://news.ycombinator.com/item?id=49820134"
+    },
+    {
+      "id": "49812769",
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "points": 653,
+      "author": "bashbjorn",
+      "created_at": 1790148383,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=49812769"
+    },
+    {
+      "id": "49814947",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "points": 470,
+      "author": "pszypowicz",
+      "created_at": 1790165733,
+      "num_comments": 269,
+      "hn_url": "https://news.ycombinator.com/item?id=49814947"
+    },
+    {
+      "id": "49817469",
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "points": 453,
+      "author": "avidly",
+      "created_at": 1790176733,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=49817469"
+    },
+    {
+      "id": "49823582",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "points": 435,
+      "author": "aaronday",
+      "created_at": 1790203096,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49823582"
+    },
+    {
+      "id": "49824268",
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "points": 414,
+      "author": "polymorph1sm",
+      "created_at": 1790207276,
+      "num_comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=49824268"
+    },
+    {
+      "id": "49815466",
+      "title": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "points": 408,
+      "author": "mooreds",
+      "created_at": 1790168684,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=49815466"
+    },
+    {
+      "id": "49811484",
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "points": 370,
+      "author": "ksec",
+      "created_at": 1790136043,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49811484"
+    },
+    {
+      "id": "49816374",
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "points": 351,
+      "author": "ortusdux",
+      "created_at": 1790172274,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=49816374"
+    },
+    {
+      "id": "49821608",
+      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "points": 315,
+      "author": "vrganj",
+      "created_at": 1790193314,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=49821608"
+    },
+    {
+      "id": "49817615",
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "points": 309,
+      "author": "swolpers",
+      "created_at": 1790177363,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49817615"
+    },
+    {
+      "id": "49813482",
+      "title": "Tokens too cheap to meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "points": 303,
+      "author": "teoruiz",
+      "created_at": 1790155277,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=49813482"
+    },
+    {
+      "id": "49817404",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "points": 290,
+      "author": "plurby",
+      "created_at": 1790176462,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=49817404"
+    },
+    {
+      "id": "49817280",
+      "title": "Why is Hacker News like that?",
+      "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
+      "points": 288,
+      "author": "caution",
+      "created_at": 1790175920,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49817280"
+    },
+    {
+      "id": "49818698",
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "points": 278,
+      "author": "rubatrejo",
+      "created_at": 1790181334,
+      "num_comments": 328,
+      "hn_url": "https://news.ycombinator.com/item?id=49818698"
+    },
+    {
+      "id": "49814159",
+      "title": "The darker side of being a doctor",
+      "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+      "points": 269,
+      "author": "Danhale93",
+      "created_at": 1790160895,
+      "num_comments": 315,
+      "hn_url": "https://news.ycombinator.com/item?id=49814159"
+    },
+    {
+      "id": "49811065",
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "points": 254,
+      "author": "raybb",
+      "created_at": 1790131949,
+      "num_comments": 335,
+      "hn_url": "https://news.ycombinator.com/item?id=49811065"
+    },
+    {
+      "id": "49812975",
+      "title": "I am done with this shit",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
+      "points": 248,
+      "author": "meander_water",
+      "created_at": 1790150354,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=49812975"
+    },
+    {
+      "id": "49815381",
+      "title": "Samsung accidentally freezes its smart fridges with a software update",
+      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+      "points": 238,
+      "author": "Markoff",
+      "created_at": 1790168279,
+      "num_comments": 263,
+      "hn_url": "https://news.ycombinator.com/item?id=49815381"
     }
   ],
-  "last_updated": "2026-09-23T10:39:55.461046+00:00"
+  "last_updated": "2026-09-24T11:00:30.145984+00:00"
 }
