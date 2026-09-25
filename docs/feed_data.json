@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "48690101",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "points": 1006,
-      "author": "alain94040",
-      "created_at": 1782498194,
-      "num_comments": 1048,
-      "hn_url": "https://news.ycombinator.com/item?id=48690101"
-    },
-    {
-      "id": "48689028",
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "points": 980,
-      "author": "minimaxir",
-      "created_at": 1782493615,
-      "num_comments": 606,
-      "hn_url": "https://news.ycombinator.com/item?id=48689028"
-    },
-    {
-      "id": "48686093",
-      "title": "Incident CVE-2026-LGTM",
-      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "points": 542,
-      "author": "mooreds",
-      "created_at": 1782478687,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=48686093"
-    },
-    {
-      "id": "48692995",
-      "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "points": 409,
-      "author": "bobrenjc93",
-      "created_at": 1782514108,
-      "num_comments": 418,
-      "hn_url": "https://news.ycombinator.com/item?id=48692995"
-    },
-    {
-      "id": "48692051",
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "points": 380,
-      "author": "hn_acker",
-      "created_at": 1782508430,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=48692051"
-    },
-    {
-      "id": "48686834",
-      "title": "Springer Nature has removed two studies by Max Planck",
-      "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-      "points": 369,
-      "author": "adharmad",
-      "created_at": 1782483026,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=48686834"
-    },
-    {
-      "id": "48693391",
-      "title": "Om",
-      "url": "https://daringfireball.net/2026/06/om",
-      "points": 343,
-      "author": "throw0101a",
-      "created_at": 1782516826,
-      "num_comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=48693391"
-    },
-    {
-      "id": "48687272",
-      "title": "Jolla Phone (October 2026)",
-      "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-      "points": 291,
-      "author": "mrbn100ful",
-      "created_at": 1782485160,
-      "num_comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=48687272"
-    },
-    {
-      "id": "48685558",
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "points": 274,
-      "author": "rossant",
-      "created_at": 1782474671,
-      "num_comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=48685558"
-    },
-    {
-      "id": "48691346",
-      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-      "points": 260,
-      "author": "ortusdux",
-      "created_at": 1782504438,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=48691346"
-    },
-    {
-      "id": "48692946",
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "points": 225,
-      "author": "ProxyTracer",
-      "created_at": 1782513809,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=48692946"
-    },
-    {
-      "id": "48692058",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "points": 193,
-      "author": "kkm",
-      "created_at": 1782508487,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48692058"
-    },
-    {
-      "id": "48689275",
-      "title": "Data centers trigger voter backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "points": 184,
-      "author": "randycupertino",
-      "created_at": 1782494661,
-      "num_comments": 336,
-      "hn_url": "https://news.ycombinator.com/item?id=48689275"
-    },
-    {
-      "id": "48688700",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "points": 167,
-      "author": "adchurch",
-      "created_at": 1782492011,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=48688700"
-    },
-    {
       "id": "48698617",
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
@@ -149,16 +9,6 @@
       "created_at": 1782570660,
       "num_comments": 307,
       "hn_url": "https://news.ycombinator.com/item?id=48698617"
-    },
-    {
-      "id": "48696585",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "points": 758,
-      "author": "aurenvale",
-      "created_at": 1782551932,
-      "num_comments": 318,
-      "hn_url": "https://news.ycombinator.com/item?id=48696585"
     },
     {
       "id": "48697560",
@@ -179,16 +29,6 @@
       "created_at": 1782571085,
       "num_comments": 246,
       "hn_url": "https://news.ycombinator.com/item?id=48698684"
-    },
-    {
-      "id": "48696982",
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "points": 551,
-      "author": "signa11",
-      "created_at": 1782556133,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=48696982"
     },
     {
       "id": "48697335",
@@ -231,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48698151"
     },
     {
-      "id": "48695149",
-      "title": "OpenTTD 16.0-Beta1",
-      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "points": 225,
-      "author": "untilted",
-      "created_at": 1782534666,
-      "num_comments": 45,
-      "hn_url": "https://news.ycombinator.com/item?id=48695149"
-    },
-    {
       "id": "48699928",
       "title": "Turn your site into a place people can bump into each other",
       "url": "https://cauenapier.com/blog/townsquare_release/",
@@ -269,16 +99,6 @@
       "created_at": 1782594859,
       "num_comments": 77,
       "hn_url": "https://news.ycombinator.com/item?id=48701822"
-    },
-    {
-      "id": "48694853",
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "points": 169,
-      "author": "droidjj",
-      "created_at": 1782531001,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=48694853"
     },
     {
       "id": "48702060",
@@ -319,16 +139,6 @@
       "created_at": 1782570220,
       "num_comments": 54,
       "hn_url": "https://news.ycombinator.com/item?id=48698559"
-    },
-    {
-      "id": "48694631",
-      "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-      "points": 142,
-      "author": "signa11",
-      "created_at": 1782528113,
-      "num_comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=48694631"
     },
     {
       "id": "48697746",
@@ -17579,7 +17389,207 @@
       "created_at": 1790168279,
       "num_comments": 263,
       "hn_url": "https://news.ycombinator.com/item?id=49815381"
+    },
+    {
+      "id": "49831968",
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "points": 1263,
+      "author": "daveoc64",
+      "created_at": 1790263572,
+      "num_comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=49831968"
+    },
+    {
+      "id": "49827794",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "points": 611,
+      "author": "pieterr",
+      "created_at": 1790238183,
+      "num_comments": 367,
+      "hn_url": "https://news.ycombinator.com/item?id=49827794"
+    },
+    {
+      "id": "49828731",
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "points": 464,
+      "author": "ReturnoftheHack",
+      "created_at": 1790246359,
+      "num_comments": 409,
+      "hn_url": "https://news.ycombinator.com/item?id=49828731"
+    },
+    {
+      "id": "49832938",
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "points": 422,
+      "author": "jbotz",
+      "created_at": 1790266980,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=49832938"
+    },
+    {
+      "id": "49825642",
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "points": 392,
+      "author": "signa11",
+      "created_at": 1790218329,
+      "num_comments": 510,
+      "hn_url": "https://news.ycombinator.com/item?id=49825642"
+    },
+    {
+      "id": "49824686",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "points": 380,
+      "author": "nmeagent",
+      "created_at": 1790210491,
+      "num_comments": 425,
+      "hn_url": "https://news.ycombinator.com/item?id=49824686"
+    },
+    {
+      "id": "49833867",
+      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "points": 321,
+      "author": "sidharthkmenon",
+      "created_at": 1790270496,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=49833867"
+    },
+    {
+      "id": "49829960",
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "points": 298,
+      "author": "nonfamous",
+      "created_at": 1790254688,
+      "num_comments": 305,
+      "hn_url": "https://news.ycombinator.com/item?id=49829960"
+    },
+    {
+      "id": "49836374",
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "points": 282,
+      "author": "iacguy",
+      "created_at": 1790281727,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49836374"
+    },
+    {
+      "id": "49826565",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "points": 259,
+      "author": "snikolaev",
+      "created_at": 1790227270,
+      "num_comments": 266,
+      "hn_url": "https://news.ycombinator.com/item?id=49826565"
+    },
+    {
+      "id": "49832406",
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "points": 258,
+      "author": "hermitcrab",
+      "created_at": 1790265026,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=49832406"
+    },
+    {
+      "id": "49825580",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "points": 252,
+      "author": "rudy6912",
+      "created_at": 1790217888,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=49825580"
+    },
+    {
+      "id": "49836419",
+      "title": "California is chasing wealth that has feet",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "points": 250,
+      "author": "idbnstra",
+      "created_at": 1790282072,
+      "num_comments": 665,
+      "hn_url": "https://news.ycombinator.com/item?id=49836419"
+    },
+    {
+      "id": "49828385",
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "points": 236,
+      "author": "pillars",
+      "created_at": 1790243373,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=49828385"
+    },
+    {
+      "id": "49828969",
+      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "points": 228,
+      "author": "adunk",
+      "created_at": 1790248119,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49828969"
+    },
+    {
+      "id": "49830606",
+      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "points": 190,
+      "author": "xnx",
+      "created_at": 1790258009,
+      "num_comments": 384,
+      "hn_url": "https://news.ycombinator.com/item?id=49830606"
+    },
+    {
+      "id": "49837006",
+      "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "points": 186,
+      "author": "hxii",
+      "created_at": 1790285583,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49837006"
+    },
+    {
+      "id": "49828409",
+      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+      "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+      "points": 175,
+      "author": "giuliomagnifico",
+      "created_at": 1790243549,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49828409"
+    },
+    {
+      "id": "49830866",
+      "title": "Best LLM for every budget, updated daily",
+      "url": "https://bestmodelforyourbudget.terrydjony.com/",
+      "points": 175,
+      "author": "terryds",
+      "created_at": 1790258997,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49830866"
+    },
+    {
+      "id": "49834825",
+      "title": "Creatine uptake enhances antitumor immunity",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+      "points": 168,
+      "author": "lormayna",
+      "created_at": 1790274292,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=49834825"
     }
   ],
-  "last_updated": "2026-09-24T11:00:30.145984+00:00"
+  "last_updated": "2026-09-25T11:00:26.158652+00:00"
 }
