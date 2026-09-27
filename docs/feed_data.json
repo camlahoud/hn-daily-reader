@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "48709670",
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "points": 872,
-      "author": "jms703",
-      "created_at": 1782669047,
-      "num_comments": 402,
-      "hn_url": "https://news.ycombinator.com/item?id=48709670"
-    },
-    {
-      "id": "48707719",
-      "title": "EU to legislate about Chat Control behind closed doors",
-      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-      "points": 668,
-      "author": "NeutralForest",
-      "created_at": 1782657613,
-      "num_comments": 382,
-      "hn_url": "https://news.ycombinator.com/item?id=48707719"
-    },
-    {
-      "id": "48706560",
-      "title": "The KIDS Act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "points": 497,
-      "author": "bilsbie",
-      "created_at": 1782647776,
-      "num_comments": 396,
-      "hn_url": "https://news.ycombinator.com/item?id=48706560"
-    },
-    {
-      "id": "48708941",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "points": 441,
-      "author": "engmarketer",
-      "created_at": 1782664519,
-      "num_comments": 576,
-      "hn_url": "https://news.ycombinator.com/item?id=48708941"
-    },
-    {
-      "id": "48708991",
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "points": 415,
-      "author": "geox",
-      "created_at": 1782664872,
-      "num_comments": 552,
-      "hn_url": "https://news.ycombinator.com/item?id=48708991"
-    },
-    {
-      "id": "48710232",
-      "title": "Librepods: AirPods liberated",
-      "url": "https://github.com/librepods-org/librepods",
-      "points": 401,
-      "author": "rbanffy",
-      "created_at": 1782672533,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=48710232"
-    },
-    {
-      "id": "48707763",
-      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "points": 372,
-      "author": "xbryanx",
-      "created_at": 1782657896,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=48707763"
-    },
-    {
-      "id": "48707673",
-      "title": "Flock cameras track more than your license plate, and they're spreading fast",
-      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-      "points": 366,
-      "author": "SanjayMehta",
-      "created_at": 1782657326,
-      "num_comments": 280,
-      "hn_url": "https://news.ycombinator.com/item?id=48707673"
-    },
-    {
-      "id": "48710092",
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "points": 316,
-      "author": "vga1",
-      "created_at": 1782671573,
-      "num_comments": 111,
-      "hn_url": "https://news.ycombinator.com/item?id=48710092"
-    },
-    {
-      "id": "48708182",
-      "title": "Show HN: Zanagrams",
-      "url": "https://zanagrams.com/",
-      "points": 296,
-      "author": "pompomsheep",
-      "created_at": 1782660374,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=48708182"
-    },
-    {
-      "id": "48707769",
-      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
-      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
-      "points": 257,
-      "author": "cebert",
-      "created_at": 1782657963,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=48707769"
-    },
-    {
-      "id": "48706814",
-      "title": "The curious case of the disappearing Polish S (2015)",
-      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-      "points": 245,
-      "author": "colinprince",
-      "created_at": 1782650664,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=48706814"
-    },
-    {
-      "id": "48706714",
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "points": 209,
-      "author": "pikseladam",
-      "created_at": 1782649653,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=48706714"
-    },
-    {
-      "id": "48707361",
-      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
-      "url": "https://github.com/open-energy-transition/open-tyndp",
-      "points": 163,
-      "author": "lyoncy",
-      "created_at": 1782655547,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=48707361"
-    },
-    {
-      "id": "48714529",
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "points": 976,
-      "author": "arkhiver",
-      "created_at": 1782704527,
-      "num_comments": 601,
-      "hn_url": "https://news.ycombinator.com/item?id=48714529"
-    },
-    {
-      "id": "48713832",
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "points": 976,
-      "author": "sambellll",
-      "created_at": 1782697480,
-      "num_comments": 415,
-      "hn_url": "https://news.ycombinator.com/item?id=48713832"
-    },
-    {
       "id": "48721903",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
@@ -169,26 +9,6 @@
       "created_at": 1782752716,
       "num_comments": 609,
       "hn_url": "https://news.ycombinator.com/item?id=48721903"
-    },
-    {
-      "id": "48716902",
-      "title": "Pollen tried to remove my article and Google is assisting with it",
-      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "points": 887,
-      "author": "taubek",
-      "created_at": 1782725288,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=48716902"
-    },
-    {
-      "id": "48717469",
-      "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
-      "url": "https://det.social/@lostgen/116820546568940358",
-      "points": 605,
-      "author": "Risse",
-      "created_at": 1782729951,
-      "num_comments": 1354,
-      "hn_url": "https://news.ycombinator.com/item?id=48717469"
     },
     {
       "id": "48720924",
@@ -309,16 +129,6 @@
       "created_at": 1782753377,
       "num_comments": 39,
       "hn_url": "https://news.ycombinator.com/item?id=48722052"
-    },
-    {
-      "id": "48716634",
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-      "points": 208,
-      "author": "DR_MING",
-      "created_at": 1782723489,
-      "num_comments": 27,
-      "hn_url": "https://news.ycombinator.com/item?id=48716634"
     },
     {
       "id": "48720190",
@@ -17579,7 +17389,207 @@
       "created_at": 1790369700,
       "num_comments": 140,
       "hn_url": "https://news.ycombinator.com/item?id=49849832"
+    },
+    {
+      "id": "49855315",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "points": 667,
+      "author": "ezst",
+      "created_at": 1790420156,
+      "num_comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=49855315"
+    },
+    {
+      "id": "49857899",
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "points": 520,
+      "author": "minimaxir",
+      "created_at": 1790439138,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=49857899"
+    },
+    {
+      "id": "49852302",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "points": 406,
+      "author": "pseudolus",
+      "created_at": 1790386610,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49852302"
+    },
+    {
+      "id": "49854693",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "points": 400,
+      "author": "ksec",
+      "created_at": 1790414021,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49854693"
+    },
+    {
+      "id": "49852717",
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "points": 383,
+      "author": "srcreigh",
+      "created_at": 1790390814,
+      "num_comments": 477,
+      "hn_url": "https://news.ycombinator.com/item?id=49852717"
+    },
+    {
+      "id": "49858513",
+      "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "points": 320,
+      "author": "jpwalsh234",
+      "created_at": 1790442640,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=49858513"
+    },
+    {
+      "id": "49859112",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "points": 255,
+      "author": "shenli3514",
+      "created_at": 1790446961,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49859112"
+    },
+    {
+      "id": "49852065",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "points": 250,
+      "author": "HotGarbage",
+      "created_at": 1790384342,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49852065"
+    },
+    {
+      "id": "49854875",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "points": 235,
+      "author": "signa11",
+      "created_at": 1790415718,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=49854875"
+    },
+    {
+      "id": "49856988",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "points": 232,
+      "author": "chmaynard",
+      "created_at": 1790433289,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49856988"
+    },
+    {
+      "id": "49857442",
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "points": 187,
+      "author": "vinni2",
+      "created_at": 1790436248,
+      "num_comments": 360,
+      "hn_url": "https://news.ycombinator.com/item?id=49857442"
+    },
+    {
+      "id": "49854416",
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "points": 179,
+      "author": "theanonymousone",
+      "created_at": 1790411462,
+      "num_comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49854416"
+    },
+    {
+      "id": "49855018",
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "points": 175,
+      "author": "saibotk",
+      "created_at": 1790417301,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=49855018"
+    },
+    {
+      "id": "49858810",
+      "title": "Japan moves to tighten rules for foreigners",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "points": 173,
+      "author": "mikhael",
+      "created_at": 1790444591,
+      "num_comments": 487,
+      "hn_url": "https://news.ycombinator.com/item?id=49858810"
+    },
+    {
+      "id": "49857729",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "points": 157,
+      "author": "parasitid",
+      "created_at": 1790438194,
+      "num_comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49857729"
+    },
+    {
+      "id": "49853175",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "points": 142,
+      "author": "allanrbo",
+      "created_at": 1790396458,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=49853175"
+    },
+    {
+      "id": "49857572",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "points": 140,
+      "author": "ilamont",
+      "created_at": 1790437227,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=49857572"
+    },
+    {
+      "id": "49854161",
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "points": 128,
+      "author": "vira28",
+      "created_at": 1790407992,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49854161"
+    },
+    {
+      "id": "49856665",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "points": 118,
+      "author": "Betelbuddy",
+      "created_at": 1790431434,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=49856665"
+    },
+    {
+      "id": "49857651",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "points": 118,
+      "author": "Brajeshwar",
+      "created_at": 1790437698,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=49857651"
     }
   ],
-  "last_updated": "2026-09-26T10:43:09.105870+00:00"
+  "last_updated": "2026-09-27T11:16:25.052791+00:00"
 }
