@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48721903",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "points": 904,
-      "author": "stared",
-      "created_at": 1782752716,
-      "num_comments": 609,
-      "hn_url": "https://news.ycombinator.com/item?id=48721903"
-    },
-    {
-      "id": "48720924",
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "points": 526,
-      "author": "cdrnsf",
-      "created_at": 1782748464,
-      "num_comments": 246,
-      "hn_url": "https://news.ycombinator.com/item?id=48720924"
-    },
-    {
-      "id": "48724230",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "points": 503,
-      "author": "HumanCCF",
-      "created_at": 1782762568,
-      "num_comments": 289,
-      "hn_url": "https://news.ycombinator.com/item?id=48724230"
-    },
-    {
-      "id": "48719485",
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "points": 412,
-      "author": "everfrustrated",
-      "created_at": 1782742164,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=48719485"
-    },
-    {
-      "id": "48718102",
-      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
-      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "points": 398,
-      "author": "donohoe",
-      "created_at": 1782734328,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=48718102"
-    },
-    {
-      "id": "48721072",
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "points": 383,
-      "author": "Brajeshwar",
-      "created_at": 1782749235,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48721072"
-    },
-    {
-      "id": "48719027",
-      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
-      "url": "https://twitter.com/i/status/2071277885646868536",
-      "points": 343,
-      "author": "notRobot",
-      "created_at": 1782739595,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=48719027"
-    },
-    {
-      "id": "48720758",
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "points": 304,
-      "author": "mrcslws",
-      "created_at": 1782747737,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=48720758"
-    },
-    {
-      "id": "48718840",
-      "title": "Tidal AI Policy",
-      "url": "https://tidal.com/ai-policy",
-      "points": 301,
-      "author": "hn8726",
-      "created_at": 1782738543,
-      "num_comments": 331,
-      "hn_url": "https://news.ycombinator.com/item?id=48718840"
-    },
-    {
-      "id": "48718863",
-      "title": "What happens when you run a CUDA kernel?",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "points": 256,
-      "author": "mezark",
-      "created_at": 1782738668,
-      "num_comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=48718863"
-    },
-    {
-      "id": "48726102",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "points": 223,
-      "author": "jnord",
-      "created_at": 1782771660,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=48726102"
-    },
-    {
-      "id": "48718967",
-      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
-      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
-      "points": 222,
-      "author": "kugelblitz",
-      "created_at": 1782739214,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=48718967"
-    },
-    {
-      "id": "48722052",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "points": 209,
-      "author": "danboarder",
-      "created_at": 1782753377,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=48722052"
-    },
-    {
-      "id": "48720190",
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "points": 205,
-      "author": "energeticbark",
-      "created_at": 1782745320,
-      "num_comments": 34,
-      "hn_url": "https://news.ycombinator.com/item?id=48720190"
-    },
-    {
-      "id": "48719532",
-      "title": "Mag 7 starting to underperform [pdf]",
-      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-      "points": 188,
-      "author": "mooreds",
-      "created_at": 1782742375,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=48719532"
-    },
-    {
       "id": "48734373",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
@@ -169,26 +19,6 @@
       "created_at": 1782842392,
       "num_comments": 665,
       "hn_url": "https://news.ycombinator.com/item?id=48736605"
-    },
-    {
-      "id": "48730729",
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "points": 692,
-      "author": "donohoe",
-      "created_at": 1782815783,
-      "num_comments": 296,
-      "hn_url": "https://news.ycombinator.com/item?id=48730729"
-    },
-    {
-      "id": "48730608",
-      "title": "The US ambassador had Belgian police stop our reporting",
-      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-      "points": 676,
-      "author": "robtherobber",
-      "created_at": 1782814515,
-      "num_comments": 312,
-      "hn_url": "https://news.ycombinator.com/item?id=48730608"
     },
     {
       "id": "48740771",
@@ -261,16 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48732056"
     },
     {
-      "id": "48727116",
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "points": 274,
-      "author": "benjiro29",
-      "created_at": 1782779411,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=48727116"
-    },
-    {
       "id": "48738985",
       "title": "I ported Kubernetes to the browser",
       "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
@@ -279,16 +99,6 @@
       "created_at": 1782852516,
       "num_comments": 80,
       "hn_url": "https://news.ycombinator.com/item?id=48738985"
-    },
-    {
-      "id": "48728740",
-      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
-      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
-      "points": 241,
-      "author": "tomwas54",
-      "created_at": 1782796622,
-      "num_comments": 185,
-      "hn_url": "https://news.ycombinator.com/item?id=48728740"
     },
     {
       "id": "48737226",
@@ -329,16 +139,6 @@
       "created_at": 1782828869,
       "num_comments": 124,
       "hn_url": "https://news.ycombinator.com/item?id=48733031"
-    },
-    {
-      "id": "48727177",
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "points": 207,
-      "author": "modeless",
-      "created_at": 1782779899,
-      "num_comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=48727177"
     },
     {
       "id": "48740698",
@@ -17589,7 +17389,207 @@
       "created_at": 1790437698,
       "num_comments": 119,
       "hn_url": "https://news.ycombinator.com/item?id=49857651"
+    },
+    {
+      "id": "49870367",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "points": 1441,
+      "author": "sancho-panza",
+      "created_at": 1790539974,
+      "num_comments": 768,
+      "hn_url": "https://news.ycombinator.com/item?id=49870367"
+    },
+    {
+      "id": "49863864",
+      "title": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "points": 618,
+      "author": "papergirl",
+      "created_at": 1790489973,
+      "num_comments": 606,
+      "hn_url": "https://news.ycombinator.com/item?id=49863864"
+    },
+    {
+      "id": "49868830",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "points": 502,
+      "author": "gmays",
+      "created_at": 1790530313,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=49868830"
+    },
+    {
+      "id": "49864642",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "points": 446,
+      "author": "rbanffy",
+      "created_at": 1790498644,
+      "num_comments": 297,
+      "hn_url": "https://news.ycombinator.com/item?id=49864642"
+    },
+    {
+      "id": "49867067",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "points": 376,
+      "author": "jandeboevrie",
+      "created_at": 1790520307,
+      "num_comments": 330,
+      "hn_url": "https://news.ycombinator.com/item?id=49867067"
+    },
+    {
+      "id": "49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "points": 371,
+      "author": "zzzeek",
+      "created_at": 1790525986,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=49868083"
+    },
+    {
+      "id": "49867038",
+      "title": "Tells of a Slop UI",
+      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "points": 370,
+      "author": "theanonymousone",
+      "created_at": 1790520086,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=49867038"
+    },
+    {
+      "id": "49869574",
+      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "points": 273,
+      "author": "safaelmali",
+      "created_at": 1790534670,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=49869574"
+    },
+    {
+      "id": "49868404",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "points": 270,
+      "author": "birdculture",
+      "created_at": 1790527858,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=49868404"
+    },
+    {
+      "id": "49867486",
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "points": 268,
+      "author": "pxx",
+      "created_at": 1790522800,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49867486"
+    },
+    {
+      "id": "49866951",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "points": 261,
+      "author": "danso",
+      "created_at": 1790519455,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49866951"
+    },
+    {
+      "id": "49862809",
+      "title": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "points": 255,
+      "author": "kspacewalk2",
+      "created_at": 1790476826,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49862809"
+    },
+    {
+      "id": "49870295",
+      "title": "Self-Hosting on the Dark Web",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "points": 241,
+      "author": "mooreds",
+      "created_at": 1790539416,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49870295"
+    },
+    {
+      "id": "49863062",
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "points": 205,
+      "author": "signa11",
+      "created_at": 1790479246,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49863062"
+    },
+    {
+      "id": "49868831",
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "points": 185,
+      "author": "CharlesW",
+      "created_at": 1790530322,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49868831"
+    },
+    {
+      "id": "49866515",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "points": 183,
+      "author": "surprisetalk",
+      "created_at": 1790515811,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49866515"
+    },
+    {
+      "id": "49867553",
+      "title": "PostmarketOS is rebranding as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "points": 182,
+      "author": "HotGarbage",
+      "created_at": 1790523075,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49867553"
+    },
+    {
+      "id": "49870070",
+      "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "points": 153,
+      "author": "midnightfish",
+      "created_at": 1790537825,
+      "num_comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49870070"
+    },
+    {
+      "id": "49866534",
+      "title": "Ten lines of code that changed my world",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "points": 135,
+      "author": "dimonomid",
+      "created_at": 1790515983,
+      "num_comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49866534"
+    },
+    {
+      "id": "49863600",
+      "title": "The internet discovers TLA+. Now what?",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "points": 124,
+      "author": "matt_d",
+      "created_at": 1790486775,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=49863600"
     }
   ],
-  "last_updated": "2026-09-27T11:16:25.052791+00:00"
+  "last_updated": "2026-09-28T12:44:50.194729+00:00"
 }
