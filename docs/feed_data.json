@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48734373",
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "points": 1992,
-      "author": "kirushik",
-      "created_at": 1782834264,
-      "num_comments": 581,
-      "hn_url": "https://news.ycombinator.com/item?id=48734373"
-    },
-    {
-      "id": "48736605",
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "points": 1120,
-      "author": "marinesebastian",
-      "created_at": 1782842392,
-      "num_comments": 665,
-      "hn_url": "https://news.ycombinator.com/item?id=48736605"
-    },
-    {
-      "id": "48740771",
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "points": 674,
-      "author": "Pragmata",
-      "created_at": 1782863712,
-      "num_comments": 388,
-      "hn_url": "https://news.ycombinator.com/item?id=48740771"
-    },
-    {
-      "id": "48735770",
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "points": 485,
-      "author": "lebovic",
-      "created_at": 1782839261,
-      "num_comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=48735770"
-    },
-    {
-      "id": "48734234",
-      "title": "The labor share of income in the US is at its lowest post-war level",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-      "points": 480,
-      "author": "loughnane",
-      "created_at": 1782833704,
-      "num_comments": 514,
-      "hn_url": "https://news.ycombinator.com/item?id=48734234"
-    },
-    {
-      "id": "48734699",
-      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-      "points": 401,
-      "author": "01-_-",
-      "created_at": 1782835546,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=48734699"
-    },
-    {
-      "id": "48735444",
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "points": 376,
-      "author": "minimaxir",
-      "created_at": 1782838117,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48735444"
-    },
-    {
-      "id": "48735633",
-      "title": "We Are the Last People Who Know How It Works",
-      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-      "points": 307,
-      "author": "cylo",
-      "created_at": 1782838740,
-      "num_comments": 252,
-      "hn_url": "https://news.ycombinator.com/item?id=48735633"
-    },
-    {
-      "id": "48732056",
-      "title": "Knoppix",
-      "url": "https://www.knopper.net/knoppix/index-en.html",
-      "points": 306,
-      "author": "hoangvmpc",
-      "created_at": 1782824041,
-      "num_comments": 111,
-      "hn_url": "https://news.ycombinator.com/item?id=48732056"
-    },
-    {
-      "id": "48738985",
-      "title": "I ported Kubernetes to the browser",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "points": 261,
-      "author": "peterdemin",
-      "created_at": 1782852516,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=48738985"
-    },
-    {
-      "id": "48737226",
-      "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
-      "url": "https://news.ycombinator.com/item?id=48737226",
-      "points": 232,
-      "author": "zkldi",
-      "created_at": 1782844439,
-      "num_comments": 33,
-      "hn_url": "https://news.ycombinator.com/item?id=48737226"
-    },
-    {
-      "id": "48738938",
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "points": 219,
-      "author": "vetronauta",
-      "created_at": 1782852296,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=48738938"
-    },
-    {
-      "id": "48735376",
-      "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
-      "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
-      "points": 217,
-      "author": "tartoran",
-      "created_at": 1782837871,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=48735376"
-    },
-    {
-      "id": "48733031",
-      "title": "Looking Ahead to Postgres 19",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-      "points": 208,
-      "author": "thinkingemote",
-      "created_at": 1782828869,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=48733031"
-    },
-    {
-      "id": "48740698",
-      "title": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
-      "points": 205,
-      "author": "reconnecting",
-      "created_at": 1782863139,
-      "num_comments": 34,
-      "hn_url": "https://news.ycombinator.com/item?id=48740698"
-    },
-    {
       "id": "48747304",
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
@@ -189,36 +39,6 @@
       "created_at": 1782915967,
       "num_comments": 255,
       "hn_url": "https://news.ycombinator.com/item?id=48747389"
-    },
-    {
-      "id": "48744518",
-      "title": "Asahi Linux 7.1 Progress Report",
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "points": 545,
-      "author": "pantalaimon",
-      "created_at": 1782900424,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=48744518"
-    },
-    {
-      "id": "48743472",
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "points": 537,
-      "author": "pjmlp",
-      "created_at": 1782891802,
-      "num_comments": 380,
-      "hn_url": "https://news.ycombinator.com/item?id=48743472"
-    },
-    {
-      "id": "48745113",
-      "title": "Nintendo has raised its employees base salary by 10%",
-      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "points": 518,
-      "author": "_tk_",
-      "created_at": 1782905720,
-      "num_comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=48745113"
     },
     {
       "id": "48745445",
@@ -261,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48747116"
     },
     {
-      "id": "48744232",
-      "title": "Frog-derived gut bacterium eradicates tumors in mice",
-      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
-      "points": 344,
-      "author": "mpweiher",
-      "created_at": 1782897704,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=48744232"
-    },
-    {
       "id": "48752905",
       "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
       "url": "https://www.workerowned.info/",
@@ -311,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48746914"
     },
     {
-      "id": "48741748",
-      "title": "ArXiv's Next Chapter",
-      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-      "points": 278,
-      "author": "subset",
-      "created_at": 1782874296,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48741748"
-    },
-    {
       "id": "48751752",
       "title": "ZCode: Claude Code from the Makers of GLM",
       "url": "https://zcode.z.ai/cn",
@@ -329,26 +129,6 @@
       "created_at": 1782933098,
       "num_comments": 13,
       "hn_url": "https://news.ycombinator.com/item?id=48751752"
-    },
-    {
-      "id": "48744606",
-      "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
-      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
-      "points": 271,
-      "author": "sashk",
-      "created_at": 1782901185,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=48744606"
-    },
-    {
-      "id": "48744655",
-      "title": "A retrospective of my time on the internet",
-      "url": "https://cleberg.net/blog/internet.html",
-      "points": 263,
-      "author": "felixdoerp",
-      "created_at": 1782901605,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=48744655"
     },
     {
       "id": "48755965",
@@ -17589,7 +17369,207 @@
       "created_at": 1790486775,
       "num_comments": 62,
       "hn_url": "https://news.ycombinator.com/item?id=49863600"
+    },
+    {
+      "id": "49872723",
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "points": 1070,
+      "author": "Eric_Gullichsen",
+      "created_at": 1790561113,
+      "num_comments": 447,
+      "hn_url": "https://news.ycombinator.com/item?id=49872723"
+    },
+    {
+      "id": "49881850",
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "points": 825,
+      "author": "D2OQZG8l5BI1S06",
+      "created_at": 1790618291,
+      "num_comments": 554,
+      "hn_url": "https://news.ycombinator.com/item?id=49881850"
+    },
+    {
+      "id": "49879645",
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "points": 650,
+      "author": "slowin",
+      "created_at": 1790609538,
+      "num_comments": 524,
+      "hn_url": "https://news.ycombinator.com/item?id=49879645"
+    },
+    {
+      "id": "49880036",
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "points": 613,
+      "author": "piotrgrabowski",
+      "created_at": 1790610855,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=49880036"
+    },
+    {
+      "id": "49883471",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "points": 533,
+      "author": "ibobev",
+      "created_at": 1790625215,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=49883471"
+    },
+    {
+      "id": "49883844",
+      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "points": 518,
+      "author": "firelex",
+      "created_at": 1790627016,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49883844"
+    },
+    {
+      "id": "49877988",
+      "title": "Coding is not solved",
+      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "points": 504,
+      "author": "firstSpeaker",
+      "created_at": 1790603577,
+      "num_comments": 495,
+      "hn_url": "https://news.ycombinator.com/item?id=49877988"
+    },
+    {
+      "id": "49881747",
+      "title": "Windows 11\u00bd",
+      "url": "https://definitelynotwindows.com/",
+      "points": 487,
+      "author": "jjbinx007",
+      "created_at": 1790617884,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49881747"
+    },
+    {
+      "id": "49875148",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "points": 432,
+      "author": "ljewalsh",
+      "created_at": 1790584540,
+      "num_comments": 390,
+      "hn_url": "https://news.ycombinator.com/item?id=49875148"
+    },
+    {
+      "id": "49879697",
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "url": "https://www.thisamericanlife.org/897/transcript",
+      "points": 430,
+      "author": "simonpure",
+      "created_at": 1790609709,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=49879697"
+    },
+    {
+      "id": "49880312",
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "points": 370,
+      "author": "zazuke",
+      "created_at": 1790611902,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=49880312"
+    },
+    {
+      "id": "49879000",
+      "title": "MongoDB CEO resigns to join Meta",
+      "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "points": 352,
+      "author": "diek",
+      "created_at": 1790607261,
+      "num_comments": 285,
+      "hn_url": "https://news.ycombinator.com/item?id=49879000"
+    },
+    {
+      "id": "49875913",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "url": "https://git.mills.io/prologic/parley",
+      "points": 317,
+      "author": "davidcollantes",
+      "created_at": 1790591454,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=49875913"
+    },
+    {
+      "id": "49875411",
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "points": 300,
+      "author": "geox",
+      "created_at": 1790586904,
+      "num_comments": 352,
+      "hn_url": "https://news.ycombinator.com/item?id=49875411"
+    },
+    {
+      "id": "49883760",
+      "title": "World Labs is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "points": 285,
+      "author": "mfiguiere",
+      "created_at": 1790626685,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=49883760"
+    },
+    {
+      "id": "49879702",
+      "title": "Hijacking the PS5's RTMP stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "points": 264,
+      "author": "ibobev",
+      "created_at": 1790609723,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=49879702"
+    },
+    {
+      "id": "49883539",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "points": 255,
+      "author": "randycupertino",
+      "created_at": 1790625606,
+      "num_comments": 648,
+      "hn_url": "https://news.ycombinator.com/item?id=49883539"
+    },
+    {
+      "id": "49882781",
+      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "points": 255,
+      "author": "logicallee",
+      "created_at": 1790621933,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49882781"
+    },
+    {
+      "id": "49881951",
+      "title": "So long Google, and thanks for all the nudes",
+      "url": "https://lecaro.me/20260921-google-less.html",
+      "points": 246,
+      "author": "speckx",
+      "created_at": 1790618687,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=49881951"
+    },
+    {
+      "id": "49877678",
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
+      "points": 244,
+      "author": "p-s-v",
+      "created_at": 1790602254,
+      "num_comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=49877678"
     }
   ],
-  "last_updated": "2026-09-28T12:44:50.194729+00:00"
+  "last_updated": "2026-09-29T12:00:55.532952+00:00"
 }
