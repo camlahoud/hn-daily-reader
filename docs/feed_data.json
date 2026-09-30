@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "48747304",
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "points": 847,
-      "author": "defrost",
-      "created_at": 1782915652,
-      "num_comments": 276,
-      "hn_url": "https://news.ycombinator.com/item?id=48747304"
-    },
-    {
-      "id": "48745456",
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "points": 706,
-      "author": "Tiberium",
-      "created_at": 1782908014,
-      "num_comments": 702,
-      "hn_url": "https://news.ycombinator.com/item?id=48745456"
-    },
-    {
-      "id": "48746445",
-      "title": "Most arguments are about ego, not ideas",
-      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "points": 677,
-      "author": "backlit4034",
-      "created_at": 1782912569,
-      "num_comments": 533,
-      "hn_url": "https://news.ycombinator.com/item?id=48746445"
-    },
-    {
-      "id": "48747389",
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "points": 558,
-      "author": "bilsbie",
-      "created_at": 1782915967,
-      "num_comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=48747389"
-    },
-    {
-      "id": "48745445",
-      "title": "Box3D, an open source 3D physics engine",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "points": 478,
-      "author": "makepanic",
-      "created_at": 1782907937,
-      "num_comments": 111,
-      "hn_url": "https://news.ycombinator.com/item?id=48745445"
-    },
-    {
-      "id": "48753715",
-      "title": "ZCode \u2013 Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "points": 382,
-      "author": "chvid",
-      "created_at": 1782943416,
-      "num_comments": 287,
-      "hn_url": "https://news.ycombinator.com/item?id=48753715"
-    },
-    {
-      "id": "48752030",
-      "title": "Fable 5 is Back",
-      "url": "https://twitter.com/claudeai/status/2072402636813607381",
-      "points": 374,
-      "author": "mfiguiere",
-      "created_at": 1782934557,
-      "num_comments": 364,
-      "hn_url": "https://news.ycombinator.com/item?id=48752030"
-    },
-    {
-      "id": "48747116",
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "points": 370,
-      "author": "ledoge",
-      "created_at": 1782915028,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48747116"
-    },
-    {
-      "id": "48752905",
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "points": 342,
-      "author": "IESAI_ski",
-      "created_at": 1782938861,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=48752905"
-    },
-    {
-      "id": "48750710",
-      "title": "What to learn to be a graphics programmer",
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "points": 331,
-      "author": "atan2",
-      "created_at": 1782928424,
-      "num_comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=48750710"
-    },
-    {
-      "id": "48746076",
-      "title": "Internal Combustion Engine (2021)",
-      "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "points": 316,
-      "author": "StefanBatory",
-      "created_at": 1782911056,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=48746076"
-    },
-    {
-      "id": "48746914",
-      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "points": 293,
-      "author": "soheilpro",
-      "created_at": 1782914353,
-      "num_comments": 207,
-      "hn_url": "https://news.ycombinator.com/item?id=48746914"
-    },
-    {
-      "id": "48751752",
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "url": "https://zcode.z.ai/cn",
-      "points": 273,
-      "author": "handfuloflight",
-      "created_at": 1782933098,
-      "num_comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=48751752"
-    },
-    {
-      "id": "48755965",
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "points": 1614,
-      "author": "drewfax",
-      "created_at": 1782961215,
-      "num_comments": 689,
-      "hn_url": "https://news.ycombinator.com/item?id=48755965"
-    },
-    {
       "id": "48767347",
       "title": "Virginia bans sale of geolocation data",
       "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
@@ -159,26 +19,6 @@
       "created_at": 1783004546,
       "num_comments": 256,
       "hn_url": "https://news.ycombinator.com/item?id=48762725"
-    },
-    {
-      "id": "48759634",
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "points": 611,
-      "author": "doener",
-      "created_at": 1782991065,
-      "num_comments": 284,
-      "hn_url": "https://news.ycombinator.com/item?id=48759634"
-    },
-    {
-      "id": "48755731",
-      "title": "Bring back crappy forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "points": 555,
-      "author": "pentagrama",
-      "created_at": 1782959416,
-      "num_comments": 340,
-      "hn_url": "https://news.ycombinator.com/item?id=48755731"
     },
     {
       "id": "48762098",
@@ -211,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48761229"
     },
     {
-      "id": "48755005",
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "points": 462,
-      "author": "devicelimit",
-      "created_at": 1782953281,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=48755005"
-    },
-    {
       "id": "48763035",
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
@@ -229,16 +59,6 @@
       "created_at": 1783005916,
       "num_comments": 203,
       "hn_url": "https://news.ycombinator.com/item?id=48763035"
-    },
-    {
-      "id": "48756602",
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "points": 409,
-      "author": "unliftedq",
-      "created_at": 1782966761,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=48756602"
     },
     {
       "id": "48761944",
@@ -261,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48761536"
     },
     {
-      "id": "48759870",
-      "title": "The primary purpose of code review is to find code that will be hard to maintain",
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "points": 351,
-      "author": "ColinWright",
-      "created_at": 1782992487,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=48759870"
-    },
-    {
       "id": "48760289",
       "title": "This blog is written in en-GB",
       "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
@@ -281,26 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48760289"
     },
     {
-      "id": "48754963",
-      "title": "Global review confirms mRNA vaccines are safe,\u00a0effective\u00a0and full of promise\u00a0",
-      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "points": 333,
-      "author": "coloneltcb",
-      "created_at": 1782952814,
-      "num_comments": 446,
-      "hn_url": "https://news.ycombinator.com/item?id=48754963"
-    },
-    {
-      "id": "48758970",
-      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
-      "points": 329,
-      "author": "vrganj",
-      "created_at": 1782986427,
-      "num_comments": 253,
-      "hn_url": "https://news.ycombinator.com/item?id=48758970"
-    },
-    {
       "id": "48765663",
       "title": "Exapunks (2018)",
       "url": "https://www.zachtronics.com/exapunks/",
@@ -309,16 +99,6 @@
       "created_at": 1783017679,
       "num_comments": 98,
       "hn_url": "https://news.ycombinator.com/item?id=48765663"
-    },
-    {
-      "id": "48758309",
-      "title": "Google loses fight over record $4.7B EU antitrust fine",
-      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-      "points": 286,
-      "author": "boshomi",
-      "created_at": 1782981253,
-      "num_comments": 230,
-      "hn_url": "https://news.ycombinator.com/item?id=48758309"
     },
     {
       "id": "48768464",
@@ -17569,7 +17349,207 @@
       "created_at": 1790602254,
       "num_comments": 304,
       "hn_url": "https://news.ycombinator.com/item?id=49877678"
+    },
+    {
+      "id": "49896586",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "points": 972,
+      "author": "crorella",
+      "created_at": 1790701605,
+      "num_comments": 851,
+      "hn_url": "https://news.ycombinator.com/item?id=49896586"
+    },
+    {
+      "id": "49891295",
+      "title": "Everybody\u2019s home. No one\u2019s coming over",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "points": 795,
+      "author": "barry-cotter",
+      "created_at": 1790680485,
+      "num_comments": 701,
+      "hn_url": "https://news.ycombinator.com/item?id=49891295"
+    },
+    {
+      "id": "49901736",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "points": 676,
+      "author": "bryan0",
+      "created_at": 1790721374,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=49901736"
+    },
+    {
+      "id": "49896604",
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "points": 646,
+      "author": "alvis",
+      "created_at": 1790701677,
+      "num_comments": 509,
+      "hn_url": "https://news.ycombinator.com/item?id=49896604"
+    },
+    {
+      "id": "49893509",
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "points": 600,
+      "author": "plesiv",
+      "created_at": 1790690697,
+      "num_comments": 502,
+      "hn_url": "https://news.ycombinator.com/item?id=49893509"
+    },
+    {
+      "id": "49896050",
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "points": 545,
+      "author": "paimapi",
+      "created_at": 1790699448,
+      "num_comments": 402,
+      "hn_url": "https://news.ycombinator.com/item?id=49896050"
+    },
+    {
+      "id": "49892245",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "points": 534,
+      "author": "rbanffy",
+      "created_at": 1790685809,
+      "num_comments": 296,
+      "hn_url": "https://news.ycombinator.com/item?id=49892245"
+    },
+    {
+      "id": "49891480",
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "points": 492,
+      "author": "ilamont",
+      "created_at": 1790681718,
+      "num_comments": 295,
+      "hn_url": "https://news.ycombinator.com/item?id=49891480"
+    },
+    {
+      "id": "49894005",
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "points": 458,
+      "author": "SquareOrbits",
+      "created_at": 1790692353,
+      "num_comments": 338,
+      "hn_url": "https://news.ycombinator.com/item?id=49894005"
+    },
+    {
+      "id": "49890226",
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "points": 418,
+      "author": "damaru2",
+      "created_at": 1790672621,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=49890226"
+    },
+    {
+      "id": "49891550",
+      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+      "points": 379,
+      "author": "mywacaday",
+      "created_at": 1790682265,
+      "num_comments": 379,
+      "hn_url": "https://news.ycombinator.com/item?id=49891550"
+    },
+    {
+      "id": "49895304",
+      "title": "PS5 Relapse Exploit",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "points": 322,
+      "author": "therepanic",
+      "created_at": 1790696681,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=49895304"
+    },
+    {
+      "id": "49893157",
+      "title": "Ask HN: What are you reading?",
+      "url": "https://news.ycombinator.com/item?id=49893157",
+      "points": 309,
+      "author": "dan-bailey",
+      "created_at": 1790689483,
+      "num_comments": 598,
+      "hn_url": "https://news.ycombinator.com/item?id=49893157"
+    },
+    {
+      "id": "49896712",
+      "title": "Tcl/Tk 9.1",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "points": 281,
+      "author": "dmux",
+      "created_at": 1790702018,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=49896712"
+    },
+    {
+      "id": "49898778",
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "points": 275,
+      "author": "wanick",
+      "created_at": 1790708881,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=49898778"
+    },
+    {
+      "id": "49892120",
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "url": "https://www.cbc.ca/lite/story/9.7361622",
+      "points": 266,
+      "author": "colinprince",
+      "created_at": 1790685230,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=49892120"
+    },
+    {
+      "id": "49899090",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "points": 239,
+      "author": "ilamont",
+      "created_at": 1790710217,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=49899090"
+    },
+    {
+      "id": "49891290",
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "points": 235,
+      "author": "nicowaltz",
+      "created_at": 1790680434,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49891290"
+    },
+    {
+      "id": "49897075",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "points": 229,
+      "author": "Philpax",
+      "created_at": 1790703086,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=49897075"
+    },
+    {
+      "id": "49897993",
+      "title": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "points": 228,
+      "author": "devonnull",
+      "created_at": 1790705942,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=49897993"
     }
   ],
-  "last_updated": "2026-09-29T12:00:55.532952+00:00"
+  "last_updated": "2026-09-30T11:49:15.097866+00:00"
 }
