@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "48767347",
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "points": 744,
-      "author": "toomuchtodo",
-      "created_at": 1783026225,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=48767347"
-    },
-    {
-      "id": "48762725",
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "points": 657,
-      "author": "mgh2",
-      "created_at": 1783004546,
-      "num_comments": 256,
-      "hn_url": "https://news.ycombinator.com/item?id=48762725"
-    },
-    {
-      "id": "48762098",
-      "title": "Podman v6.0.0",
-      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "points": 516,
-      "author": "soheilpro",
-      "created_at": 1783002189,
-      "num_comments": 202,
-      "hn_url": "https://news.ycombinator.com/item?id=48762098"
-    },
-    {
-      "id": "48761118",
-      "title": "How to ask for help from people who don't know you",
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "points": 477,
-      "author": "FigurativeVoid",
-      "created_at": 1782998362,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=48761118"
-    },
-    {
-      "id": "48761229",
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "points": 462,
-      "author": "toomuchtodo",
-      "created_at": 1782998725,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=48761229"
-    },
-    {
-      "id": "48763035",
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "points": 459,
-      "author": "IngoBlechschmid",
-      "created_at": 1783005916,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=48763035"
-    },
-    {
-      "id": "48761944",
-      "title": "Immich 3.0",
-      "url": "https://github.com/immich-app/immich/discussions/29439",
-      "points": 393,
-      "author": "hashier",
-      "created_at": 1783001606,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=48761944"
-    },
-    {
-      "id": "48761536",
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "points": 374,
-      "author": "mushstory",
-      "created_at": 1782999821,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=48761536"
-    },
-    {
-      "id": "48760289",
-      "title": "This blog is written in en-GB",
-      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
-      "points": 346,
-      "author": "mritzmann",
-      "created_at": 1782994653,
-      "num_comments": 412,
-      "hn_url": "https://news.ycombinator.com/item?id=48760289"
-    },
-    {
-      "id": "48765663",
-      "title": "Exapunks (2018)",
-      "url": "https://www.zachtronics.com/exapunks/",
-      "points": 288,
-      "author": "yu3zhou4",
-      "created_at": 1783017679,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=48765663"
-    },
-    {
-      "id": "48768464",
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "points": 266,
-      "author": "Philpax",
-      "created_at": 1783033055,
-      "num_comments": 52,
-      "hn_url": "https://news.ycombinator.com/item?id=48768464"
-    },
-    {
-      "id": "48772388",
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "points": 1260,
-      "author": "weli",
-      "created_at": 1783067012,
-      "num_comments": 380,
-      "hn_url": "https://news.ycombinator.com/item?id=48772388"
-    },
-    {
-      "id": "48769397",
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "points": 557,
-      "author": "sprawl_",
-      "created_at": 1783040565,
-      "num_comments": 696,
-      "hn_url": "https://news.ycombinator.com/item?id=48769397"
-    },
-    {
       "id": "48774518",
       "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
       "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
@@ -139,26 +9,6 @@
       "created_at": 1783083709,
       "num_comments": 102,
       "hn_url": "https://news.ycombinator.com/item?id=48774518"
-    },
-    {
-      "id": "48770647",
-      "title": "Why Switzerland has 25 gbit internet and America doesn't",
-      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-      "points": 531,
-      "author": "talonx",
-      "created_at": 1783052177,
-      "num_comments": 427,
-      "hn_url": "https://news.ycombinator.com/item?id=48770647"
-    },
-    {
-      "id": "48768992",
-      "title": "An American Privacy Emergency",
-      "url": "https://scottaaronson.blog/?p=9902",
-      "points": 400,
-      "author": "flowercalled",
-      "created_at": 1783036866,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=48768992"
     },
     {
       "id": "48776044",
@@ -191,26 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48775921"
     },
     {
-      "id": "48772443",
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "points": 325,
-      "author": "nsoonhui",
-      "created_at": 1783067497,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=48772443"
-    },
-    {
-      "id": "48772573",
-      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
-      "url": "https://wordgard.net/",
-      "points": 294,
-      "author": "indy",
-      "created_at": 1783068647,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=48772573"
-    },
-    {
       "id": "48776464",
       "title": "60% Fable cost cut by converting code to images and having the model OCR it",
       "url": "https://github.com/teamchong/pxpipe",
@@ -219,16 +49,6 @@
       "created_at": 1783093849,
       "num_comments": 89,
       "hn_url": "https://news.ycombinator.com/item?id=48776464"
-    },
-    {
-      "id": "48769639",
-      "title": "The Safari MCP server for web developers",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "points": 262,
-      "author": "coloneltcb",
-      "created_at": 1783042631,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=48769639"
     },
     {
       "id": "48776035",
@@ -17549,7 +17369,207 @@
       "created_at": 1790705942,
       "num_comments": 179,
       "hn_url": "https://news.ycombinator.com/item?id=49897993"
+    },
+    {
+      "id": "49913571",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "points": 1455,
+      "author": "bradleyg223",
+      "created_at": 1790798677,
+      "num_comments": 954,
+      "hn_url": "https://news.ycombinator.com/item?id=49913571"
+    },
+    {
+      "id": "49906637",
+      "title": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "points": 646,
+      "author": "yarapavan",
+      "created_at": 1790762123,
+      "num_comments": 356,
+      "hn_url": "https://news.ycombinator.com/item?id=49906637"
+    },
+    {
+      "id": "49905487",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "points": 498,
+      "author": "marjancek",
+      "created_at": 1790752351,
+      "num_comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=49905487"
+    },
+    {
+      "id": "49906432",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "points": 416,
+      "author": "rzk",
+      "created_at": 1790760424,
+      "num_comments": 387,
+      "hn_url": "https://news.ycombinator.com/item?id=49906432"
+    },
+    {
+      "id": "49910553",
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "points": 390,
+      "author": "allisdust",
+      "created_at": 1790783411,
+      "num_comments": 435,
+      "hn_url": "https://news.ycombinator.com/item?id=49910553"
+    },
+    {
+      "id": "49909583",
+      "title": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "points": 313,
+      "author": "rbanffy",
+      "created_at": 1790778847,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49909583"
+    },
+    {
+      "id": "49908394",
+      "title": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "points": 267,
+      "author": "megalomanu",
+      "created_at": 1790773571,
+      "num_comments": 544,
+      "hn_url": "https://news.ycombinator.com/item?id=49908394"
+    },
+    {
+      "id": "49905633",
+      "title": "Why Is Sam Altman a Free Man?",
+      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+      "points": 259,
+      "author": "ragall",
+      "created_at": 1790753560,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=49905633"
+    },
+    {
+      "id": "49915082",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "points": 246,
+      "author": "Bluestein",
+      "created_at": 1790805784,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49915082"
+    },
+    {
+      "id": "49913192",
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "points": 228,
+      "author": "iandinwoodie",
+      "created_at": 1790796397,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=49913192"
+    },
+    {
+      "id": "49904314",
+      "title": "LinkedIn Larpmaxxing",
+      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "points": 227,
+      "author": "BurnerBurner",
+      "created_at": 1790741997,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=49904314"
+    },
+    {
+      "id": "49907057",
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "points": 211,
+      "author": "Thom2503",
+      "created_at": 1790765372,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=49907057"
+    },
+    {
+      "id": "49912955",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "points": 202,
+      "author": "ibobev",
+      "created_at": 1790795090,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49912955"
+    },
+    {
+      "id": "49915126",
+      "title": "56k.rip \u2013 the 1996 dial-up internet experience",
+      "url": "https://56k.rip/",
+      "points": 199,
+      "author": "adunk",
+      "created_at": 1790806130,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=49915126"
+    },
+    {
+      "id": "49909056",
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "points": 198,
+      "author": "b-man",
+      "created_at": 1790776626,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49909056"
+    },
+    {
+      "id": "49912792",
+      "title": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "points": 191,
+      "author": "leephillips",
+      "created_at": 1790794146,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49912792"
+    },
+    {
+      "id": "49912444",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "points": 187,
+      "author": "jbott",
+      "created_at": 1790792265,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=49912444"
+    },
+    {
+      "id": "49911995",
+      "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "points": 172,
+      "author": "anerli",
+      "created_at": 1790789860,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=49911995"
+    },
+    {
+      "id": "49908962",
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "points": 160,
+      "author": "ibobev",
+      "created_at": 1790776250,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=49908962"
+    },
+    {
+      "id": "49904408",
+      "title": "Tesla takes on $30B in credit as it approaches unprofitability",
+      "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+      "points": 155,
+      "author": "ciconia",
+      "created_at": 1790743057,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=49904408"
     }
   ],
-  "last_updated": "2026-09-30T11:49:15.097866+00:00"
+  "last_updated": "2026-10-01T12:18:47.456299+00:00"
 }
