@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "48774518",
-      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
-      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "points": 555,
-      "author": "ahlCVA",
-      "created_at": 1783083709,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=48774518"
-    },
-    {
-      "id": "48776044",
-      "title": "Costco is the anti-Amazon",
-      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-      "points": 394,
-      "author": "bookofjoe",
-      "created_at": 1783091695,
-      "num_comments": 366,
-      "hn_url": "https://news.ycombinator.com/item?id=48776044"
-    },
-    {
-      "id": "48779683",
-      "title": "Espionage Against the European Parliament",
-      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-      "points": 355,
-      "author": "ledoge",
-      "created_at": 1783111106,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=48779683"
-    },
-    {
-      "id": "48775921",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "points": 334,
-      "author": "livestyle",
-      "created_at": 1783091023,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48775921"
-    },
-    {
-      "id": "48776464",
-      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
-      "url": "https://github.com/teamchong/pxpipe",
-      "points": 265,
-      "author": "dimitropoulos",
-      "created_at": 1783093849,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48776464"
-    },
-    {
-      "id": "48776035",
-      "title": "Factories are just rooms",
-      "url": "https://interconnected.org/home/2026/07/03/factories",
-      "points": 238,
-      "author": "arbesman",
-      "created_at": 1783091623,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=48776035"
-    },
-    {
-      "id": "48774454",
-      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
-      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-      "points": 237,
-      "author": "ExMachina73",
-      "created_at": 1783083293,
-      "num_comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=48774454"
-    },
-    {
-      "id": "48774414",
-      "title": "Please stop the AI confidence theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "points": 228,
-      "author": "skadamat",
-      "created_at": 1783083077,
-      "num_comments": 244,
-      "hn_url": "https://news.ycombinator.com/item?id=48774414"
-    },
-    {
-      "id": "48780417",
-      "title": "Performance per dollar is getting faster and cheaper",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "points": 224,
-      "author": "latchkey",
-      "created_at": 1783115346,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=48780417"
-    },
-    {
-      "id": "48776345",
-      "title": "Markets are competitive if and only if P != NP",
-      "url": "https://arxiv.org/abs/2602.20415",
-      "points": 221,
-      "author": "kscarlet",
-      "created_at": 1783093304,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=48776345"
-    },
-    {
-      "id": "48777832",
-      "title": "Holes",
-      "url": "https://xkcd.com/3266/large/",
-      "points": 216,
-      "author": "caminanteblanco",
-      "created_at": 1783101265,
-      "num_comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=48777832"
-    },
-    {
-      "id": "48780801",
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "points": 210,
-      "author": "programLyrique",
-      "created_at": 1783117990,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=48780801"
-    },
-    {
-      "id": "48779454",
-      "title": "SearXNG: A free internet metasearch engine",
-      "url": "https://github.com/searxng/searxng",
-      "points": 202,
-      "author": "theanonymousone",
-      "created_at": 1783109749,
-      "num_comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=48779454"
-    },
-    {
-      "id": "48783117",
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "points": 780,
-      "author": "gslin",
-      "created_at": 1783146748,
-      "num_comments": 451,
-      "hn_url": "https://news.ycombinator.com/item?id=48783117"
-    },
-    {
       "id": "48786781",
       "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
@@ -181,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48786838"
     },
     {
-      "id": "48782435",
-      "title": "Maybe you should learn something",
-      "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "points": 435,
-      "author": "tylerdane",
-      "created_at": 1783136163,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=48782435"
-    },
-    {
       "id": "48785485",
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
@@ -221,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48786782"
     },
     {
-      "id": "48783948",
-      "title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "points": 203,
-      "author": "jnord",
-      "created_at": 1783156089,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=48783948"
-    },
-    {
       "id": "48786638",
       "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
       "url": "https://ziglang.org/devlog/2026/#2026-06-30",
@@ -249,16 +89,6 @@
       "created_at": 1783208470,
       "num_comments": 73,
       "hn_url": "https://news.ycombinator.com/item?id=48790066"
-    },
-    {
-      "id": "48782671",
-      "title": "Agentic coding notes",
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "points": 168,
-      "author": "gm678",
-      "created_at": 1783139835,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=48782671"
     },
     {
       "id": "48788599",
@@ -291,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48786245"
     },
     {
-      "id": "48782219",
-      "title": "Synthesis is harder than analysis",
-      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-      "points": 147,
-      "author": "azhenley",
-      "created_at": 1783133124,
-      "num_comments": 36,
-      "hn_url": "https://news.ycombinator.com/item?id=48782219"
-    },
-    {
       "id": "48787042",
       "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
       "url": "https://www.eso.org/public/news/eso2607/",
@@ -309,26 +129,6 @@
       "created_at": 1783185448,
       "num_comments": 234,
       "hn_url": "https://news.ycombinator.com/item?id=48787042"
-    },
-    {
-      "id": "48781688",
-      "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
-      "points": 141,
-      "author": "MrBruh",
-      "created_at": 1783126664,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=48781688"
-    },
-    {
-      "id": "48782918",
-      "title": "David Beazley \u2013 Programming Courses",
-      "url": "https://www.dabeaz.com/courses.html",
-      "points": 140,
-      "author": "gregsadetsky",
-      "created_at": 1783143781,
-      "num_comments": 34,
-      "hn_url": "https://news.ycombinator.com/item?id=48782918"
     },
     {
       "id": "48794446",
@@ -17569,7 +17369,207 @@
       "created_at": 1790743057,
       "num_comments": 215,
       "hn_url": "https://news.ycombinator.com/item?id=49904408"
+    },
+    {
+      "id": "49926069",
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "points": 1368,
+      "author": "sergiotapia",
+      "created_at": 1790883185,
+      "num_comments": 432,
+      "hn_url": "https://news.ycombinator.com/item?id=49926069"
+    },
+    {
+      "id": "49920160",
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "points": 570,
+      "author": "Snowly",
+      "created_at": 1790852397,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=49920160"
+    },
+    {
+      "id": "49923692",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "points": 531,
+      "author": "jasondavies",
+      "created_at": 1790871537,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=49923692"
+    },
+    {
+      "id": "49925969",
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "points": 406,
+      "author": "paulsmith",
+      "created_at": 1790882648,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=49925969"
+    },
+    {
+      "id": "49924179",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "points": 403,
+      "author": "chmaynard",
+      "created_at": 1790873823,
+      "num_comments": 376,
+      "hn_url": "https://news.ycombinator.com/item?id=49924179"
+    },
+    {
+      "id": "49920234",
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "points": 376,
+      "author": "rbanffy",
+      "created_at": 1790853239,
+      "num_comments": 352,
+      "hn_url": "https://news.ycombinator.com/item?id=49920234"
+    },
+    {
+      "id": "49920932",
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "points": 358,
+      "author": "speckx",
+      "created_at": 1790858939,
+      "num_comments": 414,
+      "hn_url": "https://news.ycombinator.com/item?id=49920932"
+    },
+    {
+      "id": "49928121",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "points": 350,
+      "author": "luispa",
+      "created_at": 1790896244,
+      "num_comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=49928121"
+    },
+    {
+      "id": "49920997",
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "points": 348,
+      "author": "speckx",
+      "created_at": 1790859327,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49920997"
+    },
+    {
+      "id": "49923466",
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "points": 342,
+      "author": "razin",
+      "created_at": 1790870516,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49923466"
+    },
+    {
+      "id": "49917761",
+      "title": "Fuck Android Developer Verification Program",
+      "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "points": 320,
+      "author": "0xcrypto",
+      "created_at": 1790829158,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49917761"
+    },
+    {
+      "id": "49926536",
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "points": 297,
+      "author": "sampsn",
+      "created_at": 1790885663,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49926536"
+    },
+    {
+      "id": "49922278",
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "points": 265,
+      "author": "speckx",
+      "created_at": 1790865515,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=49922278"
+    },
+    {
+      "id": "49920896",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "points": 260,
+      "author": "trickypr",
+      "created_at": 1790858678,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49920896"
+    },
+    {
+      "id": "49921118",
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "points": 252,
+      "author": "gmays",
+      "created_at": 1790859951,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=49921118"
+    },
+    {
+      "id": "49921923",
+      "title": "Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "points": 251,
+      "author": "elffjs",
+      "created_at": 1790863750,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49921923"
+    },
+    {
+      "id": "49922674",
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "points": 237,
+      "author": "nkw",
+      "created_at": 1790867262,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49922674"
+    },
+    {
+      "id": "49922569",
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "points": 212,
+      "author": "whoishiring",
+      "created_at": 1790866927,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=49922569"
+    },
+    {
+      "id": "49927760",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "points": 212,
+      "author": "supermdguy",
+      "created_at": 1790893418,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=49927760"
+    },
+    {
+      "id": "49927100",
+      "title": "The death of web development education",
+      "url": "https://molily.de/web-dev-education/",
+      "points": 204,
+      "author": "ibobev",
+      "created_at": 1790888857,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=49927100"
     }
   ],
-  "last_updated": "2026-10-01T12:18:47.456299+00:00"
+  "last_updated": "2026-10-02T11:47:06.359518+00:00"
 }
