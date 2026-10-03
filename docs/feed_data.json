@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "48786781",
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "points": 601,
-      "author": "javxfps",
-      "created_at": 1783183510,
-      "num_comments": 329,
-      "hn_url": "https://news.ycombinator.com/item?id=48786781"
-    },
-    {
-      "id": "48788283",
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "points": 551,
-      "author": "asronline",
-      "created_at": 1783194070,
-      "num_comments": 224,
-      "hn_url": "https://news.ycombinator.com/item?id=48788283"
-    },
-    {
-      "id": "48784777",
-      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "url": "https://peteris.rocks/blog/htop/",
-      "points": 469,
-      "author": "theanonymousone",
-      "created_at": 1783166457,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48784777"
-    },
-    {
-      "id": "48786838",
-      "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "points": 456,
-      "author": "Cider9986",
-      "created_at": 1783183886,
-      "num_comments": 241,
-      "hn_url": "https://news.ycombinator.com/item?id=48786838"
-    },
-    {
-      "id": "48785485",
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "points": 293,
-      "author": "chatmasta",
-      "created_at": 1783173820,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=48785485"
-    },
-    {
-      "id": "48789428",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "points": 257,
-      "author": "maille",
-      "created_at": 1783201869,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=48789428"
-    },
-    {
-      "id": "48786782",
-      "title": "Meta data center water discharges suspended for contaminating water supply",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-      "points": 228,
-      "author": "sensanaty",
-      "created_at": 1783183523,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=48786782"
-    },
-    {
-      "id": "48786638",
-      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-      "points": 188,
-      "author": "tosh",
-      "created_at": 1783182610,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=48786638"
-    },
-    {
-      "id": "48790066",
-      "title": "Scientists reverse brain aging, with a nasal spray",
-      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-      "points": 187,
-      "author": "cybermango",
-      "created_at": 1783208470,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=48790066"
-    },
-    {
-      "id": "48788599",
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "points": 166,
-      "author": "leemoore",
-      "created_at": 1783196182,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=48788599"
-    },
-    {
-      "id": "48787329",
-      "title": "Verizon is about to break our Gizmo watches",
-      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "points": 149,
-      "author": "jefftk",
-      "created_at": 1783187556,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=48787329"
-    },
-    {
-      "id": "48786245",
-      "title": "Fable created novel 4D splat format",
-      "url": "https://adamraudonis.github.io/splats4D/",
-      "points": 147,
-      "author": "adamraudonis",
-      "created_at": 1783180148,
-      "num_comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=48786245"
-    },
-    {
-      "id": "48787042",
-      "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "points": 141,
-      "author": "Breadmaker",
-      "created_at": 1783185448,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=48787042"
-    },
-    {
       "id": "48794446",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
@@ -149,16 +19,6 @@
       "created_at": 1783285386,
       "num_comments": 215,
       "hn_url": "https://news.ycombinator.com/item?id=48797916"
-    },
-    {
-      "id": "48790689",
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "points": 562,
-      "author": "nozzlegear",
-      "created_at": 1783216863,
-      "num_comments": 262,
-      "hn_url": "https://news.ycombinator.com/item?id=48790689"
     },
     {
       "id": "48794750",
@@ -211,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48793454"
     },
     {
-      "id": "48791328",
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "points": 276,
-      "author": "dabinat",
-      "created_at": 1783226768,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=48791328"
-    },
-    {
       "id": "48796093",
       "title": "Starring the Computer",
       "url": "https://www.starringthecomputer.com/computers.html",
@@ -271,16 +121,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48796817"
     },
     {
-      "id": "48792790",
-      "title": "Europe's new climate in seven charts",
-      "url": "https://www.bbc.com/news/articles/c8e2j0j87reo",
-      "points": 152,
-      "author": "saikatsg",
-      "created_at": 1783245370,
-      "num_comments": 238,
-      "hn_url": "https://news.ycombinator.com/item?id=48792790"
-    },
-    {
       "id": "48797015",
       "title": "Small Penis Rule",
       "url": "https://en.wikipedia.org/wiki/Small_penis_rule",
@@ -291,16 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48797015"
     },
     {
-      "id": "48792008",
-      "title": "Fast Software, the Best Software (2019)",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "points": 142,
-      "author": "ustad",
-      "created_at": 1783236325,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=48792008"
-    },
-    {
       "id": "48794179",
       "title": "Phosh 0.56.0",
       "url": "https://phosh.mobi/releases/rel-0.56.0/",
@@ -309,16 +139,6 @@
       "created_at": 1783258091,
       "num_comments": 61,
       "hn_url": "https://news.ycombinator.com/item?id=48794179"
-    },
-    {
-      "id": "48792080",
-      "title": "Programmers need to start meditating",
-      "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-      "points": 135,
-      "author": "enz",
-      "created_at": 1783237175,
-      "num_comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=48792080"
     },
     {
       "id": "48795826",
@@ -17569,7 +17389,207 @@
       "created_at": 1790888857,
       "num_comments": 160,
       "hn_url": "https://news.ycombinator.com/item?id=49927100"
+    },
+    {
+      "id": "49937276",
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "points": 437,
+      "author": "soheilpro",
+      "created_at": 1790968016,
+      "num_comments": 270,
+      "hn_url": "https://news.ycombinator.com/item?id=49937276"
+    },
+    {
+      "id": "49929489",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness/",
+      "points": 390,
+      "author": "Kuyawa",
+      "created_at": 1790910680,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=49929489"
+    },
+    {
+      "id": "49932147",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "points": 296,
+      "author": "mariuz",
+      "created_at": 1790939237,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=49932147"
+    },
+    {
+      "id": "49930047",
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "points": 291,
+      "author": "pietroppeter",
+      "created_at": 1790917978,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49930047"
+    },
+    {
+      "id": "49933235",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "points": 286,
+      "author": "suopspaces",
+      "created_at": 1790947112,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=49933235"
+    },
+    {
+      "id": "49928566",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "points": 283,
+      "author": "alstonite",
+      "created_at": 1790900876,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=49928566"
+    },
+    {
+      "id": "49938521",
+      "title": "Zig v0.17.0",
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "points": 250,
+      "author": "ErenayDev",
+      "created_at": 1790974596,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49938521"
+    },
+    {
+      "id": "49936575",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "points": 250,
+      "author": "fibo",
+      "created_at": 1790964076,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=49936575"
+    },
+    {
+      "id": "49929113",
+      "title": "How Singapore's government-run dating service works",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "points": 247,
+      "author": "danielfoster",
+      "created_at": 1790906212,
+      "num_comments": 344,
+      "hn_url": "https://news.ycombinator.com/item?id=49929113"
+    },
+    {
+      "id": "49929391",
+      "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "points": 245,
+      "author": "usernomdeguerre",
+      "created_at": 1790909487,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=49929391"
+    },
+    {
+      "id": "49933869",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "points": 222,
+      "author": "signa11",
+      "created_at": 1790950932,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=49933869"
+    },
+    {
+      "id": "49933740",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "points": 221,
+      "author": "PaulHoule",
+      "created_at": 1790950284,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49933740"
+    },
+    {
+      "id": "49935867",
+      "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "points": 208,
+      "author": "rbanffy",
+      "created_at": 1790960551,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=49935867"
+    },
+    {
+      "id": "49937631",
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "points": 208,
+      "author": "notfirstpost",
+      "created_at": 1790969821,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49937631"
+    },
+    {
+      "id": "49934228",
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "url": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+      "points": 208,
+      "author": "2sf5",
+      "created_at": 1790953042,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=49934228"
+    },
+    {
+      "id": "49934784",
+      "title": "Supabase is acquiring Turso",
+      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "points": 203,
+      "author": "cvburgess",
+      "created_at": 1790955783,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=49934784"
+    },
+    {
+      "id": "49937504",
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "points": 202,
+      "author": "anant",
+      "created_at": 1790969214,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=49937504"
+    },
+    {
+      "id": "49932402",
+      "title": "On social reality in China",
+      "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "points": 191,
+      "author": "thicTurtlLverXX",
+      "created_at": 1790941346,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=49932402"
+    },
+    {
+      "id": "49934487",
+      "title": "AI Makes Me Sad",
+      "url": "https://mondobe.com/ai-makes-me-sad",
+      "points": 187,
+      "author": "mondobe",
+      "created_at": 1790954280,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=49934487"
+    },
+    {
+      "id": "49934620",
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "points": 166,
+      "author": "ThibWeb",
+      "created_at": 1790954955,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=49934620"
     }
   ],
-  "last_updated": "2026-10-02T11:47:06.359518+00:00"
+  "last_updated": "2026-10-03T11:00:40.818387+00:00"
 }
