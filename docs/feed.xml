@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:32:28 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[298 pts] AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)</title>
+      <link>https://github.com/boykopovar/AnyPS5</link>
+      <description>&lt;p&gt;&lt;strong&gt;298 points&lt;/strong&gt; by Fe2O3 | &lt;strong&gt;253 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49985664&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49985664</guid>
+      <pubDate>Tue, 06 Oct 2026 23:28:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[203 pts] State of Devs 2026</title>
+      <link>https://2026.stateofdevs.com/en-US/</link>
+      <description>&lt;p&gt;&lt;strong&gt;203 points&lt;/strong&gt; by sgdesign | &lt;strong&gt;105 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49985643&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49985643</guid>
+      <pubDate>Tue, 06 Oct 2026 23:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1006 pts] Sharing AI progress in mathematics</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1006 points&lt;/strong&gt; by OfficialTurkey | &lt;strong&gt;983 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49984923&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984923</guid>
+      <pubDate>Tue, 06 Oct 2026 22:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[211 pts] Penguin Mail – open-source Rust email client for Linux with AI</title>
+      <link>https://penguin-mail.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;211 points&lt;/strong&gt; by kavourias | &lt;strong&gt;135 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49984716&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984716</guid>
+      <pubDate>Tue, 06 Oct 2026 21:59:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[336 pts] Decisions API is in public beta</title>
+      <link>https://developers.openai.com/api/docs/guides/decisions</link>
+      <description>&lt;p&gt;&lt;strong&gt;336 points&lt;/strong&gt; by chiefstorm | &lt;strong&gt;178 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49984025&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984025</guid>
+      <pubDate>Tue, 06 Oct 2026 20:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[241 pts] Paramount Skydance has completed its $111B merger with Warner Bros. Discovery</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</link>
+      <description>&lt;p&gt;&lt;strong&gt;241 points&lt;/strong&gt; by Mgtyalx | &lt;strong&gt;403 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49983703&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49983703</guid>
+      <pubDate>Tue, 06 Oct 2026 20:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[331 pts] Tell HN: GitHub refuses to remove cracked copies of my software after a month</title>
+      <link>https://news.ycombinator.com/item?id=49982498</link>
+      <description>&lt;p&gt;&lt;strong&gt;331 points&lt;/strong&gt; by IvanK_net | &lt;strong&gt;179 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49982498&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49982498</guid>
+      <pubDate>Tue, 06 Oct 2026 18:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[226 pts] Claude Code’s suggested message feature: I think the real customer is the model</title>
+      <link>https://www.zohaib.cc/blog/smartest-claude-code-feature</link>
+      <description>&lt;p&gt;&lt;strong&gt;226 points&lt;/strong&gt; by zed_labs_dev | &lt;strong&gt;131 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49981905&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49981905</guid>
+      <pubDate>Tue, 06 Oct 2026 18:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[304 pts] OpenTPU – An open-source AI accelerator, developed by AI</title>
+      <link>https://github.com/FeSens/openTPU</link>
+      <description>&lt;p&gt;&lt;strong&gt;304 points&lt;/strong&gt; by fsbonetto | &lt;strong&gt;353 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49980715&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49980715</guid>
+      <pubDate>Tue, 06 Oct 2026 16:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[356 pts] EmbeddingGemma 2: An open, lightweight multimodal embedding model</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/</link>
+      <description>&lt;p&gt;&lt;strong&gt;356 points&lt;/strong&gt; by ilreb | &lt;strong&gt;35 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49980487&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49980487</guid>
+      <pubDate>Tue, 06 Oct 2026 16:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[519 pts] Mistral Large 4: &quot;Le Chonk&quot;</title>
+      <link>https://mistral.ai/news/mistral-large-4/</link>
+      <description>&lt;p&gt;&lt;strong&gt;519 points&lt;/strong&gt; by j-bu | &lt;strong&gt;5 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49978116&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49978116</guid>
+      <pubDate>Tue, 06 Oct 2026 13:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1882 pts] Mistral Large 4</title>
+      <link>https://mistral.ai/news/mistral-large-4/\</link>
+      <description>&lt;p&gt;&lt;strong&gt;1882 points&lt;/strong&gt; by Philpax | &lt;strong&gt;1132 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49977979&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49977979</guid>
+      <pubDate>Tue, 06 Oct 2026 13:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[379 pts] Meta’s Muse is an adorable privacy and security dumpster fire</title>
+      <link>https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/</link>
+      <description>&lt;p&gt;&lt;strong&gt;379 points&lt;/strong&gt; by beardyw | &lt;strong&gt;271 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49977588&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49977588</guid>
+      <pubDate>Tue, 06 Oct 2026 12:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[267 pts] What's Earth's dominant species by mass?</title>
+      <link>https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/</link>
+      <description>&lt;p&gt;&lt;strong&gt;267 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;196 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49977531&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49977531</guid>
+      <pubDate>Tue, 06 Oct 2026 12:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[442 pts] Polars 2.0</title>
+      <link>https://pola.rs/posts/release-polars-2/</link>
+      <description>&lt;p&gt;&lt;strong&gt;442 points&lt;/strong&gt; by simicd | &lt;strong&gt;99 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49977177&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49977177</guid>
+      <pubDate>Tue, 06 Oct 2026 11:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[584 pts] JetBrains reports revenue growth, net financial loss for 2025</title>
+      <link>https://www.helgilibrary.com/companies/jetbrains</link>
+      <description>&lt;p&gt;&lt;strong&gt;584 points&lt;/strong&gt; by thw_9a83c | &lt;strong&gt;548 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49977072&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49977072</guid>
+      <pubDate>Tue, 06 Oct 2026 11:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[337 pts] Nature's capacity to 'bounce back' when species are lost is overestimated: study</title>
+      <link>https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;337 points&lt;/strong&gt; by pseudolus | &lt;strong&gt;165 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49976823&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49976823</guid>
+      <pubDate>Tue, 06 Oct 2026 11:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[558 pts] Nobel Prize in Physics 2026: Francis Halzen</title>
+      <link>https://www.nobelprize.org/prizes/physics/2026/</link>
+      <description>&lt;p&gt;&lt;strong&gt;558 points&lt;/strong&gt; by solarist | &lt;strong&gt;199 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49976265&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49976265</guid>
+      <pubDate>Tue, 06 Oct 2026 09:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[310 pts] Gleam doesn't compile to Erlang source anymore</title>
+      <link>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</link>
+      <description>&lt;p&gt;&lt;strong&gt;310 points&lt;/strong&gt; by ingve | &lt;strong&gt;133 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49975619&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49975619</guid>
+      <pubDate>Tue, 06 Oct 2026 08:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[287 pts] Why Common Lisp is now the best programming language</title>
+      <link>https://www.vivienhenz.com/common-lisp</link>
+      <description>&lt;p&gt;&lt;strong&gt;287 points&lt;/strong&gt; by misterchocolat | &lt;strong&gt;388 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49973598&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49973598</guid>
+      <pubDate>Tue, 06 Oct 2026 02:51:51 +0000</pubDate>
+    </item>
     <item>
       <title>[257 pts] Example.com just launched the biggest redesign in decades</title>
       <link>https://www.debugbear.com/blog/example-dot-com-redesign-history</link>
@@ -14046,70 +14206,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48845049&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=48845049</guid>
       <pubDate>Thu, 09 Jul 2026 12:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[1372 pts] EU Parliament greenlights Chat Control 1.0</title>
-      <link>https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1372 points&lt;/strong&gt; by rapnie | &lt;strong&gt;651 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48843923&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48843923</guid>
-      <pubDate>Thu, 09 Jul 2026 11:03:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[333 pts] Bonnie Tyler has died</title>
-      <link>https://www.bbc.com/news/articles/cg5pd9z2487o</link>
-      <description>&lt;p&gt;&lt;strong&gt;333 points&lt;/strong&gt; by theanonymousone | &lt;strong&gt;124 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48843438&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48843438</guid>
-      <pubDate>Thu, 09 Jul 2026 10:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[702 pts] My thoughts on the Bun Rust rewrite</title>
-      <link>https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;702 points&lt;/strong&gt; by kristoff_it | &lt;strong&gt;608 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48843352&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48843352</guid>
-      <pubDate>Thu, 09 Jul 2026 09:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[354 pts] Why developers are ditching GitHub for Codeberg and self-hosting alternatives</title>
-      <link>https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/</link>
-      <description>&lt;p&gt;&lt;strong&gt;354 points&lt;/strong&gt; by Gedxx | &lt;strong&gt;246 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48842611&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48842611</guid>
-      <pubDate>Thu, 09 Jul 2026 08:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[663 pts] Show HN: Getting GLM 5.2 running on my slow computer</title>
-      <link>https://github.com/JustVugg/colibri</link>
-      <description>&lt;p&gt;&lt;strong&gt;663 points&lt;/strong&gt; by vforno | &lt;strong&gt;154 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48842459&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48842459</guid>
-      <pubDate>Thu, 09 Jul 2026 08:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[648 pts] Postgres rewritten in Rust, now passing 100% of the Postgres regression tests</title>
-      <link>https://github.com/malisper/pgrust</link>
-      <description>&lt;p&gt;&lt;strong&gt;648 points&lt;/strong&gt; by SweetSoftPillow | &lt;strong&gt;555 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48841676&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48841676</guid>
-      <pubDate>Thu, 09 Jul 2026 06:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[294 pts] Spider venom kills varroa mites without harming honeybees</title>
-      <link>https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming</link>
-      <description>&lt;p&gt;&lt;strong&gt;294 points&lt;/strong&gt; by Jedd | &lt;strong&gt;139 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48841259&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48841259</guid>
-      <pubDate>Thu, 09 Jul 2026 05:14:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[391 pts] I think I have LLM burnout</title>
-      <link>https://www.alecscollon.com/blog/llm-burnout/</link>
-      <description>&lt;p&gt;&lt;strong&gt;391 points&lt;/strong&gt; by sosodev | &lt;strong&gt;347 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48839984&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48839984</guid>
-      <pubDate>Thu, 09 Jul 2026 01:56:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "id": "48843923",
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "points": 1372,
-      "author": "rapnie",
-      "created_at": 1783595034,
-      "num_comments": 651,
-      "hn_url": "https://news.ycombinator.com/item?id=48843923"
-    },
-    {
       "id": "48849066",
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
@@ -31,36 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48845049"
     },
     {
-      "id": "48843352",
-      "title": "My thoughts on the Bun Rust rewrite",
-      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-      "points": 702,
-      "author": "kristoff_it",
-      "created_at": 1783590448,
-      "num_comments": 608,
-      "hn_url": "https://news.ycombinator.com/item?id=48843352"
-    },
-    {
-      "id": "48842459",
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "points": 663,
-      "author": "vforno",
-      "created_at": 1783584304,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=48842459"
-    },
-    {
-      "id": "48841676",
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "points": 648,
-      "author": "SweetSoftPillow",
-      "created_at": 1783577899,
-      "num_comments": 555,
-      "hn_url": "https://news.ycombinator.com/item?id=48841676"
-    },
-    {
       "id": "48847552",
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
@@ -69,16 +29,6 @@
       "created_at": 1783610868,
       "num_comments": 95,
       "hn_url": "https://news.ycombinator.com/item?id=48847552"
-    },
-    {
-      "id": "48839984",
-      "title": "I think I have LLM burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "points": 391,
-      "author": "sosodev",
-      "created_at": 1783562188,
-      "num_comments": 347,
-      "hn_url": "https://news.ycombinator.com/item?id=48839984"
     },
     {
       "id": "48846184",
@@ -101,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48845442"
     },
     {
-      "id": "48842611",
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "points": 354,
-      "author": "Gedxx",
-      "created_at": 1783585372,
-      "num_comments": 246,
-      "hn_url": "https://news.ycombinator.com/item?id=48842611"
-    },
-    {
       "id": "48849059",
       "title": "ChatGPT Work",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
@@ -119,26 +59,6 @@
       "created_at": 1783616633,
       "num_comments": 173,
       "hn_url": "https://news.ycombinator.com/item?id=48849059"
-    },
-    {
-      "id": "48843438",
-      "title": "Bonnie Tyler has died",
-      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-      "points": 333,
-      "author": "theanonymousone",
-      "created_at": 1783591353,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=48843438"
-    },
-    {
-      "id": "48841259",
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "points": 294,
-      "author": "Jedd",
-      "created_at": 1783574085,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=48841259"
     },
     {
       "id": "48847511",
@@ -17629,7 +17549,207 @@
       "created_at": 1791186370,
       "num_comments": 127,
       "hn_url": "https://news.ycombinator.com/item?id=49961861"
+    },
+    {
+      "id": "49977979",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "points": 1882,
+      "author": "Philpax",
+      "created_at": 1791292549,
+      "num_comments": 1132,
+      "hn_url": "https://news.ycombinator.com/item?id=49977979"
+    },
+    {
+      "id": "49984923",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "points": 1006,
+      "author": "OfficialTurkey",
+      "created_at": 1791325041,
+      "num_comments": 983,
+      "hn_url": "https://news.ycombinator.com/item?id=49984923"
+    },
+    {
+      "id": "49977072",
+      "title": "JetBrains reports revenue growth, net financial loss for 2025",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "points": 584,
+      "author": "thw_9a83c",
+      "created_at": 1791287155,
+      "num_comments": 548,
+      "hn_url": "https://news.ycombinator.com/item?id=49977072"
+    },
+    {
+      "id": "49976265",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "points": 558,
+      "author": "solarist",
+      "created_at": 1791280126,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=49976265"
+    },
+    {
+      "id": "49978116",
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "points": 519,
+      "author": "j-bu",
+      "created_at": 1791293150,
+      "num_comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49978116"
+    },
+    {
+      "id": "49977177",
+      "title": "Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "points": 442,
+      "author": "simicd",
+      "created_at": 1791287941,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49977177"
+    },
+    {
+      "id": "49977588",
+      "title": "Meta\u2019s Muse is an adorable privacy and security dumpster fire",
+      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "points": 379,
+      "author": "beardyw",
+      "created_at": 1791290749,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=49977588"
+    },
+    {
+      "id": "49980487",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "points": 356,
+      "author": "ilreb",
+      "created_at": 1791302629,
+      "num_comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=49980487"
+    },
+    {
+      "id": "49976823",
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "points": 337,
+      "author": "pseudolus",
+      "created_at": 1791285111,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=49976823"
+    },
+    {
+      "id": "49984025",
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "points": 336,
+      "author": "chiefstorm",
+      "created_at": 1791320245,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49984025"
+    },
+    {
+      "id": "49982498",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "points": 331,
+      "author": "IvanK_net",
+      "created_at": 1791312841,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=49982498"
+    },
+    {
+      "id": "49975619",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "points": 310,
+      "author": "ingve",
+      "created_at": 1791274100,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49975619"
+    },
+    {
+      "id": "49980715",
+      "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "points": 304,
+      "author": "fsbonetto",
+      "created_at": 1791303805,
+      "num_comments": 353,
+      "hn_url": "https://news.ycombinator.com/item?id=49980715"
+    },
+    {
+      "id": "49985664",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "points": 298,
+      "author": "Fe2O3",
+      "created_at": 1791329288,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=49985664"
+    },
+    {
+      "id": "49973598",
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "points": 287,
+      "author": "misterchocolat",
+      "created_at": 1791255111,
+      "num_comments": 388,
+      "hn_url": "https://news.ycombinator.com/item?id=49973598"
+    },
+    {
+      "id": "49977531",
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "points": 267,
+      "author": "surprisetalk",
+      "created_at": 1791290403,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49977531"
+    },
+    {
+      "id": "49983703",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "points": 241,
+      "author": "Mgtyalx",
+      "created_at": 1791318827,
+      "num_comments": 403,
+      "hn_url": "https://news.ycombinator.com/item?id=49983703"
+    },
+    {
+      "id": "49981905",
+      "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "points": 226,
+      "author": "zed_labs_dev",
+      "created_at": 1791309634,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=49981905"
+    },
+    {
+      "id": "49984716",
+      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "points": 211,
+      "author": "kavourias",
+      "created_at": 1791323983,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=49984716"
+    },
+    {
+      "id": "49985643",
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "points": 203,
+      "author": "sgdesign",
+      "created_at": 1791329190,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49985643"
     }
   ],
-  "last_updated": "2026-10-06T12:39:11.660080+00:00"
+  "last_updated": "2026-10-07T12:32:28.737407+00:00"
 }
