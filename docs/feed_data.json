@@ -1,126 +1,6 @@
 {
   "posts": [
     {
-      "id": "48849066",
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "points": 1253,
-      "author": "logickkk1",
-      "created_at": 1783616654,
-      "num_comments": 896,
-      "hn_url": "https://news.ycombinator.com/item?id=48849066"
-    },
-    {
-      "id": "48845049",
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "points": 986,
-      "author": "pompomsheep",
-      "created_at": 1783601332,
-      "num_comments": 317,
-      "hn_url": "https://news.ycombinator.com/item?id=48845049"
-    },
-    {
-      "id": "48847552",
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "points": 473,
-      "author": "andai",
-      "created_at": 1783610868,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=48847552"
-    },
-    {
-      "id": "48846184",
-      "title": "Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "points": 373,
-      "author": "ot",
-      "created_at": 1783606222,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48846184"
-    },
-    {
-      "id": "48845442",
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "points": 371,
-      "author": "baud147258",
-      "created_at": 1783603483,
-      "num_comments": 456,
-      "hn_url": "https://news.ycombinator.com/item?id=48845442"
-    },
-    {
-      "id": "48849059",
-      "title": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "points": 335,
-      "author": "Tiberium",
-      "created_at": 1783616633,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48849059"
-    },
-    {
-      "id": "48847511",
-      "title": "A possible future for Damn Interesting",
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "points": 281,
-      "author": "mzur",
-      "created_at": 1783610725,
-      "num_comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=48847511"
-    },
-    {
-      "id": "48846281",
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "points": 278,
-      "author": "ChrisArchitect",
-      "created_at": 1783606594,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=48846281"
-    },
-    {
-      "id": "48845514",
-      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-      "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
-      "points": 258,
-      "author": "rbanffy",
-      "created_at": 1783603771,
-      "num_comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=48845514"
-    },
-    {
-      "id": "48849292",
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "points": 240,
-      "author": "veqq",
-      "created_at": 1783617436,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=48849292"
-    },
-    {
-      "id": "48845209",
-      "title": "A road to Lisp: Why Lisp",
-      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "points": 228,
-      "author": "silcoon",
-      "created_at": 1783602364,
-      "num_comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=48845209"
-    },
-    {
-      "id": "48847940",
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "points": 217,
-      "author": "mukmuk",
-      "created_at": 1783612209,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=48847940"
-    },
-    {
       "id": "48865019",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
@@ -161,26 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48863490"
     },
     {
-      "id": "48858121",
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "points": 398,
-      "author": "theanonymousone",
-      "created_at": 1783679561,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=48858121"
-    },
-    {
-      "id": "48858737",
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "points": 354,
-      "author": "dmonay",
-      "created_at": 1783684795,
-      "num_comments": 241,
-      "hn_url": "https://news.ycombinator.com/item?id=48858737"
-    },
-    {
       "id": "48859701",
       "title": "Write code like a human will maintain it",
       "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
@@ -189,36 +49,6 @@
       "created_at": 1783690380,
       "num_comments": 283,
       "hn_url": "https://news.ycombinator.com/item?id=48859701"
-    },
-    {
-      "id": "48856904",
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "points": 273,
-      "author": "smusamashah",
-      "created_at": 1783669151,
-      "num_comments": 227,
-      "hn_url": "https://news.ycombinator.com/item?id=48856904"
-    },
-    {
-      "id": "48858292",
-      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
-      "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "points": 258,
-      "author": "jeroenhd",
-      "created_at": 1783681215,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48858292"
-    },
-    {
-      "id": "48857230",
-      "title": "In Emacs, everything looks like a service",
-      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "points": 238,
-      "author": "kickingvegas",
-      "created_at": 1783671670,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=48857230"
     },
     {
       "id": "48859678",
@@ -279,16 +109,6 @@
       "created_at": 1783701472,
       "num_comments": 139,
       "hn_url": "https://news.ycombinator.com/item?id=48862252"
-    },
-    {
-      "id": "48854247",
-      "title": "Parental device use and the adolescent-caregiver attachment bond",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-      "points": 168,
-      "author": "hbcondo714",
-      "created_at": 1783642828,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=48854247"
     },
     {
       "id": "48864252",
@@ -17749,7 +17569,207 @@
       "created_at": 1791329190,
       "num_comments": 105,
       "hn_url": "https://news.ycombinator.com/item?id=49985643"
+    },
+    {
+      "id": "49998895",
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "points": 1730,
+      "author": "muglug",
+      "created_at": 1791407778,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=49998895"
+    },
+    {
+      "id": "49996437",
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "points": 934,
+      "author": "sfkgtbor",
+      "created_at": 1791396092,
+      "num_comments": 441,
+      "hn_url": "https://news.ycombinator.com/item?id=49996437"
+    },
+    {
+      "id": "49996425",
+      "title": "GPT\u20116 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "points": 674,
+      "author": "joshuawright11",
+      "created_at": 1791396058,
+      "num_comments": 396,
+      "hn_url": "https://news.ycombinator.com/item?id=49996425"
+    },
+    {
+      "id": "49993914",
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "points": 557,
+      "author": "DeepLogin",
+      "created_at": 1791385799,
+      "num_comments": 413,
+      "hn_url": "https://news.ycombinator.com/item?id=49993914"
+    },
+    {
+      "id": "49991227",
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "points": 555,
+      "author": "AshleysBrain",
+      "created_at": 1791372302,
+      "num_comments": 371,
+      "hn_url": "https://news.ycombinator.com/item?id=49991227"
+    },
+    {
+      "id": "49994443",
+      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "points": 552,
+      "author": "SpeakingOfBrad",
+      "created_at": 1791387861,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=49994443"
+    },
+    {
+      "id": "49990224",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "points": 395,
+      "author": "sohkamyung",
+      "created_at": 1791364675,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49990224"
+    },
+    {
+      "id": "49993857",
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/",
+      "points": 387,
+      "author": "turrini",
+      "created_at": 1791385537,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49993857"
+    },
+    {
+      "id": "49997161",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "points": 348,
+      "author": "speckx",
+      "created_at": 1791398980,
+      "num_comments": 350,
+      "hn_url": "https://news.ycombinator.com/item?id=49997161"
+    },
+    {
+      "id": "49994145",
+      "title": "Navier\u2013Stokes Lost in Translation",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "points": 322,
+      "author": "nill0",
+      "created_at": 1791386678,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49994145"
+    },
+    {
+      "id": "49990470",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "points": 296,
+      "author": "sasvari",
+      "created_at": 1791366703,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=49990470"
+    },
+    {
+      "id": "49992257",
+      "title": "Anti-patterns in software blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "points": 294,
+      "author": "ilreb",
+      "created_at": 1791378506,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=49992257"
+    },
+    {
+      "id": "49997718",
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "points": 282,
+      "author": "6bitquant",
+      "created_at": 1791401620,
+      "num_comments": 299,
+      "hn_url": "https://news.ycombinator.com/item?id=49997718"
+    },
+    {
+      "id": "49987076",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "points": 280,
+      "author": "gmays",
+      "created_at": 1791338531,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49987076"
+    },
+    {
+      "id": "49996259",
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "points": 261,
+      "author": "saikatsg",
+      "created_at": 1791395318,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49996259"
+    },
+    {
+      "id": "49994027",
+      "title": "Incident with Git Operations, Pull Requests and Actions \u2013 Resolved",
+      "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+      "points": 226,
+      "author": "gagan2020",
+      "created_at": 1791386243,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=49994027"
+    },
+    {
+      "id": "49992125",
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "points": 214,
+      "author": "librasteve",
+      "created_at": 1791377830,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=49992125"
+    },
+    {
+      "id": "49991243",
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "points": 206,
+      "author": "sn001",
+      "created_at": 1791372447,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49991243"
+    },
+    {
+      "id": "49986862",
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "points": 188,
+      "author": "jayhoon",
+      "created_at": 1791337161,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=49986862"
+    },
+    {
+      "id": "49993908",
+      "title": "Why were Victorian elites so effective?",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "points": 185,
+      "author": "karakoram",
+      "created_at": 1791385773,
+      "num_comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=49993908"
     }
   ],
-  "last_updated": "2026-10-07T12:32:28.737407+00:00"
+  "last_updated": "2026-10-08T12:42:15.573483+00:00"
 }
