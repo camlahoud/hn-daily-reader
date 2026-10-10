@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48873692",
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "points": 288,
-      "author": "speckx",
-      "created_at": 1783789403,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=48873692"
-    },
-    {
-      "id": "48873940",
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "points": 271,
-      "author": "ingve",
-      "created_at": 1783791235,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=48873940"
-    },
-    {
-      "id": "48875377",
-      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "points": 252,
-      "author": "theMackabu",
-      "created_at": 1783800438,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=48875377"
-    },
-    {
-      "id": "48873836",
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "points": 243,
-      "author": "adletbalzhanov",
-      "created_at": 1783790509,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=48873836"
-    },
-    {
-      "id": "48876505",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "points": 222,
-      "author": "tionis",
-      "created_at": 1783809537,
-      "num_comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=48876505"
-    },
-    {
-      "id": "48872874",
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "points": 203,
-      "author": "saisrirampur",
-      "created_at": 1783783682,
-      "num_comments": 44,
-      "hn_url": "https://news.ycombinator.com/item?id=48872874"
-    },
-    {
-      "id": "48874200",
-      "title": "AI 2040 and the cult of intelligence",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "points": 199,
-      "author": "rvz",
-      "created_at": 1783793041,
-      "num_comments": 232,
-      "hn_url": "https://news.ycombinator.com/item?id=48874200"
-    },
-    {
-      "id": "48871470",
-      "title": "Networking and the Internet, from First Principles",
-      "url": "https://fazamhd.com/mental-models/networking/",
-      "points": 198,
-      "author": "faza",
-      "created_at": 1783773040,
-      "num_comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=48871470"
-    },
-    {
-      "id": "48873893",
-      "title": "Leaded gas was a known poison the day it was invented (2016)",
-      "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
-      "points": 183,
-      "author": "downbad_",
-      "created_at": 1783790875,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=48873893"
-    },
-    {
-      "id": "48873424",
-      "title": "Modern decor may be straining people's brains",
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "points": 179,
-      "author": "downwithdisease",
-      "created_at": 1783787328,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48873424"
-    },
-    {
-      "id": "48876441",
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "points": 177,
-      "author": "theorchid",
-      "created_at": 1783808928,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=48876441"
-    },
-    {
-      "id": "48873457",
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "points": 172,
-      "author": "prtk25",
-      "created_at": 1783787622,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=48873457"
-    },
-    {
-      "id": "48871973",
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "url": "https://shipthatcode.com",
-      "points": 162,
-      "author": "acley",
-      "created_at": 1783777227,
-      "num_comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=48871973"
-    },
-    {
-      "id": "48876741",
-      "title": "How Doctors die. It\u2019s not like the rest of us (2016)",
-      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-      "points": 148,
-      "author": "downbad_",
-      "created_at": 1783811706,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=48876741"
-    },
-    {
-      "id": "48876593",
-      "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
-      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-      "points": 135,
-      "author": "sublinear",
-      "created_at": 1783810182,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=48876593"
-    },
-    {
-      "id": "48876245",
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "points": 129,
-      "author": "mariuz",
-      "created_at": 1783807080,
-      "num_comments": 18,
-      "hn_url": "https://news.ycombinator.com/item?id=48876245"
-    },
-    {
-      "id": "48874357",
-      "title": "How to hide from killer drones",
-      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-      "points": 121,
-      "author": "pseudolus",
-      "created_at": 1783794122,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=48874357"
-    },
-    {
       "id": "48883275",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
@@ -179,26 +9,6 @@
       "created_at": 1783880751,
       "num_comments": 322,
       "hn_url": "https://news.ycombinator.com/item?id=48883275"
-    },
-    {
-      "id": "48877371",
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "points": 473,
-      "author": "jhoho",
-      "created_at": 1783818590,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48877371"
-    },
-    {
-      "id": "48880170",
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "points": 434,
-      "author": "subset",
-      "created_at": 1783854582,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=48880170"
     },
     {
       "id": "48883343",
@@ -229,16 +39,6 @@
       "created_at": 1783871236,
       "num_comments": 184,
       "hn_url": "https://news.ycombinator.com/item?id=48882056"
-    },
-    {
-      "id": "48879504",
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "url": "https://dakra.github.io/ghostel/",
-      "points": 277,
-      "author": "signa11",
-      "created_at": 1783846379,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48879504"
     },
     {
       "id": "48884395",
@@ -301,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48881830"
     },
     {
-      "id": "48878126",
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "points": 190,
-      "author": "nradov",
-      "created_at": 1783828814,
-      "num_comments": 493,
-      "hn_url": "https://news.ycombinator.com/item?id=48878126"
-    },
-    {
       "id": "48885643",
       "title": "Cyberpunk Comics, Manga and Graphic Novels",
       "url": "https://shellzine.net/cyberpunk-comics/",
@@ -339,26 +129,6 @@
       "created_at": 1783891601,
       "num_comments": 484,
       "hn_url": "https://news.ycombinator.com/item?id=48884984"
-    },
-    {
-      "id": "48880209",
-      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
-      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
-      "points": 153,
-      "author": "RetroTechie",
-      "created_at": 1783855112,
-      "num_comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=48880209"
-    },
-    {
-      "id": "48878682",
-      "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "points": 152,
-      "author": "cosmtrek",
-      "created_at": 1783835492,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=48878682"
     },
     {
       "id": "48881043",
@@ -17799,7 +17569,207 @@
       "created_at": 1791477444,
       "num_comments": 32,
       "hn_url": "https://news.ycombinator.com/item?id=50008047"
+    },
+    {
+      "id": "50019911",
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "points": 1255,
+      "author": "ilreb",
+      "created_at": 1791551028,
+      "num_comments": 635,
+      "hn_url": "https://news.ycombinator.com/item?id=50019911"
+    },
+    {
+      "id": "50022292",
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "points": 1041,
+      "author": "robin_reala",
+      "created_at": 1791561065,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=50022292"
+    },
+    {
+      "id": "50018088",
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/",
+      "points": 922,
+      "author": "splintersio",
+      "created_at": 1791537708,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=50018088"
+    },
+    {
+      "id": "50020014",
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "points": 665,
+      "author": "ahlCVA",
+      "created_at": 1791551567,
+      "num_comments": 299,
+      "hn_url": "https://news.ycombinator.com/item?id=50020014"
+    },
+    {
+      "id": "50026555",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "points": 590,
+      "author": "gumby",
+      "created_at": 1791580019,
+      "num_comments": 319,
+      "hn_url": "https://news.ycombinator.com/item?id=50026555"
+    },
+    {
+      "id": "50021066",
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+      "points": 489,
+      "author": "poly2it",
+      "created_at": 1791556314,
+      "num_comments": 488,
+      "hn_url": "https://news.ycombinator.com/item?id=50021066"
+    },
+    {
+      "id": "50018420",
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "points": 465,
+      "author": "Anon84",
+      "created_at": 1791540731,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=50018420"
+    },
+    {
+      "id": "50018817",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "points": 400,
+      "author": "franze",
+      "created_at": 1791543828,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=50018817"
+    },
+    {
+      "id": "50023450",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "points": 381,
+      "author": "tosh",
+      "created_at": 1791565351,
+      "num_comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=50023450"
+    },
+    {
+      "id": "50018350",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "points": 341,
+      "author": "trakkstar",
+      "created_at": 1791540026,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=50018350"
+    },
+    {
+      "id": "50024499",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "points": 337,
+      "author": "simplyalec",
+      "created_at": 1791569455,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=50024499"
+    },
+    {
+      "id": "50015515",
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "points": 333,
+      "author": "sohkamyung",
+      "created_at": 1791515285,
+      "num_comments": 272,
+      "hn_url": "https://news.ycombinator.com/item?id=50015515"
+    },
+    {
+      "id": "50021127",
+      "title": "Python 3.15",
+      "url": "https://www.python.org/downloads/release/python-3150/",
+      "points": 296,
+      "author": "ngoldbaum",
+      "created_at": 1791556542,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=50021127"
+    },
+    {
+      "id": "50025935",
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "points": 295,
+      "author": "zetalyrae",
+      "created_at": 1791576240,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=50025935"
+    },
+    {
+      "id": "50016312",
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
+      "points": 229,
+      "author": "ilreb",
+      "created_at": 1791523378,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=50016312"
+    },
+    {
+      "id": "50017357",
+      "title": "Programming Isn't Special",
+      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "points": 227,
+      "author": "ingve",
+      "created_at": 1791531876,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=50017357"
+    },
+    {
+      "id": "50020533",
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "points": 227,
+      "author": "vinhnx",
+      "created_at": 1791553771,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=50020533"
+    },
+    {
+      "id": "50020927",
+      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "points": 222,
+      "author": "ortusdux",
+      "created_at": 1791555619,
+      "num_comments": 311,
+      "hn_url": "https://news.ycombinator.com/item?id=50020927"
+    },
+    {
+      "id": "50021540",
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+      "points": 203,
+      "author": "ohjeez",
+      "created_at": 1791558324,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=50021540"
+    },
+    {
+      "id": "50016489",
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
+      "points": 188,
+      "author": "nreece",
+      "created_at": 1791525089,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=50016489"
     }
   ],
-  "last_updated": "2026-10-09T12:29:28.542487+00:00"
+  "last_updated": "2026-10-10T11:48:11.415541+00:00"
 }
