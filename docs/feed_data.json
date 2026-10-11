@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "48883275",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "points": 584,
-      "author": "systima",
-      "created_at": 1783880751,
-      "num_comments": 322,
-      "hn_url": "https://news.ycombinator.com/item?id=48883275"
-    },
-    {
-      "id": "48883343",
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "points": 419,
-      "author": "therepanic",
-      "created_at": 1783881116,
-      "num_comments": 265,
-      "hn_url": "https://news.ycombinator.com/item?id=48883343"
-    },
-    {
-      "id": "48884853",
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "points": 399,
-      "author": "joahnn_s",
-      "created_at": 1783890731,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=48884853"
-    },
-    {
-      "id": "48882056",
-      "title": "How to read more books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "points": 353,
-      "author": "silcoon",
-      "created_at": 1783871236,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=48882056"
-    },
-    {
-      "id": "48884395",
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "points": 249,
-      "author": "naves",
-      "created_at": 1783887785,
-      "num_comments": 22,
-      "hn_url": "https://news.ycombinator.com/item?id=48884395"
-    },
-    {
-      "id": "48882569",
-      "title": "LARP \u2013 Revenue infrastructure for serious founders",
-      "url": "https://www.larp.website/",
-      "points": 240,
-      "author": "BerislavLopac",
-      "created_at": 1783875401,
-      "num_comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=48882569"
-    },
-    {
-      "id": "48881874",
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "points": 239,
-      "author": "saikatsg",
-      "created_at": 1783869839,
-      "num_comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=48881874"
-    },
-    {
-      "id": "48884322",
-      "title": "Irish datacenters now guzzle 23% of the country's electricity",
-      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-      "points": 232,
-      "author": "Bender",
-      "created_at": 1783887372,
-      "num_comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=48884322"
-    },
-    {
-      "id": "48882716",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "points": 203,
-      "author": "brryant",
-      "created_at": 1783876387,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=48882716"
-    },
-    {
-      "id": "48881830",
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "points": 197,
-      "author": "zdw",
-      "created_at": 1783869440,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=48881830"
-    },
-    {
-      "id": "48885643",
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "points": 184,
-      "author": "zdw",
-      "created_at": 1783896331,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=48885643"
-    },
-    {
-      "id": "48880499",
-      "title": "Understanding the Odin programming language",
-      "url": "https://odinbook.com/",
-      "points": 156,
-      "author": "AlexeyBrin",
-      "created_at": 1783858087,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=48880499"
-    },
-    {
-      "id": "48884984",
-      "title": "Ask HN: What Are You Working On? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48884984",
-      "points": 154,
-      "author": "david927",
-      "created_at": 1783891601,
-      "num_comments": 484,
-      "hn_url": "https://news.ycombinator.com/item?id=48884984"
-    },
-    {
-      "id": "48881043",
-      "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "points": 146,
-      "author": "zaikunzhang",
-      "created_at": 1783862773,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=48881043"
-    },
-    {
-      "id": "48889637",
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "points": 1467,
-      "author": "crowdhailer",
-      "created_at": 1783931979,
-      "num_comments": 739,
-      "hn_url": "https://news.ycombinator.com/item?id=48889637"
-    },
-    {
-      "id": "48886741",
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
-      "points": 1030,
-      "author": "levkk",
-      "created_at": 1783905860,
-      "num_comments": 443,
-      "hn_url": "https://news.ycombinator.com/item?id=48886741"
-    },
-    {
-      "id": "48888331",
-      "title": "A graph that should be front-page news",
-      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "points": 655,
-      "author": "rakel_rakel",
-      "created_at": 1783920927,
-      "num_comments": 406,
-      "hn_url": "https://news.ycombinator.com/item?id=48888331"
-    },
-    {
       "id": "48894752",
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
@@ -199,16 +29,6 @@
       "created_at": 1783972675,
       "num_comments": 182,
       "hn_url": "https://news.ycombinator.com/item?id=48897945"
-    },
-    {
-      "id": "48888468",
-      "title": "Sam Neill has died",
-      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-      "points": 459,
-      "author": "j4mie",
-      "created_at": 1783922531,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=48888468"
     },
     {
       "id": "48893947",
@@ -251,26 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48896286"
     },
     {
-      "id": "48890959",
-      "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
-      "url": "https://jivx.com/densha",
-      "points": 364,
-      "author": "momentmaker",
-      "created_at": 1783941510,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=48890959"
-    },
-    {
-      "id": "48887753",
-      "title": "Count Binface",
-      "url": "https://countbinface.com",
-      "points": 336,
-      "author": "mooreds",
-      "created_at": 1783915254,
-      "num_comments": 292,
-      "hn_url": "https://news.ycombinator.com/item?id=48887753"
-    },
-    {
       "id": "48894641",
       "title": "DOGE is done. What happened to its records?",
       "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
@@ -301,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48897878"
     },
     {
-      "id": "48888518",
-      "title": "Backtrack-Free Cursive",
-      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "points": 258,
-      "author": "dmit",
-      "created_at": 1783922892,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=48888518"
-    },
-    {
       "id": "48893639",
       "title": "The art and engineering of Sega CD Silpheed",
       "url": "https://fabiensanglard.net/silpheed/index.html",
@@ -319,26 +109,6 @@
       "created_at": 1783954353,
       "num_comments": 50,
       "hn_url": "https://news.ycombinator.com/item?id=48893639"
-    },
-    {
-      "id": "48891184",
-      "title": "Control the Ideas, Not the Code",
-      "url": "https://antirez.com/news/169",
-      "points": 210,
-      "author": "surprisetalk",
-      "created_at": 1783943136,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=48891184"
-    },
-    {
-      "id": "48889350",
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "points": 194,
-      "author": "coinfused",
-      "created_at": 1783929870,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=48889350"
     },
     {
       "id": "48901569",
@@ -17769,7 +17539,207 @@
       "created_at": 1791525089,
       "num_comments": 83,
       "hn_url": "https://news.ycombinator.com/item?id=50016489"
+    },
+    {
+      "id": "50028275",
+      "title": "REA Reverse \u2013 Engineer Anything",
+      "url": "https://rea.tools/",
+      "points": 742,
+      "author": "modinfo",
+      "created_at": 1791592627,
+      "num_comments": 320,
+      "hn_url": "https://news.ycombinator.com/item?id=50028275"
+    },
+    {
+      "id": "50032556",
+      "title": "Lobbying is corruption",
+      "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "points": 493,
+      "author": "LucidLynx",
+      "created_at": 1791637558,
+      "num_comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=50032556"
+    },
+    {
+      "id": "50029487",
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "points": 456,
+      "author": "oskarth",
+      "created_at": 1791605546,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=50029487"
+    },
+    {
+      "id": "50029123",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "points": 451,
+      "author": "g-b-r",
+      "created_at": 1791601367,
+      "num_comments": 294,
+      "hn_url": "https://news.ycombinator.com/item?id=50029123"
+    },
+    {
+      "id": "50031269",
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "points": 391,
+      "author": "baal80spam",
+      "created_at": 1791625909,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=50031269"
+    },
+    {
+      "id": "50033407",
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "points": 383,
+      "author": "Cider9986",
+      "created_at": 1791642770,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=50033407"
+    },
+    {
+      "id": "50036864",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "points": 378,
+      "author": "JumpCrisscross",
+      "created_at": 1791664310,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=50036864"
+    },
+    {
+      "id": "50037949",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "points": 341,
+      "author": "softwaredoug",
+      "created_at": 1791672610,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=50037949"
+    },
+    {
+      "id": "50031614",
+      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "points": 300,
+      "author": "rociiu",
+      "created_at": 1791629529,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=50031614"
+    },
+    {
+      "id": "50031653",
+      "title": "Apple/macOS removed from official Unix registry",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "points": 277,
+      "author": "john_alan",
+      "created_at": 1791629851,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=50031653"
+    },
+    {
+      "id": "50032758",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "points": 255,
+      "author": "colinprince",
+      "created_at": 1791638943,
+      "num_comments": 579,
+      "hn_url": "https://news.ycombinator.com/item?id=50032758"
+    },
+    {
+      "id": "50029982",
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "points": 200,
+      "author": "heavensteeth",
+      "created_at": 1791611266,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=50029982"
+    },
+    {
+      "id": "50035530",
+      "title": "Why DuckDB 2.0 is faster",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "points": 200,
+      "author": "tosh",
+      "created_at": 1791655729,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=50035530"
+    },
+    {
+      "id": "50034081",
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "points": 199,
+      "author": "Curiositry",
+      "created_at": 1791647221,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=50034081"
+    },
+    {
+      "id": "50033638",
+      "title": "FDA may allow some toxic chemicals to be added to food without safety review",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
+      "points": 188,
+      "author": "NewJazz",
+      "created_at": 1791644436,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=50033638"
+    },
+    {
+      "id": "50029630",
+      "title": "Lobbying",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+      "points": 184,
+      "author": "smilelamp",
+      "created_at": 1791607236,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=50029630"
+    },
+    {
+      "id": "50033357",
+      "title": "Unikernels were hard. key word: were",
+      "url": "https://ghuntley.com/unikernels/",
+      "points": 171,
+      "author": "ghuntley",
+      "created_at": 1791642429,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=50033357"
+    },
+    {
+      "id": "50029830",
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "points": 165,
+      "author": "gmays",
+      "created_at": 1791609750,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=50029830"
+    },
+    {
+      "id": "50035886",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "points": 165,
+      "author": "arkj",
+      "created_at": 1791658115,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=50035886"
+    },
+    {
+      "id": "50033721",
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+      "points": 136,
+      "author": "jajoosam",
+      "created_at": 1791645024,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=50033721"
     }
   ],
-  "last_updated": "2026-10-10T11:48:11.415541+00:00"
+  "last_updated": "2026-10-11T12:00:21.310307+00:00"
 }
