@@ -1,126 +1,6 @@
 {
   "posts": [
     {
-      "id": "48894752",
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "points": 527,
-      "author": "get-inscribe",
-      "created_at": 1783958768,
-      "num_comments": 210,
-      "hn_url": "https://news.ycombinator.com/item?id=48894752"
-    },
-    {
-      "id": "48892512",
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "points": 496,
-      "author": "tnolet",
-      "created_at": 1783949999,
-      "num_comments": 18,
-      "hn_url": "https://news.ycombinator.com/item?id=48892512"
-    },
-    {
-      "id": "48897945",
-      "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
-      "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
-      "points": 487,
-      "author": "benwerd",
-      "created_at": 1783972675,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=48897945"
-    },
-    {
-      "id": "48893947",
-      "title": "LAPD lets contract with surveillance giant Flock expire",
-      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "points": 447,
-      "author": "forks",
-      "created_at": 1783955510,
-      "num_comments": 393,
-      "hn_url": "https://news.ycombinator.com/item?id=48893947"
-    },
-    {
-      "id": "48896665",
-      "title": "Building and shipping Mac and iOS apps without opening Xcode",
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "points": 443,
-      "author": "speckx",
-      "created_at": 1783966936,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=48896665"
-    },
-    {
-      "id": "48892468",
-      "title": "Grok CLI uploaded the whole home directory to GCS",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "points": 402,
-      "author": "denysvitali",
-      "created_at": 1783949732,
-      "num_comments": 395,
-      "hn_url": "https://news.ycombinator.com/item?id=48892468"
-    },
-    {
-      "id": "48896286",
-      "title": "Show HN: Super Dario",
-      "url": "https://superdario.pawb.de",
-      "points": 383,
-      "author": "thepasch",
-      "created_at": 1783965232,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=48896286"
-    },
-    {
-      "id": "48894641",
-      "title": "DOGE is done. What happened to its records?",
-      "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
-      "points": 312,
-      "author": "ndsipa_pomu",
-      "created_at": 1783958199,
-      "num_comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=48894641"
-    },
-    {
-      "id": "48897991",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "url": "https://neow.in/cWsyMTV3",
-      "points": 309,
-      "author": "bundie",
-      "created_at": 1783972903,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=48897991"
-    },
-    {
-      "id": "48897878",
-      "title": "Telegram's t.me domain has been suspended",
-      "url": "https://www.whois.com/whois/t.me",
-      "points": 307,
-      "author": "Tiberium",
-      "created_at": 1783972345,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=48897878"
-    },
-    {
-      "id": "48893639",
-      "title": "The art and engineering of Sega CD Silpheed",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "points": 243,
-      "author": "ibobev",
-      "created_at": 1783954353,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=48893639"
-    },
-    {
-      "id": "48901569",
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "points": 727,
-      "author": "donohoe",
-      "created_at": 1783996040,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48901569"
-    },
-    {
       "id": "48910545",
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
@@ -129,26 +9,6 @@
       "created_at": 1784051448,
       "num_comments": 202,
       "hn_url": "https://news.ycombinator.com/item?id=48910545"
-    },
-    {
-      "id": "48903777",
-      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "points": 519,
-      "author": "roundabout-host",
-      "created_at": 1784018097,
-      "num_comments": 363,
-      "hn_url": "https://news.ycombinator.com/item?id=48903777"
-    },
-    {
-      "id": "48905248",
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "points": 514,
-      "author": "shintoist",
-      "created_at": 1784029562,
-      "num_comments": 540,
-      "hn_url": "https://news.ycombinator.com/item?id=48905248"
     },
     {
       "id": "48908178",
@@ -169,26 +29,6 @@
       "created_at": 1784048274,
       "num_comments": 212,
       "hn_url": "https://news.ycombinator.com/item?id=48909785"
-    },
-    {
-      "id": "48901010",
-      "title": "The git history command",
-      "url": "https://lalitm.com/post/git-history/",
-      "points": 435,
-      "author": "turbocon",
-      "created_at": 1783990631,
-      "num_comments": 309,
-      "hn_url": "https://news.ycombinator.com/item?id=48901010"
-    },
-    {
-      "id": "48905028",
-      "title": "Codex starts encrypting sub-agent prompts",
-      "url": "https://github.com/openai/codex/issues/28058",
-      "points": 418,
-      "author": "embedding-shape",
-      "created_at": 1784028092,
-      "num_comments": 246,
-      "hn_url": "https://news.ycombinator.com/item?id=48905028"
     },
     {
       "id": "48909424",
@@ -221,26 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48909768"
     },
     {
-      "id": "48902320",
-      "title": "Australian energy retailers must offer three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "points": 273,
-      "author": "i2oc",
-      "created_at": 1784003508,
-      "num_comments": 373,
-      "hn_url": "https://news.ycombinator.com/item?id=48902320"
-    },
-    {
-      "id": "48905290",
-      "title": "Germany set to restrict its Freedom of Information Act",
-      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-      "points": 261,
-      "author": "robtherobber",
-      "created_at": 1784029788,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48905290"
-    },
-    {
       "id": "48908214",
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
@@ -251,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48908214"
     },
     {
-      "id": "48905118",
-      "title": "Punch yourself in the face with reality",
-      "url": "https://adi.bio/reality",
-      "points": 225,
-      "author": "AdityaAnand1",
-      "created_at": 1784028799,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=48905118"
-    },
-    {
       "id": "48912175",
       "title": "How I use HTMX with Go",
       "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
@@ -269,46 +79,6 @@
       "created_at": 1784058931,
       "num_comments": 54,
       "hn_url": "https://news.ycombinator.com/item?id=48912175"
-    },
-    {
-      "id": "48903082",
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "points": 204,
-      "author": "BaudouinVH",
-      "created_at": 1784011408,
-      "num_comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=48903082"
-    },
-    {
-      "id": "48906125",
-      "title": "Proof of care in the age of AI",
-      "url": "https://jacobfilipp.com/care/",
-      "points": 181,
-      "author": "jfil",
-      "created_at": 1784033785,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=48906125"
-    },
-    {
-      "id": "48901454",
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "points": 176,
-      "author": "teleforce",
-      "created_at": 1783995019,
-      "num_comments": 12,
-      "hn_url": "https://news.ycombinator.com/item?id=48901454"
-    },
-    {
-      "id": "48901292",
-      "title": "What will be left for us to work on?",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "points": 175,
-      "author": "randomwalker",
-      "created_at": 1783993480,
-      "num_comments": 252,
-      "hn_url": "https://news.ycombinator.com/item?id=48901292"
     },
     {
       "id": "48924912",
@@ -17739,7 +17509,207 @@
       "created_at": 1791645024,
       "num_comments": 30,
       "hn_url": "https://news.ycombinator.com/item?id=50033721"
+    },
+    {
+      "id": "50048312",
+      "title": "Passkeys are a trap",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "points": 802,
+      "author": "laurex",
+      "created_at": 1791755988,
+      "num_comments": 434,
+      "hn_url": "https://news.ycombinator.com/item?id=50048312"
+    },
+    {
+      "id": "50041619",
+      "title": "Bot traffic from Yandex",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "points": 633,
+      "author": "walrus01",
+      "created_at": 1791714473,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=50041619"
+    },
+    {
+      "id": "50040547",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "points": 601,
+      "author": "defly",
+      "created_at": 1791704085,
+      "num_comments": 739,
+      "hn_url": "https://news.ycombinator.com/item?id=50040547"
+    },
+    {
+      "id": "50045984",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "points": 585,
+      "author": "jttnr",
+      "created_at": 1791741887,
+      "num_comments": 221,
+      "hn_url": "https://news.ycombinator.com/item?id=50045984"
+    },
+    {
+      "id": "50047422",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "points": 549,
+      "author": "albertzeyer",
+      "created_at": 1791750052,
+      "num_comments": 790,
+      "hn_url": "https://news.ycombinator.com/item?id=50047422"
+    },
+    {
+      "id": "50045946",
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "points": 529,
+      "author": "gregsadetsky",
+      "created_at": 1791741676,
+      "num_comments": 264,
+      "hn_url": "https://news.ycombinator.com/item?id=50045946"
+    },
+    {
+      "id": "50048642",
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "points": 516,
+      "author": "royfish",
+      "created_at": 1791758019,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=50048642"
+    },
+    {
+      "id": "50041682",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "points": 460,
+      "author": "ForHackernews",
+      "created_at": 1791715075,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=50041682"
+    },
+    {
+      "id": "50043026",
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "points": 445,
+      "author": "Anon84",
+      "created_at": 1791724605,
+      "num_comments": 452,
+      "hn_url": "https://news.ycombinator.com/item?id=50043026"
+    },
+    {
+      "id": "50040276",
+      "title": "LineageOS 24",
+      "url": "https://lineageos.org/Changelog-32/",
+      "points": 438,
+      "author": "timschumi",
+      "created_at": 1791699539,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=50040276"
+    },
+    {
+      "id": "50048638",
+      "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "points": 431,
+      "author": "heyimada",
+      "created_at": 1791758010,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=50048638"
+    },
+    {
+      "id": "50043689",
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "points": 403,
+      "author": "drogus",
+      "created_at": 1791728947,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=50043689"
+    },
+    {
+      "id": "50042219",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "points": 402,
+      "author": "edent",
+      "created_at": 1791719249,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=50042219"
+    },
+    {
+      "id": "50043682",
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "points": 399,
+      "author": "gumby",
+      "created_at": 1791728919,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=50043682"
+    },
+    {
+      "id": "50041540",
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "points": 393,
+      "author": "basilikum",
+      "created_at": 1791713487,
+      "num_comments": 334,
+      "hn_url": "https://news.ycombinator.com/item?id=50041540"
+    },
+    {
+      "id": "50047055",
+      "title": "So, you\u2019d like to sell your print issues of The Onion?",
+      "url": "https://theonion.com/archivehunt/",
+      "points": 361,
+      "author": "mooreds",
+      "created_at": 1791747812,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=50047055"
+    },
+    {
+      "id": "50047091",
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "points": 293,
+      "author": "edent",
+      "created_at": 1791748000,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=50047091"
+    },
+    {
+      "id": "50038634",
+      "title": "Show HN: WallHop \u2013 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
+      "points": 277,
+      "author": "TheWaffleHax",
+      "created_at": 1791679608,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=50038634"
+    },
+    {
+      "id": "50042425",
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "points": 241,
+      "author": "arusekk",
+      "created_at": 1791720793,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=50042425"
+    },
+    {
+      "id": "50047825",
+      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+      "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+      "points": 239,
+      "author": "bhrlady",
+      "created_at": 1791752840,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=50047825"
     }
   ],
-  "last_updated": "2026-10-11T12:00:21.310307+00:00"
+  "last_updated": "2026-10-12T14:15:35.975838+00:00"
 }
