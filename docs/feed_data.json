@@ -1,86 +1,6 @@
 {
   "posts": [
     {
-      "id": "48910545",
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "points": 561,
-      "author": "xenova",
-      "created_at": 1784051448,
-      "num_comments": 202,
-      "hn_url": "https://news.ycombinator.com/item?id=48910545"
-    },
-    {
-      "id": "48908178",
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "points": 454,
-      "author": "yenniejun111",
-      "created_at": 1784042293,
-      "num_comments": 418,
-      "hn_url": "https://news.ycombinator.com/item?id=48908178"
-    },
-    {
-      "id": "48909785",
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "points": 447,
-      "author": "cdrnsf",
-      "created_at": 1784048274,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=48909785"
-    },
-    {
-      "id": "48909424",
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "points": 366,
-      "author": "hoechst",
-      "created_at": 1784046966,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=48909424"
-    },
-    {
-      "id": "48910676",
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "points": 340,
-      "author": "Synthetic7346",
-      "created_at": 1784051915,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48910676"
-    },
-    {
-      "id": "48909768",
-      "title": "S&P Global has lowered Oracle\u2019s creditworthiness from BBB to BBB-",
-      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-      "points": 323,
-      "author": "gepeto42",
-      "created_at": 1784048208,
-      "num_comments": 335,
-      "hn_url": "https://news.ycombinator.com/item?id=48909768"
-    },
-    {
-      "id": "48908214",
-      "title": "I'm a USB-C Maximalist",
-      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "points": 259,
-      "author": "speckx",
-      "created_at": 1784042436,
-      "num_comments": 357,
-      "hn_url": "https://news.ycombinator.com/item?id=48908214"
-    },
-    {
-      "id": "48912175",
-      "title": "How I use HTMX with Go",
-      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "points": 215,
-      "author": "gnabgib",
-      "created_at": 1784058931,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=48912175"
-    },
-    {
       "id": "48924912",
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
@@ -89,56 +9,6 @@
       "created_at": 1784139165,
       "num_comments": 227,
       "hn_url": "https://news.ycombinator.com/item?id=48924912"
-    },
-    {
-      "id": "48915709",
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "points": 888,
-      "author": "vinhnx",
-      "created_at": 1784084267,
-      "num_comments": 233,
-      "hn_url": "https://news.ycombinator.com/item?id=48915709"
-    },
-    {
-      "id": "48919363",
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "points": 688,
-      "author": "bilsbie",
-      "created_at": 1784115966,
-      "num_comments": 367,
-      "hn_url": "https://news.ycombinator.com/item?id=48919363"
-    },
-    {
-      "id": "48916975",
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "points": 634,
-      "author": "macleginn",
-      "created_at": 1784096880,
-      "num_comments": 285,
-      "hn_url": "https://news.ycombinator.com/item?id=48916975"
-    },
-    {
-      "id": "48920181",
-      "title": "SpaceX bond worth 10% less than issue price \u2013 heading for junk bond status",
-      "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-      "points": 536,
-      "author": "youngtaff",
-      "created_at": 1784120349,
-      "num_comments": 552,
-      "hn_url": "https://news.ycombinator.com/item?id=48920181"
-    },
-    {
-      "id": "48915953",
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "points": 431,
-      "author": "rvz",
-      "created_at": 1784086365,
-      "num_comments": 229,
-      "hn_url": "https://news.ycombinator.com/item?id=48915953"
     },
     {
       "id": "48926590",
@@ -151,16 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48926590"
     },
     {
-      "id": "48914644",
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "points": 358,
-      "author": "LookAtThatBacon",
-      "created_at": 1784074553,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=48914644"
-    },
-    {
       "id": "48925271",
       "title": "Why I Left Google DeepMind",
       "url": "https://turntrout.com/why-i-left-google-deepmind",
@@ -169,16 +29,6 @@
       "created_at": 1784140834,
       "num_comments": 158,
       "hn_url": "https://news.ycombinator.com/item?id=48925271"
-    },
-    {
-      "id": "48919198",
-      "title": "Prioritize mental health, and why communication is so important",
-      "url": "https://ramones.dev/posts/mental-health/",
-      "points": 312,
-      "author": "ramon156",
-      "created_at": 1784114855,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=48919198"
     },
     {
       "id": "48923079",
@@ -199,16 +49,6 @@
       "created_at": 1784129645,
       "num_comments": 180,
       "hn_url": "https://news.ycombinator.com/item?id=48922434"
-    },
-    {
-      "id": "48920475",
-      "title": "Mysteries of Telegram Data Centers (2022)",
-      "url": "https://dev.moe/en/3025",
-      "points": 255,
-      "author": "theanonymousone",
-      "created_at": 1784121720,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=48920475"
     },
     {
       "id": "48928135",
@@ -241,26 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48923380"
     },
     {
-      "id": "48915004",
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "points": 212,
-      "author": "jervant",
-      "created_at": 1784077706,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=48915004"
-    },
-    {
-      "id": "48914683",
-      "title": "Data centers have hiked electricity prices on the public by $23B",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-      "points": 195,
-      "author": "measurablefunc",
-      "created_at": 1784074831,
-      "num_comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=48914683"
-    },
-    {
       "id": "48921077",
       "title": "Towards a harness that can do anything",
       "url": "https://eardatasci.github.io/c/ambiance/index.html",
@@ -269,16 +89,6 @@
       "created_at": 1784124508,
       "num_comments": 97,
       "hn_url": "https://news.ycombinator.com/item?id=48921077"
-    },
-    {
-      "id": "48918534",
-      "title": "Telegram Serverless",
-      "url": "https://core.telegram.org/bots/serverless",
-      "points": 190,
-      "author": "soheilpro",
-      "created_at": 1784109999,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=48918534"
     },
     {
       "id": "48935342",
@@ -17709,7 +17519,207 @@
       "created_at": 1791752840,
       "num_comments": 173,
       "hn_url": "https://news.ycombinator.com/item?id=50047825"
+    },
+    {
+      "id": "50055304",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "points": 778,
+      "author": "Zeekaas",
+      "created_at": 1791807402,
+      "num_comments": 896,
+      "hn_url": "https://news.ycombinator.com/item?id=50055304"
+    },
+    {
+      "id": "50059115",
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "points": 648,
+      "author": "meetpateltech",
+      "created_at": 1791823681,
+      "num_comments": 354,
+      "hn_url": "https://news.ycombinator.com/item?id=50059115"
+    },
+    {
+      "id": "50058528",
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "points": 625,
+      "author": "prophittcorey",
+      "created_at": 1791821590,
+      "num_comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=50058528"
+    },
+    {
+      "id": "50058507",
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "points": 609,
+      "author": "ilreb",
+      "created_at": 1791821505,
+      "num_comments": 338,
+      "hn_url": "https://news.ycombinator.com/item?id=50058507"
+    },
+    {
+      "id": "50054207",
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "points": 608,
+      "author": "Betelbuddy",
+      "created_at": 1791800487,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=50054207"
+    },
+    {
+      "id": "50060694",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "points": 579,
+      "author": "whimblepop",
+      "created_at": 1791829744,
+      "num_comments": 279,
+      "hn_url": "https://news.ycombinator.com/item?id=50060694"
+    },
+    {
+      "id": "50063427",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "points": 477,
+      "author": "layer8",
+      "created_at": 1791841218,
+      "num_comments": 385,
+      "hn_url": "https://news.ycombinator.com/item?id=50063427"
+    },
+    {
+      "id": "50055593",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "points": 380,
+      "author": "djfergus",
+      "created_at": 1791808918,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=50055593"
+    },
+    {
+      "id": "50054751",
+      "title": "QGIS enacts moratorium on AI contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "points": 378,
+      "author": "bwnkl",
+      "created_at": 1791804144,
+      "num_comments": 405,
+      "hn_url": "https://news.ycombinator.com/item?id=50054751"
+    },
+    {
+      "id": "50055220",
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "points": 374,
+      "author": "scrlk",
+      "created_at": 1791806949,
+      "num_comments": 413,
+      "hn_url": "https://news.ycombinator.com/item?id=50055220"
+    },
+    {
+      "id": "50059523",
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "points": 344,
+      "author": "gumby",
+      "created_at": 1791825241,
+      "num_comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=50059523"
+    },
+    {
+      "id": "50057278",
+      "title": "Why aren't AI companies being charged for hacking?",
+      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "points": 324,
+      "author": "ingve",
+      "created_at": 1791816757,
+      "num_comments": 354,
+      "hn_url": "https://news.ycombinator.com/item?id=50057278"
+    },
+    {
+      "id": "50059204",
+      "title": "Thinking will become a hobby",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "points": 308,
+      "author": "pranitha_m",
+      "created_at": 1791824048,
+      "num_comments": 421,
+      "hn_url": "https://news.ycombinator.com/item?id=50059204"
+    },
+    {
+      "id": "50052251",
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "points": 300,
+      "author": "deadxwarrior",
+      "created_at": 1791787613,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=50052251"
+    },
+    {
+      "id": "50060269",
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "points": 282,
+      "author": "svieira",
+      "created_at": 1791828025,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=50060269"
+    },
+    {
+      "id": "50051530",
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "points": 267,
+      "author": "amosbatto",
+      "created_at": 1791780840,
+      "num_comments": 334,
+      "hn_url": "https://news.ycombinator.com/item?id=50051530"
+    },
+    {
+      "id": "50063365",
+      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "points": 265,
+      "author": "hurricanepootis",
+      "created_at": 1791840935,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=50063365"
+    },
+    {
+      "id": "50051573",
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "points": 244,
+      "author": "lukaslalinsky",
+      "created_at": 1791781354,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=50051573"
+    },
+    {
+      "id": "50051583",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "points": 241,
+      "author": "m463",
+      "created_at": 1791781427,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=50051583"
+    },
+    {
+      "id": "50061791",
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "points": 241,
+      "author": "speckx",
+      "created_at": 1791833762,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=50061791"
     }
   ],
-  "last_updated": "2026-10-12T14:15:35.975838+00:00"
+  "last_updated": "2026-10-13T13:25:28.444403+00:00"
 }
