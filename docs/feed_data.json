@@ -1,96 +1,6 @@
 {
   "posts": [
     {
-      "id": "48924912",
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "points": 929,
-      "author": "vimarsh6739",
-      "created_at": 1784139165,
-      "num_comments": 227,
-      "hn_url": "https://news.ycombinator.com/item?id=48924912"
-    },
-    {
-      "id": "48926590",
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "points": 418,
-      "author": "skp1995",
-      "created_at": 1784147098,
-      "num_comments": 434,
-      "hn_url": "https://news.ycombinator.com/item?id=48926590"
-    },
-    {
-      "id": "48925271",
-      "title": "Why I Left Google DeepMind",
-      "url": "https://turntrout.com/why-i-left-google-deepmind",
-      "points": 322,
-      "author": "apsec112",
-      "created_at": 1784140834,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=48925271"
-    },
-    {
-      "id": "48923079",
-      "title": "Codex Micro",
-      "url": "https://openai.com/supply/co-lab/work-louder/",
-      "points": 278,
-      "author": "davidbarker",
-      "created_at": 1784131978,
-      "num_comments": 235,
-      "hn_url": "https://news.ycombinator.com/item?id=48923079"
-    },
-    {
-      "id": "48922434",
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "points": 275,
-      "author": "neomindryan",
-      "created_at": 1784129645,
-      "num_comments": 180,
-      "hn_url": "https://news.ycombinator.com/item?id=48922434"
-    },
-    {
-      "id": "48928135",
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "points": 242,
-      "author": "gnyeki",
-      "created_at": 1784155378,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=48928135"
-    },
-    {
-      "id": "48921461",
-      "title": "OpenAI loses trademark dispute at EU court",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "points": 233,
-      "author": "hermanzegerman",
-      "created_at": 1784125956,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48921461"
-    },
-    {
-      "id": "48923380",
-      "title": "Collection of Digital Clock Designs",
-      "url": "https://clocks.dev",
-      "points": 231,
-      "author": "levmiseri",
-      "created_at": 1784133195,
-      "num_comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=48923380"
-    },
-    {
-      "id": "48921077",
-      "title": "Towards a harness that can do anything",
-      "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "points": 190,
-      "author": "evakhoury",
-      "created_at": 1784124508,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=48921077"
-    },
-    {
       "id": "48935342",
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
@@ -99,16 +9,6 @@
       "created_at": 1784213165,
       "num_comments": 922,
       "hn_url": "https://news.ycombinator.com/item?id=48935342"
-    },
-    {
-      "id": "48930454",
-      "title": "The lost joy of music piracy",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "points": 787,
-      "author": "mcgin",
-      "created_at": 1784177181,
-      "num_comments": 532,
-      "hn_url": "https://news.ycombinator.com/item?id=48930454"
     },
     {
       "id": "48936426",
@@ -129,16 +29,6 @@
       "created_at": 1784204023,
       "num_comments": 393,
       "hn_url": "https://news.ycombinator.com/item?id=48933419"
-    },
-    {
-      "id": "48932539",
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "points": 563,
-      "author": "pilililo2",
-      "created_at": 1784196844,
-      "num_comments": 347,
-      "hn_url": "https://news.ycombinator.com/item?id=48932539"
     },
     {
       "id": "48936584",
@@ -171,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48936451"
     },
     {
-      "id": "48931588",
-      "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
-      "url": "https://joinedanthropic.com",
-      "points": 296,
-      "author": "ohong",
-      "created_at": 1784189015,
-      "num_comments": 215,
-      "hn_url": "https://news.ycombinator.com/item?id=48931588"
-    },
-    {
       "id": "48933344",
       "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
       "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
@@ -191,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48933344"
     },
     {
-      "id": "48932697",
-      "title": "Ente \u2013 Opening Our Books",
-      "url": "https://ente.com/open/",
-      "points": 252,
-      "author": "Sherex",
-      "created_at": 1784198237,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=48932697"
-    },
-    {
       "id": "48939524",
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
@@ -209,26 +79,6 @@
       "created_at": 1784232203,
       "num_comments": 296,
       "hn_url": "https://news.ycombinator.com/item?id=48939524"
-    },
-    {
-      "id": "48929945",
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "points": 239,
-      "author": "gslin",
-      "created_at": 1784171567,
-      "num_comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=48929945"
-    },
-    {
-      "id": "48930136",
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "points": 235,
-      "author": "treve",
-      "created_at": 1784173723,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=48930136"
     },
     {
       "id": "48939662",
@@ -261,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48935951"
     },
     {
-      "id": "48930011",
-      "title": "Guerrilla London bus ads mock Kylie Jenner\u2019s Meta glasses campaign",
-      "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
-      "points": 201,
-      "author": "decimalenough",
-      "created_at": 1784172265,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48930011"
-    },
-    {
       "id": "48936880",
       "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
@@ -279,16 +119,6 @@
       "created_at": 1784220097,
       "num_comments": 133,
       "hn_url": "https://news.ycombinator.com/item?id=48936880"
-    },
-    {
-      "id": "48929351",
-      "title": "Bluesky Trademarks ATProto",
-      "url": "https://atproto.com/blog/at-protocol-trademark",
-      "points": 185,
-      "author": "chaosharmonic",
-      "created_at": 1784164864,
-      "num_comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=48929351"
     },
     {
       "id": "48945241",
@@ -17719,7 +17549,207 @@
       "created_at": 1791833762,
       "num_comments": 117,
       "hn_url": "https://news.ycombinator.com/item?id=50061791"
+    },
+    {
+      "id": "50073879",
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "points": 1330,
+      "author": "737max",
+      "created_at": 1791907396,
+      "num_comments": 923,
+      "hn_url": "https://news.ycombinator.com/item?id=50073879"
+    },
+    {
+      "id": "50073633",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "points": 787,
+      "author": "Philpax",
+      "created_at": 1791906596,
+      "num_comments": 814,
+      "hn_url": "https://news.ycombinator.com/item?id=50073633"
+    },
+    {
+      "id": "50071017",
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "points": 735,
+      "author": "etothet",
+      "created_at": 1791896532,
+      "num_comments": 862,
+      "hn_url": "https://news.ycombinator.com/item?id=50071017"
+    },
+    {
+      "id": "50069499",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "points": 723,
+      "author": "formerly_proven",
+      "created_at": 1791887220,
+      "num_comments": 406,
+      "hn_url": "https://news.ycombinator.com/item?id=50069499"
+    },
+    {
+      "id": "50070302",
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "points": 718,
+      "author": "recvonline",
+      "created_at": 1791892842,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=50070302"
+    },
+    {
+      "id": "50078141",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "points": 599,
+      "author": "forthwall",
+      "created_at": 1791923035,
+      "num_comments": 495,
+      "hn_url": "https://news.ycombinator.com/item?id=50078141"
+    },
+    {
+      "id": "50069329",
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "points": 450,
+      "author": "helsinkiandrew",
+      "created_at": 1791886080,
+      "num_comments": 256,
+      "hn_url": "https://news.ycombinator.com/item?id=50069329"
+    },
+    {
+      "id": "50077020",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "points": 450,
+      "author": "talccc",
+      "created_at": 1791918708,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=50077020"
+    },
+    {
+      "id": "50072913",
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "points": 443,
+      "author": "mjorgers",
+      "created_at": 1791904057,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=50072913"
+    },
+    {
+      "id": "50069971",
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "points": 415,
+      "author": "amrrs",
+      "created_at": 1791890834,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=50069971"
+    },
+    {
+      "id": "50067414",
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "points": 373,
+      "author": "benbreen",
+      "created_at": 1791871371,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=50067414"
+    },
+    {
+      "id": "50071310",
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "points": 333,
+      "author": "corvad",
+      "created_at": 1791897695,
+      "num_comments": 622,
+      "hn_url": "https://news.ycombinator.com/item?id=50071310"
+    },
+    {
+      "id": "50072994",
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "points": 329,
+      "author": "karakoram",
+      "created_at": 1791904377,
+      "num_comments": 531,
+      "hn_url": "https://news.ycombinator.com/item?id=50072994"
+    },
+    {
+      "id": "50073221",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "points": 326,
+      "author": "sammy0910",
+      "created_at": 1791905150,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=50073221"
+    },
+    {
+      "id": "50068036",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "points": 324,
+      "author": "nryoo",
+      "created_at": 1791876514,
+      "num_comments": 279,
+      "hn_url": "https://news.ycombinator.com/item?id=50068036"
+    },
+    {
+      "id": "50072286",
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "points": 275,
+      "author": "ivell",
+      "created_at": 1791901568,
+      "num_comments": 483,
+      "hn_url": "https://news.ycombinator.com/item?id=50072286"
+    },
+    {
+      "id": "50065692",
+      "title": "AI models can provably hide arbitrary capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "points": 275,
+      "author": "sbulaev",
+      "created_at": 1791857228,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=50065692"
+    },
+    {
+      "id": "50070593",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "points": 246,
+      "author": "acossta",
+      "created_at": 1791894396,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=50070593"
+    },
+    {
+      "id": "50065932",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "points": 241,
+      "author": "mochomocha",
+      "created_at": 1791859603,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=50065932"
+    },
+    {
+      "id": "50074869",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "points": 220,
+      "author": "xnx",
+      "created_at": 1791910547,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=50074869"
     }
   ],
-  "last_updated": "2026-10-13T13:25:28.444403+00:00"
+  "last_updated": "2026-10-14T11:03:10.334041+00:00"
 }
