@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "48935342",
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "points": 1533,
-      "author": "vincent_s",
-      "created_at": 1784213165,
-      "num_comments": 922,
-      "hn_url": "https://news.ycombinator.com/item?id=48935342"
-    },
-    {
-      "id": "48936426",
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "points": 651,
-      "author": "jervant",
-      "created_at": 1784217987,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48936426"
-    },
-    {
-      "id": "48933419",
-      "title": "Sony deletes more movies from the accounts of people who \u2018bought\u2019 them",
-      "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-      "points": 637,
-      "author": "nekusar",
-      "created_at": 1784204023,
-      "num_comments": 393,
-      "hn_url": "https://news.ycombinator.com/item?id=48933419"
-    },
-    {
-      "id": "48936584",
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "points": 525,
-      "author": "ray__",
-      "created_at": 1784218701,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=48936584"
-    },
-    {
-      "id": "48933149",
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "url": "https://rtfeldman.com/rust-to-zig",
-      "points": 492,
-      "author": "jorangreef",
-      "created_at": 1784201967,
-      "num_comments": 258,
-      "hn_url": "https://news.ycombinator.com/item?id=48933149"
-    },
-    {
-      "id": "48936451",
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "points": 298,
-      "author": "xnx",
-      "created_at": 1784218093,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=48936451"
-    },
-    {
-      "id": "48933344",
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "points": 293,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1784203331,
-      "num_comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=48933344"
-    },
-    {
-      "id": "48939524",
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "points": 239,
-      "author": "hershyb_",
-      "created_at": 1784232203,
-      "num_comments": 296,
-      "hn_url": "https://news.ycombinator.com/item?id=48939524"
-    },
-    {
-      "id": "48939662",
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "points": 232,
-      "author": "minimaxir",
-      "created_at": 1784233095,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=48939662"
-    },
-    {
-      "id": "48933310",
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "points": 215,
-      "author": "JeremyTheo",
-      "created_at": 1784203141,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=48933310"
-    },
-    {
-      "id": "48935951",
-      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "url": "https://immersivemath.com/ila/",
-      "points": 210,
-      "author": "srean",
-      "created_at": 1784215943,
-      "num_comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=48935951"
-    },
-    {
-      "id": "48936880",
-      "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "points": 190,
-      "author": "uneven9434",
-      "created_at": 1784220097,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=48936880"
-    },
-    {
-      "id": "48945241",
-      "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "points": 1146,
-      "author": "nprateem",
-      "created_at": 1784281325,
-      "num_comments": 685,
-      "hn_url": "https://news.ycombinator.com/item?id=48945241"
-    },
-    {
       "id": "48949551",
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "url": "https://news.ycombinator.com/item?id=48949551",
@@ -201,46 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48947717"
     },
     {
-      "id": "48942000",
-      "title": "The human-in-the-loop is tired",
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "points": 304,
-      "author": "haritha1313",
-      "created_at": 1784247669,
-      "num_comments": 197,
-      "hn_url": "https://news.ycombinator.com/item?id=48942000"
-    },
-    {
-      "id": "48943174",
-      "title": "Pebble Mega Update \u2013 July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "points": 263,
-      "author": "crazysaem",
-      "created_at": 1784260418,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=48943174"
-    },
-    {
-      "id": "48943142",
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "points": 258,
-      "author": "divbzero",
-      "created_at": 1784260106,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=48943142"
-    },
-    {
-      "id": "48943745",
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "points": 250,
-      "author": "giuliomagnifico",
-      "created_at": 1784267470,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=48943745"
-    },
-    {
       "id": "48950122",
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
@@ -271,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48951461"
     },
     {
-      "id": "48945681",
-      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-      "url": "https://news.ycombinator.com/item?id=48945681",
-      "points": 203,
-      "author": "mstolpm",
-      "created_at": 1784285121,
-      "num_comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=48945681"
-    },
-    {
       "id": "48947455",
       "title": "A Road to Lisp: Which Lisp",
       "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
@@ -289,16 +109,6 @@
       "created_at": 1784296564,
       "num_comments": 137,
       "hn_url": "https://news.ycombinator.com/item?id=48947455"
-    },
-    {
-      "id": "48942454",
-      "title": "GrapheneOS recommended for domestic abuse victims",
-      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "points": 174,
-      "author": "aussieguy1234",
-      "created_at": 1784252212,
-      "num_comments": 197,
-      "hn_url": "https://news.ycombinator.com/item?id=48942454"
     },
     {
       "id": "48952939",
@@ -17749,7 +17559,207 @@
       "created_at": 1791910547,
       "num_comments": 50,
       "hn_url": "https://news.ycombinator.com/item?id=50074869"
+    },
+    {
+      "id": "50093568",
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "points": 1410,
+      "author": "jjmaxwell4",
+      "created_at": 1792005990,
+      "num_comments": 350,
+      "hn_url": "https://news.ycombinator.com/item?id=50093568"
+    },
+    {
+      "id": "50091788",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "points": 905,
+      "author": "latexr",
+      "created_at": 1791999923,
+      "num_comments": 537,
+      "hn_url": "https://news.ycombinator.com/item?id=50091788"
+    },
+    {
+      "id": "50084757",
+      "title": "How Amazon pushes up prices all across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "points": 842,
+      "author": "sighborg",
+      "created_at": 1791970097,
+      "num_comments": 647,
+      "hn_url": "https://news.ycombinator.com/item?id=50084757"
+    },
+    {
+      "id": "50084240",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "points": 721,
+      "author": "otobrglez",
+      "created_at": 1791966479,
+      "num_comments": 297,
+      "hn_url": "https://news.ycombinator.com/item?id=50084240"
+    },
+    {
+      "id": "50094994",
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "points": 628,
+      "author": "gmays",
+      "created_at": 1792010904,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=50094994"
+    },
+    {
+      "id": "50088935",
+      "title": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "points": 602,
+      "author": "speckx",
+      "created_at": 1791990945,
+      "num_comments": 747,
+      "hn_url": "https://news.ycombinator.com/item?id=50088935"
+    },
+    {
+      "id": "50090246",
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "points": 512,
+      "author": "bhrlady",
+      "created_at": 1791995051,
+      "num_comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=50090246"
+    },
+    {
+      "id": "50083130",
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "points": 492,
+      "author": "tharen",
+      "created_at": 1791958681,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=50083130"
+    },
+    {
+      "id": "50090349",
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "points": 472,
+      "author": "Brajeshwar",
+      "created_at": 1791995331,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=50090349"
+    },
+    {
+      "id": "50096142",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "points": 457,
+      "author": "donohoe",
+      "created_at": 1792015808,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50096142"
+    },
+    {
+      "id": "50093180",
+      "title": "Suicide rates highest ever among middle-aged men",
+      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "points": 421,
+      "author": "ivewonyoung",
+      "created_at": 1792004638,
+      "num_comments": 535,
+      "hn_url": "https://news.ycombinator.com/item?id=50093180"
+    },
+    {
+      "id": "50089921",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "points": 412,
+      "author": "hubraumhugo",
+      "created_at": 1791994140,
+      "num_comments": 385,
+      "hn_url": "https://news.ycombinator.com/item?id=50089921"
+    },
+    {
+      "id": "50094694",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "points": 375,
+      "author": "sunshowers",
+      "created_at": 1792009854,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=50094694"
+    },
+    {
+      "id": "50092664",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "points": 367,
+      "author": "smartmic",
+      "created_at": 1792002772,
+      "num_comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=50092664"
+    },
+    {
+      "id": "50092730",
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "points": 367,
+      "author": "ilamont",
+      "created_at": 1792003041,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=50092730"
+    },
+    {
+      "id": "50083028",
+      "title": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "points": 363,
+      "author": "epestr",
+      "created_at": 1791957736,
+      "num_comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=50083028"
+    },
+    {
+      "id": "50095353",
+      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "points": 301,
+      "author": "emschwartz",
+      "created_at": 1792012263,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=50095353"
+    },
+    {
+      "id": "50082470",
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "points": 277,
+      "author": "rglover",
+      "created_at": 1791952953,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=50082470"
+    },
+    {
+      "id": "50094673",
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "points": 261,
+      "author": "coloneltcb",
+      "created_at": 1792009753,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=50094673"
+    },
+    {
+      "id": "50090369",
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "points": 257,
+      "author": "allddd",
+      "created_at": 1791995373,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=50090369"
     }
   ],
-  "last_updated": "2026-10-14T11:03:10.334041+00:00"
+  "last_updated": "2026-10-15T10:45:56.554483+00:00"
 }
