@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "48957779",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "points": 553,
-      "author": "mbustamanter",
-      "created_at": 1784379652,
-      "num_comments": 353,
-      "hn_url": "https://news.ycombinator.com/item?id=48957779"
-    },
-    {
-      "id": "48962983",
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "points": 447,
-      "author": "gnabgib",
-      "created_at": 1784412819,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=48962983"
-    },
-    {
-      "id": "48956924",
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "points": 423,
-      "author": "miniBill",
-      "created_at": 1784372810,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=48956924"
-    },
-    {
-      "id": "48956949",
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "points": 400,
-      "author": "secretslol",
-      "created_at": 1784373166,
-      "num_comments": 491,
-      "hn_url": "https://news.ycombinator.com/item?id=48956949"
-    },
-    {
-      "id": "48959090",
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "points": 382,
-      "author": "barry-cotter",
-      "created_at": 1784389021,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=48959090"
-    },
-    {
-      "id": "48960218",
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "points": 356,
-      "author": "sbochins",
-      "created_at": 1784395960,
-      "num_comments": 387,
-      "hn_url": "https://news.ycombinator.com/item?id=48960218"
-    },
-    {
-      "id": "48958269",
-      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
-      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
-      "points": 287,
-      "author": "robtherobber",
-      "created_at": 1784383482,
-      "num_comments": 288,
-      "hn_url": "https://news.ycombinator.com/item?id=48958269"
-    },
-    {
-      "id": "48956879",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "points": 235,
-      "author": "couAUIA",
-      "created_at": 1784372429,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=48956879"
-    },
-    {
-      "id": "48959143",
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "points": 231,
-      "author": "nerdypepper",
-      "created_at": 1784389444,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=48959143"
-    },
-    {
-      "id": "48959392",
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "points": 224,
-      "author": "ykev",
-      "created_at": 1784391128,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48959392"
-    },
-    {
-      "id": "48959042",
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "points": 222,
-      "author": "bbg2401",
-      "created_at": 1784388724,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=48959042"
-    },
-    {
-      "id": "48960155",
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "points": 207,
-      "author": "Ygg2",
-      "created_at": 1784395644,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=48960155"
-    },
-    {
-      "id": "48963465",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "points": 158,
-      "author": "denysvitali",
-      "created_at": 1784417066,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=48963465"
-    },
-    {
-      "id": "48962758",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "points": 147,
-      "author": "cdrnsf",
-      "created_at": 1784411112,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=48962758"
-    },
-    {
-      "id": "48958814",
-      "title": "British runner Josh Kerr breaks world record for mile which stood for 27 years",
-      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
-      "points": 121,
-      "author": "austinallegro",
-      "created_at": 1784387312,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=48958814"
-    },
-    {
       "id": "48968606",
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "url": "https://news.ycombinator.com/item?id=48968606",
@@ -159,36 +9,6 @@
       "created_at": 1784472076,
       "num_comments": 236,
       "hn_url": "https://news.ycombinator.com/item?id=48968606"
-    },
-    {
-      "id": "48966120",
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "points": 873,
-      "author": "nh43215rgb",
-      "created_at": 1784450697,
-      "num_comments": 596,
-      "hn_url": "https://news.ycombinator.com/item?id=48966120"
-    },
-    {
-      "id": "48963879",
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "points": 742,
-      "author": "sebjones",
-      "created_at": 1784421506,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=48963879"
-    },
-    {
-      "id": "48966569",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "points": 506,
-      "author": "tosh",
-      "created_at": 1784455403,
-      "num_comments": 670,
-      "hn_url": "https://news.ycombinator.com/item?id=48966569"
     },
     {
       "id": "48966713",
@@ -201,26 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48966713"
     },
     {
-      "id": "48964185",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "points": 403,
-      "author": "subset",
-      "created_at": 1784424559,
-      "num_comments": 252,
-      "hn_url": "https://news.ycombinator.com/item?id=48964185"
-    },
-    {
-      "id": "48965850",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "points": 340,
-      "author": "AmazingTurtle",
-      "created_at": 1784447679,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=48965850"
-    },
-    {
       "id": "48971738",
       "title": "AI advice made people less accurate but more confident \u2013 sudy",
       "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
@@ -229,16 +29,6 @@
       "created_at": 1784495890,
       "num_comments": 188,
       "hn_url": "https://news.ycombinator.com/item?id=48971738"
-    },
-    {
-      "id": "48964015",
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "points": 333,
-      "author": "xonery",
-      "created_at": 1784422795,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=48964015"
     },
     {
       "id": "48967256",
@@ -259,16 +49,6 @@
       "created_at": 1784476945,
       "num_comments": 106,
       "hn_url": "https://news.ycombinator.com/item?id=48969291"
-    },
-    {
-      "id": "48966190",
-      "title": "Qwen 3.8 Max Preview",
-      "url": "https://www.qwencloud.com/pricing/token-plan",
-      "points": 219,
-      "author": "lebovic",
-      "created_at": 1784451451,
-      "num_comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=48966190"
     },
     {
       "id": "48969635",
@@ -329,16 +109,6 @@
       "created_at": 1784479116,
       "num_comments": 61,
       "hn_url": "https://news.ycombinator.com/item?id=48969582"
-    },
-    {
-      "id": "48965880",
-      "title": "Ollama: All Aboard Open Models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "points": 132,
-      "author": "inferhaven",
-      "created_at": 1784447984,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=48965880"
     },
     {
       "id": "48966769",
@@ -17779,7 +17549,207 @@
       "created_at": 1792076328,
       "num_comments": 193,
       "hn_url": "https://news.ycombinator.com/item?id=50104654"
+    },
+    {
+      "id": "50112657",
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "points": 1431,
+      "author": "shekhar101",
+      "created_at": 1792114365,
+      "num_comments": 2508,
+      "hn_url": "https://news.ycombinator.com/item?id=50112657"
+    },
+    {
+      "id": "50122800",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "points": 872,
+      "author": "ahlCVA",
+      "created_at": 1792176959,
+      "num_comments": 324,
+      "hn_url": "https://news.ycombinator.com/item?id=50122800"
+    },
+    {
+      "id": "50121179",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "points": 502,
+      "author": "speckx",
+      "created_at": 1792170518,
+      "num_comments": 424,
+      "hn_url": "https://news.ycombinator.com/item?id=50121179"
+    },
+    {
+      "id": "50122951",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "points": 349,
+      "author": "pretext",
+      "created_at": 1792177487,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=50122951"
+    },
+    {
+      "id": "50117746",
+      "title": "I love software rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "points": 323,
+      "author": "speckx",
+      "created_at": 1792155128,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=50117746"
+    },
+    {
+      "id": "50118320",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "points": 320,
+      "author": "antipaul",
+      "created_at": 1792158228,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=50118320"
+    },
+    {
+      "id": "50118981",
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "points": 310,
+      "author": "ChrisArchitect",
+      "created_at": 1792161857,
+      "num_comments": 411,
+      "hn_url": "https://news.ycombinator.com/item?id=50118981"
+    },
+    {
+      "id": "50122878",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "points": 308,
+      "author": "speckx",
+      "created_at": 1792177277,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=50122878"
+    },
+    {
+      "id": "50122431",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "points": 290,
+      "author": "Anon84",
+      "created_at": 1792175555,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=50122431"
+    },
+    {
+      "id": "50120224",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "points": 259,
+      "author": "farlight",
+      "created_at": 1792167122,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=50120224"
+    },
+    {
+      "id": "50122112",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "points": 255,
+      "author": "JumpCrisscross",
+      "created_at": 1792174302,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=50122112"
+    },
+    {
+      "id": "50112739",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://github.com/Saffsanity/sill",
+      "points": 253,
+      "author": "chanana",
+      "created_at": 1792114997,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50112739"
+    },
+    {
+      "id": "50112330",
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "points": 224,
+      "author": "emot",
+      "created_at": 1792111955,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=50112330"
+    },
+    {
+      "id": "50122034",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "points": 222,
+      "author": "7402",
+      "created_at": 1792173977,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=50122034"
+    },
+    {
+      "id": "50118688",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "points": 222,
+      "author": "__cayenne__",
+      "created_at": 1792160324,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=50118688"
+    },
+    {
+      "id": "50124251",
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "points": 221,
+      "author": "trvrprkr",
+      "created_at": 1792182821,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=50124251"
+    },
+    {
+      "id": "50114342",
+      "title": "The Folders Programming Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "points": 209,
+      "author": "gurst",
+      "created_at": 1792127488,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=50114342"
+    },
+    {
+      "id": "50120101",
+      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+      "points": 205,
+      "author": "DeepLogin",
+      "created_at": 1792166582,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=50120101"
+    },
+    {
+      "id": "50119991",
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "points": 198,
+      "author": "magoghm",
+      "created_at": 1792166140,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=50119991"
+    },
+    {
+      "id": "50120664",
+      "title": "Desire to Move Permanently to U.S. at New Low",
+      "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+      "points": 192,
+      "author": "karakoram",
+      "created_at": 1792168682,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=50120664"
     }
   ],
-  "last_updated": "2026-10-16T10:33:43.286089+00:00"
+  "last_updated": "2026-10-17T10:03:25.213395+00:00"
 }
