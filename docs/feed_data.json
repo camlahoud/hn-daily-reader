@@ -1,126 +1,6 @@
 {
   "posts": [
     {
-      "id": "48968606",
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "points": 2224,
-      "author": "section33",
-      "created_at": 1784472076,
-      "num_comments": 236,
-      "hn_url": "https://news.ycombinator.com/item?id=48968606"
-    },
-    {
-      "id": "48966713",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "points": 482,
-      "author": "chipweinberger",
-      "created_at": 1784457298,
-      "num_comments": 219,
-      "hn_url": "https://news.ycombinator.com/item?id=48966713"
-    },
-    {
-      "id": "48971738",
-      "title": "AI advice made people less accurate but more confident \u2013 sudy",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "points": 335,
-      "author": "rbanffy",
-      "created_at": 1784495890,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=48971738"
-    },
-    {
-      "id": "48967256",
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "points": 307,
-      "author": "ObviouslyFlamer",
-      "created_at": 1784461698,
-      "num_comments": 202,
-      "hn_url": "https://news.ycombinator.com/item?id=48967256"
-    },
-    {
-      "id": "48969291",
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "points": 256,
-      "author": "serialx",
-      "created_at": 1784476945,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=48969291"
-    },
-    {
-      "id": "48969635",
-      "title": "The Last MPEG-4 Visual Patent Has Expired",
-      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
-      "points": 204,
-      "author": "LorenDB",
-      "created_at": 1784479517,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=48969635"
-    },
-    {
-      "id": "48966984",
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "points": 199,
-      "author": "andros",
-      "created_at": 1784459678,
-      "num_comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=48966984"
-    },
-    {
-      "id": "48970894",
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "points": 189,
-      "author": "sebjones",
-      "created_at": 1784488409,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=48970894"
-    },
-    {
-      "id": "48972062",
-      "title": "We want Texans to know their rights",
-      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
-      "points": 180,
-      "author": "amarcheschi",
-      "created_at": 1784498591,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=48972062"
-    },
-    {
-      "id": "48968063",
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "points": 154,
-      "author": "teleforce",
-      "created_at": 1784467769,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=48968063"
-    },
-    {
-      "id": "48969582",
-      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
-      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
-      "points": 135,
-      "author": "randycupertino",
-      "created_at": 1784479116,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=48969582"
-    },
-    {
-      "id": "48966769",
-      "title": "The death and rebirth of my home server",
-      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-      "points": 131,
-      "author": "steinuil",
-      "created_at": 1784457871,
-      "num_comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=48966769"
-    },
-    {
       "id": "48979269",
       "title": "China\u2019s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
@@ -139,16 +19,6 @@
       "created_at": 1784543440,
       "num_comments": 153,
       "hn_url": "https://news.ycombinator.com/item?id=48976846"
-    },
-    {
-      "id": "48973869",
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "points": 746,
-      "author": "loubbrad",
-      "created_at": 1784515876,
-      "num_comments": 471,
-      "hn_url": "https://news.ycombinator.com/item?id=48973869"
     },
     {
       "id": "48978605",
@@ -191,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48977711"
     },
     {
-      "id": "48974454",
-      "title": "Xiaomi-Robotics-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "points": 477,
-      "author": "ilreb",
-      "created_at": 1784522715,
-      "num_comments": 313,
-      "hn_url": "https://news.ycombinator.com/item?id=48974454"
-    },
-    {
       "id": "48981620",
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
@@ -211,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48981620"
     },
     {
-      "id": "48975665",
-      "title": "I found a WordPress RCEs with GPT5.6 and $25",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "points": 391,
-      "author": "infosecau",
-      "created_at": 1784535216,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=48975665"
-    },
-    {
       "id": "48978112",
       "title": "Annoying and alarming things about OpenCode",
       "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
@@ -229,16 +79,6 @@
       "created_at": 1784551555,
       "num_comments": 247,
       "hn_url": "https://news.ycombinator.com/item?id=48978112"
-    },
-    {
-      "id": "48972970",
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "points": 341,
-      "author": "wertyk",
-      "created_at": 1784506610,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=48972970"
     },
     {
       "id": "48980019",
@@ -17749,7 +17589,207 @@
       "created_at": 1792168682,
       "num_comments": 200,
       "hn_url": "https://news.ycombinator.com/item?id=50120664"
+    },
+    {
+      "id": "50133401",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "points": 870,
+      "author": "pranshuchittora",
+      "created_at": 1792260101,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=50133401"
+    },
+    {
+      "id": "50129045",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "points": 861,
+      "author": "theykk",
+      "created_at": 1792225285,
+      "num_comments": 656,
+      "hn_url": "https://news.ycombinator.com/item?id=50129045"
+    },
+    {
+      "id": "50131256",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "points": 612,
+      "author": "xbmcuser",
+      "created_at": 1792245661,
+      "num_comments": 380,
+      "hn_url": "https://news.ycombinator.com/item?id=50131256"
+    },
+    {
+      "id": "50129121",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "points": 514,
+      "author": "theanonymousone",
+      "created_at": 1792226266,
+      "num_comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50129121"
+    },
+    {
+      "id": "50132193",
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "points": 439,
+      "author": "dchest",
+      "created_at": 1792252509,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=50132193"
+    },
+    {
+      "id": "50127274",
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "points": 365,
+      "author": "wetwater",
+      "created_at": 1792203668,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=50127274"
+    },
+    {
+      "id": "50132870",
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "points": 334,
+      "author": "iamnothere",
+      "created_at": 1792256767,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=50132870"
+    },
+    {
+      "id": "50129947",
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+      "points": 305,
+      "author": "bookofjoe",
+      "created_at": 1792234771,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=50129947"
+    },
+    {
+      "id": "50131213",
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "points": 304,
+      "author": "crescit_eundo",
+      "created_at": 1792245328,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=50131213"
+    },
+    {
+      "id": "50127979",
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "points": 296,
+      "author": "albinstman",
+      "created_at": 1792211813,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=50127979"
+    },
+    {
+      "id": "50127586",
+      "title": "Source code of the Estonian online voting system",
+      "url": "https://github.com/valimised/ivxv",
+      "points": 213,
+      "author": "theanonymousone",
+      "created_at": 1792207119,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=50127586"
+    },
+    {
+      "id": "50133150",
+      "title": "I Became a Citizen of Japan",
+      "url": "https://www.derekwessman.com/blog-1/natural",
+      "points": 205,
+      "author": "luu",
+      "created_at": 1792258577,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=50133150"
+    },
+    {
+      "id": "50131440",
+      "title": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
+      "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
+      "points": 187,
+      "author": "ck2",
+      "created_at": 1792246925,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=50131440"
+    },
+    {
+      "id": "50132328",
+      "title": "GLP-1 may slow biological aging",
+      "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+      "points": 174,
+      "author": "dzink",
+      "created_at": 1792253421,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=50132328"
+    },
+    {
+      "id": "50131189",
+      "title": "Show HN: Esp32sim \u2013 Run ESP32 firmware in the browser",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "points": 167,
+      "author": "joakimeriksson",
+      "created_at": 1792245068,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=50131189"
+    },
+    {
+      "id": "50132278",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "points": 165,
+      "author": "DeepLogin",
+      "created_at": 1792253063,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=50132278"
+    },
+    {
+      "id": "50128297",
+      "title": "Israeli settlers attack olive framers & Washington Post journalist in West Bank",
+      "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+      "points": 147,
+      "author": "0x54MUR41",
+      "created_at": 1792215862,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=50128297"
+    },
+    {
+      "id": "50131006",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "points": 140,
+      "author": "celphase",
+      "created_at": 1792243726,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=50131006"
+    },
+    {
+      "id": "50132950",
+      "title": "Development statistics for the 7.2 kernel",
+      "url": "https://lwn.net/Articles/1088776/",
+      "points": 133,
+      "author": "farlight",
+      "created_at": 1792257252,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=50132950"
+    },
+    {
+      "id": "50133231",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "points": 133,
+      "author": "AIorNot",
+      "created_at": 1792259108,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=50133231"
     }
   ],
-  "last_updated": "2026-10-17T10:03:25.213395+00:00"
+  "last_updated": "2026-10-18T10:16:27.463333+00:00"
 }
