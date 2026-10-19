@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:56:47 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[200 pts] William Gibson and the trademarking of cyberspace</title>
+      <link>https://colo.to/cyberspace.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;200 points&lt;/strong&gt; by Eric_Gullichsen | &lt;strong&gt;81 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50146625&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50146625</guid>
+      <pubDate>Sun, 18 Oct 2026 23:37:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[202 pts] If you don't run your own LLM proxy, how do you know whats going on?</title>
+      <link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;202 points&lt;/strong&gt; by amrrs | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50145507&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50145507</guid>
+      <pubDate>Sun, 18 Oct 2026 21:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[428 pts] Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
+      <link>https://arxiv.org/abs/2610.18861</link>
+      <description>&lt;p&gt;&lt;strong&gt;428 points&lt;/strong&gt; by allinonai | &lt;strong&gt;212 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50145337&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50145337</guid>
+      <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[168 pts] Free Pascal compiler now supports dynamic packages</title>
+      <link>https://www.getlazarus.org/dynamic/</link>
+      <description>&lt;p&gt;&lt;strong&gt;168 points&lt;/strong&gt; by sysrpl | &lt;strong&gt;41 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50144066&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50144066</guid>
+      <pubDate>Sun, 18 Oct 2026 18:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[184 pts] Florida's HOAs and condo associations are making the housing crisis worse</title>
+      <link>https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;184 points&lt;/strong&gt; by lovewins | &lt;strong&gt;353 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50144005&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50144005</guid>
+      <pubDate>Sun, 18 Oct 2026 18:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[592 pts] Namecheap just seized and disabled all my domains</title>
+      <link>https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/</link>
+      <description>&lt;p&gt;&lt;strong&gt;592 points&lt;/strong&gt; by sashk | &lt;strong&gt;306 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50142866&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50142866</guid>
+      <pubDate>Sun, 18 Oct 2026 16:56:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[468 pts] Someone behind the software</title>
+      <link>https://karrisaarinen.com/posts/someone-behind-the-software/</link>
+      <description>&lt;p&gt;&lt;strong&gt;468 points&lt;/strong&gt; by tosh | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50142573&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50142573</guid>
+      <pubDate>Sun, 18 Oct 2026 16:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[273 pts] macOS 15.8.2 Breaks OpenGL</title>
+      <link>https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550</link>
+      <description>&lt;p&gt;&lt;strong&gt;273 points&lt;/strong&gt; by Audiophilip | &lt;strong&gt;304 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50141909&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50141909</guid>
+      <pubDate>Sun, 18 Oct 2026 15:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[177 pts] Java sealed classes and exhaustive pattern matching</title>
+      <link>https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/</link>
+      <description>&lt;p&gt;&lt;strong&gt;177 points&lt;/strong&gt; by hnisjafx40 | &lt;strong&gt;136 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50141579&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50141579</guid>
+      <pubDate>Sun, 18 Oct 2026 14:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[404 pts] RepRapMicron</title>
+      <link>https://github.com/VikOlliver/RepRapMicron/wiki</link>
+      <description>&lt;p&gt;&lt;strong&gt;404 points&lt;/strong&gt; by RobotToaster | &lt;strong&gt;64 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50141076&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50141076</guid>
+      <pubDate>Sun, 18 Oct 2026 13:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[194 pts] Show HN: The Zelda timeline to catch up before the Ocarina of Time remake</title>
+      <link>https://legendofhyrule.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;194 points&lt;/strong&gt; by jsomau | &lt;strong&gt;115 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50140769&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50140769</guid>
+      <pubDate>Sun, 18 Oct 2026 13:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[209 pts] Open MicroManipulator – A sub-micrometer 3D motion control plattform</title>
+      <link>https://github.com/0x23/MicroManipulatorStepper</link>
+      <description>&lt;p&gt;&lt;strong&gt;209 points&lt;/strong&gt; by _Microft | &lt;strong&gt;16 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50140001&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50140001</guid>
+      <pubDate>Sun, 18 Oct 2026 11:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[225 pts] Legal experts warn Meta's new terms still grant broad scraping permissions</title>
+      <link>https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</link>
+      <description>&lt;p&gt;&lt;strong&gt;225 points&lt;/strong&gt; by DeepLogin | &lt;strong&gt;62 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50139692&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50139692</guid>
+      <pubDate>Sun, 18 Oct 2026 10:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[239 pts] Parser Combinators</title>
+      <link>https://t3.at/blog/2026-10-17-parser-combinators/</link>
+      <description>&lt;p&gt;&lt;strong&gt;239 points&lt;/strong&gt; by schindlabua | &lt;strong&gt;84 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50139067&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50139067</guid>
+      <pubDate>Sun, 18 Oct 2026 08:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[576 pts] DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
+      <link>https://api-docs.deepseek.com/guides/search/</link>
+      <description>&lt;p&gt;&lt;strong&gt;576 points&lt;/strong&gt; by fagnerbrack | &lt;strong&gt;271 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50138531&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50138531</guid>
+      <pubDate>Sun, 18 Oct 2026 06:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[246 pts] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</title>
+      <link>https://sphinx-six-theta.vercel.app/</link>
+      <description>&lt;p&gt;&lt;strong&gt;246 points&lt;/strong&gt; by critiquebrowser | &lt;strong&gt;86 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50137950&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50137950</guid>
+      <pubDate>Sun, 18 Oct 2026 04:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[389 pts] The Elizabeth Holmes documentary “You Can See Everything” is deceiving</title>
+      <link>https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</link>
+      <description>&lt;p&gt;&lt;strong&gt;389 points&lt;/strong&gt; by MaysonL | &lt;strong&gt;555 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50137620&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50137620</guid>
+      <pubDate>Sun, 18 Oct 2026 03:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[266 pts] Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky</title>
+      <link>https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky</link>
+      <description>&lt;p&gt;&lt;strong&gt;266 points&lt;/strong&gt; by gmays | &lt;strong&gt;158 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50136979&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50136979</guid>
+      <pubDate>Sun, 18 Oct 2026 01:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[583 pts] Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day</title>
+      <link>https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day</link>
+      <description>&lt;p&gt;&lt;strong&gt;583 points&lt;/strong&gt; by DeepLogin | &lt;strong&gt;393 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50136881&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50136881</guid>
+      <pubDate>Sun, 18 Oct 2026 01:18:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[446 pts] NY announces game ownership bill requiring ownership rather than licensing</title>
+      <link>https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</link>
+      <description>&lt;p&gt;&lt;strong&gt;446 points&lt;/strong&gt; by guiambros | &lt;strong&gt;215 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50136536&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50136536</guid>
+      <pubDate>Sun, 18 Oct 2026 00:14:22 +0000</pubDate>
+    </item>
     <item>
       <title>[870 pts] OpenCode Hacked: User credentials leaked</title>
       <link>https://twitter.com/opencode/status/2111516673953935833</link>
@@ -14078,166 +14238,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48991139&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=48991139</guid>
       <pubDate>Tue, 21 Jul 2026 12:03:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[554 pts] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</title>
-      <link>https://qwen.ai/blog?id=qwen-image-3.0</link>
-      <description>&lt;p&gt;&lt;strong&gt;554 points&lt;/strong&gt; by ilreb | &lt;strong&gt;211 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48989701&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48989701</guid>
-      <pubDate>Tue, 21 Jul 2026 08:44:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[358 pts] Five US tech giants' hidden debts soar to $1.65T on opaque AI funding</title>
-      <link>https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding</link>
-      <description>&lt;p&gt;&lt;strong&gt;358 points&lt;/strong&gt; by NordStreamYacht | &lt;strong&gt;251 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48987863&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48987863</guid>
-      <pubDate>Tue, 21 Jul 2026 03:56:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[334 pts] Incremental – A library for incremental computations</title>
-      <link>https://github.com/janestreet/incremental</link>
-      <description>&lt;p&gt;&lt;strong&gt;334 points&lt;/strong&gt; by handfuloflight | &lt;strong&gt;67 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48987822&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48987822</guid>
-      <pubDate>Tue, 21 Jul 2026 03:50:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[461 pts] Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, &amp; Public</title>
-      <link>https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country</link>
-      <description>&lt;p&gt;&lt;strong&gt;461 points&lt;/strong&gt; by StatsAreFun | &lt;strong&gt;162 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48986731&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48986731</guid>
-      <pubDate>Tue, 21 Jul 2026 00:33:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[233 pts] Jellyfin founder Andrew leaves team</title>
-      <link>https://forum.jellyfin.org/t-project-leadership-changes</link>
-      <description>&lt;p&gt;&lt;strong&gt;233 points&lt;/strong&gt; by swat535 | &lt;strong&gt;178 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48986091&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48986091</guid>
-      <pubDate>Mon, 20 Jul 2026 23:15:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[323 pts] Human mathematicians are being outcounterexampled</title>
-      <link>https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</link>
-      <description>&lt;p&gt;&lt;strong&gt;323 points&lt;/strong&gt; by artninja1988 | &lt;strong&gt;127 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48983382&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48983382</guid>
-      <pubDate>Mon, 20 Jul 2026 19:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[264 pts] Nativ: Run frontier open models locally on your Mac</title>
-      <link>https://blaizzy.github.io/nativ/</link>
-      <description>&lt;p&gt;&lt;strong&gt;264 points&lt;/strong&gt; by aratahikaru5 | &lt;strong&gt;87 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48982681&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48982681</guid>
-      <pubDate>Mon, 20 Jul 2026 18:16:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[520 pts] Kimi Work</title>
-      <link>https://www.kimi.com/products/kimi-work</link>
-      <description>&lt;p&gt;&lt;strong&gt;520 points&lt;/strong&gt; by ms7892 | &lt;strong&gt;225 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48981703&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48981703</guid>
-      <pubDate>Mon, 20 Jul 2026 17:13:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[459 pts] Jelly UI: Soft-body physics for native HTML form controls</title>
-      <link>https://jelly-ui.com/</link>
-      <description>&lt;p&gt;&lt;strong&gt;459 points&lt;/strong&gt; by baldvinmar | &lt;strong&gt;150 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48981620&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48981620</guid>
-      <pubDate>Mon, 20 Jul 2026 17:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[219 pts] How we measured AI writing across arXiv, and where the measurement breaks</title>
-      <link>https://unslop.run/blog/measuring-ai-writing-on-arxiv</link>
-      <description>&lt;p&gt;&lt;strong&gt;219 points&lt;/strong&gt; by dopamine_daddy | &lt;strong&gt;153 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48981206&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48981206</guid>
-      <pubDate>Mon, 20 Jul 2026 16:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[333 pts] Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling</title>
-      <link>https://www.emergingtrajectories.com/lh/frontier-lab-economics/</link>
-      <description>&lt;p&gt;&lt;strong&gt;333 points&lt;/strong&gt; by cl42 | &lt;strong&gt;309 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48980019&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48980019</guid>
-      <pubDate>Mon, 20 Jul 2026 15:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[1092 pts] China’s open-weights AI strategy is winning</title>
-      <link>https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1092 points&lt;/strong&gt; by benwerd | &lt;strong&gt;831 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48979269&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48979269</guid>
-      <pubDate>Mon, 20 Jul 2026 14:21:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[235 pts] Perfection is not over-engineering</title>
-      <link>https://var0.xyz/posts/perfection-is-not-over-engineering.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;235 points&lt;/strong&gt; by var0xyz | &lt;strong&gt;100 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48979120&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48979120</guid>
-      <pubDate>Mon, 20 Jul 2026 14:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[266 pts] Firefox 153 available with support for Vulkan video decoding, JPEG-XL</title>
-      <link>https://www.phoronix.com/news/Firefox-153-Downloads</link>
-      <description>&lt;p&gt;&lt;strong&gt;266 points&lt;/strong&gt; by DemiGuru | &lt;strong&gt;60 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48978835&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48978835</guid>
-      <pubDate>Mon, 20 Jul 2026 13:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[637 pts] Hacker wipes Romania's land registry database</title>
-      <link>https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/</link>
-      <description>&lt;p&gt;&lt;strong&gt;637 points&lt;/strong&gt; by speckx | &lt;strong&gt;348 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48978605&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48978605</guid>
-      <pubDate>Mon, 20 Jul 2026 13:28:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[231 pts] LEDs’ potential to save our night skies</title>
-      <link>https://spectrum.ieee.org/led-light-pollution</link>
-      <description>&lt;p&gt;&lt;strong&gt;231 points&lt;/strong&gt; by defrost | &lt;strong&gt;173 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48978350&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48978350</guid>
-      <pubDate>Mon, 20 Jul 2026 13:07:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[388 pts] Annoying and alarming things about OpenCode</title>
-      <link>https://wren.wtf/shower-thoughts/stop-using-opencode/</link>
-      <description>&lt;p&gt;&lt;strong&gt;388 points&lt;/strong&gt; by alekq | &lt;strong&gt;247 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48978112&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48978112</guid>
-      <pubDate>Mon, 20 Jul 2026 12:45:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[500 pts] The EU is about to sell our most sensitive data to the US for visa-free travel</title>
-      <link>https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/</link>
-      <description>&lt;p&gt;&lt;strong&gt;500 points&lt;/strong&gt; by rapnie | &lt;strong&gt;301 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48977711&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48977711</guid>
-      <pubDate>Mon, 20 Jul 2026 12:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[591 pts] Who's afraid of Chinese models?</title>
-      <link>https://stratechery.com/2026/whos-afraid-of-chinese-models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;591 points&lt;/strong&gt; by mfiguiere | &lt;strong&gt;399 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48977128&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48977128</guid>
-      <pubDate>Mon, 20 Jul 2026 11:05:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[785 pts] Airport Simulator</title>
-      <link>https://airport.apunen.com/</link>
-      <description>&lt;p&gt;&lt;strong&gt;785 points&lt;/strong&gt; by apunen | &lt;strong&gt;153 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=48976846&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48976846</guid>
-      <pubDate>Mon, 20 Jul 2026 10:30:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

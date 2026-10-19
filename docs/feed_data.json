@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "48979269",
-      "title": "China\u2019s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "points": 1092,
-      "author": "benwerd",
-      "created_at": 1784557307,
-      "num_comments": 831,
-      "hn_url": "https://news.ycombinator.com/item?id=48979269"
-    },
-    {
-      "id": "48976846",
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "points": 785,
-      "author": "apunen",
-      "created_at": 1784543440,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48976846"
-    },
-    {
-      "id": "48978605",
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "points": 637,
-      "author": "speckx",
-      "created_at": 1784554113,
-      "num_comments": 348,
-      "hn_url": "https://news.ycombinator.com/item?id=48978605"
-    },
-    {
-      "id": "48977128",
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "points": 591,
-      "author": "mfiguiere",
-      "created_at": 1784545558,
-      "num_comments": 399,
-      "hn_url": "https://news.ycombinator.com/item?id=48977128"
-    },
-    {
-      "id": "48981703",
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "points": 520,
-      "author": "ms7892",
-      "created_at": 1784567603,
-      "num_comments": 225,
-      "hn_url": "https://news.ycombinator.com/item?id=48981703"
-    },
-    {
-      "id": "48977711",
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "points": 500,
-      "author": "rapnie",
-      "created_at": 1784549648,
-      "num_comments": 301,
-      "hn_url": "https://news.ycombinator.com/item?id=48977711"
-    },
-    {
-      "id": "48981620",
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "points": 459,
-      "author": "baldvinmar",
-      "created_at": 1784567259,
-      "num_comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=48981620"
-    },
-    {
-      "id": "48978112",
-      "title": "Annoying and alarming things about OpenCode",
-      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "points": 388,
-      "author": "alekq",
-      "created_at": 1784551555,
-      "num_comments": 247,
-      "hn_url": "https://news.ycombinator.com/item?id=48978112"
-    },
-    {
-      "id": "48980019",
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "points": 333,
-      "author": "cl42",
-      "created_at": 1784560422,
-      "num_comments": 309,
-      "hn_url": "https://news.ycombinator.com/item?id=48980019"
-    },
-    {
-      "id": "48983382",
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "points": 323,
-      "author": "artninja1988",
-      "created_at": 1784574217,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=48983382"
-    },
-    {
-      "id": "48978835",
-      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
-      "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
-      "points": 266,
-      "author": "DemiGuru",
-      "created_at": 1784555233,
-      "num_comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=48978835"
-    },
-    {
-      "id": "48982681",
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "points": 264,
-      "author": "aratahikaru5",
-      "created_at": 1784571368,
-      "num_comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=48982681"
-    },
-    {
-      "id": "48979120",
-      "title": "Perfection is not over-engineering",
-      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "points": 235,
-      "author": "var0xyz",
-      "created_at": 1784556630,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=48979120"
-    },
-    {
-      "id": "48986091",
-      "title": "Jellyfin founder Andrew leaves team",
-      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "points": 233,
-      "author": "swat535",
-      "created_at": 1784589341,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=48986091"
-    },
-    {
-      "id": "48978350",
-      "title": "LEDs\u2019 potential to save our night skies",
-      "url": "https://spectrum.ieee.org/led-light-pollution",
-      "points": 231,
-      "author": "defrost",
-      "created_at": 1784552831,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48978350"
-    },
-    {
-      "id": "48981206",
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "points": 219,
-      "author": "dopamine_daddy",
-      "created_at": 1784565396,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=48981206"
-    },
-    {
       "id": "48997548",
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
@@ -201,16 +41,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48999291"
     },
     {
-      "id": "48989701",
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "points": 554,
-      "author": "ilreb",
-      "created_at": 1784623463,
-      "num_comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=48989701"
-    },
-    {
       "id": "48996318",
       "title": "FreeInk: Open ecosystem for e-readers",
       "url": "https://freeink.org/",
@@ -231,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48997221"
     },
     {
-      "id": "48986731",
-      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-      "points": 461,
-      "author": "StatsAreFun",
-      "created_at": 1784594033,
-      "num_comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=48986731"
-    },
-    {
       "id": "48992870",
       "title": "Apple defeats liability for not scanning iCloud for CSAM",
       "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
@@ -251,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=48992870"
     },
     {
-      "id": "48987863",
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "points": 358,
-      "author": "NordStreamYacht",
-      "created_at": 1784606163,
-      "num_comments": 251,
-      "hn_url": "https://news.ycombinator.com/item?id=48987863"
-    },
-    {
       "id": "48993816",
       "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "url": "https://e360.yale.edu/digest/benin-coral-reef",
@@ -269,16 +79,6 @@
       "created_at": 1784648511,
       "num_comments": 71,
       "hn_url": "https://news.ycombinator.com/item?id=48993816"
-    },
-    {
-      "id": "48987822",
-      "title": "Incremental \u2013 A library for incremental computations",
-      "url": "https://github.com/janestreet/incremental",
-      "points": 334,
-      "author": "handfuloflight",
-      "created_at": 1784605853,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=48987822"
     },
     {
       "id": "48996652",
@@ -17789,7 +17589,207 @@
       "created_at": 1792259108,
       "num_comments": 54,
       "hn_url": "https://news.ycombinator.com/item?id=50133231"
+    },
+    {
+      "id": "50142866",
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "points": 592,
+      "author": "sashk",
+      "created_at": 1792342616,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=50142866"
+    },
+    {
+      "id": "50136881",
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "points": 583,
+      "author": "DeepLogin",
+      "created_at": 1792286330,
+      "num_comments": 393,
+      "hn_url": "https://news.ycombinator.com/item?id=50136881"
+    },
+    {
+      "id": "50138531",
+      "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "points": 576,
+      "author": "fagnerbrack",
+      "created_at": 1792306236,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=50138531"
+    },
+    {
+      "id": "50142573",
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "points": 468,
+      "author": "tosh",
+      "created_at": 1792341120,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=50142573"
+    },
+    {
+      "id": "50136536",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "points": 446,
+      "author": "guiambros",
+      "created_at": 1792282462,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=50136536"
+    },
+    {
+      "id": "50145337",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "points": 428,
+      "author": "allinonai",
+      "created_at": 1792356494,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=50145337"
+    },
+    {
+      "id": "50141076",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "points": 404,
+      "author": "RobotToaster",
+      "created_at": 1792331328,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=50141076"
+    },
+    {
+      "id": "50137620",
+      "title": "The Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "points": 389,
+      "author": "MaysonL",
+      "created_at": 1792293589,
+      "num_comments": 555,
+      "hn_url": "https://news.ycombinator.com/item?id=50137620"
+    },
+    {
+      "id": "50141909",
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "points": 273,
+      "author": "Audiophilip",
+      "created_at": 1792337166,
+      "num_comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=50141909"
+    },
+    {
+      "id": "50136979",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "points": 266,
+      "author": "gmays",
+      "created_at": 1792287488,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=50136979"
+    },
+    {
+      "id": "50137950",
+      "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "points": 246,
+      "author": "critiquebrowser",
+      "created_at": 1792298029,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=50137950"
+    },
+    {
+      "id": "50139067",
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "points": 239,
+      "author": "schindlabua",
+      "created_at": 1792311593,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=50139067"
+    },
+    {
+      "id": "50139692",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "points": 225,
+      "author": "DeepLogin",
+      "created_at": 1792318911,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=50139692"
+    },
+    {
+      "id": "50140001",
+      "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "points": 209,
+      "author": "_Microft",
+      "created_at": 1792322182,
+      "num_comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=50140001"
+    },
+    {
+      "id": "50145507",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "points": 202,
+      "author": "amrrs",
+      "created_at": 1792357752,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=50145507"
+    },
+    {
+      "id": "50146625",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "points": 200,
+      "author": "Eric_Gullichsen",
+      "created_at": 1792366677,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=50146625"
+    },
+    {
+      "id": "50140769",
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "url": "https://legendofhyrule.com/",
+      "points": 194,
+      "author": "jsomau",
+      "created_at": 1792328814,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=50140769"
+    },
+    {
+      "id": "50144005",
+      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "points": 184,
+      "author": "lovewins",
+      "created_at": 1792348816,
+      "num_comments": 353,
+      "hn_url": "https://news.ycombinator.com/item?id=50144005"
+    },
+    {
+      "id": "50141579",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "points": 177,
+      "author": "hnisjafx40",
+      "created_at": 1792334857,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=50141579"
+    },
+    {
+      "id": "50144066",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "points": 168,
+      "author": "sysrpl",
+      "created_at": 1792349284,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=50144066"
     }
   ],
-  "last_updated": "2026-10-18T10:16:27.463333+00:00"
+  "last_updated": "2026-10-19T11:56:47.530970+00:00"
 }
