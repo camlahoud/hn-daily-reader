@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "49010345",
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "points": 831,
-      "author": "gmays",
-      "created_at": 1784741440,
-      "num_comments": 481,
-      "hn_url": "https://news.ycombinator.com/item?id=49010345"
-    },
-    {
-      "id": "49008211",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "points": 798,
-      "author": "starfallg",
-      "created_at": 1784733563,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=49008211"
-    },
-    {
-      "id": "49012070",
-      "title": "John C. Dvorak has died",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "points": 724,
-      "author": "coleca",
-      "created_at": 1784748139,
-      "num_comments": 233,
-      "hn_url": "https://news.ycombinator.com/item?id=49012070"
-    },
-    {
-      "id": "49007374",
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-      "points": 505,
-      "author": "ksec",
-      "created_at": 1784730313,
-      "num_comments": 676,
-      "hn_url": "https://news.ycombinator.com/item?id=49007374"
-    },
-    {
-      "id": "49010129",
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "points": 503,
-      "author": "dcastm",
-      "created_at": 1784740674,
-      "num_comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=49010129"
-    },
-    {
-      "id": "49010167",
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "points": 478,
-      "author": "syrusakbary",
-      "created_at": 1784740838,
-      "num_comments": 94,
-      "hn_url": "https://news.ycombinator.com/item?id=49010167"
-    },
-    {
-      "id": "49005747",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "points": 434,
-      "author": "montroser",
-      "created_at": 1784723568,
-      "num_comments": 405,
-      "hn_url": "https://news.ycombinator.com/item?id=49005747"
-    },
-    {
-      "id": "49005787",
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "points": 397,
-      "author": "abelanger",
-      "created_at": 1784723768,
-      "num_comments": 186,
-      "hn_url": "https://news.ycombinator.com/item?id=49005787"
-    },
-    {
-      "id": "49010648",
-      "title": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "points": 397,
-      "author": "WadeGrimridge",
-      "created_at": 1784742498,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=49010648"
-    },
-    {
-      "id": "49013036",
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "points": 362,
-      "author": "CITIZENDOT",
-      "created_at": 1784752424,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=49013036"
-    },
-    {
-      "id": "49008440",
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "points": 342,
-      "author": "erikschoster",
-      "created_at": 1784734428,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=49008440"
-    },
-    {
-      "id": "49007247",
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "points": 329,
-      "author": "benbreen",
-      "created_at": 1784729885,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=49007247"
-    },
-    {
-      "id": "49008642",
-      "title": "Does creatine make you smarter?",
-      "url": "https://dynomight.net/creatine/",
-      "points": 292,
-      "author": "surprisetalk",
-      "created_at": 1784735118,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=49008642"
-    },
-    {
-      "id": "49005973",
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "points": 271,
-      "author": "speckx",
-      "created_at": 1784724585,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=49005973"
-    },
-    {
-      "id": "49006195",
-      "title": "Back to Kagi",
-      "url": "https://blog.melashri.net/micro/back-to-kagi/",
-      "points": 257,
-      "author": "speckx",
-      "created_at": 1784725699,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=49006195"
-    },
-    {
-      "id": "49007610",
-      "title": "\u201cWe have information that Moonshot distilled Fable for the development of K3\u201d",
-      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
-      "points": 237,
-      "author": "softwaredoug",
-      "created_at": 1784731328,
-      "num_comments": 617,
-      "hn_url": "https://news.ycombinator.com/item?id=49007610"
-    },
-    {
       "id": "49022152",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
@@ -189,16 +29,6 @@
       "created_at": 1784812150,
       "num_comments": 339,
       "hn_url": "https://news.ycombinator.com/item?id=49020999"
-    },
-    {
-      "id": "49015639",
-      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "points": 502,
-      "author": "abhisek",
-      "created_at": 1784769374,
-      "num_comments": 385,
-      "hn_url": "https://news.ycombinator.com/item?id=49015639"
     },
     {
       "id": "49028927",
@@ -239,16 +69,6 @@
       "created_at": 1784825613,
       "num_comments": 166,
       "hn_url": "https://news.ycombinator.com/item?id=49024691"
-    },
-    {
-      "id": "49015588",
-      "title": "Codeberg Bans Cryptocurrency Projects",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "points": 356,
-      "author": "intunderflow",
-      "created_at": 1784768816,
-      "num_comments": 620,
-      "hn_url": "https://news.ycombinator.com/item?id=49015588"
     },
     {
       "id": "49027892",
@@ -349,16 +169,6 @@
       "created_at": 1784815344,
       "num_comments": 81,
       "hn_url": "https://news.ycombinator.com/item?id=49021783"
-    },
-    {
-      "id": "49015635",
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "points": 196,
-      "author": "acmnrs",
-      "created_at": 1784769293,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=49015635"
     },
     {
       "id": "49038433",
@@ -17789,7 +17599,207 @@
       "created_at": 1792435352,
       "num_comments": 43,
       "hn_url": "https://news.ycombinator.com/item?id=50156206"
+    },
+    {
+      "id": "50163277",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "points": 2259,
+      "author": "ggcr",
+      "created_at": 1792487334,
+      "num_comments": 860,
+      "hn_url": "https://news.ycombinator.com/item?id=50163277"
+    },
+    {
+      "id": "50166579",
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "points": 989,
+      "author": "galadran",
+      "created_at": 1792504713,
+      "num_comments": 414,
+      "hn_url": "https://news.ycombinator.com/item?id=50166579"
+    },
+    {
+      "id": "50172041",
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "points": 963,
+      "author": "xd",
+      "created_at": 1792527350,
+      "num_comments": 389,
+      "hn_url": "https://news.ycombinator.com/item?id=50172041"
+    },
+    {
+      "id": "50170593",
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "points": 812,
+      "author": "pcai",
+      "created_at": 1792520949,
+      "num_comments": 381,
+      "hn_url": "https://news.ycombinator.com/item?id=50170593"
+    },
+    {
+      "id": "50168396",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "points": 690,
+      "author": "ilreb",
+      "created_at": 1792512127,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=50168396"
+    },
+    {
+      "id": "50165208",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "points": 562,
+      "author": "evanb",
+      "created_at": 1792498648,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=50165208"
+    },
+    {
+      "id": "50160494",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "points": 478,
+      "author": "privong",
+      "created_at": 1792462000,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50160494"
+    },
+    {
+      "id": "50167536",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "points": 444,
+      "author": "AshleysBrain",
+      "created_at": 1792508768,
+      "num_comments": 392,
+      "hn_url": "https://news.ycombinator.com/item?id=50167536"
+    },
+    {
+      "id": "50165953",
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "points": 417,
+      "author": "hnisjafx40",
+      "created_at": 1792502287,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50165953"
+    },
+    {
+      "id": "50169707",
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "points": 411,
+      "author": "Curiositry",
+      "created_at": 1792517107,
+      "num_comments": 479,
+      "hn_url": "https://news.ycombinator.com/item?id=50169707"
+    },
+    {
+      "id": "50162177",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "points": 410,
+      "author": "theanonymousone",
+      "created_at": 1792478227,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=50162177"
+    },
+    {
+      "id": "50167028",
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "points": 401,
+      "author": "iamnothere",
+      "created_at": 1792506631,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=50167028"
+    },
+    {
+      "id": "50163961",
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "points": 389,
+      "author": "paweladamczuk",
+      "created_at": 1792491962,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=50163961"
+    },
+    {
+      "id": "50163502",
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "points": 380,
+      "author": "firefax",
+      "created_at": 1792488940,
+      "num_comments": 538,
+      "hn_url": "https://news.ycombinator.com/item?id=50163502"
+    },
+    {
+      "id": "50166257",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "points": 370,
+      "author": "kabakabakaba",
+      "created_at": 1792503564,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=50166257"
+    },
+    {
+      "id": "50169053",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "points": 346,
+      "author": "ilreb",
+      "created_at": 1792514424,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=50169053"
+    },
+    {
+      "id": "50165801",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "points": 343,
+      "author": "robtherobber",
+      "created_at": 1792501582,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=50165801"
+    },
+    {
+      "id": "50159993",
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "points": 290,
+      "author": "jumpocelot",
+      "created_at": 1792457632,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=50159993"
+    },
+    {
+      "id": "50168357",
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "points": 285,
+      "author": "speckx",
+      "created_at": 1792511946,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=50168357"
+    },
+    {
+      "id": "50159616",
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "points": 241,
+      "author": "emot",
+      "created_at": 1792454449,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=50159616"
     }
   ],
-  "last_updated": "2026-10-20T10:50:57.507308+00:00"
+  "last_updated": "2026-10-21T11:02:47.579177+00:00"
 }
