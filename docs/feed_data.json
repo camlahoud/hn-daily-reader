@@ -1,176 +1,6 @@
 {
   "posts": [
     {
-      "id": "49022152",
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "points": 1264,
-      "author": "dwwoelfel",
-      "created_at": 1784816683,
-      "num_comments": 565,
-      "hn_url": "https://news.ycombinator.com/item?id=49022152"
-    },
-    {
-      "id": "49023016",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "points": 898,
-      "author": "theanonymousone",
-      "created_at": 1784819920,
-      "num_comments": 751,
-      "hn_url": "https://news.ycombinator.com/item?id=49023016"
-    },
-    {
-      "id": "49020999",
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "points": 645,
-      "author": "technewssss",
-      "created_at": 1784812150,
-      "num_comments": 339,
-      "hn_url": "https://news.ycombinator.com/item?id=49020999"
-    },
-    {
-      "id": "49028927",
-      "title": "98.css",
-      "url": "https://jdan.github.io/98.css/#status-bar",
-      "points": 447,
-      "author": "lopespm",
-      "created_at": 1784845829,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=49028927"
-    },
-    {
-      "id": "49028037",
-      "title": "Tell HN: Namecheap gave my account to an unverified third party",
-      "url": "https://news.ycombinator.com/item?id=49028037",
-      "points": 425,
-      "author": "Thrashed",
-      "created_at": 1784840729,
-      "num_comments": 161,
-      "hn_url": "https://news.ycombinator.com/item?id=49028037"
-    },
-    {
-      "id": "49026810",
-      "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "points": 370,
-      "author": "adam_rida",
-      "created_at": 1784834761,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=49026810"
-    },
-    {
-      "id": "49024691",
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "points": 362,
-      "author": "nickthegreek",
-      "created_at": 1784825613,
-      "num_comments": 166,
-      "hn_url": "https://news.ycombinator.com/item?id=49024691"
-    },
-    {
-      "id": "49027892",
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "points": 326,
-      "author": "Shortness8",
-      "created_at": 1784839939,
-      "num_comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=49027892"
-    },
-    {
-      "id": "49023019",
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "points": 301,
-      "author": "dhorthy",
-      "created_at": 1784819928,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=49023019"
-    },
-    {
-      "id": "49020868",
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "points": 283,
-      "author": "yogthos",
-      "created_at": 1784811603,
-      "num_comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=49020868"
-    },
-    {
-      "id": "49022038",
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "points": 277,
-      "author": "mpweiher",
-      "created_at": 1784816260,
-      "num_comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=49022038"
-    },
-    {
-      "id": "49024643",
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "points": 264,
-      "author": "jjfoooo4",
-      "created_at": 1784825397,
-      "num_comments": 183,
-      "hn_url": "https://news.ycombinator.com/item?id=49024643"
-    },
-    {
-      "id": "49021006",
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "points": 263,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1784812202,
-      "num_comments": 267,
-      "hn_url": "https://news.ycombinator.com/item?id=49021006"
-    },
-    {
-      "id": "49021856",
-      "title": "I regret migrating to Codeberg",
-      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-      "points": 256,
-      "author": "boramalper",
-      "created_at": 1784815607,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=49021856"
-    },
-    {
-      "id": "49021597",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "points": 234,
-      "author": "r2sk5t",
-      "created_at": 1784814696,
-      "num_comments": 254,
-      "hn_url": "https://news.ycombinator.com/item?id=49021597"
-    },
-    {
-      "id": "49022634",
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "points": 232,
-      "author": "ibobev",
-      "created_at": 1784818414,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=49022634"
-    },
-    {
-      "id": "49021783",
-      "title": "Astronomers may have found the first exomoon",
-      "url": "https://www.eso.org/public/news/eso2610/",
-      "points": 216,
-      "author": "MarcoDewey",
-      "created_at": 1784815344,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=49021783"
-    },
-    {
       "id": "49038433",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
@@ -179,26 +9,6 @@
       "created_at": 1784912261,
       "num_comments": 839,
       "hn_url": "https://news.ycombinator.com/item?id=49038433"
-    },
-    {
-      "id": "49033004",
-      "title": "If coding has been solved, why does software keep getting worse?",
-      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "points": 730,
-      "author": "pchm",
-      "created_at": 1784884097,
-      "num_comments": 554,
-      "hn_url": "https://news.ycombinator.com/item?id=49033004"
-    },
-    {
-      "id": "49032660",
-      "title": "It's getting harder to focus every day",
-      "url": "https://glyphack.com/attention/",
-      "points": 721,
-      "author": "peykar",
-      "created_at": 1784881110,
-      "num_comments": 396,
-      "hn_url": "https://news.ycombinator.com/item?id=49032660"
     },
     {
       "id": "49035303",
@@ -219,16 +29,6 @@
       "created_at": 1784894081,
       "num_comments": 188,
       "hn_url": "https://news.ycombinator.com/item?id=49034292"
-    },
-    {
-      "id": "49031796",
-      "title": "Flux 3",
-      "url": "https://bfl.ai/blog/flux-3",
-      "points": 556,
-      "author": "ThouYS",
-      "created_at": 1784873828,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=49031796"
     },
     {
       "id": "49038060",
@@ -261,26 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49034747"
     },
     {
-      "id": "49033127",
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "points": 314,
-      "author": "kensai",
-      "created_at": 1784885508,
-      "num_comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=49033127"
-    },
-    {
-      "id": "49031409",
-      "title": "Claude Cookbook",
-      "url": "https://platform.claude.com/cookbook/",
-      "points": 310,
-      "author": "saikatsg",
-      "created_at": 1784869755,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=49031409"
-    },
-    {
       "id": "49034868",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
@@ -301,26 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49040296"
     },
     {
-      "id": "49033240",
-      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "points": 283,
-      "author": "thisislife2",
-      "created_at": 1784886778,
-      "num_comments": 343,
-      "hn_url": "https://news.ycombinator.com/item?id=49033240"
-    },
-    {
-      "id": "49033099",
-      "title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
-      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-      "points": 267,
-      "author": "kristoff_it",
-      "created_at": 1784885200,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=49033099"
-    },
-    {
       "id": "49040741",
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
       "url": "https://artificialanalysis.ai/models",
@@ -329,26 +89,6 @@
       "created_at": 1784922310,
       "num_comments": 148,
       "hn_url": "https://news.ycombinator.com/item?id=49040741"
-    },
-    {
-      "id": "49033001",
-      "title": "The day Steve Jobs dissed me in a keynote (2010)",
-      "url": "https://sive.rs/itunes",
-      "points": 198,
-      "author": "downbad_",
-      "created_at": 1784884064,
-      "num_comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=49033001"
-    },
-    {
-      "id": "49033110",
-      "title": "Future euro banknote design proposals",
-      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-      "points": 174,
-      "author": "robin_reala",
-      "created_at": 1784885384,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=49033110"
     },
     {
       "id": "49038298",
@@ -17799,7 +17539,207 @@
       "created_at": 1792454449,
       "num_comments": 220,
       "hn_url": "https://news.ycombinator.com/item?id=50159616"
+    },
+    {
+      "id": "50180873",
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "points": 1039,
+      "author": "tuyuri",
+      "created_at": 1792590333,
+      "num_comments": 547,
+      "hn_url": "https://news.ycombinator.com/item?id=50180873"
+    },
+    {
+      "id": "50177916",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "points": 892,
+      "author": "hkc",
+      "created_at": 1792573688,
+      "num_comments": 428,
+      "hn_url": "https://news.ycombinator.com/item?id=50177916"
+    },
+    {
+      "id": "50182987",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "points": 745,
+      "author": "ejohnso49",
+      "created_at": 1792597736,
+      "num_comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=50182987"
+    },
+    {
+      "id": "50184586",
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "points": 638,
+      "author": "aaronbrethorst",
+      "created_at": 1792603773,
+      "num_comments": 421,
+      "hn_url": "https://news.ycombinator.com/item?id=50184586"
+    },
+    {
+      "id": "50177911",
+      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "points": 630,
+      "author": "velo_aprx",
+      "created_at": 1792573669,
+      "num_comments": 778,
+      "hn_url": "https://news.ycombinator.com/item?id=50177911"
+    },
+    {
+      "id": "50175070",
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "points": 613,
+      "author": "soheilpro",
+      "created_at": 1792547248,
+      "num_comments": 272,
+      "hn_url": "https://news.ycombinator.com/item?id=50175070"
+    },
+    {
+      "id": "50184820",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "points": 579,
+      "author": "cbg0",
+      "created_at": 1792604713,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=50184820"
+    },
+    {
+      "id": "50188948",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "points": 541,
+      "author": "zkldi",
+      "created_at": 1792624407,
+      "num_comments": 328,
+      "hn_url": "https://news.ycombinator.com/item?id=50188948"
+    },
+    {
+      "id": "50181114",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "points": 530,
+      "author": "abhisek",
+      "created_at": 1792591226,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=50181114"
+    },
+    {
+      "id": "50181137",
+      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+      "points": 512,
+      "author": "robtherobber",
+      "created_at": 1792591285,
+      "num_comments": 503,
+      "hn_url": "https://news.ycombinator.com/item?id=50181137"
+    },
+    {
+      "id": "50189232",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "points": 497,
+      "author": "ahlCVA",
+      "created_at": 1792626697,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=50189232"
+    },
+    {
+      "id": "50188228",
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "points": 480,
+      "author": "passenger",
+      "created_at": 1792619883,
+      "num_comments": 279,
+      "hn_url": "https://news.ycombinator.com/item?id=50188228"
+    },
+    {
+      "id": "50180836",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "points": 441,
+      "author": "danlark1",
+      "created_at": 1792590199,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=50180836"
+    },
+    {
+      "id": "50181136",
+      "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "points": 425,
+      "author": "nnx",
+      "created_at": 1792591282,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=50181136"
+    },
+    {
+      "id": "50186037",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "points": 403,
+      "author": "kuberwastaken",
+      "created_at": 1792610041,
+      "num_comments": 365,
+      "hn_url": "https://news.ycombinator.com/item?id=50186037"
+    },
+    {
+      "id": "50174687",
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "points": 395,
+      "author": "gumby",
+      "created_at": 1792543559,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=50174687"
+    },
+    {
+      "id": "50185869",
+      "title": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "points": 359,
+      "author": "artooro",
+      "created_at": 1792609272,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=50185869"
+    },
+    {
+      "id": "50186129",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "points": 320,
+      "author": "funnym0nk3y",
+      "created_at": 1792610455,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=50186129"
+    },
+    {
+      "id": "50186010",
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "points": 319,
+      "author": "kaycebasques",
+      "created_at": 1792609917,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=50186010"
+    },
+    {
+      "id": "50180079",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "points": 294,
+      "author": "armcat",
+      "created_at": 1792587191,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=50180079"
     }
   ],
-  "last_updated": "2026-10-21T11:02:47.579177+00:00"
+  "last_updated": "2026-10-22T11:02:30.736558+00:00"
 }
