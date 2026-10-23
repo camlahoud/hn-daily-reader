@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "49038433",
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "points": 1507,
-      "author": "alvis",
-      "created_at": 1784912261,
-      "num_comments": 839,
-      "hn_url": "https://news.ycombinator.com/item?id=49038433"
-    },
-    {
-      "id": "49035303",
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "points": 587,
-      "author": "louiereederson",
-      "created_at": 1784899950,
-      "num_comments": 260,
-      "hn_url": "https://news.ycombinator.com/item?id=49035303"
-    },
-    {
-      "id": "49034292",
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "points": 574,
-      "author": "hhh",
-      "created_at": 1784894081,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=49034292"
-    },
-    {
-      "id": "49038060",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "points": 480,
-      "author": "rwmj",
-      "created_at": 1784910811,
-      "num_comments": 279,
-      "hn_url": "https://news.ycombinator.com/item?id=49038060"
-    },
-    {
-      "id": "49036433",
-      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-      "points": 456,
-      "author": "rootkea",
-      "created_at": 1784904119,
-      "num_comments": 334,
-      "hn_url": "https://news.ycombinator.com/item?id=49036433"
-    },
-    {
-      "id": "49034747",
-      "title": "Em dashes are amazing",
-      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "points": 349,
-      "author": "surprisetalk",
-      "created_at": 1784896827,
-      "num_comments": 289,
-      "hn_url": "https://news.ycombinator.com/item?id=49034747"
-    },
-    {
-      "id": "49034868",
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "points": 295,
-      "author": "m0do1",
-      "created_at": 1784897639,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49034868"
-    },
-    {
-      "id": "49040296",
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "points": 292,
-      "author": "KraftyOne",
-      "created_at": 1784919953,
-      "num_comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=49040296"
-    },
-    {
-      "id": "49040741",
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "url": "https://artificialanalysis.ai/models",
-      "points": 266,
-      "author": "aarondong",
-      "created_at": 1784922310,
-      "num_comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=49040741"
-    },
-    {
-      "id": "49038298",
-      "title": "Don't Take the Black Pill [video]",
-      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "points": 171,
-      "author": "signa11",
-      "created_at": 1784911737,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=49038298"
-    },
-    {
-      "id": "49034948",
-      "title": "Patreon laying off 20% of staff",
-      "url": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
-      "points": 156,
-      "author": "gpi",
-      "created_at": 1784898169,
-      "num_comments": 262,
-      "hn_url": "https://news.ycombinator.com/item?id=49034948"
-    },
-    {
-      "id": "49045159",
-      "title": "Android may soon restrict on-device ADB",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "points": 916,
-      "author": "shscs911",
-      "created_at": 1784962634,
-      "num_comments": 448,
-      "hn_url": "https://news.ycombinator.com/item?id=49045159"
-    },
-    {
-      "id": "49043724",
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "points": 573,
-      "author": "agnishom",
-      "created_at": 1784943852,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=49043724"
-    },
-    {
       "id": "49051120",
       "title": "Did they ghost you?",
       "url": "https://didtheyghostyou.com/",
@@ -149,16 +19,6 @@
       "created_at": 1784990989,
       "num_comments": 287,
       "hn_url": "https://news.ycombinator.com/item?id=49048034"
-    },
-    {
-      "id": "49044074",
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-      "points": 319,
-      "author": "JumpCrisscross",
-      "created_at": 1784948076,
-      "num_comments": 216,
-      "hn_url": "https://news.ycombinator.com/item?id=49044074"
     },
     {
       "id": "49051361",
@@ -221,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49049693"
     },
     {
-      "id": "49045446",
-      "title": "MouthPad: A Tongue-Controlled Touchpad",
-      "url": "https://www.augmental.tech/",
-      "points": 177,
-      "author": "ZaninAndrea",
-      "created_at": 1784965879,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=49045446"
-    },
-    {
       "id": "49051947",
       "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
       "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
@@ -239,16 +89,6 @@
       "created_at": 1785016102,
       "num_comments": 72,
       "hn_url": "https://news.ycombinator.com/item?id=49051947"
-    },
-    {
-      "id": "49045040",
-      "title": "ARC-AGI Leaderboard",
-      "url": "https://arcprize.org/leaderboard",
-      "points": 169,
-      "author": "rzk",
-      "created_at": 1784961100,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=49045040"
     },
     {
       "id": "49050512",
@@ -17739,7 +17579,207 @@
       "created_at": 1792587191,
       "num_comments": 122,
       "hn_url": "https://news.ycombinator.com/item?id=50180079"
+    },
+    {
+      "id": "50195959",
+      "title": "Quad9 to exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "points": 1230,
+      "author": "farrokhi",
+      "created_at": 1792679558,
+      "num_comments": 413,
+      "hn_url": "https://news.ycombinator.com/item?id=50195959"
+    },
+    {
+      "id": "50195110",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "points": 1067,
+      "author": "bo0tzz",
+      "created_at": 1792676019,
+      "num_comments": 688,
+      "hn_url": "https://news.ycombinator.com/item?id=50195110"
+    },
+    {
+      "id": "50192536",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "points": 780,
+      "author": "ledoge",
+      "created_at": 1792656112,
+      "num_comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=50192536"
+    },
+    {
+      "id": "50194833",
+      "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+      "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+      "points": 637,
+      "author": "oidar",
+      "created_at": 1792674660,
+      "num_comments": 632,
+      "hn_url": "https://news.ycombinator.com/item?id=50194833"
+    },
+    {
+      "id": "50193416",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "points": 573,
+      "author": "petecooper",
+      "created_at": 1792663904,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=50193416"
+    },
+    {
+      "id": "50190363",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "points": 553,
+      "author": "alphax314",
+      "created_at": 1792635521,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=50190363"
+    },
+    {
+      "id": "50202681",
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "points": 521,
+      "author": "psxuaw",
+      "created_at": 1792712756,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=50202681"
+    },
+    {
+      "id": "50202285",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "points": 453,
+      "author": "sohkamyung",
+      "created_at": 1792710078,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=50202285"
+    },
+    {
+      "id": "50196718",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "points": 445,
+      "author": "aghuang",
+      "created_at": 1792682782,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=50196718"
+    },
+    {
+      "id": "50197313",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "points": 441,
+      "author": "rakannimer",
+      "created_at": 1792685280,
+      "num_comments": 440,
+      "hn_url": "https://news.ycombinator.com/item?id=50197313"
+    },
+    {
+      "id": "50201259",
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "points": 429,
+      "author": "ck2",
+      "created_at": 1792704281,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=50201259"
+    },
+    {
+      "id": "50198675",
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "points": 407,
+      "author": "niemandhier",
+      "created_at": 1792691046,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=50198675"
+    },
+    {
+      "id": "50195543",
+      "title": "What\u2019s getting pwned right now",
+      "url": "https://pwn.watch/",
+      "points": 368,
+      "author": "mrkd",
+      "created_at": 1792678092,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=50195543"
+    },
+    {
+      "id": "50202217",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "points": 353,
+      "author": "johnbender",
+      "created_at": 1792709683,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=50202217"
+    },
+    {
+      "id": "50192900",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "points": 333,
+      "author": "keks24",
+      "created_at": 1792659091,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=50192900"
+    },
+    {
+      "id": "50196837",
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "points": 322,
+      "author": "wetwater",
+      "created_at": 1792683166,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=50196837"
+    },
+    {
+      "id": "50194009",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "points": 308,
+      "author": "entryleveljobsc",
+      "created_at": 1792669323,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=50194009"
+    },
+    {
+      "id": "50190455",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "points": 307,
+      "author": "craigcitro",
+      "created_at": 1792636252,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=50190455"
+    },
+    {
+      "id": "50197404",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "points": 305,
+      "author": "dewey",
+      "created_at": 1792685671,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=50197404"
+    },
+    {
+      "id": "50197601",
+      "title": "A farewell to Arc browser",
+      "url": "https://arc.net/",
+      "points": 269,
+      "author": "suhdonghwi",
+      "created_at": 1792686467,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=50197601"
     }
   ],
-  "last_updated": "2026-10-22T11:02:30.736558+00:00"
+  "last_updated": "2026-10-23T10:55:26.734948+00:00"
 }
