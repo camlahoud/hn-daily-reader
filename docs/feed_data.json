@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "49051120",
-      "title": "Did they ghost you?",
-      "url": "https://didtheyghostyou.com/",
-      "points": 384,
-      "author": "mooreds",
-      "created_at": 1785010683,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=49051120"
-    },
-    {
-      "id": "49048034",
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "points": 371,
-      "author": "tknaup",
-      "created_at": 1784990989,
-      "num_comments": 287,
-      "hn_url": "https://news.ycombinator.com/item?id=49048034"
-    },
-    {
-      "id": "49051361",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "points": 304,
-      "author": "mellosouls",
-      "created_at": 1785012155,
-      "num_comments": 187,
-      "hn_url": "https://news.ycombinator.com/item?id=49051361"
-    },
-    {
-      "id": "49047365",
-      "title": "Bitchat is now on Radicle",
-      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "points": 237,
-      "author": "h1watt",
-      "created_at": 1784985529,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=49047365"
-    },
-    {
-      "id": "49050538",
-      "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-      "points": 234,
-      "author": "bookofjoe",
-      "created_at": 1785006137,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=49050538"
-    },
-    {
-      "id": "49048681",
-      "title": "The Dark Night of Mathematics",
-      "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-      "points": 193,
-      "author": "rmdmphilosopher",
-      "created_at": 1784994899,
-      "num_comments": 243,
-      "hn_url": "https://news.ycombinator.com/item?id=49048681"
-    },
-    {
-      "id": "49051369",
-      "title": "Turn And Face The Strange",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-      "points": 192,
-      "author": "subarctic",
-      "created_at": 1785012191,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=49051369"
-    },
-    {
-      "id": "49049693",
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "points": 180,
-      "author": "jsax",
-      "created_at": 1785000874,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49049693"
-    },
-    {
-      "id": "49051947",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "points": 171,
-      "author": "rbanffy",
-      "created_at": 1785016102,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=49051947"
-    },
-    {
-      "id": "49050512",
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "points": 168,
-      "author": "boveyking",
-      "created_at": 1785005990,
-      "num_comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=49050512"
-    },
-    {
-      "id": "49050152",
-      "title": "Tile's security is so bad it's a feature for stalkers",
-      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-      "points": 157,
-      "author": "sambellll",
-      "created_at": 1785003522,
-      "num_comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49050152"
-    },
-    {
-      "id": "49051816",
-      "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
-      "url": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
-      "points": 144,
-      "author": "UmYeahNo",
-      "created_at": 1785015128,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49051816"
-    },
-    {
-      "id": "49046525",
-      "title": "The Fedora 45 Sausage Factory",
-      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-      "points": 143,
-      "author": "6581",
-      "created_at": 1784977497,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=49046525"
-    },
-    {
-      "id": "49050859",
-      "title": "LLM Usage in Debian: Three Proposals",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "points": 142,
-      "author": "zdw",
-      "created_at": 1785008679,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=49050859"
-    },
-    {
-      "id": "49048212",
-      "title": "Engineering management after the cost of code collapsed",
-      "url": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-      "points": 134,
-      "author": "kiyanwang",
-      "created_at": 1784992251,
-      "num_comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=49048212"
-    },
-    {
       "id": "49057175",
       "title": "Kill The Cookie Banner",
       "url": "https://killthecookiebanner.eu/",
@@ -181,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49057241"
     },
     {
-      "id": "49055169",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "points": 413,
-      "author": "Cider9986",
-      "created_at": 1785045442,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=49055169"
-    },
-    {
       "id": "49060495",
       "title": "French firefighters face 'pyrocumulonimbus' for first time",
       "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
@@ -199,16 +39,6 @@
       "created_at": 1785088184,
       "num_comments": 240,
       "hn_url": "https://news.ycombinator.com/item?id=49060495"
-    },
-    {
-      "id": "49056112",
-      "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "points": 341,
-      "author": "vismit2000",
-      "created_at": 1785056499,
-      "num_comments": 226,
-      "hn_url": "https://news.ycombinator.com/item?id=49056112"
     },
     {
       "id": "49057574",
@@ -241,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49058669"
     },
     {
-      "id": "49054107",
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "points": 261,
-      "author": "alexktz",
-      "created_at": 1785033343,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49054107"
-    },
-    {
       "id": "49060978",
       "title": "The Strongest El Ni\u00f1o Ever",
       "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
@@ -269,16 +89,6 @@
       "created_at": 1785081072,
       "num_comments": 85,
       "hn_url": "https://news.ycombinator.com/item?id=49059367"
-    },
-    {
-      "id": "49054224",
-      "title": "JetZero",
-      "url": "https://www.jetzero.aero",
-      "points": 251,
-      "author": "lisper",
-      "created_at": 1785034550,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=49054224"
     },
     {
       "id": "49057248",
@@ -309,26 +119,6 @@
       "created_at": 1785068486,
       "num_comments": 65,
       "hn_url": "https://news.ycombinator.com/item?id=49057398"
-    },
-    {
-      "id": "49053375",
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "points": 206,
-      "author": "nateb2022",
-      "created_at": 1785026190,
-      "num_comments": 27,
-      "hn_url": "https://news.ycombinator.com/item?id=49053375"
-    },
-    {
-      "id": "49054010",
-      "title": "Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com/",
-      "points": 204,
-      "author": "rickmf",
-      "created_at": 1785032546,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=49054010"
     },
     {
       "id": "49060592",
@@ -17779,7 +17569,207 @@
       "created_at": 1792686467,
       "num_comments": 230,
       "hn_url": "https://news.ycombinator.com/item?id=50197601"
+    },
+    {
+      "id": "50212065",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "points": 916,
+      "author": "Jowsey",
+      "created_at": 1792774748,
+      "num_comments": 534,
+      "hn_url": "https://news.ycombinator.com/item?id=50212065"
+    },
+    {
+      "id": "50211474",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "points": 886,
+      "author": "pavel_lishin",
+      "created_at": 1792772510,
+      "num_comments": 581,
+      "hn_url": "https://news.ycombinator.com/item?id=50211474"
+    },
+    {
+      "id": "50207910",
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "points": 765,
+      "author": "frizlab",
+      "created_at": 1792758527,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=50207910"
+    },
+    {
+      "id": "50208837",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "points": 541,
+      "author": "hubraumhugo",
+      "created_at": 1792762870,
+      "num_comments": 386,
+      "hn_url": "https://news.ycombinator.com/item?id=50208837"
+    },
+    {
+      "id": "50208558",
+      "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "url": "https://keepandroidopen.org/?",
+      "points": 506,
+      "author": "NackerHughes",
+      "created_at": 1792761582,
+      "num_comments": 347,
+      "hn_url": "https://news.ycombinator.com/item?id=50208558"
+    },
+    {
+      "id": "50205934",
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "points": 431,
+      "author": "robtherobber",
+      "created_at": 1792743689,
+      "num_comments": 446,
+      "hn_url": "https://news.ycombinator.com/item?id=50205934"
+    },
+    {
+      "id": "50213925",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa",
+      "points": 389,
+      "author": "dsr12",
+      "created_at": 1792782594,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=50213925"
+    },
+    {
+      "id": "50203161",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "points": 369,
+      "author": "xiaoyu2006",
+      "created_at": 1792716721,
+      "num_comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=50203161"
+    },
+    {
+      "id": "50214218",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "points": 353,
+      "author": "JustSkyfall",
+      "created_at": 1792784055,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=50214218"
+    },
+    {
+      "id": "50207405",
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "points": 320,
+      "author": "armcat",
+      "created_at": 1792755594,
+      "num_comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=50207405"
+    },
+    {
+      "id": "50206914",
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "points": 298,
+      "author": "teekert",
+      "created_at": 1792752092,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=50206914"
+    },
+    {
+      "id": "50210067",
+      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "points": 202,
+      "author": "IcePenguin",
+      "created_at": 1792767128,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=50210067"
+    },
+    {
+      "id": "50205816",
+      "title": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "points": 190,
+      "author": "f311a",
+      "created_at": 1792742733,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=50205816"
+    },
+    {
+      "id": "50208099",
+      "title": "OpenSSL 4.1.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "points": 185,
+      "author": "petecooper",
+      "created_at": 1792759364,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=50208099"
+    },
+    {
+      "id": "50206840",
+      "title": "Job loss and cortisone mania",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "points": 178,
+      "author": "speckx",
+      "created_at": 1792751484,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=50206840"
+    },
+    {
+      "id": "50207115",
+      "title": "Is this the new cyber normal?",
+      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "points": 173,
+      "author": "drewsberry",
+      "created_at": 1792753493,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=50207115"
+    },
+    {
+      "id": "50215530",
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "points": 171,
+      "author": "Group_B",
+      "created_at": 1792790507,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=50215530"
+    },
+    {
+      "id": "50204754",
+      "title": "Move Slow and Fix Things (2024)",
+      "url": "https://endler.dev/2024/move-slow-and-fix-things/",
+      "points": 171,
+      "author": "ahmedhossamdev",
+      "created_at": 1792732359,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=50204754"
+    },
+    {
+      "id": "50216791",
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "points": 168,
+      "author": "cowlevel",
+      "created_at": 1792798217,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=50216791"
+    },
+    {
+      "id": "50208258",
+      "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+      "points": 159,
+      "author": "speckx",
+      "created_at": 1792760198,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=50208258"
     }
   ],
-  "last_updated": "2026-10-23T10:55:26.734948+00:00"
+  "last_updated": "2026-10-24T10:10:45.609932+00:00"
 }
