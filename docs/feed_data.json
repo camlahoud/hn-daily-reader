@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "49057175",
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "points": 1011,
-      "author": "rapnie",
-      "created_at": 1785066797,
-      "num_comments": 484,
-      "hn_url": "https://news.ycombinator.com/item?id=49057175"
-    },
-    {
-      "id": "49063022",
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "points": 748,
-      "author": "eecc",
-      "created_at": 1785104501,
-      "num_comments": 544,
-      "hn_url": "https://news.ycombinator.com/item?id=49063022"
-    },
-    {
-      "id": "49057241",
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "points": 449,
-      "author": "rcy",
-      "created_at": 1785067211,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=49057241"
-    },
-    {
-      "id": "49060495",
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "points": 373,
-      "author": "saaaaaam",
-      "created_at": 1785088184,
-      "num_comments": 240,
-      "hn_url": "https://news.ycombinator.com/item?id=49060495"
-    },
-    {
-      "id": "49057574",
-      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "points": 327,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1785069801,
-      "num_comments": 305,
-      "hn_url": "https://news.ycombinator.com/item?id=49057574"
-    },
-    {
-      "id": "49060856",
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "points": 314,
-      "author": "tosh",
-      "created_at": 1785090186,
-      "num_comments": 74,
-      "hn_url": "https://news.ycombinator.com/item?id=49060856"
-    },
-    {
-      "id": "49058669",
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "points": 278,
-      "author": "agotterer",
-      "created_at": 1785076827,
-      "num_comments": 242,
-      "hn_url": "https://news.ycombinator.com/item?id=49058669"
-    },
-    {
-      "id": "49060978",
-      "title": "The Strongest El Ni\u00f1o Ever",
-      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "points": 256,
-      "author": "ndsipa_pomu",
-      "created_at": 1785090936,
-      "num_comments": 277,
-      "hn_url": "https://news.ycombinator.com/item?id=49060978"
-    },
-    {
-      "id": "49059367",
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "points": 252,
-      "author": "ankitg12",
-      "created_at": 1785081072,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49059367"
-    },
-    {
-      "id": "49057248",
-      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-      "url": "https://english.mapn.ro/",
-      "points": 226,
-      "author": "_tk_",
-      "created_at": 1785067242,
-      "num_comments": 291,
-      "hn_url": "https://news.ycombinator.com/item?id=49057248"
-    },
-    {
-      "id": "49057666",
-      "title": "Show HN: Reverse Minesweeper",
-      "url": "https://sunflowersgame.com/",
-      "points": 220,
-      "author": "pompomsheep",
-      "created_at": 1785070263,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=49057666"
-    },
-    {
-      "id": "49057398",
-      "title": "Go Analysis Framework: modular static analysis by go team",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "points": 207,
-      "author": "AbuAssar",
-      "created_at": 1785068486,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=49057398"
-    },
-    {
-      "id": "49060592",
-      "title": "It's not empowering to hand off the details",
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "points": 200,
-      "author": "davnicwil",
-      "created_at": 1785088682,
-      "num_comments": 120,
-      "hn_url": "https://news.ycombinator.com/item?id=49060592"
-    },
-    {
-      "id": "49057877",
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "points": 200,
-      "author": "mooreds",
-      "created_at": 1785071583,
-      "num_comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=49057877"
-    },
-    {
-      "id": "49065752",
-      "title": "Kimi-K3 on HuggingFace",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "points": 1336,
-      "author": "nateb2022",
-      "created_at": 1785133090,
-      "num_comments": 527,
-      "hn_url": "https://news.ycombinator.com/item?id=49065752"
-    },
-    {
-      "id": "49063754",
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "points": 904,
-      "author": "jonbaer",
-      "created_at": 1785111544,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=49063754"
-    },
-    {
       "id": "49076057",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
@@ -271,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49073007"
     },
     {
-      "id": "49067301",
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "points": 241,
-      "author": "Ralfp",
-      "created_at": 1785146330,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=49067301"
-    },
-    {
       "id": "49070427",
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
       "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
@@ -319,26 +149,6 @@
       "created_at": 1785162154,
       "num_comments": 25,
       "hn_url": "https://news.ycombinator.com/item?id=49070138"
-    },
-    {
-      "id": "49066962",
-      "title": "Chinese chipmaker shares surge 470%",
-      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-      "points": 209,
-      "author": "pingou",
-      "created_at": 1785143519,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=49066962"
-    },
-    {
-      "id": "49067285",
-      "title": "Why I Left Google DeepMind",
-      "url": "https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind",
-      "points": 190,
-      "author": "eatitraw",
-      "created_at": 1785146197,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49067285"
     },
     {
       "id": "49080664",
@@ -17769,7 +17579,207 @@
       "created_at": 1792760198,
       "num_comments": 111,
       "hn_url": "https://news.ycombinator.com/item?id=50208258"
+    },
+    {
+      "id": "50217495",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "points": 649,
+      "author": "privacyishuman",
+      "created_at": 1792804514,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=50217495"
+    },
+    {
+      "id": "50224463",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "points": 556,
+      "author": "the-mitr",
+      "created_at": 1792871239,
+      "num_comments": 582,
+      "hn_url": "https://news.ycombinator.com/item?id=50224463"
+    },
+    {
+      "id": "50218633",
+      "title": "Root shell on Samsung TV",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "points": 507,
+      "author": "testing22321",
+      "created_at": 1792820997,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=50218633"
+    },
+    {
+      "id": "50224916",
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "points": 493,
+      "author": "cloudlandsdev",
+      "created_at": 1792873831,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=50224916"
+    },
+    {
+      "id": "50218430",
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "points": 451,
+      "author": "pentagrama",
+      "created_at": 1792817398,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=50218430"
+    },
+    {
+      "id": "50220913",
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "points": 448,
+      "author": "sblank",
+      "created_at": 1792847368,
+      "num_comments": 473,
+      "hn_url": "https://news.ycombinator.com/item?id=50220913"
+    },
+    {
+      "id": "50225695",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "points": 444,
+      "author": "ltratt",
+      "created_at": 1792878451,
+      "num_comments": 385,
+      "hn_url": "https://news.ycombinator.com/item?id=50225695"
+    },
+    {
+      "id": "50224100",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "points": 413,
+      "author": "bobbydigitales",
+      "created_at": 1792868815,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=50224100"
+    },
+    {
+      "id": "50217500",
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "points": 374,
+      "author": "otoolep",
+      "created_at": 1792804618,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=50217500"
+    },
+    {
+      "id": "50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "points": 371,
+      "author": "gnabgib",
+      "created_at": 1792883514,
+      "num_comments": 378,
+      "hn_url": "https://news.ycombinator.com/item?id=50226419"
+    },
+    {
+      "id": "50219177",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "points": 324,
+      "author": "theanonymousone",
+      "created_at": 1792829199,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50219177"
+    },
+    {
+      "id": "50219666",
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "points": 318,
+      "author": "rramadass",
+      "created_at": 1792835606,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=50219666"
+    },
+    {
+      "id": "50222133",
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "points": 296,
+      "author": "esher",
+      "created_at": 1792855201,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=50222133"
+    },
+    {
+      "id": "50222622",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "points": 288,
+      "author": "cxr",
+      "created_at": 1792857986,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=50222622"
+    },
+    {
+      "id": "50218195",
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "points": 269,
+      "author": "stmonty",
+      "created_at": 1792813434,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=50218195"
+    },
+    {
+      "id": "50221676",
+      "title": "Google illegally cut down 250K trees in Finland for data center",
+      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "points": 253,
+      "author": "rustybolt",
+      "created_at": 1792852714,
+      "num_comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=50221676"
+    },
+    {
+      "id": "50219700",
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "points": 252,
+      "author": "fragebogen",
+      "created_at": 1792835907,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=50219700"
+    },
+    {
+      "id": "50223844",
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "points": 214,
+      "author": "lowkeyokay",
+      "created_at": 1792866708,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=50223844"
+    },
+    {
+      "id": "50223647",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "points": 204,
+      "author": "canjobear",
+      "created_at": 1792865097,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=50223647"
+    },
+    {
+      "id": "50217903",
+      "title": "Apple Security Research Device",
+      "url": "https://security.apple.com/research-device/",
+      "points": 176,
+      "author": "neom",
+      "created_at": 1792809398,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=50217903"
     }
   ],
-  "last_updated": "2026-10-24T10:10:45.609932+00:00"
+  "last_updated": "2026-10-25T10:35:39.506992+00:00"
 }
