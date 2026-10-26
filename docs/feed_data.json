@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "49076057",
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "points": 849,
-      "author": "surprisetalk",
-      "created_at": 1785189829,
-      "num_comments": 1233,
-      "hn_url": "https://news.ycombinator.com/item?id=49076057"
-    },
-    {
-      "id": "49068738",
-      "title": "AI companies are shredding rare books",
-      "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "points": 767,
-      "author": "anon373839",
-      "created_at": 1785155532,
-      "num_comments": 484,
-      "hn_url": "https://news.ycombinator.com/item?id=49068738"
-    },
-    {
-      "id": "49067854",
-      "title": "How is the Bun rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "points": 467,
-      "author": "tomlockwood",
-      "created_at": 1785150746,
-      "num_comments": 368,
-      "hn_url": "https://news.ycombinator.com/item?id=49067854"
-    },
-    {
-      "id": "49070985",
-      "title": "Kimi-K3 Technical Report [pdf]",
-      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-      "points": 383,
-      "author": "vinhnx",
-      "created_at": 1785165825,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=49070985"
-    },
-    {
-      "id": "49072310",
-      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-      "points": 320,
-      "author": "doener",
-      "created_at": 1785170948,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=49072310"
-    },
-    {
-      "id": "49073513",
-      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "points": 301,
-      "author": "cdrnsf",
-      "created_at": 1785176135,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=49073513"
-    },
-    {
-      "id": "49076923",
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-      "points": 291,
-      "author": "softwaredoug",
-      "created_at": 1785194497,
-      "num_comments": 245,
-      "hn_url": "https://news.ycombinator.com/item?id=49076923"
-    },
-    {
-      "id": "49076116",
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "points": 271,
-      "author": "quantified",
-      "created_at": 1785190215,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=49076116"
-    },
-    {
-      "id": "49069939",
-      "title": "AI companies spend record sums on Washington lobbying",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "points": 267,
-      "author": "1vuio0pswjnm7",
-      "created_at": 1785161268,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=49069939"
-    },
-    {
-      "id": "49076391",
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "points": 265,
-      "author": "dhorthy",
-      "created_at": 1785191872,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=49076391"
-    },
-    {
-      "id": "49073007",
-      "title": "Canceling \"Hey\"",
-      "url": "https://chadnauseam.com/random/cancelling-my-hey",
-      "points": 252,
-      "author": "ChadNauseam",
-      "created_at": 1785173822,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=49073007"
-    },
-    {
-      "id": "49070427",
-      "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-      "points": 240,
-      "author": "thm",
-      "created_at": 1785163361,
-      "num_comments": 318,
-      "hn_url": "https://news.ycombinator.com/item?id=49070427"
-    },
-    {
-      "id": "49069132",
-      "title": "Should you wash your solar panels?",
-      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-      "points": 233,
-      "author": "surprisetalk",
-      "created_at": 1785157451,
-      "num_comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=49069132"
-    },
-    {
-      "id": "49072361",
-      "title": "MAI-Cyber-1-Flash inside MDASH",
-      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-      "points": 231,
-      "author": "migmartri",
-      "created_at": 1785171142,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=49072361"
-    },
-    {
-      "id": "49070138",
-      "title": "Paged Out #9 [pdf]",
-      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-      "points": 225,
-      "author": "laurensr",
-      "created_at": 1785162154,
-      "num_comments": 25,
-      "hn_url": "https://news.ycombinator.com/item?id=49070138"
-    },
-    {
-      "id": "49080664",
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "points": 788,
-      "author": "krembo",
-      "created_at": 1785224664,
-      "num_comments": 214,
-      "hn_url": "https://news.ycombinator.com/item?id=49080664"
-    },
-    {
       "id": "49083314",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
@@ -209,36 +49,6 @@
       "created_at": 1785253714,
       "num_comments": 71,
       "hn_url": "https://news.ycombinator.com/item?id=49085698"
-    },
-    {
-      "id": "49078454",
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "points": 318,
-      "author": "ilreb",
-      "created_at": 1785205133,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=49078454"
-    },
-    {
-      "id": "49078583",
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "points": 311,
-      "author": "msaltz",
-      "created_at": 1785206234,
-      "num_comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=49078583"
-    },
-    {
-      "id": "49082022",
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "points": 296,
-      "author": "ronfriedhaber",
-      "created_at": 1785235950,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=49082022"
     },
     {
       "id": "49085731",
@@ -339,16 +149,6 @@
       "created_at": 1785259336,
       "num_comments": 152,
       "hn_url": "https://news.ycombinator.com/item?id=49087091"
-    },
-    {
-      "id": "49081555",
-      "title": "About the security content of macOS Tahoe 26.6",
-      "url": "https://support.apple.com/en-us/128067",
-      "points": 203,
-      "author": "andor",
-      "created_at": 1785231943,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=49081555"
     },
     {
       "id": "49098510",
@@ -17779,7 +17579,207 @@
       "created_at": 1792809398,
       "num_comments": 124,
       "hn_url": "https://news.ycombinator.com/item?id=50217903"
+    },
+    {
+      "id": "50233779",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "points": 582,
+      "author": "sungam",
+      "created_at": 1792948538,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=50233779"
+    },
+    {
+      "id": "50234474",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "points": 572,
+      "author": "jumploops",
+      "created_at": 1792952634,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=50234474"
+    },
+    {
+      "id": "50233929",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "points": 497,
+      "author": "Tomte",
+      "created_at": 1792949455,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=50233929"
+    },
+    {
+      "id": "50229587",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "points": 488,
+      "author": "vrganj",
+      "created_at": 1792918840,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=50229587"
+    },
+    {
+      "id": "50234232",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "points": 468,
+      "author": "tdeck",
+      "created_at": 1792951451,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=50234232"
+    },
+    {
+      "id": "50227356",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "points": 356,
+      "author": "gmays",
+      "created_at": 1792892029,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=50227356"
+    },
+    {
+      "id": "50236102",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "points": 346,
+      "author": "minimaxir",
+      "created_at": 1792962691,
+      "num_comments": 335,
+      "hn_url": "https://news.ycombinator.com/item?id=50236102"
+    },
+    {
+      "id": "50236081",
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "points": 302,
+      "author": "consumer451",
+      "created_at": 1792962508,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=50236081"
+    },
+    {
+      "id": "50230181",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "points": 292,
+      "author": "mashally",
+      "created_at": 1792924921,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50230181"
+    },
+    {
+      "id": "50235017",
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "points": 254,
+      "author": "jruohonen",
+      "created_at": 1792955491,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=50235017"
+    },
+    {
+      "id": "50233304",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "points": 221,
+      "author": "romanhn",
+      "created_at": 1792945706,
+      "num_comments": 320,
+      "hn_url": "https://news.ycombinator.com/item?id=50233304"
+    },
+    {
+      "id": "50233294",
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "points": 220,
+      "author": "hmokiguess",
+      "created_at": 1792945632,
+      "num_comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=50233294"
+    },
+    {
+      "id": "50230384",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "points": 209,
+      "author": "tosh",
+      "created_at": 1792926552,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=50230384"
+    },
+    {
+      "id": "50235780",
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "points": 200,
+      "author": "pchristensen",
+      "created_at": 1792960351,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=50235780"
+    },
+    {
+      "id": "50235217",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "points": 193,
+      "author": "_Microft",
+      "created_at": 1792956556,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=50235217"
+    },
+    {
+      "id": "50228115",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "points": 186,
+      "author": "NotARoomba",
+      "created_at": 1792900076,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=50228115"
+    },
+    {
+      "id": "50228167",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "points": 184,
+      "author": "rzk",
+      "created_at": 1792900561,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50228167"
+    },
+    {
+      "id": "50227639",
+      "title": "Meta employees say Lula\u2019s accounts restricted in Brazil election: Report",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "points": 181,
+      "author": "nidnogg",
+      "created_at": 1792894715,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=50227639"
+    },
+    {
+      "id": "50232312",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "points": 174,
+      "author": "vfxGer",
+      "created_at": 1792940739,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=50232312"
+    },
+    {
+      "id": "50230917",
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
+      "points": 165,
+      "author": "edwardog",
+      "created_at": 1792931874,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=50230917"
     }
   ],
-  "last_updated": "2026-10-25T10:35:39.506992+00:00"
+  "last_updated": "2026-10-26T12:08:51.039105+00:00"
 }
