@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "49083314",
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "points": 625,
-      "author": "codebyaditya",
-      "created_at": 1785244321,
-      "num_comments": 270,
-      "hn_url": "https://news.ycombinator.com/item?id=49083314"
-    },
-    {
-      "id": "49084938",
-      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
-      "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-      "points": 592,
-      "author": "doener",
-      "created_at": 1785250695,
-      "num_comments": 207,
-      "hn_url": "https://news.ycombinator.com/item?id=49084938"
-    },
-    {
-      "id": "49086788",
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "points": 517,
-      "author": "speckx",
-      "created_at": 1785257911,
-      "num_comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=49086788"
-    },
-    {
-      "id": "49089755",
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "points": 487,
-      "author": "bakigul",
-      "created_at": 1785271975,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=49089755"
-    },
-    {
-      "id": "49085698",
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "points": 404,
-      "author": "ModelForge",
-      "created_at": 1785253714,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=49085698"
-    },
-    {
-      "id": "49085731",
-      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
-      "url": "https://www.slow-journalism.com/",
-      "points": 291,
-      "author": "speerer",
-      "created_at": 1785253838,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=49085731"
-    },
-    {
-      "id": "49090607",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "points": 291,
-      "author": "twalichiewicz",
-      "created_at": 1785276546,
-      "num_comments": 74,
-      "hn_url": "https://news.ycombinator.com/item?id=49090607"
-    },
-    {
-      "id": "49085909",
-      "title": "A walk through of the DeltaNet family of linear attention variants",
-      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "points": 290,
-      "author": "AnhTho_FR",
-      "created_at": 1785254527,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=49085909"
-    },
-    {
-      "id": "49088148",
-      "title": "Deflock Casa Grande",
-      "url": "https://deflockcg.com/",
-      "points": 254,
-      "author": "mooreds",
-      "created_at": 1785264108,
-      "num_comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=49088148"
-    },
-    {
-      "id": "49088451",
-      "title": "Donate to GrapheneOS",
-      "url": "https://grapheneos.org/donate",
-      "points": 242,
-      "author": "charliebwrites",
-      "created_at": 1785265570,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49088451"
-    },
-    {
-      "id": "49085666",
-      "title": "Zig's Incremental Compilation Internals",
-      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "points": 233,
-      "author": "garyhtou",
-      "created_at": 1785253605,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=49085666"
-    },
-    {
-      "id": "49086971",
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "url": "https://sbcl.org/all-news.html?2.6.7",
-      "points": 227,
-      "author": "tmtvl",
-      "created_at": 1785258714,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=49086971"
-    },
-    {
-      "id": "49089814",
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "points": 226,
-      "author": "freediver",
-      "created_at": 1785272319,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=49089814"
-    },
-    {
-      "id": "49082857",
-      "title": "I'm 38 and I Can't Support Myself Anymore",
-      "url": "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore",
-      "points": 218,
-      "author": "speckx",
-      "created_at": 1785242047,
-      "num_comments": 388,
-      "hn_url": "https://news.ycombinator.com/item?id=49082857"
-    },
-    {
-      "id": "49087091",
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "points": 214,
-      "author": "gslin",
-      "created_at": 1785259336,
-      "num_comments": 152,
-      "hn_url": "https://news.ycombinator.com/item?id=49087091"
-    },
-    {
       "id": "49098510",
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
@@ -159,16 +9,6 @@
       "created_at": 1785337543,
       "num_comments": 268,
       "hn_url": "https://news.ycombinator.com/item?id=49098510"
-    },
-    {
-      "id": "49095865",
-      "title": "KOReader",
-      "url": "https://koreader.rocks/",
-      "points": 706,
-      "author": "Cider9986",
-      "created_at": 1785323108,
-      "num_comments": 220,
-      "hn_url": "https://news.ycombinator.com/item?id=49095865"
     },
     {
       "id": "49098965",
@@ -209,26 +49,6 @@
       "created_at": 1785353133,
       "num_comments": 124,
       "hn_url": "https://news.ycombinator.com/item?id=49101852"
-    },
-    {
-      "id": "49093434",
-      "title": "User Interfaces of the Demo Scene",
-      "url": "https://www.datagubbe.se/scenegui/",
-      "points": 416,
-      "author": "zdw",
-      "created_at": 1785299436,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=49093434"
-    },
-    {
-      "id": "49093569",
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "points": 398,
-      "author": "Error6571",
-      "created_at": 1785301126,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=49093569"
     },
     {
       "id": "49096188",
@@ -299,26 +119,6 @@
       "created_at": 1785354642,
       "num_comments": 243,
       "hn_url": "https://news.ycombinator.com/item?id=49102150"
-    },
-    {
-      "id": "49092499",
-      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
-      "url": "https://learnvector.ai/",
-      "points": 259,
-      "author": "ajhai",
-      "created_at": 1785289759,
-      "num_comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=49092499"
-    },
-    {
-      "id": "49094346",
-      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-      "points": 241,
-      "author": "ankitg12",
-      "created_at": 1785309504,
-      "num_comments": 74,
-      "hn_url": "https://news.ycombinator.com/item?id=49094346"
     },
     {
       "id": "49104117",
@@ -17779,7 +17579,207 @@
       "created_at": 1792931874,
       "num_comments": 84,
       "hn_url": "https://news.ycombinator.com/item?id=50230917"
+    },
+    {
+      "id": "50242939",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "points": 1627,
+      "author": "SiNTEx",
+      "created_at": 1793019890,
+      "num_comments": 1554,
+      "hn_url": "https://news.ycombinator.com/item?id=50242939"
+    },
+    {
+      "id": "50245524",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "points": 961,
+      "author": "doctorzook",
+      "created_at": 1793028912,
+      "num_comments": 948,
+      "hn_url": "https://news.ycombinator.com/item?id=50245524"
+    },
+    {
+      "id": "50251344",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "points": 951,
+      "author": "jonluca",
+      "created_at": 1793050528,
+      "num_comments": 481,
+      "hn_url": "https://news.ycombinator.com/item?id=50251344"
+    },
+    {
+      "id": "50245138",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "points": 727,
+      "author": "sgiannopoulos",
+      "created_at": 1793027519,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=50245138"
+    },
+    {
+      "id": "50251661",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "points": 650,
+      "author": "vok",
+      "created_at": 1793051955,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=50251661"
+    },
+    {
+      "id": "50248124",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "points": 597,
+      "author": "meetpateltech",
+      "created_at": 1793037677,
+      "num_comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=50248124"
+    },
+    {
+      "id": "50237485",
+      "title": "Lula wins election after final votes tallied",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "points": 507,
+      "author": "laurenth",
+      "created_at": 1792974667,
+      "num_comments": 634,
+      "hn_url": "https://news.ycombinator.com/item?id=50237485"
+    },
+    {
+      "id": "50245831",
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "points": 492,
+      "author": "edent",
+      "created_at": 1793029883,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=50245831"
+    },
+    {
+      "id": "50240922",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "points": 467,
+      "author": "theanonymousone",
+      "created_at": 1793004369,
+      "num_comments": 219,
+      "hn_url": "https://news.ycombinator.com/item?id=50240922"
+    },
+    {
+      "id": "50248055",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "points": 453,
+      "author": "enlyth",
+      "created_at": 1793037415,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=50248055"
+    },
+    {
+      "id": "50238088",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "points": 421,
+      "author": "Betelbuddy",
+      "created_at": 1792979266,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=50238088"
+    },
+    {
+      "id": "50238708",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "points": 392,
+      "author": "davidbarker",
+      "created_at": 1792985037,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=50238708"
+    },
+    {
+      "id": "50245385",
+      "title": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "points": 356,
+      "author": "geox",
+      "created_at": 1793028377,
+      "num_comments": 528,
+      "hn_url": "https://news.ycombinator.com/item?id=50245385"
+    },
+    {
+      "id": "50241664",
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "points": 352,
+      "author": "bagatelle",
+      "created_at": 1793010734,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=50241664"
+    },
+    {
+      "id": "50248061",
+      "title": "Meta Employees Denounce Interference in Brazilian Elections",
+      "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
+      "points": 320,
+      "author": "guitcastro",
+      "created_at": 1793037449,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=50248061"
+    },
+    {
+      "id": "50246658",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "points": 306,
+      "author": "matthieu_bl",
+      "created_at": 1793032544,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=50246658"
+    },
+    {
+      "id": "50248005",
+      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+      "points": 299,
+      "author": "Frieren",
+      "created_at": 1793037240,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=50248005"
+    },
+    {
+      "id": "50249275",
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "points": 285,
+      "author": "robtherobber",
+      "created_at": 1793041541,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=50249275"
+    },
+    {
+      "id": "50241925",
+      "title": "Pharo 14",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "points": 267,
+      "author": "xkriva11",
+      "created_at": 1793013350,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=50241925"
+    },
+    {
+      "id": "50238763",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "points": 258,
+      "author": "Austin_Conlon",
+      "created_at": 1792985471,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50238763"
     }
   ],
-  "last_updated": "2026-10-26T12:08:51.039105+00:00"
+  "last_updated": "2026-10-27T11:30:23.523019+00:00"
 }
