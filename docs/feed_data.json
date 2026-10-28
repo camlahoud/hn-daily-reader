@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "49098510",
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "points": 770,
-      "author": "gitpusher42",
-      "created_at": 1785337543,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=49098510"
-    },
-    {
-      "id": "49098965",
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "points": 669,
-      "author": "yan",
-      "created_at": 1785339693,
-      "num_comments": 405,
-      "hn_url": "https://news.ycombinator.com/item?id=49098965"
-    },
-    {
-      "id": "49102774",
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "points": 621,
-      "author": "robbiet480",
-      "created_at": 1785357580,
-      "num_comments": 245,
-      "hn_url": "https://news.ycombinator.com/item?id=49102774"
-    },
-    {
-      "id": "49103285",
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "points": 418,
-      "author": "YeGoblynQueenne",
-      "created_at": 1785360340,
-      "num_comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=49103285"
-    },
-    {
-      "id": "49101852",
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "points": 417,
-      "author": "monneyboi",
-      "created_at": 1785353133,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=49101852"
-    },
-    {
-      "id": "49096188",
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "points": 363,
-      "author": "Canopy9560",
-      "created_at": 1785325473,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=49096188"
-    },
-    {
-      "id": "49099715",
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "points": 363,
-      "author": "JLO64",
-      "created_at": 1785343019,
-      "num_comments": 147,
-      "hn_url": "https://news.ycombinator.com/item?id=49099715"
-    },
-    {
-      "id": "49096654",
-      "title": "Darktable",
-      "url": "https://www.darktable.org/",
-      "points": 338,
-      "author": "siatko",
-      "created_at": 1785328382,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=49096654"
-    },
-    {
-      "id": "49096290",
-      "title": "French musician Kavinsky found dead",
-      "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-      "points": 330,
-      "author": "bristleworm",
-      "created_at": 1785326077,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=49096290"
-    },
-    {
-      "id": "49096969",
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "url": "https://arxiv.org/abs/2607.25398",
-      "points": 314,
-      "author": "spIrr",
-      "created_at": 1785330117,
-      "num_comments": 191,
-      "hn_url": "https://news.ycombinator.com/item?id=49096969"
-    },
-    {
-      "id": "49098198",
-      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "points": 276,
-      "author": "thm",
-      "created_at": 1785336227,
-      "num_comments": 332,
-      "hn_url": "https://news.ycombinator.com/item?id=49098198"
-    },
-    {
-      "id": "49102150",
-      "title": "Claude: Elevated errors across all models \u2013 Resolved",
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-      "points": 262,
-      "author": "gregsadetsky",
-      "created_at": 1785354642,
-      "num_comments": 243,
-      "hn_url": "https://news.ycombinator.com/item?id=49102150"
-    },
-    {
-      "id": "49104117",
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "points": 216,
-      "author": "8thom",
-      "created_at": 1785365463,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=49104117"
-    },
-    {
-      "id": "49104335",
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "points": 205,
-      "author": "msephton",
-      "created_at": 1785367091,
-      "num_comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=49104335"
-    },
-    {
-      "id": "49100043",
-      "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-      "url": "https://cheapfoodmap.com/",
-      "points": 192,
-      "author": "jaep1",
-      "created_at": 1785344392,
-      "num_comments": 189,
-      "hn_url": "https://news.ycombinator.com/item?id=49100043"
-    },
-    {
       "id": "49113929",
       "title": "UEFA and its national associations will not participate in FIFA competitions",
       "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
@@ -211,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49109440"
     },
     {
-      "id": "49107950",
-      "title": "Google will expand age checks on Android worldwide till the end of the year",
-      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-      "points": 399,
-      "author": "dmantis",
-      "created_at": 1785406426,
-      "num_comments": 476,
-      "hn_url": "https://news.ycombinator.com/item?id=49107950"
-    },
-    {
       "id": "49113059",
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
       "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
@@ -251,26 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49117099"
     },
     {
-      "id": "49108685",
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "points": 286,
-      "author": "arto",
-      "created_at": 1785411944,
-      "num_comments": 314,
-      "hn_url": "https://news.ycombinator.com/item?id=49108685"
-    },
-    {
-      "id": "49107246",
-      "title": "Ron Gilbert started production on Thimbleweed Park 2",
-      "url": "https://www.grumpygamer.com/twp2_announce/",
-      "points": 241,
-      "author": "alberto-m",
-      "created_at": 1785399033,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=49107246"
-    },
-    {
       "id": "49111176",
       "title": "The Economic Benefit of Refactoring",
       "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
@@ -299,16 +119,6 @@
       "created_at": 1785417694,
       "num_comments": 64,
       "hn_url": "https://news.ycombinator.com/item?id=49109616"
-    },
-    {
-      "id": "49104937",
-      "title": "Logic for Programmers",
-      "url": "https://logicforprogrammers.com/",
-      "points": 197,
-      "author": "_doctor_love",
-      "created_at": 1785372699,
-      "num_comments": 45,
-      "hn_url": "https://news.ycombinator.com/item?id=49104937"
     },
     {
       "id": "49109193",
@@ -17779,7 +17589,207 @@
       "created_at": 1792985471,
       "num_comments": 155,
       "hn_url": "https://news.ycombinator.com/item?id=50238763"
+    },
+    {
+      "id": "50261998",
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "points": 1083,
+      "author": "deaux",
+      "created_at": 1793119882,
+      "num_comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=50261998"
+    },
+    {
+      "id": "50259604",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "points": 966,
+      "author": "helterskelter2",
+      "created_at": 1793110002,
+      "num_comments": 367,
+      "hn_url": "https://news.ycombinator.com/item?id=50259604"
+    },
+    {
+      "id": "50261319",
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "points": 920,
+      "author": "acossta",
+      "created_at": 1793117161,
+      "num_comments": 532,
+      "hn_url": "https://news.ycombinator.com/item?id=50261319"
+    },
+    {
+      "id": "50257325",
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "points": 646,
+      "author": "oorestisime",
+      "created_at": 1793099294,
+      "num_comments": 640,
+      "hn_url": "https://news.ycombinator.com/item?id=50257325"
+    },
+    {
+      "id": "50260814",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "points": 529,
+      "author": "car",
+      "created_at": 1793114906,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=50260814"
+    },
+    {
+      "id": "50257419",
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "points": 527,
+      "author": "f311a",
+      "created_at": 1793099877,
+      "num_comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=50257419"
+    },
+    {
+      "id": "50257326",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "points": 483,
+      "author": "rbanffy",
+      "created_at": 1793099295,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=50257326"
+    },
+    {
+      "id": "50256985",
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "points": 474,
+      "author": "choult",
+      "created_at": 1793096870,
+      "num_comments": 270,
+      "hn_url": "https://news.ycombinator.com/item?id=50256985"
+    },
+    {
+      "id": "50255298",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "points": 458,
+      "author": "ilreb",
+      "created_at": 1793082337,
+      "num_comments": 332,
+      "hn_url": "https://news.ycombinator.com/item?id=50255298"
+    },
+    {
+      "id": "50264853",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "points": 384,
+      "author": "Luc",
+      "created_at": 1793130906,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=50264853"
+    },
+    {
+      "id": "50261352",
+      "title": "New 14\u2011inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "points": 377,
+      "author": "beex",
+      "created_at": 1793117312,
+      "num_comments": 517,
+      "hn_url": "https://news.ycombinator.com/item?id=50261352"
+    },
+    {
+      "id": "50261819",
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "points": 374,
+      "author": "gumby",
+      "created_at": 1793119215,
+      "num_comments": 294,
+      "hn_url": "https://news.ycombinator.com/item?id=50261819"
+    },
+    {
+      "id": "50258538",
+      "title": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "points": 343,
+      "author": "notfried",
+      "created_at": 1793106122,
+      "num_comments": 431,
+      "hn_url": "https://news.ycombinator.com/item?id=50258538"
+    },
+    {
+      "id": "50257548",
+      "title": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "points": 326,
+      "author": "jakevoytko",
+      "created_at": 1793100635,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=50257548"
+    },
+    {
+      "id": "50261589",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "points": 326,
+      "author": "dpflan",
+      "created_at": 1793118330,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=50261589"
+    },
+    {
+      "id": "50263854",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "points": 306,
+      "author": "DeepLogin",
+      "created_at": 1793126657,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=50263854"
+    },
+    {
+      "id": "50264857",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "points": 301,
+      "author": "figmert",
+      "created_at": 1793130921,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=50264857"
+    },
+    {
+      "id": "50265609",
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "points": 242,
+      "author": "dataking",
+      "created_at": 1793134242,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=50265609"
+    },
+    {
+      "id": "50256738",
+      "title": "I will no longer upload to NEW",
+      "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+      "points": 235,
+      "author": "edward",
+      "created_at": 1793095145,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=50256738"
+    },
+    {
+      "id": "50261784",
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "points": 232,
+      "author": "ck2",
+      "created_at": 1793119088,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=50261784"
     }
   ],
-  "last_updated": "2026-10-27T11:30:23.523019+00:00"
+  "last_updated": "2026-10-28T12:00:24.167866+00:00"
 }
