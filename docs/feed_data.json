@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "49113929",
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "points": 997,
-      "author": "dickfickling",
-      "created_at": 1785436852,
-      "num_comments": 535,
-      "hn_url": "https://news.ycombinator.com/item?id=49113929"
-    },
-    {
-      "id": "49112744",
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "points": 700,
-      "author": "speckx",
-      "created_at": 1785431093,
-      "num_comments": 398,
-      "hn_url": "https://news.ycombinator.com/item?id=49112744"
-    },
-    {
-      "id": "49112232",
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "points": 628,
-      "author": "tomzorz",
-      "created_at": 1785428776,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=49112232"
-    },
-    {
-      "id": "49112867",
-      "title": "Advancing the price-performance frontier with GPT\u20115.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "points": 570,
-      "author": "tedsanders",
-      "created_at": 1785431751,
-      "num_comments": 370,
-      "hn_url": "https://news.ycombinator.com/item?id=49112867"
-    },
-    {
-      "id": "49111237",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "points": 551,
-      "author": "ai2027",
-      "created_at": 1785424548,
-      "num_comments": 438,
-      "hn_url": "https://news.ycombinator.com/item?id=49111237"
-    },
-    {
-      "id": "49109440",
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "url": "https://remysharp.com/links/2026-07-23-35890312",
-      "points": 429,
-      "author": "speckx",
-      "created_at": 1785416607,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=49109440"
-    },
-    {
-      "id": "49113059",
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "points": 362,
-      "author": "Areibman",
-      "created_at": 1785432667,
-      "num_comments": 209,
-      "hn_url": "https://news.ycombinator.com/item?id=49113059"
-    },
-    {
-      "id": "49114639",
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "points": 300,
-      "author": "navs",
-      "created_at": 1785440067,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=49114639"
-    },
-    {
-      "id": "49117099",
-      "title": "The AI Aesthetic",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "points": 298,
-      "author": "montroser",
-      "created_at": 1785453736,
-      "num_comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=49117099"
-    },
-    {
-      "id": "49111176",
-      "title": "The Economic Benefit of Refactoring",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "points": 233,
-      "author": "javaeeeee",
-      "created_at": 1785424227,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=49111176"
-    },
-    {
-      "id": "49111305",
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "points": 213,
-      "author": "ibobev",
-      "created_at": 1785424966,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=49111305"
-    },
-    {
-      "id": "49109616",
-      "title": "Upper stage impacting the moon on 2026 August 5",
-      "url": "https://www.projectpluto.com/25010d.htm",
-      "points": 204,
-      "author": "ryannevius",
-      "created_at": 1785417694,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=49109616"
-    },
-    {
-      "id": "49109193",
-      "title": "Why is everyone trying to build a solid-state battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "points": 192,
-      "author": "crescit_eundo",
-      "created_at": 1785415131,
-      "num_comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=49109193"
-    },
-    {
-      "id": "49116721",
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "points": 181,
-      "author": "volumes94",
-      "created_at": 1785450791,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49116721"
-    },
-    {
-      "id": "49116922",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "points": 177,
-      "author": "surprisetalk",
-      "created_at": 1785452451,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=49116922"
-    },
-    {
-      "id": "49110085",
-      "title": "Europe's fires are just the start",
-      "url": "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start",
-      "points": 167,
-      "author": "andsoitis",
-      "created_at": 1785419709,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=49110085"
-    },
-    {
       "id": "49124218",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
@@ -169,36 +9,6 @@
       "created_at": 1785511048,
       "num_comments": 295,
       "hn_url": "https://news.ycombinator.com/item?id=49124218"
-    },
-    {
-      "id": "49118781",
-      "title": "The session you cannot take with you",
-      "url": "https://earendil.com/posts/session-portability/",
-      "points": 749,
-      "author": "apitman",
-      "created_at": 1785469679,
-      "num_comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=49118781"
-    },
-    {
-      "id": "49119559",
-      "title": "DeepSeek-V4-Flash Update",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "points": 694,
-      "author": "dnhkng",
-      "created_at": 1785478116,
-      "num_comments": 329,
-      "hn_url": "https://news.ycombinator.com/item?id=49119559"
-    },
-    {
-      "id": "49120299",
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "points": 553,
-      "author": "theanonymousone",
-      "created_at": 1785484751,
-      "num_comments": 295,
-      "hn_url": "https://news.ycombinator.com/item?id=49120299"
     },
     {
       "id": "49126604",
@@ -221,26 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49127306"
     },
     {
-      "id": "49120097",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "points": 499,
-      "author": "Garbage",
-      "created_at": 1785482962,
-      "num_comments": 517,
-      "hn_url": "https://news.ycombinator.com/item?id=49120097"
-    },
-    {
-      "id": "49121980",
-      "title": "The End of an Era",
-      "url": "https://hughhowey.com/the-end-of-an-era/",
-      "points": 403,
-      "author": "harscoat",
-      "created_at": 1785498706,
-      "num_comments": 426,
-      "hn_url": "https://news.ycombinator.com/item?id=49121980"
-    },
-    {
       "id": "49125971",
       "title": "Severance",
       "url": "https://lcamtuf.substack.com/p/severance",
@@ -261,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49123386"
     },
     {
-      "id": "49119063",
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "url": "https://github.com/openjdk/jdk/pull/31120",
-      "points": 230,
-      "author": "mfiguiere",
-      "created_at": 1785472699,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=49119063"
-    },
-    {
       "id": "49124858",
       "title": "Big Food vs. the People",
       "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
@@ -279,16 +59,6 @@
       "created_at": 1785513872,
       "num_comments": 143,
       "hn_url": "https://news.ycombinator.com/item?id=49124858"
-    },
-    {
-      "id": "49119425",
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
-      "url": "https://github.com/mokshablr/gander",
-      "points": 200,
-      "author": "mokshablr",
-      "created_at": 1785476713,
-      "num_comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=49119425"
     },
     {
       "id": "49125034",
@@ -311,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49124042"
     },
     {
-      "id": "49118663",
-      "title": "A California aquifer may have crossed the point of no return",
-      "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
-      "points": 165,
-      "author": "Jimmc414",
-      "created_at": 1785468456,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=49118663"
-    },
-    {
       "id": "49124358",
       "title": "Is AI reasoning right for the wrong reasons?",
       "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
@@ -329,26 +89,6 @@
       "created_at": 1785511779,
       "num_comments": 182,
       "hn_url": "https://news.ycombinator.com/item?id=49124358"
-    },
-    {
-      "id": "49120120",
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
-      "points": 147,
-      "author": "vrganj",
-      "created_at": 1785483190,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=49120120"
-    },
-    {
-      "id": "49121868",
-      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "url": "https://arxiv.org/abs/2607.27197",
-      "points": 147,
-      "author": "rahen",
-      "created_at": 1785497832,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=49121868"
     },
     {
       "id": "49127031",
@@ -17789,7 +17529,207 @@
       "created_at": 1793119088,
       "num_comments": 159,
       "hn_url": "https://news.ycombinator.com/item?id=50261784"
+    },
+    {
+      "id": "50276998",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "points": 1325,
+      "author": "hazebooth",
+      "created_at": 1793207609,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=50276998"
+    },
+    {
+      "id": "50271640",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "points": 1149,
+      "author": "galadran",
+      "created_at": 1793185420,
+      "num_comments": 399,
+      "hn_url": "https://news.ycombinator.com/item?id=50271640"
+    },
+    {
+      "id": "50272749",
+      "title": "Evidence of a spying operation by ICE against left-wing social movements",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "points": 1147,
+      "author": "zzzeek",
+      "created_at": 1793191785,
+      "num_comments": 950,
+      "hn_url": "https://news.ycombinator.com/item?id=50272749"
+    },
+    {
+      "id": "50276792",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "points": 955,
+      "author": "acossta",
+      "created_at": 1793206883,
+      "num_comments": 764,
+      "hn_url": "https://news.ycombinator.com/item?id=50276792"
+    },
+    {
+      "id": "50276940",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "points": 595,
+      "author": "etothet",
+      "created_at": 1793207437,
+      "num_comments": 994,
+      "hn_url": "https://news.ycombinator.com/item?id=50276940"
+    },
+    {
+      "id": "50282454",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "points": 544,
+      "author": "babelfish",
+      "created_at": 1793230502,
+      "num_comments": 452,
+      "hn_url": "https://news.ycombinator.com/item?id=50282454"
+    },
+    {
+      "id": "50273171",
+      "title": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "points": 493,
+      "author": "internet_points",
+      "created_at": 1793193911,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=50273171"
+    },
+    {
+      "id": "50274409",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "points": 487,
+      "author": "bschne",
+      "created_at": 1793198302,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=50274409"
+    },
+    {
+      "id": "50273396",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "points": 468,
+      "author": "danso",
+      "created_at": 1793194890,
+      "num_comments": 504,
+      "hn_url": "https://news.ycombinator.com/item?id=50273396"
+    },
+    {
+      "id": "50268380",
+      "title": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "points": 438,
+      "author": "alansaber",
+      "created_at": 1793152070,
+      "num_comments": 263,
+      "hn_url": "https://news.ycombinator.com/item?id=50268380"
+    },
+    {
+      "id": "50270764",
+      "title": "Wealth Inequality in America drawn to scale",
+      "url": "https://dreamagainusa.org/",
+      "points": 338,
+      "author": "haraball",
+      "created_at": 1793177301,
+      "num_comments": 422,
+      "hn_url": "https://news.ycombinator.com/item?id=50270764"
+    },
+    {
+      "id": "50280864",
+      "title": "Leak Exposes 41,000 Homeland Security Workers\u2013Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "points": 323,
+      "author": "Aboutplants",
+      "created_at": 1793221404,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=50280864"
+    },
+    {
+      "id": "50280974",
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "points": 287,
+      "author": "frizlab",
+      "created_at": 1793222001,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=50280974"
+    },
+    {
+      "id": "50275887",
+      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+      "points": 273,
+      "author": "slowin",
+      "created_at": 1793203313,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=50275887"
+    },
+    {
+      "id": "50275626",
+      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "points": 244,
+      "author": "landonxi",
+      "created_at": 1793202390,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=50275626"
+    },
+    {
+      "id": "50274251",
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "points": 234,
+      "author": "bradley_taunt",
+      "created_at": 1793197826,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=50274251"
+    },
+    {
+      "id": "50272145",
+      "title": "US agency approves Amazon Leo\u2019s $11.5B acquisition of Globalstar",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "points": 232,
+      "author": "noptd",
+      "created_at": 1793188463,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=50272145"
+    },
+    {
+      "id": "50275373",
+      "title": "Archive.today links going forward",
+      "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+      "points": 206,
+      "author": "consumer451",
+      "created_at": 1793201518,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=50275373"
+    },
+    {
+      "id": "50281044",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "points": 197,
+      "author": "mhb",
+      "created_at": 1793222370,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=50281044"
+    },
+    {
+      "id": "50272596",
+      "title": "Two high-speed trains collide near Toledo, Spain",
+      "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "points": 196,
+      "author": "evilmonkey19",
+      "created_at": 1793190941,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=50272596"
     }
   ],
-  "last_updated": "2026-10-28T12:00:24.167866+00:00"
+  "last_updated": "2026-10-29T12:10:38.025200+00:00"
 }
