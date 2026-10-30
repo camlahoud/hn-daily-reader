@@ -1,106 +1,6 @@
 {
   "posts": [
     {
-      "id": "49124218",
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "points": 1232,
-      "author": "Jrh0203",
-      "created_at": 1785511048,
-      "num_comments": 295,
-      "hn_url": "https://news.ycombinator.com/item?id=49124218"
-    },
-    {
-      "id": "49126604",
-      "title": "qm \u2013 Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "points": 547,
-      "author": "tosh",
-      "created_at": 1785521098,
-      "num_comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=49126604"
-    },
-    {
-      "id": "49127306",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "points": 538,
-      "author": "bluehatbrit",
-      "created_at": 1785524625,
-      "num_comments": 200,
-      "hn_url": "https://news.ycombinator.com/item?id=49127306"
-    },
-    {
-      "id": "49125971",
-      "title": "Severance",
-      "url": "https://lcamtuf.substack.com/p/severance",
-      "points": 239,
-      "author": "surprisetalk",
-      "created_at": 1785518109,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49125971"
-    },
-    {
-      "id": "49123386",
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "points": 235,
-      "author": "marcobambini",
-      "created_at": 1785507158,
-      "num_comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=49123386"
-    },
-    {
-      "id": "49124858",
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "points": 225,
-      "author": "jruohonen",
-      "created_at": 1785513872,
-      "num_comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=49124858"
-    },
-    {
-      "id": "49125034",
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "points": 184,
-      "author": "speckx",
-      "created_at": 1785514531,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=49125034"
-    },
-    {
-      "id": "49124042",
-      "title": "The most official water costs $120k a gallon",
-      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "points": 177,
-      "author": "surprisetalk",
-      "created_at": 1785510015,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=49124042"
-    },
-    {
-      "id": "49124358",
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "points": 158,
-      "author": "retupmoc01",
-      "created_at": 1785511779,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=49124358"
-    },
-    {
-      "id": "49127031",
-      "title": "Golang proposal: container/: generic collection types",
-      "url": "https://github.com/golang/go/issues/80590",
-      "points": 147,
-      "author": "jabits",
-      "created_at": 1785523187,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=49127031"
-    },
-    {
       "id": "49136821",
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
@@ -109,26 +9,6 @@
       "created_at": 1785607627,
       "num_comments": 176,
       "hn_url": "https://news.ycombinator.com/item?id=49136821"
-    },
-    {
-      "id": "49132058",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "points": 428,
-      "author": "milkshakes",
-      "created_at": 1785569864,
-      "num_comments": 300,
-      "hn_url": "https://news.ycombinator.com/item?id=49132058"
-    },
-    {
-      "id": "49129990",
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "points": 379,
-      "author": "walterbell",
-      "created_at": 1785543900,
-      "num_comments": 233,
-      "hn_url": "https://news.ycombinator.com/item?id=49129990"
     },
     {
       "id": "49135257",
@@ -211,46 +91,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49137681"
     },
     {
-      "id": "49130604",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "points": 262,
-      "author": "vinhnx",
-      "created_at": 1785552309,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=49130604"
-    },
-    {
-      "id": "49132130",
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "points": 255,
-      "author": "smckk",
-      "created_at": 1785570730,
-      "num_comments": 269,
-      "hn_url": "https://news.ycombinator.com/item?id=49132130"
-    },
-    {
-      "id": "49130756",
-      "title": "BMW Spider-Man in-car advertising",
-      "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
-      "points": 236,
-      "author": "goplayoutside",
-      "created_at": 1785554712,
-      "num_comments": 160,
-      "hn_url": "https://news.ycombinator.com/item?id=49130756"
-    },
-    {
-      "id": "49132460",
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "points": 236,
-      "author": "oler",
-      "created_at": 1785574138,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=49132460"
-    },
-    {
       "id": "49138045",
       "title": "The Silicon Valley Founder Meat Grinder",
       "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
@@ -271,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49134599"
     },
     {
-      "id": "49131367",
-      "title": "Ten Ways NAS Is Getting Enshitified",
-      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "points": 192,
-      "author": "giuliomagnifico",
-      "created_at": 1785562696,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=49131367"
-    },
-    {
       "id": "49136063",
       "title": "A directory of people who love RSS",
       "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
@@ -289,16 +119,6 @@
       "created_at": 1785603161,
       "num_comments": 85,
       "hn_url": "https://news.ycombinator.com/item?id=49136063"
-    },
-    {
-      "id": "49130726",
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "points": 163,
-      "author": "firefoxd",
-      "created_at": 1785554169,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49130726"
     },
     {
       "id": "49140998",
@@ -17729,7 +17549,207 @@
       "created_at": 1793190941,
       "num_comments": 241,
       "hn_url": "https://news.ycombinator.com/item?id=50272596"
+    },
+    {
+      "id": "50294702",
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "points": 3072,
+      "author": "j4mie",
+      "created_at": 1793302899,
+      "num_comments": 654,
+      "hn_url": "https://news.ycombinator.com/item?id=50294702"
+    },
+    {
+      "id": "50289418",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "points": 1538,
+      "author": "kuberwastaken",
+      "created_at": 1793283201,
+      "num_comments": 404,
+      "hn_url": "https://news.ycombinator.com/item?id=50289418"
+    },
+    {
+      "id": "50296470",
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "points": 1479,
+      "author": "Tiberium",
+      "created_at": 1793309939,
+      "num_comments": 954,
+      "hn_url": "https://news.ycombinator.com/item?id=50296470"
+    },
+    {
+      "id": "50282838",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "points": 688,
+      "author": "csmantle",
+      "created_at": 1793233545,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=50282838"
+    },
+    {
+      "id": "50284255",
+      "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "points": 567,
+      "author": "NikZaal",
+      "created_at": 1793244822,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=50284255"
+    },
+    {
+      "id": "50290177",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "points": 503,
+      "author": "ibobev",
+      "created_at": 1793285875,
+      "num_comments": 263,
+      "hn_url": "https://news.ycombinator.com/item?id=50290177"
+    },
+    {
+      "id": "50287919",
+      "title": "DoorDash to acquire Instacart",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "points": 467,
+      "author": "WalterSobchak",
+      "created_at": 1793277185,
+      "num_comments": 632,
+      "hn_url": "https://news.ycombinator.com/item?id=50287919"
+    },
+    {
+      "id": "50291054",
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "points": 454,
+      "author": "ea016",
+      "created_at": 1793289183,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=50291054"
+    },
+    {
+      "id": "50288867",
+      "title": "\u2018You Are Done\u2019: The letter sent to King by the F.B.I (2014)",
+      "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+      "points": 427,
+      "author": "surprisetalk",
+      "created_at": 1793281204,
+      "num_comments": 403,
+      "hn_url": "https://news.ycombinator.com/item?id=50288867"
+    },
+    {
+      "id": "50291945",
+      "title": "Google Search is now less than half of Alphabet\u2019s revenue",
+      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "points": 415,
+      "author": "hubraumhugo",
+      "created_at": 1793292137,
+      "num_comments": 347,
+      "hn_url": "https://news.ycombinator.com/item?id=50291945"
+    },
+    {
+      "id": "50288019",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "points": 336,
+      "author": "theHocineSaad",
+      "created_at": 1793277716,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=50288019"
+    },
+    {
+      "id": "50293047",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "points": 332,
+      "author": "mgh2",
+      "created_at": 1793295828,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=50293047"
+    },
+    {
+      "id": "50285452",
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com/",
+      "points": 321,
+      "author": "MarkBlah",
+      "created_at": 1793257730,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=50285452"
+    },
+    {
+      "id": "50286987",
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "points": 315,
+      "author": "882542F3884314B",
+      "created_at": 1793270561,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50286987"
+    },
+    {
+      "id": "50296486",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "points": 310,
+      "author": "sandslash",
+      "created_at": 1793310028,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=50296486"
+    },
+    {
+      "id": "50290668",
+      "title": "I went to Mexico to test-drive the cars Americans can\u2019t buy",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "points": 307,
+      "author": "bookofjoe",
+      "created_at": 1793287822,
+      "num_comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=50290668"
+    },
+    {
+      "id": "50287775",
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "points": 298,
+      "author": "rokostik",
+      "created_at": 1793276340,
+      "num_comments": 414,
+      "hn_url": "https://news.ycombinator.com/item?id=50287775"
+    },
+    {
+      "id": "50287001",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "points": 276,
+      "author": "ljf",
+      "created_at": 1793270689,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=50287001"
+    },
+    {
+      "id": "50287898",
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "url": "https://text.npr.org/nx-s1-6021497",
+      "points": 266,
+      "author": "firefax",
+      "created_at": 1793277069,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50287898"
+    },
+    {
+      "id": "50285319",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "points": 243,
+      "author": "austinallegro",
+      "created_at": 1793256448,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=50285319"
     }
   ],
-  "last_updated": "2026-10-29T12:10:38.025200+00:00"
+  "last_updated": "2026-10-30T12:01:16.831731+00:00"
 }
