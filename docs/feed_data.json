@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "49136821",
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "points": 511,
-      "author": "pudgywalsh",
-      "created_at": 1785607627,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=49136821"
-    },
-    {
-      "id": "49135257",
-      "title": "Cursor removed cost information from the usage page and CSV export",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "points": 323,
-      "author": "EugeneOZ",
-      "created_at": 1785597921,
-      "num_comments": 147,
-      "hn_url": "https://news.ycombinator.com/item?id=49135257"
-    },
-    {
-      "id": "49138188",
-      "title": "Di\u00e1taxis",
-      "url": "https://diataxis.fr/",
-      "points": 315,
-      "author": "ryanseys",
-      "created_at": 1785616407,
-      "num_comments": 40,
-      "hn_url": "https://news.ycombinator.com/item?id=49138188"
-    },
-    {
-      "id": "49138302",
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "points": 313,
-      "author": "njaremko",
-      "created_at": 1785617112,
-      "num_comments": 161,
-      "hn_url": "https://news.ycombinator.com/item?id=49138302"
-    },
-    {
-      "id": "49139102",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "points": 290,
-      "author": "foxtrot8672",
-      "created_at": 1785623112,
-      "num_comments": 258,
-      "hn_url": "https://news.ycombinator.com/item?id=49139102"
-    },
-    {
-      "id": "49134694",
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "points": 290,
-      "author": "iamnothere",
-      "created_at": 1785593991,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=49134694"
-    },
-    {
-      "id": "49136736",
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "points": 272,
-      "author": "jaypatelani",
-      "created_at": 1785607001,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=49136736"
-    },
-    {
-      "id": "49133889",
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "points": 269,
-      "author": "throwaway2037",
-      "created_at": 1785587665,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=49133889"
-    },
-    {
-      "id": "49137681",
-      "title": "Google has abandoned Google News?",
-      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "points": 268,
-      "author": "mikelgan",
-      "created_at": 1785613183,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=49137681"
-    },
-    {
-      "id": "49138045",
-      "title": "The Silicon Valley Founder Meat Grinder",
-      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-      "points": 223,
-      "author": "Kaizeras",
-      "created_at": 1785615658,
-      "num_comments": 147,
-      "hn_url": "https://news.ycombinator.com/item?id=49138045"
-    },
-    {
-      "id": "49134599",
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "points": 221,
-      "author": "0x54MUR41",
-      "created_at": 1785593340,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=49134599"
-    },
-    {
-      "id": "49136063",
-      "title": "A directory of people who love RSS",
-      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "points": 172,
-      "author": "speckx",
-      "created_at": 1785603161,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49136063"
-    },
-    {
-      "id": "49140998",
-      "title": "Karpathy\u2019s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "points": 566,
-      "author": "delichon",
-      "created_at": 1785643556,
-      "num_comments": 388,
-      "hn_url": "https://news.ycombinator.com/item?id=49140998"
-    },
-    {
-      "id": "49140218",
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "points": 352,
-      "author": "Hixon10",
-      "created_at": 1785634551,
-      "num_comments": 186,
-      "hn_url": "https://news.ycombinator.com/item?id=49140218"
-    },
-    {
-      "id": "49143414",
-      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "points": 335,
-      "author": "akolbe",
-      "created_at": 1785669860,
-      "num_comments": 316,
-      "hn_url": "https://news.ycombinator.com/item?id=49143414"
-    },
-    {
-      "id": "49140396",
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "points": 324,
-      "author": "tomilan",
-      "created_at": 1785636429,
-      "num_comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=49140396"
-    },
-    {
       "id": "49147435",
       "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
       "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
@@ -191,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49145937"
     },
     {
-      "id": "49141073",
-      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "points": 207,
-      "author": "ilreb",
-      "created_at": 1785644474,
-      "num_comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=49141073"
-    },
-    {
       "id": "49148128",
       "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
       "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
@@ -209,16 +39,6 @@
       "created_at": 1785703464,
       "num_comments": 137,
       "hn_url": "https://news.ycombinator.com/item?id=49148128"
-    },
-    {
-      "id": "49143188",
-      "title": "US Treasury undertakes historic intervention in yen market",
-      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-      "points": 193,
-      "author": "23pointsNorth",
-      "created_at": 1785667588,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=49143188"
     },
     {
       "id": "49147263",
@@ -231,16 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49147263"
     },
     {
-      "id": "49143479",
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "url": "https://meshdiff.com/",
-      "points": 191,
-      "author": "projscope",
-      "created_at": 1785670481,
-      "num_comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=49143479"
-    },
-    {
       "id": "49143925",
       "title": "F*: A general-purpose proof-oriented programming language",
       "url": "https://fstar-lang.org/",
@@ -251,26 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49143925"
     },
     {
-      "id": "49140696",
-      "title": "Linux desktop market share has hit over 10% in North America",
-      "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
-      "points": 178,
-      "author": "dviola",
-      "created_at": 1785640200,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=49140696"
-    },
-    {
-      "id": "49142569",
-      "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "points": 176,
-      "author": "eniac111",
-      "created_at": 1785661593,
-      "num_comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=49142569"
-    },
-    {
       "id": "49143967",
       "title": "Twenty Years of RISC OS Open",
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
@@ -279,16 +69,6 @@
       "created_at": 1785674167,
       "num_comments": 31,
       "hn_url": "https://news.ycombinator.com/item?id=49143967"
-    },
-    {
-      "id": "49141891",
-      "title": "I don't recommend Tailwind CSS",
-      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-      "points": 154,
-      "author": "andros",
-      "created_at": 1785654578,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=49141891"
     },
     {
       "id": "49145201",
@@ -17749,7 +17529,207 @@
       "created_at": 1793256448,
       "num_comments": 39,
       "hn_url": "https://news.ycombinator.com/item?id=50285319"
+    },
+    {
+      "id": "50300683",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "points": 908,
+      "author": "_chall",
+      "created_at": 1793344152,
+      "num_comments": 533,
+      "hn_url": "https://news.ycombinator.com/item?id=50300683"
+    },
+    {
+      "id": "50302334",
+      "title": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "points": 655,
+      "author": "dsr_",
+      "created_at": 1793358353,
+      "num_comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=50302334"
+    },
+    {
+      "id": "50302814",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "points": 643,
+      "author": "DeepLogin",
+      "created_at": 1793362080,
+      "num_comments": 503,
+      "hn_url": "https://news.ycombinator.com/item?id=50302814"
+    },
+    {
+      "id": "50305693",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "points": 603,
+      "author": "dorianniemiec",
+      "created_at": 1793375538,
+      "num_comments": 453,
+      "hn_url": "https://news.ycombinator.com/item?id=50305693"
+    },
+    {
+      "id": "50301462",
+      "title": "elect.horse",
+      "url": "https://elect.horse/",
+      "points": 547,
+      "author": "solarist",
+      "created_at": 1793351674,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=50301462"
+    },
+    {
+      "id": "50303172",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "points": 471,
+      "author": "domhudson",
+      "created_at": 1793364601,
+      "num_comments": 326,
+      "hn_url": "https://news.ycombinator.com/item?id=50303172"
+    },
+    {
+      "id": "50305025",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "points": 444,
+      "author": "js4ever",
+      "created_at": 1793373031,
+      "num_comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=50305025"
+    },
+    {
+      "id": "50301983",
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "points": 399,
+      "author": "bashtoni",
+      "created_at": 1793355771,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50301983"
+    },
+    {
+      "id": "50298436",
+      "title": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "points": 354,
+      "author": "cherioo",
+      "created_at": 1793320961,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=50298436"
+    },
+    {
+      "id": "50309647",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "points": 324,
+      "author": "apress",
+      "created_at": 1793391810,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=50309647"
+    },
+    {
+      "id": "50307190",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "points": 315,
+      "author": "DHowett",
+      "created_at": 1793381115,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=50307190"
+    },
+    {
+      "id": "50301854",
+      "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "points": 313,
+      "author": "swq115",
+      "created_at": 1793354775,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=50301854"
+    },
+    {
+      "id": "50307219",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "points": 310,
+      "author": "petethomas",
+      "created_at": 1793381245,
+      "num_comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=50307219"
+    },
+    {
+      "id": "50304419",
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+      "points": 296,
+      "author": "brandonb",
+      "created_at": 1793370464,
+      "num_comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=50304419"
+    },
+    {
+      "id": "50305573",
+      "title": "The federated code forge",
+      "url": "https://tangled.org/blog/forge/",
+      "points": 295,
+      "author": "zlliang",
+      "created_at": 1793375069,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=50305573"
+    },
+    {
+      "id": "50305637",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "points": 295,
+      "author": "nanna",
+      "created_at": 1793375292,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=50305637"
+    },
+    {
+      "id": "50307183",
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "points": 276,
+      "author": "cdrnsf",
+      "created_at": 1793381085,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=50307183"
+    },
+    {
+      "id": "50306442",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "points": 256,
+      "author": "dbreunig",
+      "created_at": 1793378422,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=50306442"
+    },
+    {
+      "id": "50306008",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "points": 255,
+      "author": "mindracer",
+      "created_at": 1793376782,
+      "num_comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=50306008"
+    },
+    {
+      "id": "50308697",
+      "title": "Bunny CDN Security Incident",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "points": 218,
+      "author": "SondreDag",
+      "created_at": 1793387122,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=50308697"
     }
   ],
-  "last_updated": "2026-10-30T12:01:16.831731+00:00"
+  "last_updated": "2026-10-31T11:36:20.197082+00:00"
 }
