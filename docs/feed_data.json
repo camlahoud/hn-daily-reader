@@ -1,126 +1,6 @@
 {
   "posts": [
     {
-      "id": "49147435",
-      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-      "points": 236,
-      "author": "JumpCrisscross",
-      "created_at": 1785698364,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=49147435"
-    },
-    {
-      "id": "49145590",
-      "title": "How the words we teach English language learners changed",
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "points": 219,
-      "author": "c-oreills",
-      "created_at": 1785685268,
-      "num_comments": 168,
-      "hn_url": "https://news.ycombinator.com/item?id=49145590"
-    },
-    {
-      "id": "49145937",
-      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "points": 217,
-      "author": "vlad_kalinkin",
-      "created_at": 1785688000,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49145937"
-    },
-    {
-      "id": "49148128",
-      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-      "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-      "points": 203,
-      "author": "RobotToaster",
-      "created_at": 1785703464,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=49148128"
-    },
-    {
-      "id": "49147263",
-      "title": "SwiftUI After 7 Years",
-      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-      "points": 192,
-      "author": "mpweiher",
-      "created_at": 1785697145,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=49147263"
-    },
-    {
-      "id": "49143925",
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "url": "https://fstar-lang.org/",
-      "points": 179,
-      "author": "ducktective",
-      "created_at": 1785673876,
-      "num_comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=49143925"
-    },
-    {
-      "id": "49143967",
-      "title": "Twenty Years of RISC OS Open",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "points": 158,
-      "author": "AlexeyBrin",
-      "created_at": 1785674167,
-      "num_comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=49143967"
-    },
-    {
-      "id": "49145201",
-      "title": "A Rant About \u201cTechnology\u201d (2005)",
-      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "points": 145,
-      "author": "jamesgill",
-      "created_at": 1785682278,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=49145201"
-    },
-    {
-      "id": "49149326",
-      "title": "Show HN: Shitty \u2013 fast terminal. Memory-unsafe and faster than yours",
-      "url": "https://github.com/pg83/shitty",
-      "points": 142,
-      "author": "pshirshov",
-      "created_at": 1785711941,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=49149326"
-    },
-    {
-      "id": "49147622",
-      "title": "My personal AI benchmark: \u201cGenerate an SVG of a frog with a Habsburg jaw\u201d",
-      "url": "https://frogs.vaguespac.es/",
-      "points": 140,
-      "author": "thebigship",
-      "created_at": 1785699728,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=49147622"
-    },
-    {
-      "id": "49151933",
-      "title": "Don't be a meat proxy",
-      "url": "https://gruhn.me/blog/2026-08-03/",
-      "points": 1733,
-      "author": "ngruhn",
-      "created_at": 1785738481,
-      "num_comments": 701,
-      "hn_url": "https://news.ycombinator.com/item?id=49151933"
-    },
-    {
-      "id": "49150470",
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "points": 1071,
-      "author": "ai2027",
-      "created_at": 1785723369,
-      "num_comments": 576,
-      "hn_url": "https://news.ycombinator.com/item?id=49150470"
-    },
-    {
       "id": "49161518",
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
@@ -129,16 +9,6 @@
       "created_at": 1785791633,
       "num_comments": 356,
       "hn_url": "https://news.ycombinator.com/item?id=49161518"
-    },
-    {
-      "id": "49154332",
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "points": 709,
-      "author": "ymir_e",
-      "created_at": 1785756534,
-      "num_comments": 361,
-      "hn_url": "https://news.ycombinator.com/item?id=49154332"
     },
     {
       "id": "49156111",
@@ -161,26 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49157930"
     },
     {
-      "id": "49151734",
-      "title": "More German than many Germans",
-      "url": "https://mertbulan.com/more-german-than-many-germans/",
-      "points": 514,
-      "author": "mertbio",
-      "created_at": 1785736814,
-      "num_comments": 358,
-      "hn_url": "https://news.ycombinator.com/item?id=49151734"
-    },
-    {
-      "id": "49153374",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "points": 472,
-      "author": "mpweiher",
-      "created_at": 1785749527,
-      "num_comments": 382,
-      "hn_url": "https://news.ycombinator.com/item?id=49153374"
-    },
-    {
       "id": "49155359",
       "title": "Wind and solar overtake fossil fuels in Germany for the first time",
       "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
@@ -189,26 +39,6 @@
       "created_at": 1785762782,
       "num_comments": 275,
       "hn_url": "https://news.ycombinator.com/item?id=49155359"
-    },
-    {
-      "id": "49152842",
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "points": 345,
-      "author": "KolmogorovComp",
-      "created_at": 1785745797,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=49152842"
-    },
-    {
-      "id": "49149966",
-      "title": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
-      "points": 335,
-      "author": "nuwandavek",
-      "created_at": 1785717998,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=49149966"
     },
     {
       "id": "49156011",
@@ -241,26 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49157128"
     },
     {
-      "id": "49154237",
-      "title": "ICE Collected Nearly 1M People's DNA Last Year\u2013Including Young Children",
-      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
-      "points": 245,
-      "author": "BlueBerry2001",
-      "created_at": 1785755793,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=49154237"
-    },
-    {
-      "id": "49152023",
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "points": 235,
-      "author": "paavohtl",
-      "created_at": 1785739320,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=49152023"
-    },
-    {
       "id": "49156750",
       "title": "Twenty Years of Pandoc",
       "url": "https://pandoc.org/twenty-years-of-pandoc.html",
@@ -271,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49156750"
     },
     {
-      "id": "49154228",
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "points": 217,
-      "author": "Anon84",
-      "created_at": 1785755748,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49154228"
-    },
-    {
       "id": "49158581",
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
       "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
@@ -289,16 +89,6 @@
       "created_at": 1785776926,
       "num_comments": 50,
       "hn_url": "https://news.ycombinator.com/item?id=49158581"
-    },
-    {
-      "id": "49150561",
-      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "points": 205,
-      "author": "JSR_FDED",
-      "created_at": 1785724230,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=49150561"
     },
     {
       "id": "49173165",
@@ -17729,7 +17519,207 @@
       "created_at": 1793387122,
       "num_comments": 44,
       "hn_url": "https://news.ycombinator.com/item?id=50308697"
+    },
+    {
+      "id": "50319510",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "points": 1470,
+      "author": "karpathy",
+      "created_at": 1793476613,
+      "num_comments": 397,
+      "hn_url": "https://news.ycombinator.com/item?id=50319510"
+    },
+    {
+      "id": "50314654",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "points": 870,
+      "author": "input_sh",
+      "created_at": 1793442090,
+      "num_comments": 485,
+      "hn_url": "https://news.ycombinator.com/item?id=50314654"
+    },
+    {
+      "id": "50319143",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "points": 548,
+      "author": "oger",
+      "created_at": 1793474190,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=50319143"
+    },
+    {
+      "id": "50320963",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "points": 512,
+      "author": "ecares",
+      "created_at": 1793486466,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=50320963"
+    },
+    {
+      "id": "50319358",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "points": 385,
+      "author": "pretext",
+      "created_at": 1793475559,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=50319358"
+    },
+    {
+      "id": "50314699",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "points": 344,
+      "author": "armcat",
+      "created_at": 1793442611,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=50314699"
+    },
+    {
+      "id": "50312756",
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "points": 344,
+      "author": "x______________",
+      "created_at": 1793414796,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=50312756"
+    },
+    {
+      "id": "50313661",
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "points": 330,
+      "author": "wilbertliu",
+      "created_at": 1793427396,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=50313661"
+    },
+    {
+      "id": "50314666",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "points": 324,
+      "author": "DeepLogin",
+      "created_at": 1793442221,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=50314666"
+    },
+    {
+      "id": "50316100",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "points": 282,
+      "author": "aphyr",
+      "created_at": 1793453992,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=50316100"
+    },
+    {
+      "id": "50320995",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "points": 277,
+      "author": "guregodevo",
+      "created_at": 1793486772,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=50320995"
+    },
+    {
+      "id": "50316531",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "points": 249,
+      "author": "khalidkhair",
+      "created_at": 1793456943,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=50316531"
+    },
+    {
+      "id": "50317363",
+      "title": "Casio Watches of the 1980s",
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "points": 231,
+      "author": "karagenit",
+      "created_at": 1793462448,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=50317363"
+    },
+    {
+      "id": "50318189",
+      "title": "UK Green party drops longstanding opposition to nuclear power",
+      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "points": 214,
+      "author": "mpweiher",
+      "created_at": 1793468242,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=50318189"
+    },
+    {
+      "id": "50318720",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "points": 213,
+      "author": "ntur1337",
+      "created_at": 1793471896,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=50318720"
+    },
+    {
+      "id": "50314085",
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "points": 208,
+      "author": "signa11",
+      "created_at": 1793433746,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=50314085"
+    },
+    {
+      "id": "50315226",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "points": 197,
+      "author": "fovc",
+      "created_at": 1793447699,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=50315226"
+    },
+    {
+      "id": "50312922",
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "points": 184,
+      "author": "timr",
+      "created_at": 1793416964,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=50312922"
+    },
+    {
+      "id": "50318871",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "points": 173,
+      "author": "ryanmadden",
+      "created_at": 1793472634,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=50318871"
+    },
+    {
+      "id": "50320588",
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "points": 169,
+      "author": "Zariel",
+      "created_at": 1793483347,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=50320588"
     }
   ],
-  "last_updated": "2026-10-31T11:36:20.197082+00:00"
+  "last_updated": "2026-11-01T12:34:04.850930+00:00"
 }
