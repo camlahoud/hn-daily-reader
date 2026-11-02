@@ -1,96 +1,6 @@
 {
   "posts": [
     {
-      "id": "49161518",
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "points": 868,
-      "author": "MaxMussio",
-      "created_at": 1785791633,
-      "num_comments": 356,
-      "hn_url": "https://news.ycombinator.com/item?id=49161518"
-    },
-    {
-      "id": "49156111",
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "points": 589,
-      "author": "bryanmikaelian",
-      "created_at": 1785766547,
-      "num_comments": 199,
-      "hn_url": "https://news.ycombinator.com/item?id=49156111"
-    },
-    {
-      "id": "49157930",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "points": 525,
-      "author": "milkshakes",
-      "created_at": 1785774432,
-      "num_comments": 806,
-      "hn_url": "https://news.ycombinator.com/item?id=49157930"
-    },
-    {
-      "id": "49155359",
-      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-      "points": 349,
-      "author": "just_some_user",
-      "created_at": 1785762782,
-      "num_comments": 275,
-      "hn_url": "https://news.ycombinator.com/item?id=49155359"
-    },
-    {
-      "id": "49156011",
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "points": 307,
-      "author": "nikolay_sivko",
-      "created_at": 1785766140,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=49156011"
-    },
-    {
-      "id": "49155629",
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "points": 293,
-      "author": "vblanco",
-      "created_at": 1785764083,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49155629"
-    },
-    {
-      "id": "49157128",
-      "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
-      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-      "points": 289,
-      "author": "speckx",
-      "created_at": 1785771092,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=49157128"
-    },
-    {
-      "id": "49156750",
-      "title": "Twenty Years of Pandoc",
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "points": 231,
-      "author": "fiddlosopher",
-      "created_at": 1785769493,
-      "num_comments": 29,
-      "hn_url": "https://news.ycombinator.com/item?id=49156750"
-    },
-    {
-      "id": "49158581",
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "points": 209,
-      "author": "ascorbic",
-      "created_at": 1785776926,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=49158581"
-    },
-    {
       "id": "49173165",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
@@ -99,26 +9,6 @@
       "created_at": 1785869498,
       "num_comments": 74,
       "hn_url": "https://news.ycombinator.com/item?id=49173165"
-    },
-    {
-      "id": "49167113",
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "points": 756,
-      "author": "meysamazad",
-      "created_at": 1785843017,
-      "num_comments": 440,
-      "hn_url": "https://news.ycombinator.com/item?id=49167113"
-    },
-    {
-      "id": "49167448",
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "points": 638,
-      "author": "surprisetalk",
-      "created_at": 1785844862,
-      "num_comments": 667,
-      "hn_url": "https://news.ycombinator.com/item?id=49167448"
     },
     {
       "id": "49170165",
@@ -131,26 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49170165"
     },
     {
-      "id": "49166491",
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "points": 497,
-      "author": "askvictor",
-      "created_at": 1785838393,
-      "num_comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=49166491"
-    },
-    {
-      "id": "49166202",
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "points": 439,
-      "author": "gyan",
-      "created_at": 1785835833,
-      "num_comments": 94,
-      "hn_url": "https://news.ycombinator.com/item?id=49166202"
-    },
-    {
       "id": "49171268",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
@@ -161,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49171268"
     },
     {
-      "id": "49166386",
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "points": 370,
-      "author": "zhoutong",
-      "created_at": 1785837655,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=49166386"
-    },
-    {
       "id": "49171656",
       "title": "All of Winona Police Department's Flock cameras cut down and stolen",
       "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
@@ -179,16 +39,6 @@
       "created_at": 1785862828,
       "num_comments": 222,
       "hn_url": "https://news.ycombinator.com/item?id=49171656"
-    },
-    {
-      "id": "49166860",
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "points": 365,
-      "author": "tcp_handshaker",
-      "created_at": 1785841148,
-      "num_comments": 660,
-      "hn_url": "https://news.ycombinator.com/item?id=49166860"
     },
     {
       "id": "49170479",
@@ -211,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49176038"
     },
     {
-      "id": "49164896",
-      "title": "Harness engineering for self-improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "points": 311,
-      "author": "tosh",
-      "created_at": 1785824274,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=49164896"
-    },
-    {
       "id": "49172836",
       "title": "Waymo in Dallas",
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
@@ -241,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49175192"
     },
     {
-      "id": "49164649",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
-      "points": 276,
-      "author": "meetpateltech",
-      "created_at": 1785821533,
-      "num_comments": 286,
-      "hn_url": "https://news.ycombinator.com/item?id=49164649"
-    },
-    {
       "id": "49174900",
       "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
       "url": "https://twitter.com/gwern/status/2084739205071343837",
@@ -269,16 +99,6 @@
       "created_at": 1785885492,
       "num_comments": 43,
       "hn_url": "https://news.ycombinator.com/item?id=49176606"
-    },
-    {
-      "id": "49166874",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "points": 242,
-      "author": "cimi_",
-      "created_at": 1785841297,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=49166874"
     },
     {
       "id": "49174407",
@@ -17719,7 +17539,207 @@
       "created_at": 1793483347,
       "num_comments": 104,
       "hn_url": "https://news.ycombinator.com/item?id=50320588"
+    },
+    {
+      "id": "50326821",
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "points": 1654,
+      "author": "roansh",
+      "created_at": 1793548708,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=50326821"
+    },
+    {
+      "id": "50324388",
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "points": 698,
+      "author": "giuliomagnifico",
+      "created_at": 1793530078,
+      "num_comments": 425,
+      "hn_url": "https://news.ycombinator.com/item?id=50324388"
+    },
+    {
+      "id": "50328896",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "points": 536,
+      "author": "LecroJS",
+      "created_at": 1793561727,
+      "num_comments": 644,
+      "hn_url": "https://news.ycombinator.com/item?id=50328896"
+    },
+    {
+      "id": "50326099",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "points": 522,
+      "author": "entryleveljobsc",
+      "created_at": 1793543683,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=50326099"
+    },
+    {
+      "id": "50326118",
+      "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
+      "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+      "points": 456,
+      "author": "entryleveljobsc",
+      "created_at": 1793543773,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=50326118"
+    },
+    {
+      "id": "50327650",
+      "title": "Patrick Stewart taught us what good men do with power",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "points": 439,
+      "author": "rhaynes",
+      "created_at": 1793554096,
+      "num_comments": 313,
+      "hn_url": "https://news.ycombinator.com/item?id=50327650"
+    },
+    {
+      "id": "50323088",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "points": 415,
+      "author": "luu",
+      "created_at": 1793513179,
+      "num_comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=50323088"
+    },
+    {
+      "id": "50328251",
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "points": 342,
+      "author": "smilelamp",
+      "created_at": 1793557722,
+      "num_comments": 433,
+      "hn_url": "https://news.ycombinator.com/item?id=50328251"
+    },
+    {
+      "id": "50322173",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "points": 332,
+      "author": "doodlesdev",
+      "created_at": 1793499593,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=50322173"
+    },
+    {
+      "id": "50330939",
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+      "points": 314,
+      "author": "qlte",
+      "created_at": 1793575231,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=50330939"
+    },
+    {
+      "id": "50325253",
+      "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "points": 279,
+      "author": "FabCH",
+      "created_at": 1793538150,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=50325253"
+    },
+    {
+      "id": "50330456",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "points": 233,
+      "author": "throwoutway",
+      "created_at": 1793571045,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=50330456"
+    },
+    {
+      "id": "50327266",
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "points": 209,
+      "author": "999900000999",
+      "created_at": 1793551593,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=50327266"
+    },
+    {
+      "id": "50322022",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "points": 206,
+      "author": "hapax_legomena",
+      "created_at": 1793497589,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=50322022"
+    },
+    {
+      "id": "50327058",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "points": 183,
+      "author": "gmays",
+      "created_at": 1793550206,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=50327058"
+    },
+    {
+      "id": "50328487",
+      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+      "points": 180,
+      "author": "ravetcofx",
+      "created_at": 1793559226,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=50328487"
+    },
+    {
+      "id": "50325662",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "points": 174,
+      "author": "entryleveljobsc",
+      "created_at": 1793540844,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=50325662"
+    },
+    {
+      "id": "50326609",
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "points": 170,
+      "author": "edward",
+      "created_at": 1793547229,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=50326609"
+    },
+    {
+      "id": "50328488",
+      "title": "It wasn't AI that flipped Proton's charge",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "points": 162,
+      "author": "Raed667",
+      "created_at": 1793559235,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=50328488"
+    },
+    {
+      "id": "50325454",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "points": 150,
+      "author": "Anon84",
+      "created_at": 1793539489,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=50325454"
     }
   ],
-  "last_updated": "2026-11-01T12:34:04.850930+00:00"
+  "last_updated": "2026-11-02T14:37:12.758784+00:00"
 }
