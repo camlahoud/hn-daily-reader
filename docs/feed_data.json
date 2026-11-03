@@ -1,116 +1,6 @@
 {
   "posts": [
     {
-      "id": "49173165",
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "points": 1303,
-      "author": "jdcampolargo",
-      "created_at": 1785869498,
-      "num_comments": 74,
-      "hn_url": "https://news.ycombinator.com/item?id=49173165"
-    },
-    {
-      "id": "49170165",
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "points": 516,
-      "author": "automatoney",
-      "created_at": 1785856582,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=49170165"
-    },
-    {
-      "id": "49171268",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "points": 394,
-      "author": "riadsila",
-      "created_at": 1785861365,
-      "num_comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=49171268"
-    },
-    {
-      "id": "49171656",
-      "title": "All of Winona Police Department's Flock cameras cut down and stolen",
-      "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
-      "points": 368,
-      "author": "NDlurker",
-      "created_at": 1785862828,
-      "num_comments": 222,
-      "hn_url": "https://news.ycombinator.com/item?id=49171656"
-    },
-    {
-      "id": "49170479",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "points": 363,
-      "author": "thewebguyd",
-      "created_at": 1785857862,
-      "num_comments": 261,
-      "hn_url": "https://news.ycombinator.com/item?id=49170479"
-    },
-    {
-      "id": "49176038",
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "points": 323,
-      "author": "luispa",
-      "created_at": 1785882132,
-      "num_comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=49176038"
-    },
-    {
-      "id": "49172836",
-      "title": "Waymo in Dallas",
-      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "points": 288,
-      "author": "xnx",
-      "created_at": 1785868181,
-      "num_comments": 497,
-      "hn_url": "https://news.ycombinator.com/item?id=49172836"
-    },
-    {
-      "id": "49175192",
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "points": 284,
-      "author": "stymaar",
-      "created_at": 1785877779,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=49175192"
-    },
-    {
-      "id": "49174900",
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "points": 272,
-      "author": "mattsterett",
-      "created_at": 1785876497,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=49174900"
-    },
-    {
-      "id": "49176606",
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "points": 259,
-      "author": "spyc",
-      "created_at": 1785885492,
-      "num_comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49176606"
-    },
-    {
-      "id": "49174407",
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "points": 241,
-      "author": "depr",
-      "created_at": 1785874420,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=49174407"
-    },
-    {
       "id": "49184960",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
@@ -139,16 +29,6 @@
       "created_at": 1785938333,
       "num_comments": 263,
       "hn_url": "https://news.ycombinator.com/item?id=49182996"
-    },
-    {
-      "id": "49181099",
-      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-      "points": 468,
-      "author": "dzdt",
-      "created_at": 1785927793,
-      "num_comments": 245,
-      "hn_url": "https://news.ycombinator.com/item?id=49181099"
     },
     {
       "id": "49187256",
@@ -221,16 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49187977"
     },
     {
-      "id": "49181083",
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "points": 269,
-      "author": "theanonymousone",
-      "created_at": 1785927697,
-      "num_comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=49181083"
-    },
-    {
       "id": "49187061",
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
@@ -259,16 +129,6 @@
       "created_at": 1785965363,
       "num_comments": 114,
       "hn_url": "https://news.ycombinator.com/item?id=49189287"
-    },
-    {
-      "id": "49182041",
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "points": 238,
-      "author": "vincent_s",
-      "created_at": 1785933707,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=49182041"
     },
     {
       "id": "49185983",
@@ -17739,7 +17599,207 @@
       "created_at": 1793539489,
       "num_comments": 77,
       "hn_url": "https://news.ycombinator.com/item?id=50325454"
+    },
+    {
+      "id": "50341174",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "points": 2829,
+      "author": "dbreunig",
+      "created_at": 1793643688,
+      "num_comments": 856,
+      "hn_url": "https://news.ycombinator.com/item?id=50341174"
+    },
+    {
+      "id": "50337608",
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "points": 1561,
+      "author": "chalmovsky",
+      "created_at": 1793631120,
+      "num_comments": 655,
+      "hn_url": "https://news.ycombinator.com/item?id=50337608"
+    },
+    {
+      "id": "50340088",
+      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "points": 747,
+      "author": "aarushyadav",
+      "created_at": 1793639777,
+      "num_comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=50340088"
+    },
+    {
+      "id": "50336518",
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "points": 602,
+      "author": "ingve",
+      "created_at": 1793625935,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=50336518"
+    },
+    {
+      "id": "50341462",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "points": 558,
+      "author": "majorchord",
+      "created_at": 1793644778,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=50341462"
+    },
+    {
+      "id": "50331402",
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "points": 515,
+      "author": "misswaterfairy",
+      "created_at": 1793578647,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=50331402"
+    },
+    {
+      "id": "50339397",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "points": 435,
+      "author": "xoobdev",
+      "created_at": 1793637276,
+      "num_comments": 413,
+      "hn_url": "https://news.ycombinator.com/item?id=50339397"
+    },
+    {
+      "id": "50335615",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "points": 398,
+      "author": "fergie",
+      "created_at": 1793620213,
+      "num_comments": 443,
+      "hn_url": "https://news.ycombinator.com/item?id=50335615"
+    },
+    {
+      "id": "50344919",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "points": 372,
+      "author": "cdrnsf",
+      "created_at": 1793658647,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=50344919"
+    },
+    {
+      "id": "50333339",
+      "title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "points": 338,
+      "author": "aizk",
+      "created_at": 1793595990,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=50333339"
+    },
+    {
+      "id": "50339494",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "points": 335,
+      "author": "entryleveljobsc",
+      "created_at": 1793637629,
+      "num_comments": 257,
+      "hn_url": "https://news.ycombinator.com/item?id=50339494"
+    },
+    {
+      "id": "50331957",
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "points": 330,
+      "author": "EA-3167",
+      "created_at": 1793583067,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=50331957"
+    },
+    {
+      "id": "50339221",
+      "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "points": 295,
+      "author": "stared",
+      "created_at": 1793636726,
+      "num_comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50339221"
+    },
+    {
+      "id": "50344181",
+      "title": "BYD sold more EVs last month than the US did all quarter",
+      "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+      "points": 272,
+      "author": "cisc",
+      "created_at": 1793655529,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=50344181"
+    },
+    {
+      "id": "50340619",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "points": 267,
+      "author": "tomrod",
+      "created_at": 1793641660,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50340619"
+    },
+    {
+      "id": "50345924",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "points": 245,
+      "author": "makeramen",
+      "created_at": 1793663276,
+      "num_comments": 166,
+      "hn_url": "https://news.ycombinator.com/item?id=50345924"
+    },
+    {
+      "id": "50337439",
+      "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "points": 234,
+      "author": "rebel",
+      "created_at": 1793630325,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=50337439"
+    },
+    {
+      "id": "50338728",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "points": 228,
+      "author": "whoishiring",
+      "created_at": 1793635297,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=50338728"
+    },
+    {
+      "id": "50334704",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "points": 225,
+      "author": "guitmz",
+      "created_at": 1793611756,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=50334704"
+    },
+    {
+      "id": "50344958",
+      "title": "Anthropic's growth just flattened",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "points": 217,
+      "author": "cdrnsf",
+      "created_at": 1793658800,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=50344958"
     }
   ],
-  "last_updated": "2026-11-02T14:37:12.758784+00:00"
+  "last_updated": "2026-11-03T13:30:32.235401+00:00"
 }
