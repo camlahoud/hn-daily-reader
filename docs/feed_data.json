@@ -1,196 +1,6 @@
 {
   "posts": [
     {
-      "id": "49184960",
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "points": 736,
-      "author": "xtreak29",
-      "created_at": 1785946784,
-      "num_comments": 456,
-      "hn_url": "https://news.ycombinator.com/item?id=49184960"
-    },
-    {
-      "id": "49184755",
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "points": 640,
-      "author": "colesantiago",
-      "created_at": 1785945931,
-      "num_comments": 690,
-      "hn_url": "https://news.ycombinator.com/item?id=49184755"
-    },
-    {
-      "id": "49182996",
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "points": 548,
-      "author": "speckx",
-      "created_at": 1785938333,
-      "num_comments": 263,
-      "hn_url": "https://news.ycombinator.com/item?id=49182996"
-    },
-    {
-      "id": "49187256",
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "points": 407,
-      "author": "ahamez",
-      "created_at": 1785955974,
-      "num_comments": 215,
-      "hn_url": "https://news.ycombinator.com/item?id=49187256"
-    },
-    {
-      "id": "49184757",
-      "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
-      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-      "points": 369,
-      "author": "ot",
-      "created_at": 1785945937,
-      "num_comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49184757"
-    },
-    {
-      "id": "49188022",
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://runarcn.no/android-to-linux/",
-      "points": 312,
-      "author": "speckx",
-      "created_at": 1785959413,
-      "num_comments": 302,
-      "hn_url": "https://news.ycombinator.com/item?id=49188022"
-    },
-    {
-      "id": "49184190",
-      "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-      "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-      "points": 312,
-      "author": "cdrnsf",
-      "created_at": 1785943211,
-      "num_comments": 185,
-      "hn_url": "https://news.ycombinator.com/item?id=49184190"
-    },
-    {
-      "id": "49186762",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "points": 306,
-      "author": "moonikakiss",
-      "created_at": 1785953936,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=49186762"
-    },
-    {
-      "id": "49184746",
-      "title": "Jeff Dean leaving Alphabet",
-      "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
-      "points": 297,
-      "author": "louiereederson",
-      "created_at": 1785945873,
-      "num_comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=49184746"
-    },
-    {
-      "id": "49187977",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "points": 291,
-      "author": "malshe",
-      "created_at": 1785959246,
-      "num_comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=49187977"
-    },
-    {
-      "id": "49187061",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "points": 250,
-      "author": "lladnar",
-      "created_at": 1785955069,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=49187061"
-    },
-    {
-      "id": "49187575",
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "points": 249,
-      "author": "paulkrush",
-      "created_at": 1785957352,
-      "num_comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=49187575"
-    },
-    {
-      "id": "49189287",
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "points": 249,
-      "author": "ExMachina73",
-      "created_at": 1785965363,
-      "num_comments": 114,
-      "hn_url": "https://news.ycombinator.com/item?id=49189287"
-    },
-    {
-      "id": "49185983",
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "points": 217,
-      "author": "hackerBanana",
-      "created_at": 1785950605,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=49185983"
-    },
-    {
-      "id": "49185430",
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://github.com/denoland/celld",
-      "points": 205,
-      "author": "calvinfo",
-      "created_at": 1785948606,
-      "num_comments": 33,
-      "hn_url": "https://news.ycombinator.com/item?id=49185430"
-    },
-    {
-      "id": "49183665",
-      "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You",
-      "url": "https://sightlessscribbles.com/disability-dongle/",
-      "points": 196,
-      "author": "calcifer",
-      "created_at": 1785940693,
-      "num_comments": 191,
-      "hn_url": "https://news.ycombinator.com/item?id=49183665"
-    },
-    {
-      "id": "49184216",
-      "title": "The Valley of Webhooks",
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "points": 192,
-      "author": "weli",
-      "created_at": 1785943326,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=49184216"
-    },
-    {
-      "id": "49195231",
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "points": 1002,
-      "author": "theanonymousone",
-      "created_at": 1786015493,
-      "num_comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=49195231"
-    },
-    {
-      "id": "49192566",
-      "title": "Crime Pays but Botany Doesn't",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "points": 664,
-      "author": "DarkContinent",
-      "created_at": 1785991595,
-      "num_comments": 207,
-      "hn_url": "https://news.ycombinator.com/item?id=49192566"
-    },
-    {
       "id": "49201970",
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
@@ -241,26 +51,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49198069"
     },
     {
-      "id": "49191624",
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "points": 319,
-      "author": "mapping365",
-      "created_at": 1785982514,
-      "num_comments": 473,
-      "hn_url": "https://news.ycombinator.com/item?id=49191624"
-    },
-    {
-      "id": "49195468",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "points": 287,
-      "author": "Wirbelwind",
-      "created_at": 1786017487,
-      "num_comments": 204,
-      "hn_url": "https://news.ycombinator.com/item?id=49195468"
-    },
-    {
       "id": "49201930",
       "title": "Quake \u2013 30th Anniversary Update",
       "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
@@ -279,16 +69,6 @@
       "created_at": 1786026374,
       "num_comments": 220,
       "hn_url": "https://news.ycombinator.com/item?id=49197137"
-    },
-    {
-      "id": "49193173",
-      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
-      "points": 217,
-      "author": "microtonal",
-      "created_at": 1785997482,
-      "num_comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=49193173"
     },
     {
       "id": "49199357",
@@ -349,26 +129,6 @@
       "created_at": 1786053136,
       "num_comments": 21,
       "hn_url": "https://news.ycombinator.com/item?id=49203105"
-    },
-    {
-      "id": "49193673",
-      "title": "What I love about Django",
-      "url": "https://buttondown.com/blog/what-i-love-about-django",
-      "points": 131,
-      "author": "j4mie",
-      "created_at": 1786001646,
-      "num_comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=49193673"
-    },
-    {
-      "id": "49192829",
-      "title": "France is banning unsolicited telemarketing calls starting next week",
-      "url": "https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da",
-      "points": 124,
-      "author": "geox",
-      "created_at": 1785994091,
-      "num_comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=49192829"
     },
     {
       "id": "49208314",
@@ -17799,7 +17559,207 @@
       "created_at": 1793658800,
       "num_comments": 249,
       "hn_url": "https://news.ycombinator.com/item?id=50344958"
+    },
+    {
+      "id": "50354960",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "points": 1376,
+      "author": "sidgarimella",
+      "created_at": 1793726557,
+      "num_comments": 456,
+      "hn_url": "https://news.ycombinator.com/item?id=50354960"
+    },
+    {
+      "id": "50351111",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "points": 998,
+      "author": "syllogism",
+      "created_at": 1793708477,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50351111"
+    },
+    {
+      "id": "50354358",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "points": 668,
+      "author": "nharada",
+      "created_at": 1793724449,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=50354358"
+    },
+    {
+      "id": "50355251",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "points": 667,
+      "author": "theanonymousone",
+      "created_at": 1793727600,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=50355251"
+    },
+    {
+      "id": "50353192",
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "points": 633,
+      "author": "ceejayoz",
+      "created_at": 1793719547,
+      "num_comments": 437,
+      "hn_url": "https://news.ycombinator.com/item?id=50353192"
+    },
+    {
+      "id": "50352757",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "points": 498,
+      "author": "user052919",
+      "created_at": 1793717621,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=50352757"
+    },
+    {
+      "id": "50353229",
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "points": 482,
+      "author": "rbanffy",
+      "created_at": 1793719755,
+      "num_comments": 469,
+      "hn_url": "https://news.ycombinator.com/item?id=50353229"
+    },
+    {
+      "id": "50349276",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "points": 476,
+      "author": "markusw",
+      "created_at": 1793692581,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=50349276"
+    },
+    {
+      "id": "50358562",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "points": 462,
+      "author": "paddingtone",
+      "created_at": 1793741945,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=50358562"
+    },
+    {
+      "id": "50346981",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "points": 459,
+      "author": "polpenn",
+      "created_at": 1793670814,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=50346981"
+    },
+    {
+      "id": "50352758",
+      "title": "Mac at any scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "points": 397,
+      "author": "anner_",
+      "created_at": 1793717622,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=50352758"
+    },
+    {
+      "id": "50358422",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "points": 375,
+      "author": "angry_impala",
+      "created_at": 1793741204,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50358422"
+    },
+    {
+      "id": "50346755",
+      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "points": 369,
+      "author": "dsalzman",
+      "created_at": 1793668689,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=50346755"
+    },
+    {
+      "id": "50358582",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "points": 361,
+      "author": "ibobev",
+      "created_at": 1793742053,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=50358582"
+    },
+    {
+      "id": "50346849",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "points": 353,
+      "author": "bpierre",
+      "created_at": 1793669623,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=50346849"
+    },
+    {
+      "id": "50358702",
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "points": 312,
+      "author": "ibobev",
+      "created_at": 1793742666,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=50358702"
+    },
+    {
+      "id": "50348962",
+      "title": "Nvidia \u2013 open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "points": 282,
+      "author": "campervans",
+      "created_at": 1793689490,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=50348962"
+    },
+    {
+      "id": "50353335",
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+      "points": 262,
+      "author": "gmays",
+      "created_at": 1793720284,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=50353335"
+    },
+    {
+      "id": "50346153",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "points": 232,
+      "author": "entryleveljobsc",
+      "created_at": 1793664533,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=50346153"
+    },
+    {
+      "id": "50356994",
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "points": 218,
+      "author": "user_7832",
+      "created_at": 1793734333,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=50356994"
     }
   ],
-  "last_updated": "2026-11-03T13:30:32.235401+00:00"
+  "last_updated": "2026-11-04T13:41:28.077355+00:00"
 }
