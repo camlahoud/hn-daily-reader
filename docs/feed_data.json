@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "49201970",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "points": 574,
-      "author": "itvision",
-      "created_at": 1786047791,
-      "num_comments": 436,
-      "hn_url": "https://news.ycombinator.com/item?id=49201970"
-    },
-    {
-      "id": "49200652",
-      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "points": 484,
-      "author": "apitman",
-      "created_at": 1786041889,
-      "num_comments": 304,
-      "hn_url": "https://news.ycombinator.com/item?id=49200652"
-    },
-    {
-      "id": "49198302",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "points": 376,
-      "author": "Footkerchief",
-      "created_at": 1786031378,
-      "num_comments": 305,
-      "hn_url": "https://news.ycombinator.com/item?id=49198302"
-    },
-    {
-      "id": "49199346",
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "points": 350,
-      "author": "tsak",
-      "created_at": 1786035693,
-      "num_comments": 265,
-      "hn_url": "https://news.ycombinator.com/item?id=49199346"
-    },
-    {
-      "id": "49198069",
-      "title": "Software development with AI is starting to feel like cooking steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "points": 344,
-      "author": "yusyd",
-      "created_at": 1786030248,
-      "num_comments": 374,
-      "hn_url": "https://news.ycombinator.com/item?id=49198069"
-    },
-    {
-      "id": "49201930",
-      "title": "Quake \u2013 30th Anniversary Update",
-      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-      "points": 273,
-      "author": "dsubburam",
-      "created_at": 1786047679,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=49201930"
-    },
-    {
-      "id": "49197137",
-      "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
-      "url": "https://electronicmaterialsoffice.com/",
-      "points": 268,
-      "author": "aemerson_",
-      "created_at": 1786026374,
-      "num_comments": 220,
-      "hn_url": "https://news.ycombinator.com/item?id=49197137"
-    },
-    {
-      "id": "49199357",
-      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "points": 214,
-      "author": "tedsanders",
-      "created_at": 1786035724,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=49199357"
-    },
-    {
-      "id": "49198464",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "points": 197,
-      "author": "willcarkner",
-      "created_at": 1786031955,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=49198464"
-    },
-    {
-      "id": "49201003",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "points": 189,
-      "author": "collinmanderson",
-      "created_at": 1786043661,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=49201003"
-    },
-    {
-      "id": "49200390",
-      "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
-      "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
-      "points": 149,
-      "author": "pseudolus",
-      "created_at": 1786040536,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=49200390"
-    },
-    {
-      "id": "49201342",
-      "title": "xAI, SpaceX, and the Race for AI Buildout",
-      "url": "https://illegal.solutions/posts/xai_pollution",
-      "points": 139,
-      "author": "speckx",
-      "created_at": 1786045125,
-      "num_comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=49201342"
-    },
-    {
-      "id": "49203105",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "points": 136,
-      "author": "gnabgib",
-      "created_at": 1786053136,
-      "num_comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=49203105"
-    },
-    {
-      "id": "49208314",
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "points": 866,
-      "author": "defrost",
-      "created_at": 1786098535,
-      "num_comments": 828,
-      "hn_url": "https://news.ycombinator.com/item?id=49208314"
-    },
-    {
-      "id": "49204352",
-      "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "points": 753,
-      "author": "boplicity",
-      "created_at": 1786061188,
-      "num_comments": 402,
-      "hn_url": "https://news.ycombinator.com/item?id=49204352"
-    },
-    {
       "id": "49214008",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
@@ -159,16 +9,6 @@
       "created_at": 1786125380,
       "num_comments": 336,
       "hn_url": "https://news.ycombinator.com/item?id=49214008"
-    },
-    {
-      "id": "49209539",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "points": 543,
-      "author": "RickJWagner",
-      "created_at": 1786106547,
-      "num_comments": 632,
-      "hn_url": "https://news.ycombinator.com/item?id=49209539"
     },
     {
       "id": "49213754",
@@ -191,26 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49211386"
     },
     {
-      "id": "49209546",
-      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
-      "points": 343,
-      "author": "ceejayoz",
-      "created_at": 1786106578,
-      "num_comments": 342,
-      "hn_url": "https://news.ycombinator.com/item?id=49209546"
-    },
-    {
-      "id": "49207236",
-      "title": "2027 memory capacity is reportedly sold out",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "points": 313,
-      "author": "inigyou",
-      "created_at": 1786089504,
-      "num_comments": 291,
-      "hn_url": "https://news.ycombinator.com/item?id=49207236"
-    },
-    {
       "id": "49214863",
       "title": "App Store Rejection of the Week: Dark Hours",
       "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
@@ -229,16 +49,6 @@
       "created_at": 1786125690,
       "num_comments": 73,
       "hn_url": "https://news.ycombinator.com/item?id=49214098"
-    },
-    {
-      "id": "49208535",
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "points": 270,
-      "author": "poly2it",
-      "created_at": 1786100435,
-      "num_comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=49208535"
     },
     {
       "id": "49214468",
@@ -271,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49216946"
     },
     {
-      "id": "49209385",
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "points": 188,
-      "author": "v0id_isgood",
-      "created_at": 1786105735,
-      "num_comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=49209385"
-    },
-    {
       "id": "49210589",
       "title": "USA Today Co., partners with Palantir to analyze audience data",
       "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
@@ -299,16 +99,6 @@
       "created_at": 1786128674,
       "num_comments": 58,
       "hn_url": "https://news.ycombinator.com/item?id=49214770"
-    },
-    {
-      "id": "49208393",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "url": "https://blog.cloudflare.com/kitesurf/",
-      "points": 183,
-      "author": "m3h",
-      "created_at": 1786099327,
-      "num_comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=49208393"
     },
     {
       "id": "49213097",
@@ -17759,7 +17549,207 @@
       "created_at": 1793734333,
       "num_comments": 91,
       "hn_url": "https://news.ycombinator.com/item?id=50356994"
+    },
+    {
+      "id": "50364336",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "points": 1222,
+      "author": "pseudolus",
+      "created_at": 1793793137,
+      "num_comments": 712,
+      "hn_url": "https://news.ycombinator.com/item?id=50364336"
+    },
+    {
+      "id": "50371246",
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "points": 1165,
+      "author": "Rasbora",
+      "created_at": 1793825118,
+      "num_comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=50371246"
+    },
+    {
+      "id": "50363461",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "points": 681,
+      "author": "jameslk",
+      "created_at": 1793787027,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=50363461"
+    },
+    {
+      "id": "50365755",
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "points": 616,
+      "author": "smalltech",
+      "created_at": 1793801395,
+      "num_comments": 380,
+      "hn_url": "https://news.ycombinator.com/item?id=50365755"
+    },
+    {
+      "id": "50362905",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "points": 603,
+      "author": "novaRom",
+      "created_at": 1793781989,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=50362905"
+    },
+    {
+      "id": "50366999",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "points": 576,
+      "author": "abrarthought",
+      "created_at": 1793806230,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=50366999"
+    },
+    {
+      "id": "50367125",
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "points": 559,
+      "author": "rbanffy",
+      "created_at": 1793806714,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50367125"
+    },
+    {
+      "id": "50361268",
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "points": 459,
+      "author": "memalign",
+      "created_at": 1793763650,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=50361268"
+    },
+    {
+      "id": "50372929",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "points": 419,
+      "author": "dangelosaurus",
+      "created_at": 1793835194,
+      "num_comments": 299,
+      "hn_url": "https://news.ycombinator.com/item?id=50372929"
+    },
+    {
+      "id": "50366117",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "points": 409,
+      "author": "eggbrain",
+      "created_at": 1793803042,
+      "num_comments": 467,
+      "hn_url": "https://news.ycombinator.com/item?id=50366117"
+    },
+    {
+      "id": "50360164",
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "points": 408,
+      "author": "thatxliner",
+      "created_at": 1793752402,
+      "num_comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=50360164"
+    },
+    {
+      "id": "50362980",
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "points": 379,
+      "author": "porridgeraisin",
+      "created_at": 1793782630,
+      "num_comments": 237,
+      "hn_url": "https://news.ycombinator.com/item?id=50362980"
+    },
+    {
+      "id": "50369106",
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "points": 350,
+      "author": "olexsmir",
+      "created_at": 1793814731,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=50369106"
+    },
+    {
+      "id": "50372945",
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "points": 339,
+      "author": "davidbarker",
+      "created_at": 1793835344,
+      "num_comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=50372945"
+    },
+    {
+      "id": "50365982",
+      "title": "US voters roundly reject data centers in ballot measures",
+      "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "points": 334,
+      "author": "justonepost2",
+      "created_at": 1793802422,
+      "num_comments": 709,
+      "hn_url": "https://news.ycombinator.com/item?id=50365982"
+    },
+    {
+      "id": "50366522",
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "points": 323,
+      "author": "zenincognito",
+      "created_at": 1793804504,
+      "num_comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=50366522"
+    },
+    {
+      "id": "50363554",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "points": 313,
+      "author": "alkyon",
+      "created_at": 1793787814,
+      "num_comments": 306,
+      "hn_url": "https://news.ycombinator.com/item?id=50363554"
+    },
+    {
+      "id": "50369925",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "points": 313,
+      "author": "Philpax",
+      "created_at": 1793818409,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=50369925"
+    },
+    {
+      "id": "50370610",
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "points": 293,
+      "author": "speckx",
+      "created_at": 1793821823,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=50370610"
+    },
+    {
+      "id": "50361247",
+      "title": "Democrats win control of the House of Representatives",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397",
+      "points": 271,
+      "author": "geox",
+      "created_at": 1793763383,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=50361247"
     }
   ],
-  "last_updated": "2026-11-04T13:41:28.077355+00:00"
+  "last_updated": "2026-11-05T13:53:58.831327+00:00"
 }
