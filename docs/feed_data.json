@@ -1,126 +1,6 @@
 {
   "posts": [
     {
-      "id": "49214008",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "points": 561,
-      "author": "tosh",
-      "created_at": 1786125380,
-      "num_comments": 336,
-      "hn_url": "https://news.ycombinator.com/item?id=49214008"
-    },
-    {
-      "id": "49213754",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "points": 442,
-      "author": "delduca",
-      "created_at": 1786124190,
-      "num_comments": 306,
-      "hn_url": "https://news.ycombinator.com/item?id=49213754"
-    },
-    {
-      "id": "49211386",
-      "title": "A year of fighting scrapers on my 1.5 million-page website",
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "points": 410,
-      "author": "petercooper",
-      "created_at": 1786114317,
-      "num_comments": 369,
-      "hn_url": "https://news.ycombinator.com/item?id=49211386"
-    },
-    {
-      "id": "49214863",
-      "title": "App Store Rejection of the Week: Dark Hours",
-      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "points": 310,
-      "author": "_da_",
-      "created_at": 1786129148,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=49214863"
-    },
-    {
-      "id": "49214098",
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "points": 306,
-      "author": "piotrgrabowski",
-      "created_at": 1786125690,
-      "num_comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=49214098"
-    },
-    {
-      "id": "49214468",
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "points": 213,
-      "author": "moonikakiss",
-      "created_at": 1786127117,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=49214468"
-    },
-    {
-      "id": "49211438",
-      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
-      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
-      "points": 204,
-      "author": "Bender",
-      "created_at": 1786114508,
-      "num_comments": 52,
-      "hn_url": "https://news.ycombinator.com/item?id=49211438"
-    },
-    {
-      "id": "49216946",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "points": 192,
-      "author": "moelf",
-      "created_at": 1786141467,
-      "num_comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=49216946"
-    },
-    {
-      "id": "49210589",
-      "title": "USA Today Co., partners with Palantir to analyze audience data",
-      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-      "points": 188,
-      "author": "cdrnsf",
-      "created_at": 1786111335,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=49210589"
-    },
-    {
-      "id": "49214770",
-      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "points": 183,
-      "author": "aagha",
-      "created_at": 1786128674,
-      "num_comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=49214770"
-    },
-    {
-      "id": "49213097",
-      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
-      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
-      "points": 178,
-      "author": "mooreds",
-      "created_at": 1786121068,
-      "num_comments": 191,
-      "hn_url": "https://news.ycombinator.com/item?id=49213097"
-    },
-    {
-      "id": "49213029",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "points": 175,
-      "author": "artninja1988",
-      "created_at": 1786120776,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=49213029"
-    },
-    {
       "id": "49222189",
       "title": "\u201cCode was never the hard part\u201d is an insult to all programmers",
       "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
@@ -141,46 +21,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49224294"
     },
     {
-      "id": "49220126",
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "points": 409,
-      "author": "bhavansig",
-      "created_at": 1786180730,
-      "num_comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=49220126"
-    },
-    {
-      "id": "49217993",
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "points": 390,
-      "author": "Meleagris",
-      "created_at": 1786151565,
-      "num_comments": 203,
-      "hn_url": "https://news.ycombinator.com/item?id=49217993"
-    },
-    {
-      "id": "49220609",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "points": 384,
-      "author": "882542F3884314B",
-      "created_at": 1786186664,
-      "num_comments": 371,
-      "hn_url": "https://news.ycombinator.com/item?id=49220609"
-    },
-    {
-      "id": "49221668",
-      "title": "_for-sale DNS records",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "points": 379,
-      "author": "shaunpud",
-      "created_at": 1786195611,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=49221668"
-    },
-    {
       "id": "49223082",
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
@@ -191,36 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49223082"
     },
     {
-      "id": "49218179",
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "points": 366,
-      "author": "wglb",
-      "created_at": 1786153751,
-      "num_comments": 81,
-      "hn_url": "https://news.ycombinator.com/item?id=49218179"
-    },
-    {
-      "id": "49219508",
-      "title": "Hardware backdoors in some x86 CPUs",
-      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "points": 357,
-      "author": "epestr",
-      "created_at": 1786172691,
-      "num_comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=49219508"
-    },
-    {
-      "id": "49220339",
-      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-      "points": 280,
-      "author": "rbanffy",
-      "created_at": 1786183465,
-      "num_comments": 429,
-      "hn_url": "https://news.ycombinator.com/item?id=49220339"
-    },
-    {
       "id": "49226636",
       "title": "My server is a phone now",
       "url": "https://seg6.space/posts/phone-server/",
@@ -229,16 +39,6 @@
       "created_at": 1786229363,
       "num_comments": 89,
       "hn_url": "https://news.ycombinator.com/item?id=49226636"
-    },
-    {
-      "id": "49220350",
-      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "points": 221,
-      "author": "sbulaev",
-      "created_at": 1786183626,
-      "num_comments": 294,
-      "hn_url": "https://news.ycombinator.com/item?id=49220350"
     },
     {
       "id": "49223845",
@@ -271,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49223079"
     },
     {
-      "id": "49220392",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-      "points": 182,
-      "author": "eternalreturn",
-      "created_at": 1786184167,
-      "num_comments": 177,
-      "hn_url": "https://news.ycombinator.com/item?id=49220392"
-    },
-    {
       "id": "49223475",
       "title": "LinkedIn Feed Blocker",
       "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
@@ -291,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49223475"
     },
     {
-      "id": "49221711",
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "points": 163,
-      "author": "electricant",
-      "created_at": 1786195986,
-      "num_comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=49221711"
-    },
-    {
       "id": "49221864",
       "title": "Gentoo bugzilla closed due AI bot scraper overload",
       "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
@@ -309,16 +89,6 @@
       "created_at": 1786197342,
       "num_comments": 106,
       "hn_url": "https://news.ycombinator.com/item?id=49221864"
-    },
-    {
-      "id": "49220313",
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-      "points": 156,
-      "author": "01-_-",
-      "created_at": 1786183121,
-      "num_comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=49220313"
     },
     {
       "id": "49234675",
@@ -17749,7 +17519,207 @@
       "created_at": 1793763383,
       "num_comments": 141,
       "hn_url": "https://news.ycombinator.com/item?id=50361247"
+    },
+    {
+      "id": "50378228",
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "points": 2790,
+      "author": "josemrb",
+      "created_at": 1793881142,
+      "num_comments": 677,
+      "hn_url": "https://news.ycombinator.com/item?id=50378228"
+    },
+    {
+      "id": "50385272",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "points": 1295,
+      "author": "motoroco",
+      "created_at": 1793917035,
+      "num_comments": 408,
+      "hn_url": "https://news.ycombinator.com/item?id=50385272"
+    },
+    {
+      "id": "50383740",
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "points": 699,
+      "author": "elashri",
+      "created_at": 1793909014,
+      "num_comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=50383740"
+    },
+    {
+      "id": "50379704",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "points": 622,
+      "author": "pantalaimon",
+      "created_at": 1793889860,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50379704"
+    },
+    {
+      "id": "50383739",
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "points": 601,
+      "author": "mkeeter",
+      "created_at": 1793909009,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=50383739"
+    },
+    {
+      "id": "50384233",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "points": 598,
+      "author": "kuberwastaken",
+      "created_at": 1793911422,
+      "num_comments": 222,
+      "hn_url": "https://news.ycombinator.com/item?id=50384233"
+    },
+    {
+      "id": "50380810",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "points": 520,
+      "author": "monneyboi",
+      "created_at": 1793894494,
+      "num_comments": 371,
+      "hn_url": "https://news.ycombinator.com/item?id=50380810"
+    },
+    {
+      "id": "50378942",
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "points": 477,
+      "author": "freetonik",
+      "created_at": 1793886052,
+      "num_comments": 378,
+      "hn_url": "https://news.ycombinator.com/item?id=50378942"
+    },
+    {
+      "id": "50378625",
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "points": 456,
+      "author": "archb",
+      "created_at": 1793883928,
+      "num_comments": 385,
+      "hn_url": "https://news.ycombinator.com/item?id=50378625"
+    },
+    {
+      "id": "50385870",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "points": 413,
+      "author": "randycupertino",
+      "created_at": 1793920197,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=50385870"
+    },
+    {
+      "id": "50375354",
+      "title": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings/",
+      "points": 406,
+      "author": "MarkBlah",
+      "created_at": 1793854450,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=50375354"
+    },
+    {
+      "id": "50381383",
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "points": 386,
+      "author": "nickswalker",
+      "created_at": 1793897414,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=50381383"
+    },
+    {
+      "id": "50378571",
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "points": 371,
+      "author": "surprisetalk",
+      "created_at": 1793883611,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=50378571"
+    },
+    {
+      "id": "50383057",
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "points": 347,
+      "author": "rubatuga",
+      "created_at": 1793905702,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=50383057"
+    },
+    {
+      "id": "50376313",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "points": 333,
+      "author": "lucrbvi",
+      "created_at": 1793864670,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=50376313"
+    },
+    {
+      "id": "50379249",
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "points": 316,
+      "author": "rwilinski",
+      "created_at": 1793887715,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=50379249"
+    },
+    {
+      "id": "50377821",
+      "title": "Awesome repositories are no longer awesome",
+      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "points": 291,
+      "author": "erikgahner",
+      "created_at": 1793877411,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=50377821"
+    },
+    {
+      "id": "50373308",
+      "title": "Starfall \u2013 Affordable, routine access to microgravity",
+      "url": "https://www.spacex.com/starfall",
+      "points": 277,
+      "author": "gmays",
+      "created_at": 1793837898,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=50373308"
+    },
+    {
+      "id": "50379576",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "points": 257,
+      "author": "iamnothere",
+      "created_at": 1793889258,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=50379576"
+    },
+    {
+      "id": "50377976",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "points": 249,
+      "author": "selckin",
+      "created_at": 1793878830,
+      "num_comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50377976"
     }
   ],
-  "last_updated": "2026-11-05T13:53:58.831327+00:00"
+  "last_updated": "2026-11-06T13:39:25.860111+00:00"
 }
