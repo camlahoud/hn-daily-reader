@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "49243880",
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "points": 472,
-      "author": "root-parent",
-      "created_at": 1786370782,
-      "num_comments": 434,
-      "hn_url": "https://news.ycombinator.com/item?id=49243880"
-    },
-    {
-      "id": "49251411",
-      "title": "The UK's war on anonymity has come to America",
-      "url": "https://www.effort.news/uk-lobby",
-      "points": 432,
-      "author": "slowin",
-      "created_at": 1786405550,
-      "num_comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=49251411"
-    },
-    {
-      "id": "49245023",
-      "title": "Mars Bar from 1991 found \u2013 and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "points": 322,
-      "author": "RickJWagner",
-      "created_at": 1786375924,
-      "num_comments": 478,
-      "hn_url": "https://news.ycombinator.com/item?id=49245023"
-    },
-    {
-      "id": "49249150",
-      "title": "Illinois just passed a law that puts Linux on the hook for age verification",
-      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-      "points": 313,
-      "author": "speckx",
-      "created_at": 1786393206,
-      "num_comments": 439,
-      "hn_url": "https://news.ycombinator.com/item?id=49249150"
-    },
-    {
-      "id": "49246804",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "points": 288,
-      "author": "HenryNdubuaku",
-      "created_at": 1786382527,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=49246804"
-    },
-    {
-      "id": "49249481",
-      "title": "Stop Killing Games: It's time to sue Sony, join us",
-      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
-      "points": 228,
-      "author": "EDM115",
-      "created_at": 1786394833,
-      "num_comments": 119,
-      "hn_url": "https://news.ycombinator.com/item?id=49249481"
-    },
-    {
-      "id": "49243397",
-      "title": "Mistral Patent for \u201cCode implemented tool calls\u201d",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "points": 217,
-      "author": "theanonymousone",
-      "created_at": 1786368552,
-      "num_comments": 183,
-      "hn_url": "https://news.ycombinator.com/item?id=49243397"
-    },
-    {
-      "id": "49243474",
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "points": 193,
-      "author": "kuberwastaken",
-      "created_at": 1786368940,
-      "num_comments": 126,
-      "hn_url": "https://news.ycombinator.com/item?id=49243474"
-    },
-    {
-      "id": "49247070",
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "points": 180,
-      "author": "tosh",
-      "created_at": 1786383673,
-      "num_comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=49247070"
-    },
-    {
-      "id": "49243029",
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "points": 174,
-      "author": "jonathanmkeegan",
-      "created_at": 1786366696,
-      "num_comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=49243029"
-    },
-    {
-      "id": "49245251",
-      "title": "Magnitude 7.4 Earthquake \u2013 5 km S of San Jos\u00e9 del Palmar, Colombia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "points": 173,
-      "author": "Bender",
-      "created_at": 1786376988,
-      "num_comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=49245251"
-    },
-    {
-      "id": "49254880",
-      "title": "France to ban unsolicited telemarketing calls",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "points": 1012,
-      "author": "aziaziazi",
-      "created_at": 1786436146,
-      "num_comments": 481,
-      "hn_url": "https://news.ycombinator.com/item?id=49254880"
-    },
-    {
-      "id": "49257876",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "points": 594,
-      "author": "quantumgarbage",
-      "created_at": 1786454520,
-      "num_comments": 268,
-      "hn_url": "https://news.ycombinator.com/item?id=49257876"
-    },
-    {
-      "id": "49257377",
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "points": 523,
-      "author": "stevekemp",
-      "created_at": 1786452119,
-      "num_comments": 374,
-      "hn_url": "https://news.ycombinator.com/item?id=49257377"
-    },
-    {
       "id": "49263497",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
@@ -149,26 +9,6 @@
       "created_at": 1786477784,
       "num_comments": 196,
       "hn_url": "https://news.ycombinator.com/item?id=49263497"
-    },
-    {
-      "id": "49252179",
-      "title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "points": 428,
-      "author": "swyx",
-      "created_at": 1786411329,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=49252179"
-    },
-    {
-      "id": "49257160",
-      "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "points": 393,
-      "author": "ilamont",
-      "created_at": 1786450987,
-      "num_comments": 395,
-      "hn_url": "https://news.ycombinator.com/item?id=49257160"
     },
     {
       "id": "49261128",
@@ -189,56 +29,6 @@
       "created_at": 1786467429,
       "num_comments": 403,
       "hn_url": "https://news.ycombinator.com/item?id=49261133"
-    },
-    {
-      "id": "49255710",
-      "title": "Nvidia's Risky Business",
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "points": 328,
-      "author": "jonbaer",
-      "created_at": 1786442520,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=49255710"
-    },
-    {
-      "id": "49255496",
-      "title": "London Underground begins scanning passengers' faces",
-      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
-      "points": 299,
-      "author": "BlueBerry2001",
-      "created_at": 1786441202,
-      "num_comments": 316,
-      "hn_url": "https://news.ycombinator.com/item?id=49255496"
-    },
-    {
-      "id": "49251702",
-      "title": "Chicken Scheme 6.0",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "points": 296,
-      "author": "eatonphil",
-      "created_at": 1786407855,
-      "num_comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=49251702"
-    },
-    {
-      "id": "49259339",
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "points": 289,
-      "author": "frabonacci",
-      "created_at": 1786459833,
-      "num_comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49259339"
-    },
-    {
-      "id": "49255672",
-      "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
-      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
-      "points": 255,
-      "author": "whosgotch",
-      "created_at": 1786442234,
-      "num_comments": 287,
-      "hn_url": "https://news.ycombinator.com/item?id=49255672"
     },
     {
       "id": "49261218",
@@ -279,26 +69,6 @@
       "created_at": 1786485378,
       "num_comments": 58,
       "hn_url": "https://news.ycombinator.com/item?id=49265051"
-    },
-    {
-      "id": "49256057",
-      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "points": 177,
-      "author": "j0selit0",
-      "created_at": 1786444847,
-      "num_comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=49256057"
-    },
-    {
-      "id": "49258764",
-      "title": "Manus will return to operating as an independent company",
-      "url": "https://manus.im/blog/a-note-to-our-users",
-      "points": 153,
-      "author": "thm",
-      "created_at": 1786457693,
-      "num_comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=49258764"
     },
     {
       "id": "49262811",
@@ -17739,7 +17509,207 @@
       "created_at": 1794068579,
       "num_comments": 85,
       "hn_url": "https://news.ycombinator.com/item?id=50405789"
+    },
+    {
+      "id": "50415628",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "points": 833,
+      "author": "TheWiggles",
+      "created_at": 1794161767,
+      "num_comments": 448,
+      "hn_url": "https://news.ycombinator.com/item?id=50415628"
+    },
+    {
+      "id": "50418016",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "points": 828,
+      "author": "karimf",
+      "created_at": 1794176409,
+      "num_comments": 978,
+      "hn_url": "https://news.ycombinator.com/item?id=50418016"
+    },
+    {
+      "id": "50410107",
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "points": 785,
+      "author": "karagenit",
+      "created_at": 1794107508,
+      "num_comments": 479,
+      "hn_url": "https://news.ycombinator.com/item?id=50410107"
+    },
+    {
+      "id": "50418176",
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "points": 623,
+      "author": "dcoulmbe",
+      "created_at": 1794177335,
+      "num_comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=50418176"
+    },
+    {
+      "id": "50416801",
+      "title": "Statement from Nvidia board of directors",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "points": 480,
+      "author": "vincentchau",
+      "created_at": 1794169603,
+      "num_comments": 364,
+      "hn_url": "https://news.ycombinator.com/item?id=50416801"
+    },
+    {
+      "id": "50416158",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "points": 472,
+      "author": "xmddmx",
+      "created_at": 1794165632,
+      "num_comments": 326,
+      "hn_url": "https://news.ycombinator.com/item?id=50416158"
+    },
+    {
+      "id": "50411961",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "points": 451,
+      "author": "joshcsimmons",
+      "created_at": 1794133324,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=50411961"
+    },
+    {
+      "id": "50418975",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "points": 433,
+      "author": "matteoraso",
+      "created_at": 1794181476,
+      "num_comments": 733,
+      "hn_url": "https://news.ycombinator.com/item?id=50418975"
+    },
+    {
+      "id": "50412067",
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "points": 427,
+      "author": "jruohonen",
+      "created_at": 1794134512,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=50412067"
+    },
+    {
+      "id": "50416053",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "points": 316,
+      "author": "indigodaddy",
+      "created_at": 1794164931,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=50416053"
+    },
+    {
+      "id": "50412318",
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "points": 306,
+      "author": "krthr",
+      "created_at": 1794137008,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=50412318"
+    },
+    {
+      "id": "50418182",
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "points": 283,
+      "author": "nmstoker",
+      "created_at": 1794177363,
+      "num_comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50418182"
+    },
+    {
+      "id": "50416363",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "points": 281,
+      "author": "kyunez",
+      "created_at": 1794166662,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=50416363"
+    },
+    {
+      "id": "50417407",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "points": 250,
+      "author": "david927",
+      "created_at": 1794172820,
+      "num_comments": 862,
+      "hn_url": "https://news.ycombinator.com/item?id=50417407"
+    },
+    {
+      "id": "50415172",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "points": 240,
+      "author": "randycupertino",
+      "created_at": 1794158429,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=50415172"
+    },
+    {
+      "id": "50414427",
+      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+      "points": 200,
+      "author": "gumby",
+      "created_at": 1794154062,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=50414427"
+    },
+    {
+      "id": "50413822",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "points": 189,
+      "author": "armcat",
+      "created_at": 1794149363,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=50413822"
+    },
+    {
+      "id": "50411467",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "points": 185,
+      "author": "mthines",
+      "created_at": 1794127223,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=50411467"
+    },
+    {
+      "id": "50412152",
+      "title": "Petered",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "points": 166,
+      "author": "adrianhoward",
+      "created_at": 1794135403,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=50412152"
+    },
+    {
+      "id": "50418818",
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "points": 141,
+      "author": "acossta",
+      "created_at": 1794180481,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=50418818"
     }
   ],
-  "last_updated": "2026-11-08T12:39:36.235156+00:00"
+  "last_updated": "2026-11-09T14:59:14.123000+00:00"
 }
