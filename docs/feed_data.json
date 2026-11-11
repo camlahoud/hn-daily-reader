@@ -1,76 +1,6 @@
 {
   "posts": [
     {
-      "id": "49272832",
-      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "points": 978,
-      "author": "ropbear",
-      "created_at": 1786544550,
-      "num_comments": 185,
-      "hn_url": "https://news.ycombinator.com/item?id=49272832"
-    },
-    {
-      "id": "49274600",
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "points": 876,
-      "author": "explosion-s",
-      "created_at": 1786550690,
-      "num_comments": 351,
-      "hn_url": "https://news.ycombinator.com/item?id=49274600"
-    },
-    {
-      "id": "49273478",
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "points": 588,
-      "author": "Philpax",
-      "created_at": 1786546877,
-      "num_comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=49273478"
-    },
-    {
-      "id": "49273165",
-      "title": "License plate reader searches should require a warrant",
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "points": 575,
-      "author": "apwheele",
-      "created_at": 1786545819,
-      "num_comments": 343,
-      "hn_url": "https://news.ycombinator.com/item?id=49273165"
-    },
-    {
-      "id": "49276574",
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "points": 511,
-      "author": "khy",
-      "created_at": 1786558799,
-      "num_comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=49276574"
-    },
-    {
-      "id": "49274027",
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "points": 508,
-      "author": "iLuddite",
-      "created_at": 1786548770,
-      "num_comments": 462,
-      "hn_url": "https://news.ycombinator.com/item?id=49274027"
-    },
-    {
-      "id": "49275385",
-      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "points": 327,
-      "author": "wertyk",
-      "created_at": 1786553665,
-      "num_comments": 357,
-      "hn_url": "https://news.ycombinator.com/item?id=49275385"
-    },
-    {
       "id": "49289112",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
@@ -79,16 +9,6 @@
       "created_at": 1786641802,
       "num_comments": 405,
       "hn_url": "https://news.ycombinator.com/item?id=49289112"
-    },
-    {
-      "id": "49285244",
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "points": 627,
-      "author": "bjin",
-      "created_at": 1786625882,
-      "num_comments": 263,
-      "hn_url": "https://news.ycombinator.com/item?id=49285244"
     },
     {
       "id": "49286341",
@@ -111,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49289844"
     },
     {
-      "id": "49281916",
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "points": 451,
-      "author": "allanrbo",
-      "created_at": 1786596821,
-      "num_comments": 304,
-      "hn_url": "https://news.ycombinator.com/item?id=49281916"
-    },
-    {
       "id": "49285982",
       "title": "Gloomberb",
       "url": "https://gloom.sh/",
@@ -129,16 +39,6 @@
       "created_at": 1786629152,
       "num_comments": 213,
       "hn_url": "https://news.ycombinator.com/item?id=49285982"
-    },
-    {
-      "id": "49284774",
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "points": 397,
-      "author": "Markoff",
-      "created_at": 1786622990,
-      "num_comments": 428,
-      "hn_url": "https://news.ycombinator.com/item?id=49284774"
     },
     {
       "id": "49289512",
@@ -159,16 +59,6 @@
       "created_at": 1786640712,
       "num_comments": 118,
       "hn_url": "https://news.ycombinator.com/item?id=49288889"
-    },
-    {
-      "id": "49285418",
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "points": 294,
-      "author": "vinayakborkar",
-      "created_at": 1786626852,
-      "num_comments": 166,
-      "hn_url": "https://news.ycombinator.com/item?id=49285418"
     },
     {
       "id": "49290299",
@@ -209,16 +99,6 @@
       "created_at": 1786631871,
       "num_comments": 309,
       "hn_url": "https://news.ycombinator.com/item?id=49286662"
-    },
-    {
-      "id": "49285327",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "points": 197,
-      "author": "toddmorey",
-      "created_at": 1786626329,
-      "num_comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=49285327"
     },
     {
       "id": "49290215",
@@ -17699,7 +17579,207 @@
       "created_at": 1794247126,
       "num_comments": 137,
       "hn_url": "https://news.ycombinator.com/item?id=50429024"
+    },
+    {
+      "id": "50441707",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "points": 1054,
+      "author": "skittleson",
+      "created_at": 1794324320,
+      "num_comments": 370,
+      "hn_url": "https://news.ycombinator.com/item?id=50441707"
+    },
+    {
+      "id": "50442736",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "points": 888,
+      "author": "p4bl0",
+      "created_at": 1794328664,
+      "num_comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=50442736"
+    },
+    {
+      "id": "50436640",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "points": 712,
+      "author": "aloukissas",
+      "created_at": 1794290468,
+      "num_comments": 254,
+      "hn_url": "https://news.ycombinator.com/item?id=50436640"
+    },
+    {
+      "id": "50439193",
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "points": 654,
+      "author": "ilreb",
+      "created_at": 1794312672,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=50439193"
+    },
+    {
+      "id": "50438318",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "points": 602,
+      "author": "plun9",
+      "created_at": 1794306358,
+      "num_comments": 572,
+      "hn_url": "https://news.ycombinator.com/item?id=50438318"
+    },
+    {
+      "id": "50445401",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "points": 505,
+      "author": "NaOH",
+      "created_at": 1794340246,
+      "num_comments": 327,
+      "hn_url": "https://news.ycombinator.com/item?id=50445401"
+    },
+    {
+      "id": "50442426",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "points": 473,
+      "author": "amlib",
+      "created_at": 1794327343,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=50442426"
+    },
+    {
+      "id": "50444129",
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "points": 451,
+      "author": "robertjfclarke",
+      "created_at": 1794334952,
+      "num_comments": 479,
+      "hn_url": "https://news.ycombinator.com/item?id=50444129"
+    },
+    {
+      "id": "50443824",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "points": 429,
+      "author": "speckx",
+      "created_at": 1794333722,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=50443824"
+    },
+    {
+      "id": "50447074",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "points": 424,
+      "author": "panic",
+      "created_at": 1794349076,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50447074"
+    },
+    {
+      "id": "50443427",
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "points": 402,
+      "author": "tosh",
+      "created_at": 1794331874,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=50443427"
+    },
+    {
+      "id": "50443812",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "points": 395,
+      "author": "paulirish",
+      "created_at": 1794333675,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=50443812"
+    },
+    {
+      "id": "50446520",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "points": 336,
+      "author": "linolevan",
+      "created_at": 1794345903,
+      "num_comments": 323,
+      "hn_url": "https://news.ycombinator.com/item?id=50446520"
+    },
+    {
+      "id": "50434310",
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "points": 326,
+      "author": "bigwheels",
+      "created_at": 1794269446,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=50434310"
+    },
+    {
+      "id": "50439695",
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "points": 322,
+      "author": "phaser",
+      "created_at": 1794315484,
+      "num_comments": 344,
+      "hn_url": "https://news.ycombinator.com/item?id=50439695"
+    },
+    {
+      "id": "50442303",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "points": 287,
+      "author": "meetpateltech",
+      "created_at": 1794326835,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=50442303"
+    },
+    {
+      "id": "50446246",
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "points": 279,
+      "author": "digital55",
+      "created_at": 1794344324,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=50446246"
+    },
+    {
+      "id": "50436410",
+      "title": "Your TV can see through walls (2025)",
+      "url": "https://maurycyz.com/projects/fading/",
+      "points": 269,
+      "author": "Curiositry",
+      "created_at": 1794288285,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=50436410"
+    },
+    {
+      "id": "50438480",
+      "title": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "points": 257,
+      "author": "FinnLobsien",
+      "created_at": 1794307638,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=50438480"
+    },
+    {
+      "id": "50439284",
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "points": 251,
+      "author": "stevefan1999",
+      "created_at": 1794313207,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50439284"
     }
   ],
-  "last_updated": "2026-11-10T14:12:00.299854+00:00"
+  "last_updated": "2026-11-11T13:27:25.262876+00:00"
 }
