@@ -1,166 +1,6 @@
 {
   "posts": [
     {
-      "id": "49289112",
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "points": 776,
-      "author": "thisisauserid",
-      "created_at": 1786641802,
-      "num_comments": 405,
-      "hn_url": "https://news.ycombinator.com/item?id=49289112"
-    },
-    {
-      "id": "49286341",
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "points": 583,
-      "author": "matt_d",
-      "created_at": 1786630633,
-      "num_comments": 153,
-      "hn_url": "https://news.ycombinator.com/item?id=49286341"
-    },
-    {
-      "id": "49289844",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "points": 546,
-      "author": "pr337h4m",
-      "created_at": 1786644602,
-      "num_comments": 228,
-      "hn_url": "https://news.ycombinator.com/item?id=49289844"
-    },
-    {
-      "id": "49285982",
-      "title": "Gloomberb",
-      "url": "https://gloom.sh/",
-      "points": 408,
-      "author": "rbanffy",
-      "created_at": 1786629152,
-      "num_comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=49285982"
-    },
-    {
-      "id": "49289512",
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "points": 321,
-      "author": "tosh",
-      "created_at": 1786643293,
-      "num_comments": 159,
-      "hn_url": "https://news.ycombinator.com/item?id=49289512"
-    },
-    {
-      "id": "49288889",
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "points": 314,
-      "author": "spelk",
-      "created_at": 1786640712,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=49288889"
-    },
-    {
-      "id": "49290299",
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "points": 294,
-      "author": "sebg",
-      "created_at": 1786646839,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=49290299"
-    },
-    {
-      "id": "49285770",
-      "title": "Ordinary Abundance",
-      "url": "https://ordinaryabundance.com/",
-      "points": 284,
-      "author": "yen223",
-      "created_at": 1786628381,
-      "num_comments": 142,
-      "hn_url": "https://news.ycombinator.com/item?id=49285770"
-    },
-    {
-      "id": "49289465",
-      "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "points": 221,
-      "author": "jkrauska",
-      "created_at": 1786643150,
-      "num_comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=49289465"
-    },
-    {
-      "id": "49286662",
-      "title": "I requested a copy of my data from McDonald\u2019s loyalty program",
-      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "points": 217,
-      "author": "thehoff",
-      "created_at": 1786631871,
-      "num_comments": 309,
-      "hn_url": "https://news.ycombinator.com/item?id=49286662"
-    },
-    {
-      "id": "49290215",
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-      "url": "https://github.com/systemd/systemd/issues/40262",
-      "points": 196,
-      "author": "ValdikSS",
-      "created_at": 1786646461,
-      "num_comments": 121,
-      "hn_url": "https://news.ycombinator.com/item?id=49290215"
-    },
-    {
-      "id": "49291268",
-      "title": "NP-overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "points": 195,
-      "author": "theanonymousone",
-      "created_at": 1786652057,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=49291268"
-    },
-    {
-      "id": "49286485",
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "points": 180,
-      "author": "stevehipwell",
-      "created_at": 1786631201,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49286485"
-    },
-    {
-      "id": "49289532",
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "points": 166,
-      "author": "tdx",
-      "created_at": 1786643358,
-      "num_comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=49289532"
-    },
-    {
-      "id": "49285604",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "points": 159,
-      "author": "andsoitis",
-      "created_at": 1786627725,
-      "num_comments": 197,
-      "hn_url": "https://news.ycombinator.com/item?id=49285604"
-    },
-    {
-      "id": "49294997",
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "points": 1071,
-      "author": "pella",
-      "created_at": 1786684799,
-      "num_comments": 525,
-      "hn_url": "https://news.ycombinator.com/item?id=49294997"
-    },
-    {
       "id": "49299605",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
@@ -169,16 +9,6 @@
       "created_at": 1786719600,
       "num_comments": 660,
       "hn_url": "https://news.ycombinator.com/item?id=49299605"
-    },
-    {
-      "id": "49296740",
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "points": 835,
-      "author": "numeri",
-      "created_at": 1786702368,
-      "num_comments": 758,
-      "hn_url": "https://news.ycombinator.com/item?id=49296740"
     },
     {
       "id": "49299222",
@@ -231,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49299675"
     },
     {
-      "id": "49298910",
-      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
-      "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "points": 330,
-      "author": "speckx",
-      "created_at": 1786716472,
-      "num_comments": 283,
-      "hn_url": "https://news.ycombinator.com/item?id=49298910"
-    },
-    {
       "id": "49299684",
       "title": "Qwen3.8-27B",
       "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
@@ -281,26 +101,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49300759"
     },
     {
-      "id": "49294199",
-      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
-      "points": 251,
-      "author": "magic_interface",
-      "created_at": 1786675150,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=49294199"
-    },
-    {
-      "id": "49296627",
-      "title": "DeepSeek peak/off-peak pricing update",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
-      "points": 237,
-      "author": "fagnerbrack",
-      "created_at": 1786701333,
-      "num_comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49296627"
-    },
-    {
       "id": "49300671",
       "title": "France's top court blocks social media ban for under-15s",
       "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
@@ -309,26 +109,6 @@
       "created_at": 1786723609,
       "num_comments": 156,
       "hn_url": "https://news.ycombinator.com/item?id=49300671"
-    },
-    {
-      "id": "49293324",
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "points": 206,
-      "author": "danabramov",
-      "created_at": 1786666468,
-      "num_comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=49293324"
-    },
-    {
-      "id": "49297801",
-      "title": "Dear people who work at the airport",
-      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
-      "points": 198,
-      "author": "nivethan",
-      "created_at": 1786710202,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=49297801"
     },
     {
       "id": "49299746",
@@ -17779,7 +17559,207 @@
       "created_at": 1794313207,
       "num_comments": 1,
       "hn_url": "https://news.ycombinator.com/item?id=50439284"
+    },
+    {
+      "id": "50450488",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "points": 1310,
+      "author": "ayhanfuat",
+      "created_at": 1794380597,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50450488"
+    },
+    {
+      "id": "50459703",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "points": 1168,
+      "author": "jbredeche",
+      "created_at": 1794436266,
+      "num_comments": 1562,
+      "hn_url": "https://news.ycombinator.com/item?id=50459703"
+    },
+    {
+      "id": "50452455",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "points": 1018,
+      "author": "eyvindn",
+      "created_at": 1794398722,
+      "num_comments": 374,
+      "hn_url": "https://news.ycombinator.com/item?id=50452455"
+    },
+    {
+      "id": "50456631",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "points": 904,
+      "author": "super_linear",
+      "created_at": 1794421298,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=50456631"
+    },
+    {
+      "id": "50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "points": 605,
+      "author": "herpderperator",
+      "created_at": 1794432275,
+      "num_comments": 631,
+      "hn_url": "https://news.ycombinator.com/item?id=50458900"
+    },
+    {
+      "id": "50455394",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "points": 528,
+      "author": "mbac32768",
+      "created_at": 1794415124,
+      "num_comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=50455394"
+    },
+    {
+      "id": "50459745",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "points": 508,
+      "author": "zenincognito",
+      "created_at": 1794436463,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=50459745"
+    },
+    {
+      "id": "50456791",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "points": 496,
+      "author": "iamdelirium",
+      "created_at": 1794421962,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=50456791"
+    },
+    {
+      "id": "50453288",
+      "title": "Hyper-realistic sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "points": 423,
+      "author": "everlier",
+      "created_at": 1794404369,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=50453288"
+    },
+    {
+      "id": "50449748",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "points": 390,
+      "author": "js2",
+      "created_at": 1794371337,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=50449748"
+    },
+    {
+      "id": "50459321",
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "points": 384,
+      "author": "louiereederson",
+      "created_at": 1794434638,
+      "num_comments": 486,
+      "hn_url": "https://news.ycombinator.com/item?id=50459321"
+    },
+    {
+      "id": "50453474",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "points": 369,
+      "author": "Brajeshwar",
+      "created_at": 1794405365,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=50453474"
+    },
+    {
+      "id": "50451903",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "points": 327,
+      "author": "lae",
+      "created_at": 1794394120,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=50451903"
+    },
+    {
+      "id": "50459485",
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "points": 301,
+      "author": "gslin",
+      "created_at": 1794435401,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=50459485"
+    },
+    {
+      "id": "50452655",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "points": 288,
+      "author": "emschwartz",
+      "created_at": 1794400217,
+      "num_comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=50452655"
+    },
+    {
+      "id": "50448921",
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "points": 277,
+      "author": "palsecam",
+      "created_at": 1794362191,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=50448921"
+    },
+    {
+      "id": "50458208",
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "points": 274,
+      "author": "ggcr",
+      "created_at": 1794428792,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=50458208"
+    },
+    {
+      "id": "50454625",
+      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "points": 269,
+      "author": "brownrout",
+      "created_at": 1794411186,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=50454625"
+    },
+    {
+      "id": "50453555",
+      "title": "Apple is killing its Support Community forum next week",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "points": 256,
+      "author": "saikatsg",
+      "created_at": 1794405731,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=50453555"
+    },
+    {
+      "id": "50457939",
+      "title": "Why are we still working this hard?",
+      "url": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
+      "points": 234,
+      "author": "Wilsoniumite",
+      "created_at": 1794427529,
+      "num_comments": 284,
+      "hn_url": "https://news.ycombinator.com/item?id=50457939"
     }
   ],
-  "last_updated": "2026-11-11T13:27:25.262876+00:00"
+  "last_updated": "2026-11-12T14:31:02.956733+00:00"
 }
