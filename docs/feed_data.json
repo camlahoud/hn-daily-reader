@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "49299605",
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "points": 1037,
-      "author": "erdaltoprak",
-      "created_at": 1786719600,
-      "num_comments": 660,
-      "hn_url": "https://news.ycombinator.com/item?id=49299605"
-    },
-    {
-      "id": "49299222",
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "points": 776,
-      "author": "doubletwoyou",
-      "created_at": 1786717868,
-      "num_comments": 453,
-      "hn_url": "https://news.ycombinator.com/item?id=49299222"
-    },
-    {
-      "id": "49303202",
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "points": 745,
-      "author": "DemiGuru",
-      "created_at": 1786734200,
-      "num_comments": 282,
-      "hn_url": "https://news.ycombinator.com/item?id=49303202"
-    },
-    {
-      "id": "49301260",
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "points": 439,
-      "author": "tcp_handshaker",
-      "created_at": 1786725949,
-      "num_comments": 351,
-      "hn_url": "https://news.ycombinator.com/item?id=49301260"
-    },
-    {
-      "id": "49300314",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "points": 348,
-      "author": "u1hcw9nx",
-      "created_at": 1786722190,
-      "num_comments": 204,
-      "hn_url": "https://news.ycombinator.com/item?id=49300314"
-    },
-    {
-      "id": "49299675",
-      "title": "Seven books I keep close because I love them",
-      "url": "https://blog.plover.com/2026/08/02/",
-      "points": 340,
-      "author": "surprisetalk",
-      "created_at": 1786719806,
-      "num_comments": 154,
-      "hn_url": "https://news.ycombinator.com/item?id=49299675"
-    },
-    {
-      "id": "49299684",
-      "title": "Qwen3.8-27B",
-      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-      "points": 297,
-      "author": "mfiguiere",
-      "created_at": 1786719834,
-      "num_comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49299684"
-    },
-    {
-      "id": "49304447",
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "points": 291,
-      "author": "vslira",
-      "created_at": 1786740764,
-      "num_comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=49304447"
-    },
-    {
-      "id": "49300568",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "points": 267,
-      "author": "sans_souse",
-      "created_at": 1786723139,
-      "num_comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=49300568"
-    },
-    {
-      "id": "49300759",
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "points": 259,
-      "author": "rustdesk",
-      "created_at": 1786723972,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=49300759"
-    },
-    {
-      "id": "49300671",
-      "title": "France's top court blocks social media ban for under-15s",
-      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-      "points": 216,
-      "author": "BlueBerry2001",
-      "created_at": 1786723609,
-      "num_comments": 156,
-      "hn_url": "https://news.ycombinator.com/item?id=49300671"
-    },
-    {
-      "id": "49299746",
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
-      "points": 192,
-      "author": "mplappert",
-      "created_at": 1786720077,
-      "num_comments": 59,
-      "hn_url": "https://news.ycombinator.com/item?id=49299746"
-    },
-    {
-      "id": "49300800",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "points": 177,
-      "author": "twapi",
-      "created_at": 1786724121,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=49300800"
-    },
-    {
       "id": "49312845",
       "title": "AI has access to a vastly larger working memory than the human brain",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
@@ -141,16 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49312845"
     },
     {
-      "id": "49309549",
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "points": 414,
-      "author": "tosh",
-      "created_at": 1786791602,
-      "num_comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=49309549"
-    },
-    {
       "id": "49311651",
       "title": "Semaglutide linked to lower predicted dementia risk",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
@@ -159,26 +19,6 @@
       "created_at": 1786809533,
       "num_comments": 276,
       "hn_url": "https://news.ycombinator.com/item?id=49311651"
-    },
-    {
-      "id": "49307592",
-      "title": "The other Sean Byrne doesn't exist",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "points": 377,
-      "author": "rdl",
-      "created_at": 1786767524,
-      "num_comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=49307592"
-    },
-    {
-      "id": "49309451",
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "points": 294,
-      "author": "allenb",
-      "created_at": 1786790381,
-      "num_comments": 188,
-      "hn_url": "https://news.ycombinator.com/item?id=49309451"
     },
     {
       "id": "49310682",
@@ -199,16 +39,6 @@
       "created_at": 1786828474,
       "num_comments": 168,
       "hn_url": "https://news.ycombinator.com/item?id=49314403"
-    },
-    {
-      "id": "49306577",
-      "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "points": 216,
-      "author": "Bender",
-      "created_at": 1786756445,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49306577"
     },
     {
       "id": "49310926",
@@ -251,26 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49314744"
     },
     {
-      "id": "49306443",
-      "title": "The Ploopy A+ Trackball Is Here",
-      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "points": 139,
-      "author": "big_toast",
-      "created_at": 1786755331,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=49306443"
-    },
-    {
-      "id": "49306196",
-      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-      "url": "https://arxiv.org/abs/1811.03459",
-      "points": 138,
-      "author": "E-Reverance",
-      "created_at": 1786752923,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49306196"
-    },
-    {
       "id": "49314235",
       "title": "Cultivating a state of mind where new ideas are born (2023)",
       "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
@@ -299,16 +109,6 @@
       "created_at": 1786812827,
       "num_comments": 55,
       "hn_url": "https://news.ycombinator.com/item?id=49312165"
-    },
-    {
-      "id": "49307700",
-      "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "points": 115,
-      "author": "chatchan",
-      "created_at": 1786768927,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49307700"
     },
     {
       "id": "49310719",
@@ -17759,7 +17559,207 @@
       "created_at": 1794427529,
       "num_comments": 284,
       "hn_url": "https://news.ycombinator.com/item?id=50457939"
+    },
+    {
+      "id": "50467087",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "points": 3717,
+      "author": "lldb",
+      "created_at": 1794491549,
+      "num_comments": 3238,
+      "hn_url": "https://news.ycombinator.com/item?id=50467087"
+    },
+    {
+      "id": "50471731",
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "points": 1033,
+      "author": "dkpk",
+      "created_at": 1794507648,
+      "num_comments": 866,
+      "hn_url": "https://news.ycombinator.com/item?id=50471731"
+    },
+    {
+      "id": "50465829",
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "points": 965,
+      "author": "josephljohnston",
+      "created_at": 1794484001,
+      "num_comments": 878,
+      "hn_url": "https://news.ycombinator.com/item?id=50465829"
+    },
+    {
+      "id": "50472038",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "points": 756,
+      "author": "mbStavola",
+      "created_at": 1794508745,
+      "num_comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=50472038"
+    },
+    {
+      "id": "50470488",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "points": 600,
+      "author": "simpsoka",
+      "created_at": 1794502962,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50470488"
+    },
+    {
+      "id": "50471431",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "points": 546,
+      "author": "dvaplima",
+      "created_at": 1794506508,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=50471431"
+    },
+    {
+      "id": "50472260",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "points": 446,
+      "author": "jonbaer",
+      "created_at": 1794509521,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=50472260"
+    },
+    {
+      "id": "50468888",
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "points": 408,
+      "author": "mrashad74",
+      "created_at": 1794496990,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=50468888"
+    },
+    {
+      "id": "50471668",
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "points": 402,
+      "author": "nazgulsenpai",
+      "created_at": 1794507433,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50471668"
+    },
+    {
+      "id": "50463899",
+      "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "points": 390,
+      "author": "rdmuser",
+      "created_at": 1794466368,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=50463899"
+    },
+    {
+      "id": "50467132",
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+      "points": 375,
+      "author": "ksec",
+      "created_at": 1794491771,
+      "num_comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=50467132"
+    },
+    {
+      "id": "50465352",
+      "title": "Writing correct software is hard and math alone won\u2019t help us (2016)",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "points": 364,
+      "author": "AriFordsham",
+      "created_at": 1794479306,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=50465352"
+    },
+    {
+      "id": "50462177",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "points": 362,
+      "author": "soheilpro",
+      "created_at": 1794449471,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=50462177"
+    },
+    {
+      "id": "50473190",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "points": 335,
+      "author": "jbredeche",
+      "created_at": 1794513093,
+      "num_comments": 372,
+      "hn_url": "https://news.ycombinator.com/item?id=50473190"
+    },
+    {
+      "id": "50472490",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "points": 334,
+      "author": "cybermango",
+      "created_at": 1794510333,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=50472490"
+    },
+    {
+      "id": "50474883",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "points": 319,
+      "author": "firloop",
+      "created_at": 1794520571,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=50474883"
+    },
+    {
+      "id": "50469994",
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "points": 313,
+      "author": "CharlesW",
+      "created_at": 1794500953,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=50469994"
+    },
+    {
+      "id": "50471793",
+      "title": "Rust 1.100",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "points": 313,
+      "author": "thesuperbigfrog",
+      "created_at": 1794507846,
+      "num_comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=50471793"
+    },
+    {
+      "id": "50475713",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "points": 289,
+      "author": "sroussey",
+      "created_at": 1794524777,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=50475713"
+    },
+    {
+      "id": "50467618",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "points": 286,
+      "author": "klaussilveira",
+      "created_at": 1794493129,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=50467618"
     }
   ],
-  "last_updated": "2026-11-12T14:31:02.956733+00:00"
+  "last_updated": "2026-11-13T13:49:52.903449+00:00"
 }
