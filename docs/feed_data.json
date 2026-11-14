@@ -1,136 +1,6 @@
 {
   "posts": [
     {
-      "id": "49312845",
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "points": 465,
-      "author": "rzk",
-      "created_at": 1786817582,
-      "num_comments": 403,
-      "hn_url": "https://news.ycombinator.com/item?id=49312845"
-    },
-    {
-      "id": "49311651",
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "points": 399,
-      "author": "randycupertino",
-      "created_at": 1786809533,
-      "num_comments": 276,
-      "hn_url": "https://news.ycombinator.com/item?id=49311651"
-    },
-    {
-      "id": "49310682",
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "points": 245,
-      "author": "gmays",
-      "created_at": 1786802689,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49310682"
-    },
-    {
-      "id": "49314403",
-      "title": "Abdominal fat predicts heart disease risk better than BMI",
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "points": 221,
-      "author": "theanonymousone",
-      "created_at": 1786828474,
-      "num_comments": 168,
-      "hn_url": "https://news.ycombinator.com/item?id=49314403"
-    },
-    {
-      "id": "49310926",
-      "title": "A spectre is haunting Unicode",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "points": 205,
-      "author": "sensanaty",
-      "created_at": 1786804444,
-      "num_comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=49310926"
-    },
-    {
-      "id": "49313428",
-      "title": "Super El Ni\u00f1o Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-      "points": 166,
-      "author": "dgellow",
-      "created_at": 1786821651,
-      "num_comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=49313428"
-    },
-    {
-      "id": "49312008",
-      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-      "url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "points": 165,
-      "author": "jeffreyrogers",
-      "created_at": 1786811914,
-      "num_comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=49312008"
-    },
-    {
-      "id": "49314744",
-      "title": "Engineers will do anything to avoid learning from history",
-      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
-      "points": 151,
-      "author": "madrox",
-      "created_at": 1786831702,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=49314744"
-    },
-    {
-      "id": "49314235",
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "points": 135,
-      "author": "felixbraun",
-      "created_at": 1786827251,
-      "num_comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=49314235"
-    },
-    {
-      "id": "49313367",
-      "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "points": 126,
-      "author": "AnodicElegy",
-      "created_at": 1786821173,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=49313367"
-    },
-    {
-      "id": "49312165",
-      "title": "The Dutch community where people live on strips of land in a lake",
-      "url": "https://www.core77.com/posts/144869",
-      "points": 120,
-      "author": "Bowes-Lyon",
-      "created_at": 1786812827,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49312165"
-    },
-    {
-      "id": "49310719",
-      "title": "Cloudflare's AI Psychosis",
-      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
-      "points": 107,
-      "author": "gregzeng95",
-      "created_at": 1786802920,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=49310719"
-    },
-    {
-      "id": "49312413",
-      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
-      "points": 105,
-      "author": "blondie9x",
-      "created_at": 1786814486,
-      "num_comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=49312413"
-    },
-    {
       "id": "49319633",
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
@@ -139,16 +9,6 @@
       "created_at": 1786885090,
       "num_comments": 252,
       "hn_url": "https://news.ycombinator.com/item?id=49319633"
-    },
-    {
-      "id": "49319556",
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "points": 614,
-      "author": "tosh",
-      "created_at": 1786884501,
-      "num_comments": 248,
-      "hn_url": "https://news.ycombinator.com/item?id=49319556"
     },
     {
       "id": "49321717",
@@ -169,16 +29,6 @@
       "created_at": 1786902586,
       "num_comments": 106,
       "hn_url": "https://news.ycombinator.com/item?id=49322107"
-    },
-    {
-      "id": "49319389",
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-      "points": 383,
-      "author": "Alifatisk",
-      "created_at": 1786882940,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=49319389"
     },
     {
       "id": "49322695",
@@ -221,16 +71,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49320611"
     },
     {
-      "id": "49317760",
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "points": 239,
-      "author": "porridgeraisin",
-      "created_at": 1786865873,
-      "num_comments": 206,
-      "hn_url": "https://news.ycombinator.com/item?id=49317760"
-    },
-    {
       "id": "49320984",
       "title": "The weekend is 100 years old",
       "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
@@ -249,16 +89,6 @@
       "created_at": 1786914430,
       "num_comments": 84,
       "hn_url": "https://news.ycombinator.com/item?id=49323686"
-    },
-    {
-      "id": "49316271",
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "points": 183,
-      "author": "maxutility",
-      "created_at": 1786846373,
-      "num_comments": 130,
-      "hn_url": "https://news.ycombinator.com/item?id=49316271"
     },
     {
       "id": "49320856",
@@ -319,16 +149,6 @@
       "created_at": 1786910724,
       "num_comments": 53,
       "hn_url": "https://news.ycombinator.com/item?id=49323157"
-    },
-    {
-      "id": "49319573",
-      "title": "Banned Words List",
-      "url": "https://pen.org/banned-words-list/",
-      "points": 114,
-      "author": "structuredPizza",
-      "created_at": 1786884631,
-      "num_comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=49319573"
     },
     {
       "id": "49336573",
@@ -17759,7 +17579,207 @@
       "created_at": 1794493129,
       "num_comments": 107,
       "hn_url": "https://news.ycombinator.com/item?id=50467618"
+    },
+    {
+      "id": "50489641",
+      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "points": 1571,
+      "author": "zulln",
+      "created_at": 1794603953,
+      "num_comments": 1196,
+      "hn_url": "https://news.ycombinator.com/item?id=50489641"
+    },
+    {
+      "id": "50486482",
+      "title": "LibreOffice actually works 365 days a year",
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "points": 895,
+      "author": "mksaunders2",
+      "created_at": 1794589798,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=50486482"
+    },
+    {
+      "id": "50477231",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "points": 804,
+      "author": "lavendermon",
+      "created_at": 1794536184,
+      "num_comments": 667,
+      "hn_url": "https://news.ycombinator.com/item?id=50477231"
+    },
+    {
+      "id": "50481187",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "points": 489,
+      "author": "__vivek",
+      "created_at": 1794565093,
+      "num_comments": 386,
+      "hn_url": "https://news.ycombinator.com/item?id=50481187"
+    },
+    {
+      "id": "50482379",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "points": 479,
+      "author": "voxleone",
+      "created_at": 1794571824,
+      "num_comments": 330,
+      "hn_url": "https://news.ycombinator.com/item?id=50482379"
+    },
+    {
+      "id": "50478609",
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "points": 467,
+      "author": "player85",
+      "created_at": 1794546503,
+      "num_comments": 308,
+      "hn_url": "https://news.ycombinator.com/item?id=50478609"
+    },
+    {
+      "id": "50486748",
+      "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "points": 397,
+      "author": "bookofjoe",
+      "created_at": 1794591010,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=50486748"
+    },
+    {
+      "id": "50478515",
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "points": 367,
+      "author": "inatreecrown2",
+      "created_at": 1794545693,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=50478515"
+    },
+    {
+      "id": "50487864",
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "points": 360,
+      "author": "crescit_eundo",
+      "created_at": 1794595244,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=50487864"
+    },
+    {
+      "id": "50487522",
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "points": 354,
+      "author": "BobaFloutist",
+      "created_at": 1794593917,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=50487522"
+    },
+    {
+      "id": "50481870",
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "points": 344,
+      "author": "FinnLobsien",
+      "created_at": 1794568426,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=50481870"
+    },
+    {
+      "id": "50484658",
+      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "points": 341,
+      "author": "helloplanets",
+      "created_at": 1794582524,
+      "num_comments": 458,
+      "hn_url": "https://news.ycombinator.com/item?id=50484658"
+    },
+    {
+      "id": "50491423",
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "points": 306,
+      "author": "vinhnx",
+      "created_at": 1794611200,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=50491423"
+    },
+    {
+      "id": "50479098",
+      "title": "Global Microsoft Outage",
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "points": 290,
+      "author": "TechTechTech",
+      "created_at": 1794550703,
+      "num_comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=50479098"
+    },
+    {
+      "id": "50490593",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "points": 274,
+      "author": "mmaunder",
+      "created_at": 1794607464,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=50490593"
+    },
+    {
+      "id": "50487185",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "points": 269,
+      "author": "halcdev",
+      "created_at": 1794592528,
+      "num_comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=50487185"
+    },
+    {
+      "id": "50483480",
+      "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "points": 268,
+      "author": "Noaidi",
+      "created_at": 1794577887,
+      "num_comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=50483480"
+    },
+    {
+      "id": "50477649",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "points": 260,
+      "author": "sjdh76",
+      "created_at": 1794539288,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=50477649"
+    },
+    {
+      "id": "50488325",
+      "title": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "points": 242,
+      "author": "simonebrunozzi",
+      "created_at": 1794597242,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=50488325"
+    },
+    {
+      "id": "50487228",
+      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "points": 222,
+      "author": "juscha1",
+      "created_at": 1794592717,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=50487228"
     }
   ],
-  "last_updated": "2026-11-13T13:49:52.903449+00:00"
+  "last_updated": "2026-11-14T12:53:16.728242+00:00"
 }
