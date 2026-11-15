@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "49319633",
-      "title": "Firefox for iOS now has a native adblocker",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "points": 621,
-      "author": "pentagrama",
-      "created_at": 1786885090,
-      "num_comments": 252,
-      "hn_url": "https://news.ycombinator.com/item?id=49319633"
-    },
-    {
-      "id": "49321717",
-      "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "points": 452,
-      "author": "Narishma",
-      "created_at": 1786899667,
-      "num_comments": 234,
-      "hn_url": "https://news.ycombinator.com/item?id=49321717"
-    },
-    {
-      "id": "49322107",
-      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "url": "https://news.ycombinator.com/item?id=49322107",
-      "points": 408,
-      "author": "stagas",
-      "created_at": 1786902586,
-      "num_comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=49322107"
-    },
-    {
-      "id": "49322695",
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "points": 302,
-      "author": "hruvhwe",
-      "created_at": 1786907066,
-      "num_comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=49322695"
-    },
-    {
-      "id": "49324985",
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "points": 296,
-      "author": "bilsbie",
-      "created_at": 1786923909,
-      "num_comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=49324985"
-    },
-    {
-      "id": "49323381",
-      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "points": 286,
-      "author": "zacharyozer",
-      "created_at": 1786912276,
-      "num_comments": 194,
-      "hn_url": "https://news.ycombinator.com/item?id=49323381"
-    },
-    {
-      "id": "49320611",
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "points": 265,
-      "author": "mlenhard",
-      "created_at": 1786891495,
-      "num_comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=49320611"
-    },
-    {
-      "id": "49320984",
-      "title": "The weekend is 100 years old",
-      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-      "points": 191,
-      "author": "lentil_soup",
-      "created_at": 1786894215,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=49320984"
-    },
-    {
-      "id": "49323686",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "points": 185,
-      "author": "root-parent",
-      "created_at": 1786914430,
-      "num_comments": 84,
-      "hn_url": "https://news.ycombinator.com/item?id=49323686"
-    },
-    {
-      "id": "49320856",
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "points": 182,
-      "author": "toomuchtodo",
-      "created_at": 1786893366,
-      "num_comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=49320856"
-    },
-    {
-      "id": "49324087",
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "points": 175,
-      "author": "ropbear",
-      "created_at": 1786917223,
-      "num_comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=49324087"
-    },
-    {
-      "id": "49321353",
-      "title": "NIH is ending a key grant for budding clinical researchers",
-      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "points": 149,
-      "author": "brandonb",
-      "created_at": 1786896895,
-      "num_comments": 74,
-      "hn_url": "https://news.ycombinator.com/item?id=49321353"
-    },
-    {
-      "id": "49322573",
-      "title": "Protobuf has LSP support. You're welcome",
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "points": 139,
-      "author": "theanonymousone",
-      "created_at": 1786906107,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=49322573"
-    },
-    {
-      "id": "49319727",
-      "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
-      "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
-      "points": 122,
-      "author": "thunderbong",
-      "created_at": 1786885781,
-      "num_comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49319727"
-    },
-    {
-      "id": "49323157",
-      "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
-      "url": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-      "points": 121,
-      "author": "Jimmc414",
-      "created_at": 1786910724,
-      "num_comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=49323157"
-    },
-    {
       "id": "49336573",
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
@@ -261,16 +111,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49334544"
     },
     {
-      "id": "49329575",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "points": 327,
-      "author": "plurby",
-      "created_at": 1786968582,
-      "num_comments": 158,
-      "hn_url": "https://news.ycombinator.com/item?id=49329575"
-    },
-    {
       "id": "49330632",
       "title": "GitHub down again? no PR access",
       "url": "https://news.ycombinator.com/item?id=49330632",
@@ -291,16 +131,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49331220"
     },
     {
-      "id": "49325159",
-      "title": "The federal keyword lists that canceled billions in research funding",
-      "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-      "points": 278,
-      "author": "walrus01",
-      "created_at": 1786925650,
-      "num_comments": 180,
-      "hn_url": "https://news.ycombinator.com/item?id=49325159"
-    },
-    {
       "id": "49338328",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
@@ -311,26 +141,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49338328"
     },
     {
-      "id": "49326816",
-      "title": "Linear algebra done right",
-      "url": "https://linear.axler.net/",
-      "points": 261,
-      "author": "the-mitr",
-      "created_at": 1786944094,
-      "num_comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=49326816"
-    },
-    {
-      "id": "49326156",
-      "title": "GIMP Development Update",
-      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "points": 257,
-      "author": "lumpa",
-      "created_at": 1786936127,
-      "num_comments": 241,
-      "hn_url": "https://news.ycombinator.com/item?id=49326156"
-    },
-    {
       "id": "49331222",
       "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
       "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
@@ -339,16 +149,6 @@
       "created_at": 1786975679,
       "num_comments": 93,
       "hn_url": "https://news.ycombinator.com/item?id=49331222"
-    },
-    {
-      "id": "49325789",
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "points": 239,
-      "author": "jacquesm",
-      "created_at": 1786931996,
-      "num_comments": 509,
-      "hn_url": "https://news.ycombinator.com/item?id=49325789"
     },
     {
       "id": "49345263",
@@ -17779,7 +17579,207 @@
       "created_at": 1794592717,
       "num_comments": 71,
       "hn_url": "https://news.ycombinator.com/item?id=50487228"
+    },
+    {
+      "id": "50500963",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "points": 1351,
+      "author": "ls612",
+      "created_at": 1794691344,
+      "num_comments": 907,
+      "hn_url": "https://news.ycombinator.com/item?id=50500963"
+    },
+    {
+      "id": "50493251",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "points": 1078,
+      "author": "speckx",
+      "created_at": 1794624779,
+      "num_comments": 642,
+      "hn_url": "https://news.ycombinator.com/item?id=50493251"
+    },
+    {
+      "id": "50499017",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "points": 879,
+      "author": "armcat",
+      "created_at": 1794678190,
+      "num_comments": 338,
+      "hn_url": "https://news.ycombinator.com/item?id=50499017"
+    },
+    {
+      "id": "50496602",
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "points": 569,
+      "author": "gslin",
+      "created_at": 1794660345,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=50496602"
+    },
+    {
+      "id": "50496976",
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "points": 513,
+      "author": "mrkn1",
+      "created_at": 1794663808,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=50496976"
+    },
+    {
+      "id": "50493904",
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "points": 487,
+      "author": "maximilianburke",
+      "created_at": 1794630210,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50493904"
+    },
+    {
+      "id": "50501631",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "points": 429,
+      "author": "madihaa",
+      "created_at": 1794695190,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=50501631"
+    },
+    {
+      "id": "50493062",
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "points": 410,
+      "author": "cobychapple",
+      "created_at": 1794623309,
+      "num_comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=50493062"
+    },
+    {
+      "id": "50497009",
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "points": 385,
+      "author": "giuliomagnifico",
+      "created_at": 1794664086,
+      "num_comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=50497009"
+    },
+    {
+      "id": "50499038",
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "points": 352,
+      "author": "umerf",
+      "created_at": 1794678319,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=50499038"
+    },
+    {
+      "id": "50492456",
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "points": 318,
+      "author": "kaycebasques",
+      "created_at": 1794618622,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=50492456"
+    },
+    {
+      "id": "50496051",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "points": 274,
+      "author": "hacb",
+      "created_at": 1794654797,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=50496051"
+    },
+    {
+      "id": "50499723",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "points": 256,
+      "author": "gnabgib",
+      "created_at": 1794682607,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=50499723"
+    },
+    {
+      "id": "50497892",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "points": 255,
+      "author": "rbanffy",
+      "created_at": 1794670852,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=50497892"
+    },
+    {
+      "id": "50491980",
+      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "points": 252,
+      "author": "Retro_Dev",
+      "created_at": 1794614764,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=50491980"
+    },
+    {
+      "id": "50497589",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "points": 247,
+      "author": "VaibhaavTiwari",
+      "created_at": 1794668655,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=50497589"
+    },
+    {
+      "id": "50501594",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "points": 243,
+      "author": "Skyfall106",
+      "created_at": 1794694969,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=50501594"
+    },
+    {
+      "id": "50492993",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "points": 217,
+      "author": "LopRabbit",
+      "created_at": 1794622896,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=50492993"
+    },
+    {
+      "id": "50492601",
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+      "points": 209,
+      "author": "d3nit",
+      "created_at": 1794619801,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50492601"
+    },
+    {
+      "id": "50496811",
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "points": 206,
+      "author": "acossta",
+      "created_at": 1794662443,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=50496811"
     }
   ],
-  "last_updated": "2026-11-14T12:53:16.728242+00:00"
+  "last_updated": "2026-11-15T13:20:58.145438+00:00"
 }
