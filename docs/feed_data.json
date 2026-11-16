@@ -1,186 +1,6 @@
 {
   "posts": [
     {
-      "id": "49336573",
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "points": 762,
-      "author": "mooreds",
-      "created_at": 1786996035,
-      "num_comments": 490,
-      "hn_url": "https://news.ycombinator.com/item?id=49336573"
-    },
-    {
-      "id": "49330684",
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "points": 698,
-      "author": "kevcampb",
-      "created_at": 1786974055,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=49330684"
-    },
-    {
-      "id": "49330781",
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "points": 597,
-      "author": "ibotty",
-      "created_at": 1786974387,
-      "num_comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=49330781"
-    },
-    {
-      "id": "49331033",
-      "title": "Ask HN: Alternatives to GitHub",
-      "url": "https://news.ycombinator.com/item?id=49331033",
-      "points": 562,
-      "author": "dhruv3006",
-      "created_at": 1786975157,
-      "num_comments": 355,
-      "hn_url": "https://news.ycombinator.com/item?id=49331033"
-    },
-    {
-      "id": "49330597",
-      "title": "Incident with Github.com [resolved]",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "points": 538,
-      "author": "SpyCoder77",
-      "created_at": 1786973706,
-      "num_comments": 926,
-      "hn_url": "https://news.ycombinator.com/item?id=49330597"
-    },
-    {
-      "id": "49338459",
-      "title": "How Bluesky draws its logo on screenshots",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "points": 397,
-      "author": "gavide",
-      "created_at": 1787005240,
-      "num_comments": 269,
-      "hn_url": "https://news.ycombinator.com/item?id=49338459"
-    },
-    {
-      "id": "49332981",
-      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "points": 395,
-      "author": "karakoram",
-      "created_at": 1786981797,
-      "num_comments": 531,
-      "hn_url": "https://news.ycombinator.com/item?id=49332981"
-    },
-    {
-      "id": "49331423",
-      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "points": 352,
-      "author": "galnagli",
-      "created_at": 1786976318,
-      "num_comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=49331423"
-    },
-    {
-      "id": "49337392",
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "points": 334,
-      "author": "DeepLogin",
-      "created_at": 1786999570,
-      "num_comments": 210,
-      "hn_url": "https://news.ycombinator.com/item?id=49337392"
-    },
-    {
-      "id": "49337602",
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "points": 332,
-      "author": "Topfi",
-      "created_at": 1787000598,
-      "num_comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=49337602"
-    },
-    {
-      "id": "49334544",
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "points": 332,
-      "author": "anana_",
-      "created_at": 1786987517,
-      "num_comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=49334544"
-    },
-    {
-      "id": "49330632",
-      "title": "GitHub down again? no PR access",
-      "url": "https://news.ycombinator.com/item?id=49330632",
-      "points": 288,
-      "author": "yodon",
-      "created_at": 1786973848,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=49330632"
-    },
-    {
-      "id": "49331220",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "points": 281,
-      "author": "ColinWright",
-      "created_at": 1786975676,
-      "num_comments": 165,
-      "hn_url": "https://news.ycombinator.com/item?id=49331220"
-    },
-    {
-      "id": "49338328",
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "points": 274,
-      "author": "shdon",
-      "created_at": 1787004374,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=49338328"
-    },
-    {
-      "id": "49331222",
-      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-      "points": 244,
-      "author": "nyku",
-      "created_at": 1786975679,
-      "num_comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=49331222"
-    },
-    {
-      "id": "49345263",
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "points": 1104,
-      "author": "herbertl",
-      "created_at": 1787059358,
-      "num_comments": 610,
-      "hn_url": "https://news.ycombinator.com/item?id=49345263"
-    },
-    {
-      "id": "49343559",
-      "title": "Google has acquired the data of failed US airline Spirit",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "points": 572,
-      "author": "pseudolus",
-      "created_at": 1787048008,
-      "num_comments": 395,
-      "hn_url": "https://news.ycombinator.com/item?id=49343559"
-    },
-    {
-      "id": "49342719",
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "points": 518,
-      "author": "flaburgan",
-      "created_at": 1787039510,
-      "num_comments": 287,
-      "hn_url": "https://news.ycombinator.com/item?id=49342719"
-    },
-    {
       "id": "49351324",
       "title": "Beware Management Consultants",
       "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
@@ -189,36 +9,6 @@
       "created_at": 1787081391,
       "num_comments": 126,
       "hn_url": "https://news.ycombinator.com/item?id=49351324"
-    },
-    {
-      "id": "49344825",
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "points": 423,
-      "author": "otherayden",
-      "created_at": 1787057034,
-      "num_comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=49344825"
-    },
-    {
-      "id": "49345220",
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "points": 397,
-      "author": "jp_sc",
-      "created_at": 1787059120,
-      "num_comments": 266,
-      "hn_url": "https://news.ycombinator.com/item?id=49345220"
-    },
-    {
-      "id": "49344811",
-      "title": "Fairphone is now officially available in the United States",
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "points": 365,
-      "author": "Vinnl",
-      "created_at": 1787056973,
-      "num_comments": 179,
-      "hn_url": "https://news.ycombinator.com/item?id=49344811"
     },
     {
       "id": "49349984",
@@ -241,16 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49349147"
     },
     {
-      "id": "49345843",
-      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-      "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-      "points": 270,
-      "author": "zeristor",
-      "created_at": 1787062010,
-      "num_comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=49345843"
-    },
-    {
       "id": "49348751",
       "title": "Claude Code May\u2013August 2026 weekly limits promotion",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
@@ -269,36 +49,6 @@
       "created_at": 1787073088,
       "num_comments": 167,
       "hn_url": "https://news.ycombinator.com/item?id=49348912"
-    },
-    {
-      "id": "49340013",
-      "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
-      "url": "https://news.ycombinator.com/item?id=49340013",
-      "points": 255,
-      "author": "ramesh31",
-      "created_at": 1787016528,
-      "num_comments": 165,
-      "hn_url": "https://news.ycombinator.com/item?id=49340013"
-    },
-    {
-      "id": "49344654",
-      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-      "points": 249,
-      "author": "DeepLogin",
-      "created_at": 1787055835,
-      "num_comments": 166,
-      "hn_url": "https://news.ycombinator.com/item?id=49344654"
-    },
-    {
-      "id": "49342530",
-      "title": "Rethinking Database Programming",
-      "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "points": 236,
-      "author": "honungsburk",
-      "created_at": 1787038107,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=49342530"
     },
     {
       "id": "49353221",
@@ -329,26 +79,6 @@
       "created_at": 1787076441,
       "num_comments": 31,
       "hn_url": "https://news.ycombinator.com/item?id=49349898"
-    },
-    {
-      "id": "49342472",
-      "title": "Finger: the 1971 social network that never died",
-      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "points": 176,
-      "author": "andros",
-      "created_at": 1787037695,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49342472"
-    },
-    {
-      "id": "49345476",
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "points": 171,
-      "author": "jeroenjanssens",
-      "created_at": 1787060303,
-      "num_comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=49345476"
     },
     {
       "id": "49355606",
@@ -17779,7 +17509,207 @@
       "created_at": 1794662443,
       "num_comments": 49,
       "hn_url": "https://news.ycombinator.com/item?id=50496811"
+    },
+    {
+      "id": "50507303",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "points": 1197,
+      "author": "jcubic",
+      "created_at": 1794754018,
+      "num_comments": 639,
+      "hn_url": "https://news.ycombinator.com/item?id=50507303"
+    },
+    {
+      "id": "50509411",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "points": 590,
+      "author": "DeepLogin",
+      "created_at": 1794767770,
+      "num_comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=50509411"
+    },
+    {
+      "id": "50502988",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "points": 519,
+      "author": "ybathaee",
+      "created_at": 1794705516,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=50502988"
+    },
+    {
+      "id": "50506180",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "points": 513,
+      "author": "JumpCrisscross",
+      "created_at": 1794742851,
+      "num_comments": 245,
+      "hn_url": "https://news.ycombinator.com/item?id=50506180"
+    },
+    {
+      "id": "50506719",
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "points": 492,
+      "author": "MacAnorak",
+      "created_at": 1794748522,
+      "num_comments": 277,
+      "hn_url": "https://news.ycombinator.com/item?id=50506719"
+    },
+    {
+      "id": "50509837",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "points": 405,
+      "author": "bcye",
+      "created_at": 1794770782,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=50509837"
+    },
+    {
+      "id": "50509972",
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "points": 369,
+      "author": "coinfused",
+      "created_at": 1794771733,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=50509972"
+    },
+    {
+      "id": "50503255",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "points": 351,
+      "author": "nobody9999",
+      "created_at": 1794708054,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=50503255"
+    },
+    {
+      "id": "50512235",
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "points": 350,
+      "author": "zdw",
+      "created_at": 1794786955,
+      "num_comments": 433,
+      "hn_url": "https://news.ycombinator.com/item?id=50512235"
+    },
+    {
+      "id": "50511395",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "points": 331,
+      "author": "hspeiser",
+      "created_at": 1794780703,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=50511395"
+    },
+    {
+      "id": "50509023",
+      "title": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "points": 269,
+      "author": "gumby",
+      "created_at": 1794765211,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=50509023"
+    },
+    {
+      "id": "50509308",
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "points": 266,
+      "author": "nharada",
+      "created_at": 1794767001,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=50509308"
+    },
+    {
+      "id": "50505271",
+      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "points": 243,
+      "author": "Skyfall106",
+      "created_at": 1794733603,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=50505271"
+    },
+    {
+      "id": "50506894",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "points": 239,
+      "author": "ksec",
+      "created_at": 1794750256,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=50506894"
+    },
+    {
+      "id": "50506376",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "points": 239,
+      "author": "vismit2000",
+      "created_at": 1794744846,
+      "num_comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=50506376"
+    },
+    {
+      "id": "50507553",
+      "title": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "points": 224,
+      "author": "nyc111",
+      "created_at": 1794756081,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=50507553"
+    },
+    {
+      "id": "50503465",
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "points": 215,
+      "author": "jordigh",
+      "created_at": 1794710485,
+      "num_comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=50503465"
+    },
+    {
+      "id": "50510296",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "points": 194,
+      "author": "ranger_danger",
+      "created_at": 1794774005,
+      "num_comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50510296"
+    },
+    {
+      "id": "50511806",
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "points": 179,
+      "author": "CharlesW",
+      "created_at": 1794783611,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=50511806"
+    },
+    {
+      "id": "50510042",
+      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+      "url": "https://news.ycombinator.com/item?id=50510042",
+      "points": 173,
+      "author": "snirgbs",
+      "created_at": 1794772168,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=50510042"
     }
   ],
-  "last_updated": "2026-11-15T13:20:58.145438+00:00"
+  "last_updated": "2026-11-16T14:36:11.648075+00:00"
 }
