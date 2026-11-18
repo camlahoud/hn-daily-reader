@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:59:14 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[394 pts] Microsoft's ONNX Runtime has disappeared from GitHub</title>
+      <link>https://github.com/microsoft/onnxruntime</link>
+      <description>&lt;p&gt;&lt;strong&gt;394 points&lt;/strong&gt; by nvader | &lt;strong&gt;81 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50539610&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50539610</guid>
+      <pubDate>Tue, 17 Nov 2026 23:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[807 pts] Quad9's withdrawal from France: A canary in the coal mine</title>
+      <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
+      <description>&lt;p&gt;&lt;strong&gt;807 points&lt;/strong&gt; by subset | &lt;strong&gt;365 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538994&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538994</guid>
+      <pubDate>Tue, 17 Nov 2026 22:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[258 pts] Harvard researchers find AI coding agents shifted the bottleneck to code review</title>
+      <link>https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/</link>
+      <description>&lt;p&gt;&lt;strong&gt;258 points&lt;/strong&gt; by judahmeek | &lt;strong&gt;348 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538303&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538303</guid>
+      <pubDate>Tue, 17 Nov 2026 21:16:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1068 pts] Java4Shell: RCE in OpenJDK when processing Base64</title>
+      <link>https://calif.io/java4shell/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1068 points&lt;/strong&gt; by werrett | &lt;strong&gt;282 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[351 pts] jQuery 4.1.0</title>
+      <link>https://github.com/jquery/jquery/releases/tag/4.1.0</link>
+      <description>&lt;p&gt;&lt;strong&gt;351 points&lt;/strong&gt; by petecooper | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50537156&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50537156</guid>
+      <pubDate>Tue, 17 Nov 2026 19:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[375 pts] 350 years ago, Ole Rømer discovered that light has a finite speed</title>
+      <link>https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969</link>
+      <description>&lt;p&gt;&lt;strong&gt;375 points&lt;/strong&gt; by dxs | &lt;strong&gt;122 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50536813&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50536813</guid>
+      <pubDate>Tue, 17 Nov 2026 19:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[346 pts] Solid 2.0</title>
+      <link>https://www.solidjs.com/blog/solid-2-0-the-long-hold/</link>
+      <description>&lt;p&gt;&lt;strong&gt;346 points&lt;/strong&gt; by pier25 | &lt;strong&gt;110 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50536387&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50536387</guid>
+      <pubDate>Tue, 17 Nov 2026 18:56:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[437 pts] Phrack 73</title>
+      <link>https://phrack.org/issues/73/introduction_md</link>
+      <description>&lt;p&gt;&lt;strong&gt;437 points&lt;/strong&gt; by notmine1337 | &lt;strong&gt;60 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535992&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535992</guid>
+      <pubDate>Tue, 17 Nov 2026 18:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[393 pts] MAI Code 2 and Code 2 Flash</title>
+      <link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</link>
+      <description>&lt;p&gt;&lt;strong&gt;393 points&lt;/strong&gt; by lemonish97 | &lt;strong&gt;157 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535885&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535885</guid>
+      <pubDate>Tue, 17 Nov 2026 18:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[703 pts] Apple Services Down</title>
+      <link>https://developer.apple.com/system-status/</link>
+      <description>&lt;p&gt;&lt;strong&gt;703 points&lt;/strong&gt; by willy_k | &lt;strong&gt;393 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535238&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535238</guid>
+      <pubDate>Tue, 17 Nov 2026 17:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1319 pts] GPT‑6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1319 points&lt;/strong&gt; by jasondavies | &lt;strong&gt;823 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535230&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535230</guid>
+      <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[629 pts] Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
+      <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
+      <description>&lt;p&gt;&lt;strong&gt;629 points&lt;/strong&gt; by louiereederson | &lt;strong&gt;274 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
+      <pubDate>Tue, 17 Nov 2026 17:12:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[334 pts] NSA Internal Network Down</title>
+      <link>https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/</link>
+      <description>&lt;p&gt;&lt;strong&gt;334 points&lt;/strong&gt; by nodoodles | &lt;strong&gt;4 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50533089&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50533089</guid>
+      <pubDate>Tue, 17 Nov 2026 15:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[643 pts] Highly classified US national security communications network goes down</title>
+      <link>https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</link>
+      <description>&lt;p&gt;&lt;strong&gt;643 points&lt;/strong&gt; by monkeydust | &lt;strong&gt;718 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532849&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532849</guid>
+      <pubDate>Tue, 17 Nov 2026 15:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[407 pts] What is the best harness for each model?</title>
+      <link>https://runta.com/blog/introducing-frontierharness-eval-v1-1/</link>
+      <description>&lt;p&gt;&lt;strong&gt;407 points&lt;/strong&gt; by Edward40 | &lt;strong&gt;129 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532191&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532191</guid>
+      <pubDate>Tue, 17 Nov 2026 14:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[351 pts] We don't need more apps, we need better open source</title>
+      <link>https://jordankrueger.com/blog/better-open-source-not-more-apps/</link>
+      <description>&lt;p&gt;&lt;strong&gt;351 points&lt;/strong&gt; by pandemicsoul | &lt;strong&gt;252 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532086&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532086</guid>
+      <pubDate>Tue, 17 Nov 2026 14:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1263 pts] New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</title>
+      <link>https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;1263 points&lt;/strong&gt; by donohoe | &lt;strong&gt;628 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50530163</guid>
+      <pubDate>Tue, 17 Nov 2026 11:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[288 pts] How the Claude Code team thinks about verification</title>
+      <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
+      <description>&lt;p&gt;&lt;strong&gt;288 points&lt;/strong&gt; by craigmart | &lt;strong&gt;229 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50529612&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50529612</guid>
+      <pubDate>Tue, 17 Nov 2026 10:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[248 pts] If an App Asks for Full Disk Access or System and App Protection Override</title>
+      <link>https://support.apple.com/en-us/149699</link>
+      <description>&lt;p&gt;&lt;strong&gt;248 points&lt;/strong&gt; by jshier | &lt;strong&gt;128 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50526560&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50526560</guid>
+      <pubDate>Tue, 17 Nov 2026 02:17:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[284 pts] Why 3dfx 1 cards had such a washed out color output?</title>
+      <link>https://twitter.com/id_aa_carmack/status/2122478083319992513</link>
+      <description>&lt;p&gt;&lt;strong&gt;284 points&lt;/strong&gt; by mfiguiere | &lt;strong&gt;110 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50525575&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50525575</guid>
+      <pubDate>Tue, 17 Nov 2026 00:16:24 +0000</pubDate>
+    </item>
     <item>
       <title>[514 pts] Optimizely compromised, served malware on Zoom, GitLab</title>
       <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
@@ -14030,150 +14190,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49375996&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=49375996</guid>
       <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[239 pts] Bun 1.4</title>
-      <link>https://bun.com/blog/bun-v1.4</link>
-      <description>&lt;p&gt;&lt;strong&gt;239 points&lt;/strong&gt; by meetpateltech | &lt;strong&gt;140 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49374797&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49374797</guid>
-      <pubDate>Thu, 20 Aug 2026 14:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[211 pts] Stwipe Acquires OpenWouter</title>
-      <link>https://stwipe.com/</link>
-      <description>&lt;p&gt;&lt;strong&gt;211 points&lt;/strong&gt; by eatonphil | &lt;strong&gt;26 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49374738&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49374738</guid>
-      <pubDate>Thu, 20 Aug 2026 14:04:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[146 pts] DiffusionGemma Technical Report</title>
-      <link>https://arxiv.org/abs/2608.00146</link>
-      <description>&lt;p&gt;&lt;strong&gt;146 points&lt;/strong&gt; by gmays | &lt;strong&gt;35 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49374287&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49374287</guid>
-      <pubDate>Thu, 20 Aug 2026 13:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[461 pts] Malicious Rust crate Arrayref runs a build-time payload</title>
-      <link>https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</link>
-      <description>&lt;p&gt;&lt;strong&gt;461 points&lt;/strong&gt; by abhisek | &lt;strong&gt;394 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49374269&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49374269</guid>
-      <pubDate>Thu, 20 Aug 2026 13:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[542 pts] Show HN: I trained a 125M model to autocomplete piano on-device</title>
-      <link>https://simedw.com/2026/08/20/midi-autocomplete/</link>
-      <description>&lt;p&gt;&lt;strong&gt;542 points&lt;/strong&gt; by simedw | &lt;strong&gt;113 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49373456&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49373456</guid>
-      <pubDate>Thu, 20 Aug 2026 12:04:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[942 pts] AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</title>
-      <link>https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;942 points&lt;/strong&gt; by emctech | &lt;strong&gt;297 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49372583&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49372583</guid>
-      <pubDate>Thu, 20 Aug 2026 10:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[1006 pts] Don't paste the AI, please</title>
-      <link>https://dontpastetheai.com/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1006 points&lt;/strong&gt; by pjerem | &lt;strong&gt;554 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49371857&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49371857</guid>
-      <pubDate>Thu, 20 Aug 2026 08:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[342 pts] Windows brings out the Rorschach test in everyone (2003)</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</link>
-      <description>&lt;p&gt;&lt;strong&gt;342 points&lt;/strong&gt; by luu | &lt;strong&gt;133 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49371006&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49371006</guid>
-      <pubDate>Thu, 20 Aug 2026 06:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[337 pts] Turns are Better than Radians (2022)</title>
-      <link>https://www.computerenhance.com/p/turns-are-better-than-radians</link>
-      <description>&lt;p&gt;&lt;strong&gt;337 points&lt;/strong&gt; by mayoff | &lt;strong&gt;200 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49369408&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49369408</guid>
-      <pubDate>Thu, 20 Aug 2026 01:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[387 pts] CIA funding helped keep NeXT afloat in the 80s</title>
-      <link>https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&amp;reflink=desktopwebshare_permalink</link>
-      <description>&lt;p&gt;&lt;strong&gt;387 points&lt;/strong&gt; by EwanG | &lt;strong&gt;232 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49368886&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49368886</guid>
-      <pubDate>Thu, 20 Aug 2026 00:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[203 pts] Feature Request: Support AGENTS.md</title>
-      <link>https://github.com/anthropics/claude-code/issues/6235</link>
-      <description>&lt;p&gt;&lt;strong&gt;203 points&lt;/strong&gt; by fg137 | &lt;strong&gt;114 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49367350&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49367350</guid>
-      <pubDate>Wed, 19 Aug 2026 21:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[230 pts] Unsloth Dynamic 3.0 GGUFs</title>
-      <link>https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</link>
-      <description>&lt;p&gt;&lt;strong&gt;230 points&lt;/strong&gt; by jonesy827 | &lt;strong&gt;89 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49365443&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49365443</guid>
-      <pubDate>Wed, 19 Aug 2026 18:36:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[573 pts] Go 1.27</title>
-      <link>https://go.dev/blog/go1.27</link>
-      <description>&lt;p&gt;&lt;strong&gt;573 points&lt;/strong&gt; by database64128 | &lt;strong&gt;144 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49365405&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49365405</guid>
-      <pubDate>Wed, 19 Aug 2026 18:33:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[428 pts] Google has stopped pushing Git tags for some Android source code</title>
-      <link>https://grapheneos.social/@GrapheneOS/117057099753905023</link>
-      <description>&lt;p&gt;&lt;strong&gt;428 points&lt;/strong&gt; by Animux | &lt;strong&gt;173 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49364745&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49364745</guid>
-      <pubDate>Wed, 19 Aug 2026 17:47:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[784 pts] OpenRouter is joining Stripe</title>
-      <link>https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/</link>
-      <description>&lt;p&gt;&lt;strong&gt;784 points&lt;/strong&gt; by rvz | &lt;strong&gt;396 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49364559&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49364559</guid>
-      <pubDate>Wed, 19 Aug 2026 17:32:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[426 pts] Civic Hygiene – avoid building technologies that could be used by a police state (2013)</title>
-      <link>https://shkspr.mobi/blog/2013/11/civic-hygiene/</link>
-      <description>&lt;p&gt;&lt;strong&gt;426 points&lt;/strong&gt; by felineflock | &lt;strong&gt;307 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49363433&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49363433</guid>
-      <pubDate>Wed, 19 Aug 2026 16:07:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[554 pts] Remote workers report the highest well-being in study of 7,700 employees</title>
-      <link>https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees</link>
-      <description>&lt;p&gt;&lt;strong&gt;554 points&lt;/strong&gt; by downbad_ | &lt;strong&gt;281 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49362934&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49362934</guid>
-      <pubDate>Wed, 19 Aug 2026 15:32:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[332 pts] Casio F-B100W-1A</title>
-      <link>https://www.casio.com/uk/watches/casio/product.F-B100W-1A/</link>
-      <description>&lt;p&gt;&lt;strong&gt;332 points&lt;/strong&gt; by __fst__ | &lt;strong&gt;276 comments&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=49362887&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49362887</guid>
-      <pubDate>Wed, 19 Aug 2026 15:28:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

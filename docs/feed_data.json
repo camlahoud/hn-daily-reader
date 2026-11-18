@@ -1,86 +1,6 @@
 {
   "posts": [
     {
-      "id": "49364559",
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "points": 784,
-      "author": "rvz",
-      "created_at": 1787160758,
-      "num_comments": 396,
-      "hn_url": "https://news.ycombinator.com/item?id=49364559"
-    },
-    {
-      "id": "49365405",
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "points": 573,
-      "author": "database64128",
-      "created_at": 1787164429,
-      "num_comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=49365405"
-    },
-    {
-      "id": "49362934",
-      "title": "Remote workers report the highest well-being in study of 7,700 employees",
-      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-      "points": 554,
-      "author": "downbad_",
-      "created_at": 1787153528,
-      "num_comments": 281,
-      "hn_url": "https://news.ycombinator.com/item?id=49362934"
-    },
-    {
-      "id": "49364745",
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "points": 428,
-      "author": "Animux",
-      "created_at": 1787161649,
-      "num_comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=49364745"
-    },
-    {
-      "id": "49363433",
-      "title": "Civic Hygiene \u2013 avoid building technologies that could be used by a police state (2013)",
-      "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
-      "points": 426,
-      "author": "felineflock",
-      "created_at": 1787155634,
-      "num_comments": 307,
-      "hn_url": "https://news.ycombinator.com/item?id=49363433"
-    },
-    {
-      "id": "49362887",
-      "title": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "points": 332,
-      "author": "__fst__",
-      "created_at": 1787153281,
-      "num_comments": 276,
-      "hn_url": "https://news.ycombinator.com/item?id=49362887"
-    },
-    {
-      "id": "49365443",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "points": 230,
-      "author": "jonesy827",
-      "created_at": 1787164605,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=49365443"
-    },
-    {
-      "id": "49367350",
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "points": 203,
-      "author": "fg137",
-      "created_at": 1787174390,
-      "num_comments": 114,
-      "hn_url": "https://news.ycombinator.com/item?id=49367350"
-    },
-    {
       "id": "49379550",
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
@@ -91,46 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49379550"
     },
     {
-      "id": "49371857",
-      "title": "Don't paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "points": 1006,
-      "author": "pjerem",
-      "created_at": 1787214044,
-      "num_comments": 554,
-      "hn_url": "https://news.ycombinator.com/item?id=49371857"
-    },
-    {
-      "id": "49372583",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "points": 942,
-      "author": "emctech",
-      "created_at": 1787220532,
-      "num_comments": 297,
-      "hn_url": "https://news.ycombinator.com/item?id=49372583"
-    },
-    {
-      "id": "49373456",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "points": 542,
-      "author": "simedw",
-      "created_at": 1787227478,
-      "num_comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=49373456"
-    },
-    {
-      "id": "49374269",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "points": 461,
-      "author": "abhisek",
-      "created_at": 1787232192,
-      "num_comments": 394,
-      "hn_url": "https://news.ycombinator.com/item?id=49374269"
-    },
-    {
       "id": "49378957",
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
@@ -139,36 +19,6 @@
       "created_at": 1787253744,
       "num_comments": 511,
       "hn_url": "https://news.ycombinator.com/item?id=49378957"
-    },
-    {
-      "id": "49368886",
-      "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "points": 387,
-      "author": "EwanG",
-      "created_at": 1787184901,
-      "num_comments": 232,
-      "hn_url": "https://news.ycombinator.com/item?id=49368886"
-    },
-    {
-      "id": "49371006",
-      "title": "Windows brings out the Rorschach test in everyone (2003)",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "points": 342,
-      "author": "luu",
-      "created_at": 1787206600,
-      "num_comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=49371006"
-    },
-    {
-      "id": "49369408",
-      "title": "Turns are Better than Radians (2022)",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "points": 337,
-      "author": "mayoff",
-      "created_at": 1787189352,
-      "num_comments": 200,
-      "hn_url": "https://news.ycombinator.com/item?id=49369408"
     },
     {
       "id": "49378630",
@@ -211,16 +61,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49377853"
     },
     {
-      "id": "49374797",
-      "title": "Bun 1.4",
-      "url": "https://bun.com/blog/bun-v1.4",
-      "points": 239,
-      "author": "meetpateltech",
-      "created_at": 1787235012,
-      "num_comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=49374797"
-    },
-    {
       "id": "49375996",
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
@@ -241,16 +81,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49376265"
     },
     {
-      "id": "49374738",
-      "title": "Stwipe Acquires OpenWouter",
-      "url": "https://stwipe.com/",
-      "points": 211,
-      "author": "eatonphil",
-      "created_at": 1787234686,
-      "num_comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=49374738"
-    },
-    {
       "id": "49379253",
       "title": "Stop eating Lady Gaga's Oreos",
       "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
@@ -269,16 +99,6 @@
       "created_at": 1787241057,
       "num_comments": 131,
       "hn_url": "https://news.ycombinator.com/item?id=49376332"
-    },
-    {
-      "id": "49374287",
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "points": 146,
-      "author": "gmays",
-      "created_at": 1787232272,
-      "num_comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49374287"
     },
     {
       "id": "49388154",
@@ -17709,7 +17529,207 @@
       "created_at": 1794842649,
       "num_comments": 256,
       "hn_url": "https://news.ycombinator.com/item?id=50518567"
+    },
+    {
+      "id": "50535230",
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "points": 1319,
+      "author": "jasondavies",
+      "created_at": 1794937603,
+      "num_comments": 823,
+      "hn_url": "https://news.ycombinator.com/item?id=50535230"
+    },
+    {
+      "id": "50530163",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "points": 1263,
+      "author": "donohoe",
+      "created_at": 1794915951,
+      "num_comments": 628,
+      "hn_url": "https://news.ycombinator.com/item?id=50530163"
+    },
+    {
+      "id": "50538240",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "points": 1068,
+      "author": "werrett",
+      "created_at": 1794949888,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=50538240"
+    },
+    {
+      "id": "50538994",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "points": 807,
+      "author": "subset",
+      "created_at": 1794953614,
+      "num_comments": 365,
+      "hn_url": "https://news.ycombinator.com/item?id=50538994"
+    },
+    {
+      "id": "50535238",
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "points": 703,
+      "author": "willy_k",
+      "created_at": 1794937634,
+      "num_comments": 393,
+      "hn_url": "https://news.ycombinator.com/item?id=50535238"
+    },
+    {
+      "id": "50532849",
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "points": 643,
+      "author": "monkeydust",
+      "created_at": 1794929908,
+      "num_comments": 718,
+      "hn_url": "https://news.ycombinator.com/item?id=50532849"
+    },
+    {
+      "id": "50534631",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "points": 629,
+      "author": "louiereederson",
+      "created_at": 1794935526,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=50534631"
+    },
+    {
+      "id": "50535992",
+      "title": "Phrack 73",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "points": 437,
+      "author": "notmine1337",
+      "created_at": 1794940285,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=50535992"
+    },
+    {
+      "id": "50532191",
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "points": 407,
+      "author": "Edward40",
+      "created_at": 1794927223,
+      "num_comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=50532191"
+    },
+    {
+      "id": "50539610",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "points": 394,
+      "author": "nvader",
+      "created_at": 1794957529,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=50539610"
+    },
+    {
+      "id": "50535885",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "points": 393,
+      "author": "lemonish97",
+      "created_at": 1794939913,
+      "num_comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=50535885"
+    },
+    {
+      "id": "50536813",
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "points": 375,
+      "author": "dxs",
+      "created_at": 1794943527,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=50536813"
+    },
+    {
+      "id": "50532086",
+      "title": "We don't need more apps, we need better open source",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "points": 351,
+      "author": "pandemicsoul",
+      "created_at": 1794926736,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=50532086"
+    },
+    {
+      "id": "50537156",
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "points": 351,
+      "author": "petecooper",
+      "created_at": 1794945040,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=50537156"
+    },
+    {
+      "id": "50536387",
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "points": 346,
+      "author": "pier25",
+      "created_at": 1794941777,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=50536387"
+    },
+    {
+      "id": "50533089",
+      "title": "NSA Internal Network Down",
+      "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+      "points": 334,
+      "author": "nodoodles",
+      "created_at": 1794930648,
+      "num_comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=50533089"
+    },
+    {
+      "id": "50529612",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "points": 288,
+      "author": "craigmart",
+      "created_at": 1794910840,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=50529612"
+    },
+    {
+      "id": "50525575",
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "points": 284,
+      "author": "mfiguiere",
+      "created_at": 1794874584,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=50525575"
+    },
+    {
+      "id": "50538303",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "points": 258,
+      "author": "judahmeek",
+      "created_at": 1794950172,
+      "num_comments": 348,
+      "hn_url": "https://news.ycombinator.com/item?id=50538303"
+    },
+    {
+      "id": "50526560",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "points": 248,
+      "author": "jshier",
+      "created_at": 1794881824,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=50526560"
     }
   ],
-  "last_updated": "2026-11-17T15:25:11.938818+00:00"
+  "last_updated": "2026-11-18T14:59:14.514191+00:00"
 }
