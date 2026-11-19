@@ -1,146 +1,6 @@
 {
   "posts": [
     {
-      "id": "49379550",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "points": 1358,
-      "author": "speckx",
-      "created_at": 1787256446,
-      "num_comments": 294,
-      "hn_url": "https://news.ycombinator.com/item?id=49379550"
-    },
-    {
-      "id": "49378957",
-      "title": "The August 17 outage",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "points": 444,
-      "author": "0xedb",
-      "created_at": 1787253744,
-      "num_comments": 511,
-      "hn_url": "https://news.ycombinator.com/item?id=49378957"
-    },
-    {
-      "id": "49378630",
-      "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
-      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-      "points": 325,
-      "author": "Akasci",
-      "created_at": 1787252072,
-      "num_comments": 114,
-      "hn_url": "https://news.ycombinator.com/item?id=49378630"
-    },
-    {
-      "id": "49378768",
-      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "points": 279,
-      "author": "danielvaughn",
-      "created_at": 1787252736,
-      "num_comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=49378768"
-    },
-    {
-      "id": "49378243",
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "points": 264,
-      "author": "gregsadetsky",
-      "created_at": 1787249991,
-      "num_comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=49378243"
-    },
-    {
-      "id": "49377853",
-      "title": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "points": 244,
-      "author": "tyre",
-      "created_at": 1787248202,
-      "num_comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=49377853"
-    },
-    {
-      "id": "49375996",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "points": 230,
-      "author": "Bluestein",
-      "created_at": 1787239562,
-      "num_comments": 232,
-      "hn_url": "https://news.ycombinator.com/item?id=49375996"
-    },
-    {
-      "id": "49376265",
-      "title": "Linux 7.2",
-      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "points": 228,
-      "author": "mariuz",
-      "created_at": 1787240778,
-      "num_comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=49376265"
-    },
-    {
-      "id": "49379253",
-      "title": "Stop eating Lady Gaga's Oreos",
-      "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
-      "points": 183,
-      "author": "cwal37",
-      "created_at": 1787255166,
-      "num_comments": 117,
-      "hn_url": "https://news.ycombinator.com/item?id=49379253"
-    },
-    {
-      "id": "49376332",
-      "title": "How to compromise your system with a job interview",
-      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "points": 149,
-      "author": "codedge",
-      "created_at": 1787241057,
-      "num_comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=49376332"
-    },
-    {
-      "id": "49388154",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "points": 1079,
-      "author": "speckx",
-      "created_at": 1787320597,
-      "num_comments": 356,
-      "hn_url": "https://news.ycombinator.com/item?id=49388154"
-    },
-    {
-      "id": "49385994",
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "points": 703,
-      "author": "darccio",
-      "created_at": 1787306746,
-      "num_comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=49385994"
-    },
-    {
-      "id": "49386895",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "points": 691,
-      "author": "floathub",
-      "created_at": 1787314213,
-      "num_comments": 835,
-      "hn_url": "https://news.ycombinator.com/item?id=49386895"
-    },
-    {
-      "id": "49387497",
-      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-      "points": 654,
-      "author": "throw7",
-      "created_at": 1787317471,
-      "num_comments": 369,
-      "hn_url": "https://news.ycombinator.com/item?id=49387497"
-    },
-    {
       "id": "49389430",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
@@ -151,26 +11,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49389430"
     },
     {
-      "id": "49383026",
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "points": 553,
-      "author": "Cider9986",
-      "created_at": 1787279867,
-      "num_comments": 852,
-      "hn_url": "https://news.ycombinator.com/item?id=49383026"
-    },
-    {
-      "id": "49387570",
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "points": 494,
-      "author": "gavide",
-      "created_at": 1787317888,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49387570"
-    },
-    {
       "id": "49390427",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
@@ -179,86 +19,6 @@
       "created_at": 1787329525,
       "num_comments": 168,
       "hn_url": "https://news.ycombinator.com/item?id=49390427"
-    },
-    {
-      "id": "49386163",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "points": 474,
-      "author": "dares2573",
-      "created_at": 1787308436,
-      "num_comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=49386163"
-    },
-    {
-      "id": "49384180",
-      "title": "Japan tried to build an operating system for the world, the US intervened",
-      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "points": 359,
-      "author": "rdmuser",
-      "created_at": 1787290294,
-      "num_comments": 204,
-      "hn_url": "https://news.ycombinator.com/item?id=49384180"
-    },
-    {
-      "id": "49386699",
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "points": 330,
-      "author": "rcymerys",
-      "created_at": 1787312885,
-      "num_comments": 337,
-      "hn_url": "https://news.ycombinator.com/item?id=49386699"
-    },
-    {
-      "id": "49384896",
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "points": 257,
-      "author": "spankibalt",
-      "created_at": 1787297007,
-      "num_comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=49384896"
-    },
-    {
-      "id": "49388752",
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "points": 241,
-      "author": "aakil",
-      "created_at": 1787322712,
-      "num_comments": 170,
-      "hn_url": "https://news.ycombinator.com/item?id=49388752"
-    },
-    {
-      "id": "49387525",
-      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "points": 228,
-      "author": "speckx",
-      "created_at": 1787317646,
-      "num_comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=49387525"
-    },
-    {
-      "id": "49385860",
-      "title": "Small, native web tricks worth remembering",
-      "url": "https://htmlcat.net/",
-      "points": 216,
-      "author": "marcomezzavilla",
-      "created_at": 1787305514,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49385860"
-    },
-    {
-      "id": "49382041",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "points": 186,
-      "author": "u1hcw9nx",
-      "created_at": 1787271312,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=49382041"
     },
     {
       "id": "49392200",
@@ -289,16 +49,6 @@
       "created_at": 1787325942,
       "num_comments": 9,
       "hn_url": "https://news.ycombinator.com/item?id=49389565"
-    },
-    {
-      "id": "49383326",
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "points": 146,
-      "author": "TheP1000",
-      "created_at": 1787282263,
-      "num_comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=49383326"
     },
     {
       "id": "49395628",
@@ -17729,7 +17479,207 @@
       "created_at": 1794881824,
       "num_comments": 128,
       "hn_url": "https://news.ycombinator.com/item?id=50526560"
+    },
+    {
+      "id": "50547374",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "points": 1462,
+      "author": "speedping",
+      "created_at": 1795015195,
+      "num_comments": 614,
+      "hn_url": "https://news.ycombinator.com/item?id=50547374"
+    },
+    {
+      "id": "50552424",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "points": 924,
+      "author": "yigitdemirag",
+      "created_at": 1795037647,
+      "num_comments": 722,
+      "hn_url": "https://news.ycombinator.com/item?id=50552424"
+    },
+    {
+      "id": "50542705",
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "points": 795,
+      "author": "grey-area",
+      "created_at": 1794984446,
+      "num_comments": 705,
+      "hn_url": "https://news.ycombinator.com/item?id=50542705"
+    },
+    {
+      "id": "50547620",
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "points": 744,
+      "author": "gyre007",
+      "created_at": 1795016313,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=50547620"
+    },
+    {
+      "id": "50554045",
+      "title": "We need smart people who give a shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "points": 707,
+      "author": "ExMachina73",
+      "created_at": 1795046029,
+      "num_comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=50554045"
+    },
+    {
+      "id": "50540178",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "points": 706,
+      "author": "slashdev",
+      "created_at": 1794961078,
+      "num_comments": 556,
+      "hn_url": "https://news.ycombinator.com/item?id=50540178"
+    },
+    {
+      "id": "50545958",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "points": 673,
+      "author": "ritzaco",
+      "created_at": 1795007882,
+      "num_comments": 275,
+      "hn_url": "https://news.ycombinator.com/item?id=50545958"
+    },
+    {
+      "id": "50548021",
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "points": 577,
+      "author": "gmays",
+      "created_at": 1795018104,
+      "num_comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=50548021"
+    },
+    {
+      "id": "50540437",
+      "title": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "points": 502,
+      "author": "DeepLogin",
+      "created_at": 1794963105,
+      "num_comments": 263,
+      "hn_url": "https://news.ycombinator.com/item?id=50540437"
+    },
+    {
+      "id": "50542135",
+      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "points": 502,
+      "author": "throwawaysleep",
+      "created_at": 1794978690,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=50542135"
+    },
+    {
+      "id": "50547777",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "points": 475,
+      "author": "Betelbuddy",
+      "created_at": 1795016974,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=50547777"
+    },
+    {
+      "id": "50547344",
+      "title": "Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine",
+      "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+      "points": 375,
+      "author": "ilamont",
+      "created_at": 1795015110,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=50547344"
+    },
+    {
+      "id": "50553843",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "points": 333,
+      "author": "surprisetalk",
+      "created_at": 1795044609,
+      "num_comments": 618,
+      "hn_url": "https://news.ycombinator.com/item?id=50553843"
+    },
+    {
+      "id": "50544261",
+      "title": "Codeberg.org Not Reachable",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "points": 314,
+      "author": "hans_castorp",
+      "created_at": 1794996137,
+      "num_comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=50544261"
+    },
+    {
+      "id": "50543989",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "points": 314,
+      "author": "frenchmajesty",
+      "created_at": 1794994172,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=50543989"
+    },
+    {
+      "id": "50554038",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "points": 306,
+      "author": "runesoerensen",
+      "created_at": 1795045970,
+      "num_comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=50554038"
+    },
+    {
+      "id": "50546914",
+      "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "points": 294,
+      "author": "DeepLogin",
+      "created_at": 1795013032,
+      "num_comments": 219,
+      "hn_url": "https://news.ycombinator.com/item?id=50546914"
+    },
+    {
+      "id": "50550415",
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "points": 280,
+      "author": "leumon",
+      "created_at": 1795027791,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=50550415"
+    },
+    {
+      "id": "50553225",
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "points": 278,
+      "author": "ioma8",
+      "created_at": 1795040953,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=50553225"
+    },
+    {
+      "id": "50541790",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "points": 271,
+      "author": "deenadz",
+      "created_at": 1794975244,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=50541790"
     }
   ],
-  "last_updated": "2026-11-18T14:59:14.514191+00:00"
+  "last_updated": "2026-11-19T15:07:44.800677+00:00"
 }
