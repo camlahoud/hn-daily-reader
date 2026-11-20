@@ -1,76 +1,6 @@
 {
   "posts": [
     {
-      "id": "49389430",
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "points": 616,
-      "author": "colinprince",
-      "created_at": 1787325424,
-      "num_comments": 256,
-      "hn_url": "https://news.ycombinator.com/item?id=49389430"
-    },
-    {
-      "id": "49390427",
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "points": 487,
-      "author": "thepoet",
-      "created_at": 1787329525,
-      "num_comments": 168,
-      "hn_url": "https://news.ycombinator.com/item?id=49390427"
-    },
-    {
-      "id": "49392200",
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "points": 178,
-      "author": "NKosmatos",
-      "created_at": 1787337394,
-      "num_comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49392200"
-    },
-    {
-      "id": "49390132",
-      "title": "Omacom Foundation launches with $8M",
-      "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-      "points": 165,
-      "author": "djfergus",
-      "created_at": 1787328227,
-      "num_comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=49390132"
-    },
-    {
-      "id": "49389565",
-      "title": "AI boosted homework scores, then exam scores dropped: Study",
-      "url": "https://canews24.online/?p=71",
-      "points": 165,
-      "author": "Edymilson",
-      "created_at": 1787325942,
-      "num_comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=49389565"
-    },
-    {
-      "id": "49395628",
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "points": 626,
-      "author": "Jach",
-      "created_at": 1787360777,
-      "num_comments": 481,
-      "hn_url": "https://news.ycombinator.com/item?id=49395628"
-    },
-    {
-      "id": "49397074",
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "points": 595,
-      "author": "tartoran",
-      "created_at": 1787379417,
-      "num_comments": 1376,
-      "hn_url": "https://news.ycombinator.com/item?id=49397074"
-    },
-    {
       "id": "49402189",
       "title": "Scrap (2006)",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
@@ -101,56 +31,6 @@
       "hn_url": "https://news.ycombinator.com/item?id=49402232"
     },
     {
-      "id": "49398152",
-      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "points": 273,
-      "author": "simonpure",
-      "created_at": 1787392154,
-      "num_comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=49398152"
-    },
-    {
-      "id": "49399898",
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "points": 217,
-      "author": "signa11",
-      "created_at": 1787407699,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=49399898"
-    },
-    {
-      "id": "49399524",
-      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "points": 211,
-      "author": "altmanaltman",
-      "created_at": 1787405046,
-      "num_comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=49399524"
-    },
-    {
-      "id": "49398904",
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "points": 209,
-      "author": "sbulaev",
-      "created_at": 1787400426,
-      "num_comments": 172,
-      "hn_url": "https://news.ycombinator.com/item?id=49398904"
-    },
-    {
-      "id": "49399591",
-      "title": "New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "points": 193,
-      "author": "pentagrama",
-      "created_at": 1787405494,
-      "num_comments": 129,
-      "hn_url": "https://news.ycombinator.com/item?id=49399591"
-    },
-    {
       "id": "49401549",
       "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
       "url": "https://twitter.com/argofowl/status/2091150597374537729",
@@ -169,26 +49,6 @@
       "created_at": 1787425481,
       "num_comments": 72,
       "hn_url": "https://news.ycombinator.com/item?id=49402741"
-    },
-    {
-      "id": "49395605",
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "points": 140,
-      "author": "Cider9986",
-      "created_at": 1787360529,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=49395605"
-    },
-    {
-      "id": "49398158",
-      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "points": 133,
-      "author": "asdefghyk",
-      "created_at": 1787392197,
-      "num_comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=49398158"
     },
     {
       "id": "49402202",
@@ -17679,7 +17539,207 @@
       "created_at": 1794975244,
       "num_comments": 139,
       "hn_url": "https://news.ycombinator.com/item?id=50541790"
+    },
+    {
+      "id": "50562754",
+      "title": "Anthropic\u2019s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "points": 1106,
+      "author": "wslh",
+      "created_at": 1795107760,
+      "num_comments": 2217,
+      "hn_url": "https://news.ycombinator.com/item?id=50562754"
+    },
+    {
+      "id": "50563066",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "points": 833,
+      "author": "cybermango",
+      "created_at": 1795109133,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=50563066"
+    },
+    {
+      "id": "50558533",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "points": 706,
+      "author": "liotier",
+      "created_at": 1795085909,
+      "num_comments": 359,
+      "hn_url": "https://news.ycombinator.com/item?id=50558533"
+    },
+    {
+      "id": "50562113",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "points": 671,
+      "author": "Terretta",
+      "created_at": 1795105263,
+      "num_comments": 326,
+      "hn_url": "https://news.ycombinator.com/item?id=50562113"
+    },
+    {
+      "id": "50562262",
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "points": 573,
+      "author": "speckx",
+      "created_at": 1795105818,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=50562262"
+    },
+    {
+      "id": "50563148",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "points": 519,
+      "author": "cybermango",
+      "created_at": 1795109444,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=50563148"
+    },
+    {
+      "id": "50558906",
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "points": 446,
+      "author": "notmine1337",
+      "created_at": 1795088823,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=50558906"
+    },
+    {
+      "id": "50560822",
+      "title": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org/",
+      "points": 408,
+      "author": "tejohnso",
+      "created_at": 1795099638,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=50560822"
+    },
+    {
+      "id": "50556533",
+      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "points": 402,
+      "author": "fessguid",
+      "created_at": 1795067796,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=50556533"
+    },
+    {
+      "id": "50556287",
+      "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "points": 401,
+      "author": "jdns",
+      "created_at": 1795064951,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=50556287"
+    },
+    {
+      "id": "50568130",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "points": 356,
+      "author": "hn-aarvin",
+      "created_at": 1795131335,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=50568130"
+    },
+    {
+      "id": "50564159",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "points": 319,
+      "author": "dev1one1",
+      "created_at": 1795113317,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=50564159"
+    },
+    {
+      "id": "50557716",
+      "title": "SSD prices may begin to decline in the latter half of 2027",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "points": 315,
+      "author": "illidan1000",
+      "created_at": 1795079134,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=50557716"
+    },
+    {
+      "id": "50559719",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "points": 313,
+      "author": "krthr",
+      "created_at": 1795094291,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=50559719"
+    },
+    {
+      "id": "50557661",
+      "title": "Do not buy RAM, compress",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "points": 312,
+      "author": "Ecno92",
+      "created_at": 1795078607,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=50557661"
+    },
+    {
+      "id": "50557870",
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "points": 292,
+      "author": "netol",
+      "created_at": 1795080435,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=50557870"
+    },
+    {
+      "id": "50557537",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "points": 282,
+      "author": "ghostfoxgod",
+      "created_at": 1795077585,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=50557537"
+    },
+    {
+      "id": "50561508",
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "points": 264,
+      "author": "datascientist",
+      "created_at": 1795102692,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=50561508"
+    },
+    {
+      "id": "50554374",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "points": 255,
+      "author": "seizethecheese",
+      "created_at": 1795048185,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=50554374"
+    },
+    {
+      "id": "50561515",
+      "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "points": 231,
+      "author": "cornholemedia",
+      "created_at": 1795102712,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=50561515"
     }
   ],
-  "last_updated": "2026-11-19T15:07:44.800677+00:00"
+  "last_updated": "2026-11-20T14:48:18.856536+00:00"
 }
