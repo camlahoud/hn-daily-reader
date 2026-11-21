@@ -1,156 +1,6 @@
 {
   "posts": [
     {
-      "id": "49402189",
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "points": 364,
-      "author": "tosh",
-      "created_at": 1787422136,
-      "num_comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=49402189"
-    },
-    {
-      "id": "49400408",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "points": 363,
-      "author": "jemoka",
-      "created_at": 1787410447,
-      "num_comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=49400408"
-    },
-    {
-      "id": "49402232",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "points": 276,
-      "author": "felineflock",
-      "created_at": 1787422456,
-      "num_comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=49402232"
-    },
-    {
-      "id": "49401549",
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "points": 181,
-      "author": "matthieu_bl",
-      "created_at": 1787417929,
-      "num_comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=49401549"
-    },
-    {
-      "id": "49402741",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "points": 179,
-      "author": "zdw",
-      "created_at": 1787425481,
-      "num_comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=49402741"
-    },
-    {
-      "id": "49402202",
-      "title": "Thinking in Python",
-      "url": "https://thinkinginpython.com/",
-      "points": 126,
-      "author": "pjacotg",
-      "created_at": 1787422249,
-      "num_comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=49402202"
-    },
-    {
-      "id": "49402781",
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "points": 111,
-      "author": "gnyeki",
-      "created_at": 1787425666,
-      "num_comments": 28,
-      "hn_url": "https://news.ycombinator.com/item?id=49402781"
-    },
-    {
-      "id": "49401621",
-      "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
-      "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
-      "points": 103,
-      "author": "MilnerRoute",
-      "created_at": 1787418567,
-      "num_comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=49401621"
-    },
-    {
-      "id": "49405870",
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "points": 316,
-      "author": "andsoitis",
-      "created_at": 1787455945,
-      "num_comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=49405870"
-    },
-    {
-      "id": "49407507",
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "points": 159,
-      "author": "raybb",
-      "created_at": 1787479371,
-      "num_comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=49407507"
-    },
-    {
-      "id": "49406539",
-      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-      "points": 155,
-      "author": "taubek",
-      "created_at": 1787467311,
-      "num_comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=49406539"
-    },
-    {
-      "id": "49405816",
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "points": 154,
-      "author": "boilerupnc",
-      "created_at": 1787454796,
-      "num_comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49405816"
-    },
-    {
-      "id": "49406333",
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "points": 143,
-      "author": "userbinator",
-      "created_at": 1787464261,
-      "num_comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=49406333"
-    },
-    {
-      "id": "49405331",
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "points": 136,
-      "author": "cocacola1",
-      "created_at": 1787446563,
-      "num_comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=49405331"
-    },
-    {
-      "id": "49406387",
-      "title": "JIT Compiling Code in 5\u03bcs",
-      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "points": 123,
-      "author": "zX41ZdbW",
-      "created_at": 1787465091,
-      "num_comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=49406387"
-    },
-    {
       "id": "49419237",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
@@ -17739,7 +17589,207 @@
       "created_at": 1795102712,
       "num_comments": 109,
       "hn_url": "https://news.ycombinator.com/item?id=50561515"
+    },
+    {
+      "id": "50574968",
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "points": 2736,
+      "author": "iamronaldo",
+      "created_at": 1795184181,
+      "num_comments": 1918,
+      "hn_url": "https://news.ycombinator.com/item?id=50574968"
+    },
+    {
+      "id": "50579568",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "points": 2230,
+      "author": "jasondavies",
+      "created_at": 1795199594,
+      "num_comments": 1053,
+      "hn_url": "https://news.ycombinator.com/item?id=50579568"
+    },
+    {
+      "id": "50581260",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "points": 1125,
+      "author": "jasondavies",
+      "created_at": 1795205539,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=50581260"
+    },
+    {
+      "id": "50576855",
+      "title": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "points": 802,
+      "author": "unchar1",
+      "created_at": 1795190790,
+      "num_comments": 595,
+      "hn_url": "https://news.ycombinator.com/item?id=50576855"
+    },
+    {
+      "id": "50572355",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "points": 670,
+      "author": "sammatilda",
+      "created_at": 1795167799,
+      "num_comments": 311,
+      "hn_url": "https://news.ycombinator.com/item?id=50572355"
+    },
+    {
+      "id": "50572503",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "points": 652,
+      "author": "shioyama",
+      "created_at": 1795168901,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=50572503"
+    },
+    {
+      "id": "50572348",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "points": 557,
+      "author": "dotcoma",
+      "created_at": 1795167736,
+      "num_comments": 327,
+      "hn_url": "https://news.ycombinator.com/item?id=50572348"
+    },
+    {
+      "id": "50572116",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "points": 535,
+      "author": "sammatilda",
+      "created_at": 1795165989,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=50572116"
+    },
+    {
+      "id": "50570479",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "points": 499,
+      "author": "mraniki",
+      "created_at": 1795152062,
+      "num_comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=50570479"
+    },
+    {
+      "id": "50579331",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "points": 493,
+      "author": "QueensGambit",
+      "created_at": 1795198671,
+      "num_comments": 272,
+      "hn_url": "https://news.ycombinator.com/item?id=50579331"
+    },
+    {
+      "id": "50578358",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "points": 478,
+      "author": "archon1410",
+      "created_at": 1795195296,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=50578358"
+    },
+    {
+      "id": "50577265",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "points": 437,
+      "author": "lwhsiao",
+      "created_at": 1795192146,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=50577265"
+    },
+    {
+      "id": "50571189",
+      "title": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "points": 420,
+      "author": "BrunoBernardino",
+      "created_at": 1795158801,
+      "num_comments": 409,
+      "hn_url": "https://news.ycombinator.com/item?id=50571189"
+    },
+    {
+      "id": "50569890",
+      "title": "PostgreSQL 19",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "points": 388,
+      "author": "linzhangrun",
+      "created_at": 1795146345,
+      "num_comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=50569890"
+    },
+    {
+      "id": "50574383",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "points": 381,
+      "author": "cdrnsf",
+      "created_at": 1795181399,
+      "num_comments": 688,
+      "hn_url": "https://news.ycombinator.com/item?id=50574383"
+    },
+    {
+      "id": "50569226",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "points": 367,
+      "author": "JacobHenner",
+      "created_at": 1795140069,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=50569226"
+    },
+    {
+      "id": "50575644",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "points": 362,
+      "author": "lapcat",
+      "created_at": 1795187011,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=50575644"
+    },
+    {
+      "id": "50573886",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "points": 362,
+      "author": "theanonymousone",
+      "created_at": 1795178498,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=50573886"
+    },
+    {
+      "id": "50576012",
+      "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "points": 353,
+      "author": "mlacher",
+      "created_at": 1795188251,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=50576012"
+    },
+    {
+      "id": "50581084",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "points": 313,
+      "author": "stratos123",
+      "created_at": 1795204987,
+      "num_comments": 279,
+      "hn_url": "https://news.ycombinator.com/item?id=50581084"
     }
   ],
-  "last_updated": "2026-11-20T14:48:18.856536+00:00"
+  "last_updated": "2026-11-21T14:04:58.931658+00:00"
 }
